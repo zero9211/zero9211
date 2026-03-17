@@ -39,11 +39,22 @@
 <details open>
 <summary><h2>🐦 X (Twitter) 今日热议 Top 10</h2></summary>
 
-> ⚠️ 暂时无法获取 X 热门数据，稍后重试
+| # | 热门话题 | 讨论量 |
+|:---:|:---|---:|
+| 🥇 | [St. Patrick](https://twitter.com/search?q=St.%20Patrick) | — |
+| 🥈 | [#ImTheLuckyOne](https://twitter.com/search?q=%23ImTheLuckyOne) | — |
+| 🥉 | [Ali Larijani](https://twitter.com/search?q=Ali%20Larijani) | — |
+| 4️⃣ | [#LuckOfTheIrish](https://twitter.com/search?q=%23LuckOfTheIrish) | — |
+| 5️⃣ | [Good Tuesday](https://twitter.com/search?q=Good%20Tuesday) | — |
+| 6️⃣ | [Ireland](https://twitter.com/search?q=Ireland) | — |
+| 7️⃣ | [#DelcyEsEsperanza](https://twitter.com/search?q=%23DelcyEsEsperanza) | — |
+| 8️⃣ | [#CTWSummerXJimmySea](https://twitter.com/search?q=%23CTWSummerXJimmySea) | — |
+| 9️⃣ | [JS START SUMMER AT CTW](https://twitter.com/search?q=JS%20START%20SUMMER%20AT%20CTW) | — |
+| 🔟 | [Peter Parker](https://twitter.com/search?q=Peter%20Parker) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-03-17 21:43 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-03-17 22:15 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -54,7 +65,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-03-17 21:43 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-03-17 22:15 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -63,16 +74,16 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [obra/superpowers](https://github.com/obra/superpowers) | 90783 | `Shell` | An agentic skills framework & software development methodology that work… |
-| 🥈 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 479039 | `Markdown` | Master programming by recreating your favorite technologies from scratch… |
-| 🥉 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 16260 | `TypeScript` | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a clien… |
-| 4️⃣ | [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | 13602 | `Python` | Agent harness built with LangChain and LangGraph. Equipped with a planni… |
-| 5️⃣ | [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | 5210 | `JavaScript` | A Claude Code plugin that shows what's happening - context usage, active… |
-| 6️⃣ | [cloudflare/workerd](https://github.com/cloudflare/workerd) | 7662 | `C++` | The JavaScript / Wasm runtime that powers Cloudflare Workers |
+| 🥇 | [obra/superpowers](https://github.com/obra/superpowers) | 90898 | `Shell` | An agentic skills framework & software development methodology that work… |
+| 🥈 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 479110 | `Markdown` | Master programming by recreating your favorite technologies from scratch… |
+| 🥉 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 16301 | `TypeScript` | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a clien… |
+| 4️⃣ | [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | 13627 | `Python` | Agent harness built with LangChain and LangGraph. Equipped with a planni… |
+| 5️⃣ | [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | 5237 | `JavaScript` | A Claude Code plugin that shows what's happening - context usage, active… |
+| 6️⃣ | [cloudflare/workerd](https://github.com/cloudflare/workerd) | 7670 | `C++` | The JavaScript / Wasm runtime that powers Cloudflare Workers |
 
 </details>
 
-<sub>🕐 更新于 2026-03-17 21:43 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-03-17 22:15 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
