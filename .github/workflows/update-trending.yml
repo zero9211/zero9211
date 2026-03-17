@@ -1,0 +1,41 @@
+name: 🔄 Daily Trending Update
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # 每天 UTC 00:00 = 北京时间 08:00
+  workflow_dispatch:       # 允许手动触发
+
+permissions:
+  contents: write
+
+jobs:
+  update-trending:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 🐍 Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: 📦 Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: 🔄 Update README with trending data
+        run: python scripts/update_readme.py README.md
+
+      - name: 📝 Commit & push if changed
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git diff --staged --quiet && echo "No changes." || (
+            git commit -m "🔄 Daily trending update $(date +'%Y-%m-%d')" &&
+            git push
+          )
