@@ -33,6 +33,22 @@
   <img src="https://github-profile-trophy.vercel.app/?username=zero9211&theme=gitdimmed&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%"/>
 </div>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zero9211/zero9211/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zero9211/zero9211/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/zero9211/zero9211/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+## 📊 3D Contribution Graph
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Graph"/>
+</div>
+
 ---
 
 <!-- TRENDING-X-START -->
@@ -87,6 +103,8 @@
 <!-- TRENDING-GITHUB-END -->
 
 ---
+
+## 📈 Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zero9211&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true" width="100%"/>
