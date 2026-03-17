@@ -73,11 +73,14 @@ def fetch_substack_trending():
         )
         resp.raise_for_status()
         raw = resp.json()
-        # API returns {"posts": [...], "publications": [...], "trendingPosts": [...]}
+        # API returns {"posts": [...], "trendingPosts": [...(IDs only)]}
+        # Actual post data is in the "posts" key
         if isinstance(raw, list):
             items = raw
+        elif "posts" in raw and isinstance(raw["posts"], list):
+            items = raw["posts"]
         else:
-            items = raw.get("trendingPosts", raw.get("results", raw.get("items", [])))
+            items = raw.get("results", raw.get("items", []))
         posts = []
         for item in items[:10]:
             bylines = item.get("publishedBylines") or []
