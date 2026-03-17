@@ -54,7 +54,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-03-17 22:15 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-03-17 22:20 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -65,7 +65,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-03-17 22:15 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-03-17 22:20 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -74,16 +74,16 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [obra/superpowers](https://github.com/obra/superpowers) | 90898 | `Shell` | An agentic skills framework & software development methodology that work… |
-| 🥈 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 479110 | `Markdown` | Master programming by recreating your favorite technologies from scratch… |
-| 🥉 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 16301 | `TypeScript` | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a clien… |
-| 4️⃣ | [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | 13627 | `Python` | Agent harness built with LangChain and LangGraph. Equipped with a planni… |
-| 5️⃣ | [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | 5237 | `JavaScript` | A Claude Code plugin that shows what's happening - context usage, active… |
-| 6️⃣ | [cloudflare/workerd](https://github.com/cloudflare/workerd) | 7670 | `C++` | The JavaScript / Wasm runtime that powers Cloudflare Workers |
+| 🥇 | [obra/superpowers](https://github.com/obra/superpowers) | 90911 | `Shell` | An agentic skills framework & software development methodology that work… |
+| 🥈 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 479116 | `Markdown` | Master programming by recreating your favorite technologies from scratch… |
+| 🥉 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 16308 | `TypeScript` | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a clien… |
+| 4️⃣ | [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | 13632 | `Python` | Agent harness built with LangChain and LangGraph. Equipped with a planni… |
+| 5️⃣ | [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | 5245 | `JavaScript` | A Claude Code plugin that shows what's happening - context usage, active… |
+| 6️⃣ | [cloudflare/workerd](https://github.com/cloudflare/workerd) | 7671 | `C++` | The JavaScript / Wasm runtime that powers Cloudflare Workers |
 
 </details>
 
-<sub>🕐 更新于 2026-03-17 22:15 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-03-17 22:20 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
