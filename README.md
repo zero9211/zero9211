@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#WWENXT](https://twitter.com/search?q=%23WWENXT) | — |
-| 🥈 | [McLean](https://twitter.com/search?q=McLean) | — |
-| 🥉 | [Howard](https://twitter.com/search?q=Howard) | — |
-| 4️⃣ | [Senegal](https://twitter.com/search?q=Senegal) | — |
-| 5️⃣ | [AFCON](https://twitter.com/search?q=AFCON) | — |
-| 6️⃣ | [Morocco](https://twitter.com/search?q=Morocco) | — |
-| 7️⃣ | [#doordashfairy](https://twitter.com/search?q=%23doordashfairy) | — |
-| 8️⃣ | [Joe Kent](https://twitter.com/search?q=Joe%20Kent) | — |
-| 9️⃣ | [UMBC](https://twitter.com/search?q=UMBC) | — |
-| 🔟 | [St. Patrick](https://twitter.com/search?q=St.%20Patrick) | — |
+| 🥇 | [#AEWDynamite](https://twitter.com/search?q=%23AEWDynamite) | — |
+| 🥈 | [#Survivor](https://twitter.com/search?q=%23Survivor) | — |
+| 🥉 | [Afroman](https://twitter.com/search?q=Afroman) | — |
+| 4️⃣ | [Genevieve](https://twitter.com/search?q=Genevieve) | — |
+| 5️⃣ | [Rand Paul](https://twitter.com/search?q=Rand%20Paul) | — |
+| 6️⃣ | [#RHOM](https://twitter.com/search?q=%23RHOM) | — |
+| 7️⃣ | [Cesar Chavez](https://twitter.com/search?q=Cesar%20Chavez) | — |
+| 8️⃣ | [Lehigh](https://twitter.com/search?q=Lehigh) | — |
+| 9️⃣ | [#TheMaskedSinger](https://twitter.com/search?q=%23TheMaskedSinger) | — |
+| 🔟 | [Ospreay](https://twitter.com/search?q=Ospreay) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-03-18 09:16 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-03-19 09:16 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-03-18 09:16 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-03-19 09:16 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,16 +90,16 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [obra/superpowers](https://github.com/obra/superpowers) | 92422 | `Shell` | An agentic skills framework & software development methodology that work… |
-| 🥈 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 479835 | `Markdown` | Master programming by recreating your favorite technologies from scratch… |
-| 🥉 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 16735 | `TypeScript` | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a clien… |
-| 4️⃣ | [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | 14157 | `Python` | Agent harness built with LangChain and LangGraph. Equipped with a planni… |
-| 5️⃣ | [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | 5632 | `JavaScript` | A Claude Code plugin that shows what's happening - context usage, active… |
-| 6️⃣ | [cloudflare/workerd](https://github.com/cloudflare/workerd) | 7833 | `C++` | The JavaScript / Wasm runtime that powers Cloudflare Workers |
+| 🥇 | [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | 7033 | `JavaScript` | A Claude Code plugin that shows what's happening - context usage, active… |
+| 🥈 | [obra/superpowers](https://github.com/obra/superpowers) | 96235 | `Shell` | An agentic skills framework & software development methodology that work… |
+| 🥉 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 55832 | `Python` | Unified web UI for training and running open models like Qwen, DeepSeek,… |
+| 4️⃣ | [newton-physics/newton](https://github.com/newton-physics/newton) | 2918 | `Python` | An open-source, GPU-accelerated physics simulation engine built upon NVI… |
+| 5️⃣ | [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) | 29869 | `C++` | PlayStation 4 emulator for Windows, Linux and macOS written in C++ |
+| 6️⃣ | [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) | 6362 | `Python` | An Open-Source Asynchronous Coding Agent |
 
 </details>
 
-<sub>🕐 更新于 2026-03-18 09:16 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-03-19 09:16 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
