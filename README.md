@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Duke](https://twitter.com/search?q=Duke) | — |
-| 🥈 | [Siena](https://twitter.com/search?q=Siena) | — |
-| 🥉 | [High Point](https://twitter.com/search?q=High%20Point) | — |
-| 4️⃣ | [Wisconsin](https://twitter.com/search?q=Wisconsin) | — |
-| 5️⃣ | [Pearl Harbor](https://twitter.com/search?q=Pearl%20Harbor) | — |
-| 6️⃣ | [#Chibi](https://twitter.com/search?q=%23Chibi) | — |
-| 7️⃣ | [#MarchMadness](https://twitter.com/search?q=%23MarchMadness) | — |
-| 8️⃣ | [Bernie](https://twitter.com/search?q=Bernie) | — |
-| 9️⃣ | [Marlo](https://twitter.com/search?q=Marlo) | — |
-| 🔟 | [Eid Mubarak](https://twitter.com/search?q=Eid%20Mubarak) | — |
+| 🥇 | [#tadc](https://twitter.com/search?q=%23tadc) | — |
+| 🥈 | [Caine](https://twitter.com/search?q=Caine) | — |
+| 🥉 | [#theamazingdigitalcirus](https://twitter.com/search?q=%23theamazingdigitalcirus) | — |
+| 4️⃣ | [Chuck Norris](https://twitter.com/search?q=Chuck%20Norris) | — |
+| 5️⃣ | [Utah State](https://twitter.com/search?q=Utah%20State) | — |
+| 6️⃣ | [Villanova](https://twitter.com/search?q=Villanova) | — |
+| 7️⃣ | [Amad](https://twitter.com/search?q=Amad) | — |
+| 8️⃣ | [Kevin Willard](https://twitter.com/search?q=Kevin%20Willard) | — |
+| 9️⃣ | [Santa Clara](https://twitter.com/search?q=Santa%20Clara) | — |
+| 🔟 | [Kentucky](https://twitter.com/search?q=Kentucky) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-03-20 09:11 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-03-21 09:07 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-03-20 09:11 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-03-21 09:07 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,19 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 5654 | `Java` | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
-| 🥈 | [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) | 7037 | `Python` | An Open-Source Asynchronous Coding Agent |
-| 🥉 | [obra/superpowers](https://github.com/obra/superpowers) | 99222 | `Shell` | An agentic skills framework & software development methodology that work… |
-| 4️⃣ | [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | 8514 | `JavaScript` | A Claude Code plugin that shows what's happening - context usage, active… |
-| 5️⃣ | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 56707 | `Python` | Unified web UI for training and running open models like Qwen, DeepSeek,… |
-| 6️⃣ | [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) | 12442 | `Kotlin` | Painless E2E Automation for Mobile and Web |
-| 7️⃣ | [newton-physics/newton](https://github.com/newton-physics/newton) | 3230 | `Python` | An open-source, GPU-accelerated physics simulation engine built upon NVI… |
-| 8️⃣ | [louis-e/arnis](https://github.com/louis-e/arnis) | 10770 | `Rust` | Generate any location from the real world in Minecraft with a high level… |
-| 9️⃣ | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 16072 | `Python` | Automate the process of making money online. |
-| 🔟 | [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) | 36118 | `JavaScript` | A light-weight and powerful meta-prompting, context engineering and spec… |
+| 🥇 | [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | 9537 | `JavaScript` | A Claude Code plugin that shows what's happening - context usage, active… |
+| 🥈 | [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) | 7643 | `Python` | An Open-Source Asynchronous Coding Agent |
+| 🥉 | [obra/superpowers](https://github.com/obra/superpowers) | 101547 | `Shell` | An agentic skills framework & software development methodology that work… |
+| 4️⃣ | [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 7056 | `Java` | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
+| 5️⃣ | [louis-e/arnis](https://github.com/louis-e/arnis) | 11588 | `Rust` | Generate any location from the real world in Minecraft with a high level… |
+| 6️⃣ | [newton-physics/newton](https://github.com/newton-physics/newton) | 3471 | `Python` | An open-source, GPU-accelerated physics simulation engine built upon NVI… |
+| 7️⃣ | [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) | 1934 | `TypeScript` | Self-hosted AI accounting app. LLM analyzer for receipts, invoices, tran… |
+| 8️⃣ | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 34110 | `Python` | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| 9️⃣ | [openrocket/openrocket](https://github.com/openrocket/openrocket) | 2212 | `Java` | Model-rocketry aerodynamics and trajectory simulation software |
 
 </details>
 
-<sub>🕐 更新于 2026-03-20 09:11 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-03-21 09:07 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
