@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#tadc](https://twitter.com/search?q=%23tadc) | — |
-| 🥈 | [Caine](https://twitter.com/search?q=Caine) | — |
-| 🥉 | [#theamazingdigitalcirus](https://twitter.com/search?q=%23theamazingdigitalcirus) | — |
-| 4️⃣ | [Chuck Norris](https://twitter.com/search?q=Chuck%20Norris) | — |
-| 5️⃣ | [Utah State](https://twitter.com/search?q=Utah%20State) | — |
-| 6️⃣ | [Villanova](https://twitter.com/search?q=Villanova) | — |
-| 7️⃣ | [Amad](https://twitter.com/search?q=Amad) | — |
-| 8️⃣ | [Kevin Willard](https://twitter.com/search?q=Kevin%20Willard) | — |
-| 9️⃣ | [Santa Clara](https://twitter.com/search?q=Santa%20Clara) | — |
-| 🔟 | [Kentucky](https://twitter.com/search?q=Kentucky) | — |
+| 🥇 | [Mueller](https://twitter.com/search?q=Mueller) | — |
+| 🥈 | [chappell](https://twitter.com/search?q=chappell) | — |
+| 🥉 | [#UFCLondon](https://twitter.com/search?q=%23UFCLondon) | — |
+| 4️⃣ | [Duke](https://twitter.com/search?q=Duke) | — |
+| 5️⃣ | [Murphy](https://twitter.com/search?q=Murphy) | — |
+| 6️⃣ | [Movsar](https://twitter.com/search?q=Movsar) | — |
+| 7️⃣ | [#OGCHIBI](https://twitter.com/search?q=%23OGCHIBI) | — |
+| 8️⃣ | [Charlie Kirk](https://twitter.com/search?q=Charlie%20Kirk) | — |
+| 9️⃣ | [Brit](https://twitter.com/search?q=Brit) | — |
+| 🔟 | [#MostRequestedLive](https://twitter.com/search?q=%23MostRequestedLive) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-03-21 09:07 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-03-22 09:15 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-03-21 09:07 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-03-22 09:15 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,19 +90,19 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | 9537 | `JavaScript` | A Claude Code plugin that shows what's happening - context usage, active… |
-| 🥈 | [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) | 7643 | `Python` | An Open-Source Asynchronous Coding Agent |
-| 🥉 | [obra/superpowers](https://github.com/obra/superpowers) | 101547 | `Shell` | An agentic skills framework & software development methodology that work… |
-| 4️⃣ | [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 7056 | `Java` | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
-| 5️⃣ | [louis-e/arnis](https://github.com/louis-e/arnis) | 11588 | `Rust` | Generate any location from the real world in Minecraft with a high level… |
-| 6️⃣ | [newton-physics/newton](https://github.com/newton-physics/newton) | 3471 | `Python` | An open-source, GPU-accelerated physics simulation engine built upon NVI… |
-| 7️⃣ | [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) | 1934 | `TypeScript` | Self-hosted AI accounting app. LLM analyzer for receipts, invoices, tran… |
-| 8️⃣ | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 34110 | `Python` | TradingAgents: Multi-Agents LLM Financial Trading Framework |
-| 9️⃣ | [openrocket/openrocket](https://github.com/openrocket/openrocket) | 2212 | `Java` | Model-rocketry aerodynamics and trajectory simulation software |
+| 🥇 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 17770 | `Python` | Automate the process of making money online. |
+| 🥈 | [systemd/systemd](https://github.com/systemd/systemd) | 15725 | `C` | The systemd System and Service Manager |
+| 🥉 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 33379 | `Go` | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Ku… |
+| 4️⃣ | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 6758 | `TypeScript` | Project N.O.M.A.D, is a self-contained, offline survival computer packed… |
+| 5️⃣ | [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 7892 | `Java` | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
+| 6️⃣ | [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | 10443 | `JavaScript` | A Claude Code plugin that shows what's happening - context usage, active… |
+| 7️⃣ | [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 70947 | `C++` | Protocol Buffers - Google's data interchange format |
+| 8️⃣ | [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) | 3510 | `Python` | A framework for efficient model inference with omni-modality models |
+| 9️⃣ | [louis-e/arnis](https://github.com/louis-e/arnis) | 12224 | `Rust` | Generate any location from the real world in Minecraft with a high level… |
 
 </details>
 
-<sub>🕐 更新于 2026-03-21 09:07 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-03-22 09:15 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
