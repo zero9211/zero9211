@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Mueller](https://twitter.com/search?q=Mueller) | — |
-| 🥈 | [chappell](https://twitter.com/search?q=chappell) | — |
-| 🥉 | [#UFCLondon](https://twitter.com/search?q=%23UFCLondon) | — |
-| 4️⃣ | [Duke](https://twitter.com/search?q=Duke) | — |
-| 5️⃣ | [Murphy](https://twitter.com/search?q=Murphy) | — |
-| 6️⃣ | [Movsar](https://twitter.com/search?q=Movsar) | — |
-| 7️⃣ | [#OGCHIBI](https://twitter.com/search?q=%23OGCHIBI) | — |
-| 8️⃣ | [Charlie Kirk](https://twitter.com/search?q=Charlie%20Kirk) | — |
-| 9️⃣ | [Brit](https://twitter.com/search?q=Brit) | — |
-| 🔟 | [#MostRequestedLive](https://twitter.com/search?q=%23MostRequestedLive) | — |
+| 🥇 | [St. John](https://twitter.com/search?q=St.%20John) | — |
+| 🥈 | [Bill Self](https://twitter.com/search?q=Bill%20Self) | — |
+| 🥉 | [Dylan Darling](https://twitter.com/search?q=Dylan%20Darling) | — |
+| 4️⃣ | [Iowa](https://twitter.com/search?q=Iowa) | — |
+| 5️⃣ | [Rick Pitino](https://twitter.com/search?q=Rick%20Pitino) | — |
+| 6️⃣ | [Virginia](https://twitter.com/search?q=Virginia) | — |
+| 7️⃣ | [Tennessee](https://twitter.com/search?q=Tennessee) | — |
+| 8️⃣ | [Todd Golden](https://twitter.com/search?q=Todd%20Golden) | — |
+| 9️⃣ | [Elmarko](https://twitter.com/search?q=Elmarko) | — |
+| 🔟 | [Darryn Peterson](https://twitter.com/search?q=Darryn%20Peterson) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-03-22 09:15 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-03-23 09:16 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-03-22 09:15 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-03-23 09:16 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,19 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 17770 | `Python` | Automate the process of making money online. |
-| 🥈 | [systemd/systemd](https://github.com/systemd/systemd) | 15725 | `C` | The systemd System and Service Manager |
-| 🥉 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 33379 | `Go` | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Ku… |
-| 4️⃣ | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 6758 | `TypeScript` | Project N.O.M.A.D, is a self-contained, offline survival computer packed… |
-| 5️⃣ | [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 7892 | `Java` | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
-| 6️⃣ | [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | 10443 | `JavaScript` | A Claude Code plugin that shows what's happening - context usage, active… |
-| 7️⃣ | [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 70947 | `C++` | Protocol Buffers - Google's data interchange format |
-| 8️⃣ | [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) | 3510 | `Python` | A framework for efficient model inference with omni-modality models |
-| 9️⃣ | [louis-e/arnis](https://github.com/louis-e/arnis) | 12224 | `Rust` | Generate any location from the real world in Minecraft with a high level… |
+| 🥇 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 19798 | `Python` | Automate the process of making money online. |
+| 🥈 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 37239 | `Python` | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| 🥉 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 12035 | `Go` | Fully autonomous AI Agents system capable of performing complex penetrat… |
+| 4️⃣ | [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) | 4752 | `Python` | — |
+| 5️⃣ | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 98112 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, me… |
+| 6️⃣ | [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | 11194 | `JavaScript` | A Claude Code plugin that shows what's happening - context usage, active… |
+| 7️⃣ | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 10122 | `TypeScript` | Project N.O.M.A.D, is a self-contained, offline survival computer packed… |
+| 8️⃣ | [systemd/systemd](https://github.com/systemd/systemd) | 15995 | `C` | The systemd System and Service Manager |
+| 9️⃣ | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 82579 | `Python` | 🌐 Make websites accessible for AI agents. Automate tasks online with eas… |
+| 🔟 | [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | 30045 | `Python` | [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation" |
 
 </details>
 
-<sub>🕐 更新于 2026-03-22 09:15 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-03-23 09:16 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
