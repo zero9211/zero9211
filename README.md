@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [St. John](https://twitter.com/search?q=St.%20John) | — |
-| 🥈 | [Bill Self](https://twitter.com/search?q=Bill%20Self) | — |
-| 🥉 | [Dylan Darling](https://twitter.com/search?q=Dylan%20Darling) | — |
-| 4️⃣ | [Iowa](https://twitter.com/search?q=Iowa) | — |
-| 5️⃣ | [Rick Pitino](https://twitter.com/search?q=Rick%20Pitino) | — |
-| 6️⃣ | [Virginia](https://twitter.com/search?q=Virginia) | — |
-| 7️⃣ | [Tennessee](https://twitter.com/search?q=Tennessee) | — |
-| 8️⃣ | [Todd Golden](https://twitter.com/search?q=Todd%20Golden) | — |
-| 9️⃣ | [Elmarko](https://twitter.com/search?q=Elmarko) | — |
-| 🔟 | [Darryn Peterson](https://twitter.com/search?q=Darryn%20Peterson) | — |
+| 🥇 | [#WWERaw](https://twitter.com/search?q=%23WWERaw) | — |
+| 🥈 | [Oba Femi](https://twitter.com/search?q=Oba%20Femi) | — |
+| 🥉 | [Brock Lesnar](https://twitter.com/search?q=Brock%20Lesnar) | — |
+| 4️⃣ | [Azzi](https://twitter.com/search?q=Azzi) | — |
+| 5️⃣ | [Elvis](https://twitter.com/search?q=Elvis) | — |
+| 6️⃣ | [Dean Ambrose](https://twitter.com/search?q=Dean%20Ambrose) | — |
+| 7️⃣ | [UConn](https://twitter.com/search?q=UConn) | — |
+| 8️⃣ | [Star Trek](https://twitter.com/search?q=Star%20Trek) | — |
+| 9️⃣ | [Syracuse](https://twitter.com/search?q=Syracuse) | — |
+| 🔟 | [Solange](https://twitter.com/search?q=Solange) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-03-23 09:16 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-03-24 09:09 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-03-23 09:16 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-03-24 09:09 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 19798 | `Python` | Automate the process of making money online. |
-| 🥈 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 37239 | `Python` | TradingAgents: Multi-Agents LLM Financial Trading Framework |
-| 🥉 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 12035 | `Go` | Fully autonomous AI Agents system capable of performing complex penetrat… |
-| 4️⃣ | [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) | 4752 | `Python` | — |
-| 5️⃣ | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 98112 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, me… |
-| 6️⃣ | [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | 11194 | `JavaScript` | A Claude Code plugin that shows what's happening - context usage, active… |
-| 7️⃣ | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 10122 | `TypeScript` | Project N.O.M.A.D, is a self-contained, offline survival computer packed… |
-| 8️⃣ | [systemd/systemd](https://github.com/systemd/systemd) | 15995 | `C` | The systemd System and Service Manager |
-| 9️⃣ | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 82579 | `Python` | 🌐 Make websites accessible for AI agents. Automate tasks online with eas… |
-| 🔟 | [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | 30045 | `Python` | [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation" |
+| 🥇 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 22945 | `Python` | Automate the process of making money online. |
+| 🥈 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 39405 | `Python` | An open-source SuperAgent harness that researches, codes, and creates. W… |
+| 🥉 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 13403 | `TypeScript` | Project N.O.M.A.D, is a self-contained, offline survival computer packed… |
+| 4️⃣ | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 13000 | `Go` | Fully autonomous AI Agents system capable of performing complex penetrat… |
+| 5️⃣ | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 83642 | `Python` | 🌐 Make websites accessible for AI agents. Automate tasks online with eas… |
+| 6️⃣ | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 39327 | `Python` | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| 7️⃣ | [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) | 31880 | `Python` | You like pytorch? You like micrograd? You love tinygrad! ❤️ |
+| 8️⃣ | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 101976 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, me… |
+| 9️⃣ | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 11570 | `Python` | The agent that grows with you |
+| 🔟 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 42568 | `Python` | 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in … |
 
 </details>
 
-<sub>🕐 更新于 2026-03-23 09:16 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-03-24 09:09 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
