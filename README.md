@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Sora](https://twitter.com/search?q=Sora) | — |
-| 🥈 | [#WWENXT](https://twitter.com/search?q=%23WWENXT) | — |
-| 🥉 | [#SummerHouse](https://twitter.com/search?q=%23SummerHouse) | — |
-| 4️⃣ | [Jordan Clarkson](https://twitter.com/search?q=Jordan%20Clarkson) | — |
-| 5️⃣ | [OpenAI](https://twitter.com/search?q=OpenAI) | — |
-| 6️⃣ | [Democrat Emily Gregory](https://twitter.com/search?q=Democrat%20Emily%20Gregory) | — |
-| 7️⃣ | [Tiger](https://twitter.com/search?q=Tiger) | — |
-| 8️⃣ | [Rittich](https://twitter.com/search?q=Rittich) | — |
-| 9️⃣ | [Fortnite](https://twitter.com/search?q=Fortnite) | — |
-| 🔟 | [Tyler Robinson](https://twitter.com/search?q=Tyler%20Robinson) | — |
+| 🥇 | [#AEWDynamite](https://twitter.com/search?q=%23AEWDynamite) | — |
+| 🥈 | [Harry Potter](https://twitter.com/search?q=Harry%20Potter) | — |
+| 🥉 | [Snape](https://twitter.com/search?q=Snape) | — |
+| 4️⃣ | [#OpeningNight](https://twitter.com/search?q=%23OpeningNight) | — |
+| 5️⃣ | [Bert Kreischer](https://twitter.com/search?q=Bert%20Kreischer) | — |
+| 6️⃣ | [#OpeningDay](https://twitter.com/search?q=%23OpeningDay) | — |
+| 7️⃣ | [#MLB2026](https://twitter.com/search?q=%23MLB2026) | — |
+| 8️⃣ | [Kimmel](https://twitter.com/search?q=Kimmel) | — |
+| 9️⃣ | [#RepBX](https://twitter.com/search?q=%23RepBX) | — |
+| 🔟 | [Barry Bonds](https://twitter.com/search?q=Barry%20Bonds) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-03-25 09:15 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-03-26 09:20 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-03-25 09:15 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-03-26 09:20 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [pascalorg/editor](https://github.com/pascalorg/editor) | 5241 | `TypeScript` | — |
-| 🥈 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 43311 | `Python` | An open-source SuperAgent harness that researches, codes, and creates. W… |
-| 🥉 | [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | 18554 | `TypeScript` | Memory engine and app that is extremely fast, scalable. The Memory API f… |
-| 4️⃣ | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 24818 | `Python` | Automate the process of making money online. |
-| 5️⃣ | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 52623 | `Python` | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
-| 6️⃣ | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 15351 | `TypeScript` | Project N.O.M.A.D, is a self-contained, offline survival computer packed… |
-| 7️⃣ | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 40867 | `Python` | TradingAgents: Multi-Agents LLM Financial Trading Framework |
-| 8️⃣ | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 5581 | `Python` | AI agent skill that researches any topic across Reddit, X, YouTube, HN, … |
-| 9️⃣ | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 25113 | `TypeScript` | 🌊 The leading agent orchestration platform for Claude. Deploy intelligen… |
-| 🔟 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 12550 | `Python` | The agent that grows with you |
+| 🥇 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 7694 | `Python` | AI agent skill that researches any topic across Reddit, X, YouTube, HN, … |
+| 🥈 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 46256 | `Python` | An open-source SuperAgent harness that researches, codes, and creates. W… |
+| 🥉 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 40657 | `Python` | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (o… |
+| 4️⃣ | [pascalorg/editor](https://github.com/pascalorg/editor) | 6842 | `TypeScript` | Create and share 3D architectural projects. |
+| 5️⃣ | [letta-ai/claude-subconscious](https://github.com/letta-ai/claude-subconscious) | 1456 | `TypeScript` | Give Claude Code a subconscious |
+| 6️⃣ | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 26229 | `TypeScript` | 🌊 The leading agent orchestration platform for Claude. Deploy intelligen… |
+| 7️⃣ | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 16644 | `TypeScript` | Project N.O.M.A.D, is a self-contained, offline survival computer packed… |
+| 8️⃣ | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 42315 | `Rust` | π RuView: WiFi DensePose turns commodity WiFi signals into real-time hum… |
+| 9️⃣ | [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | 19222 | `TypeScript` | Memory engine and app that is extremely fast, scalable. The Memory API f… |
+| 🔟 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 25596 | `Python` | Automate the process of making money online. |
 
 </details>
 
-<sub>🕐 更新于 2026-03-25 09:15 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-03-26 09:20 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
