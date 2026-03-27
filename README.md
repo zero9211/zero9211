@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#AEWDynamite](https://twitter.com/search?q=%23AEWDynamite) | — |
-| 🥈 | [Harry Potter](https://twitter.com/search?q=Harry%20Potter) | — |
-| 🥉 | [Snape](https://twitter.com/search?q=Snape) | — |
-| 4️⃣ | [#OpeningNight](https://twitter.com/search?q=%23OpeningNight) | — |
-| 5️⃣ | [Bert Kreischer](https://twitter.com/search?q=Bert%20Kreischer) | — |
-| 6️⃣ | [#OpeningDay](https://twitter.com/search?q=%23OpeningDay) | — |
-| 7️⃣ | [#MLB2026](https://twitter.com/search?q=%23MLB2026) | — |
-| 8️⃣ | [Kimmel](https://twitter.com/search?q=Kimmel) | — |
-| 9️⃣ | [#RepBX](https://twitter.com/search?q=%23RepBX) | — |
-| 🔟 | [Barry Bonds](https://twitter.com/search?q=Barry%20Bonds) | — |
+| 🥇 | [#STLCards](https://twitter.com/search?q=%23STLCards) | — |
+| 🥈 | [Mike Trout](https://twitter.com/search?q=Mike%20Trout) | — |
+| 🥉 | [Kevin McGonigle](https://twitter.com/search?q=Kevin%20McGonigle) | — |
+| 4️⃣ | [#OpeningDay](https://twitter.com/search?q=%23OpeningDay) | — |
+| 5️⃣ | [Druski](https://twitter.com/search?q=Druski) | — |
+| 6️⃣ | [Astros](https://twitter.com/search?q=Astros) | — |
+| 7️⃣ | [#LTBU](https://twitter.com/search?q=%23LTBU) | — |
+| 8️⃣ | [#RepTheHalo](https://twitter.com/search?q=%23RepTheHalo) | — |
+| 9️⃣ | [Cruz](https://twitter.com/search?q=Cruz) | — |
+| 🔟 | [Roman Anthony](https://twitter.com/search?q=Roman%20Anthony) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-03-26 09:20 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-03-27 09:19 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-03-26 09:20 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-03-27 09:19 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,19 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 7694 | `Python` | AI agent skill that researches any topic across Reddit, X, YouTube, HN, … |
-| 🥈 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 46256 | `Python` | An open-source SuperAgent harness that researches, codes, and creates. W… |
-| 🥉 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 40657 | `Python` | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (o… |
-| 4️⃣ | [pascalorg/editor](https://github.com/pascalorg/editor) | 6842 | `TypeScript` | Create and share 3D architectural projects. |
-| 5️⃣ | [letta-ai/claude-subconscious](https://github.com/letta-ai/claude-subconscious) | 1456 | `TypeScript` | Give Claude Code a subconscious |
-| 6️⃣ | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 26229 | `TypeScript` | 🌊 The leading agent orchestration platform for Claude. Deploy intelligen… |
-| 7️⃣ | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 16644 | `TypeScript` | Project N.O.M.A.D, is a self-contained, offline survival computer packed… |
-| 8️⃣ | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 42315 | `Rust` | π RuView: WiFi DensePose turns commodity WiFi signals into real-time hum… |
-| 9️⃣ | [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | 19222 | `TypeScript` | Memory engine and app that is extremely fast, scalable. The Memory API f… |
-| 🔟 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 25596 | `Python` | Automate the process of making money online. |
+| 🥇 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 10303 | `Python` | AI agent skill that researches any topic across Reddit, X, YouTube, HN, … |
+| 🥈 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | 12657 | `TypeScript` | Teams-first Multi-agent orchestration for Claude Code |
+| 🥉 | [virattt/dexter](https://github.com/virattt/dexter) | 18994 | `TypeScript` | An autonomous agent for deep financial research |
+| 4️⃣ | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 43183 | `Rust` | π RuView: WiFi DensePose turns commodity WiFi signals into real-time hum… |
+| 5️⃣ | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 48398 | `Python` | An open-source long-horizon SuperAgent harness that researches, codes, a… |
+| 6️⃣ | [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) | 11232 | `Jupyter Notebook` | — |
+| 7️⃣ | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 20429 | `Python` | Build and run agents you can see, understand and trust. |
+| 8️⃣ | [twentyhq/twenty](https://github.com/twentyhq/twenty) | 41275 | `TypeScript` | Building a modern alternative to Salesforce, powered by the community. |
+| 9️⃣ | [datalab-to/chandra](https://github.com/datalab-to/chandra) | 6164 | `Python` | OCR model that handles complex tables, forms, handwriting with full layo… |
 
 </details>
 
-<sub>🕐 更新于 2026-03-26 09:20 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-03-27 09:19 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
