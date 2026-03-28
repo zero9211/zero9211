@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#STLCards](https://twitter.com/search?q=%23STLCards) | — |
-| 🥈 | [Mike Trout](https://twitter.com/search?q=Mike%20Trout) | — |
-| 🥉 | [Kevin McGonigle](https://twitter.com/search?q=Kevin%20McGonigle) | — |
-| 4️⃣ | [#OpeningDay](https://twitter.com/search?q=%23OpeningDay) | — |
-| 5️⃣ | [Druski](https://twitter.com/search?q=Druski) | — |
-| 6️⃣ | [Astros](https://twitter.com/search?q=Astros) | — |
-| 7️⃣ | [#LTBU](https://twitter.com/search?q=%23LTBU) | — |
-| 8️⃣ | [#RepTheHalo](https://twitter.com/search?q=%23RepTheHalo) | — |
-| 9️⃣ | [Cruz](https://twitter.com/search?q=Cruz) | — |
-| 🔟 | [Roman Anthony](https://twitter.com/search?q=Roman%20Anthony) | — |
+| 🥇 | [Tiger Woods](https://twitter.com/search?q=Tiger%20Woods) | — |
+| 🥈 | [#SmackDown](https://twitter.com/search?q=%23SmackDown) | — |
+| 🥉 | [Thune](https://twitter.com/search?q=Thune) | — |
+| 4️⃣ | [Ruben Prey](https://twitter.com/search?q=Ruben%20Prey) | — |
+| 5️⃣ | [Sami](https://twitter.com/search?q=Sami) | — |
+| 6️⃣ | [Jupiter's Best](https://twitter.com/search?q=Jupiter's%20Best) | — |
+| 7️⃣ | [#BravesCountry](https://twitter.com/search?q=%23BravesCountry) | — |
+| 8️⃣ | [Senate](https://twitter.com/search?q=Senate) | — |
+| 9️⃣ | [Riggs](https://twitter.com/search?q=Riggs) | — |
+| 🔟 | [Johnnies](https://twitter.com/search?q=Johnnies) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-03-27 09:19 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-03-28 09:14 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-03-27 09:19 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-03-28 09:14 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,19 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 10303 | `Python` | AI agent skill that researches any topic across Reddit, X, YouTube, HN, … |
-| 🥈 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | 12657 | `TypeScript` | Teams-first Multi-agent orchestration for Claude Code |
-| 🥉 | [virattt/dexter](https://github.com/virattt/dexter) | 18994 | `TypeScript` | An autonomous agent for deep financial research |
-| 4️⃣ | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 43183 | `Rust` | π RuView: WiFi DensePose turns commodity WiFi signals into real-time hum… |
-| 5️⃣ | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 48398 | `Python` | An open-source long-horizon SuperAgent harness that researches, codes, a… |
-| 6️⃣ | [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) | 11232 | `Jupyter Notebook` | — |
-| 7️⃣ | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 20429 | `Python` | Build and run agents you can see, understand and trust. |
-| 8️⃣ | [twentyhq/twenty](https://github.com/twentyhq/twenty) | 41275 | `TypeScript` | Building a modern alternative to Salesforce, powered by the community. |
-| 9️⃣ | [datalab-to/chandra](https://github.com/datalab-to/chandra) | 6164 | `Python` | OCR model that handles complex tables, forms, handwriting with full layo… |
+| 🥇 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 12666 | `Python` | AI agent skill that researches any topic across Reddit, X, YouTube, HN, … |
+| 🥈 | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 83069 | `Python` | real time face swap and one-click video deepfake with only a single imag… |
+| 🥉 | [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) | 2865 | `Python` | The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via A… |
+| 4️⃣ | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 24689 | `Python` | Open-Source Frontier Voice AI |
+| 5️⃣ | [twentyhq/twenty](https://github.com/twentyhq/twenty) | 42018 | `TypeScript` | Building a modern alternative to Salesforce, powered by the community. |
+| 6️⃣ | [datalab-to/chandra](https://github.com/datalab-to/chandra) | 7023 | `Python` | OCR model that handles complex tables, forms, handwriting with full layo… |
+| 7️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 118551 | `Shell` | An agentic skills framework & software development methodology that work… |
+| 8️⃣ | [virattt/dexter](https://github.com/virattt/dexter) | 19694 | `TypeScript` | An autonomous agent for deep financial research |
+| 9️⃣ | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | 13966 | `TypeScript` | Teams-first Multi-agent orchestration for Claude Code |
+| 🔟 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 29663 | `C++` | Official source code of FreeCAD, a free and opensource multiplatform 3D … |
 
 </details>
 
-<sub>🕐 更新于 2026-03-27 09:19 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-03-28 09:14 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
