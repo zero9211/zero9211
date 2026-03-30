@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#UFCSeattle](https://twitter.com/search?q=%23UFCSeattle) | — |
-| 🥈 | [No Kings](https://twitter.com/search?q=No%20Kings) | — |
-| 🥉 | [CB Bucknor](https://twitter.com/search?q=CB%20Bucknor) | — |
-| 4️⃣ | [Iowa](https://twitter.com/search?q=Iowa) | — |
-| 5️⃣ | [Nick Cannon](https://twitter.com/search?q=Nick%20Cannon) | — |
-| 6️⃣ | [Final Four](https://twitter.com/search?q=Final%20Four) | — |
-| 7️⃣ | [#AEWCollision](https://twitter.com/search?q=%23AEWCollision) | — |
-| 8️⃣ | [Terrance McKinney](https://twitter.com/search?q=Terrance%20McKinney) | — |
-| 9️⃣ | [#ENGENES_MADE_ENHYPEN_7](https://twitter.com/search?q=%23ENGENES_MADE_ENHYPEN_7) | — |
-| 🔟 | [#Illini](https://twitter.com/search?q=%23Illini) | — |
+| 🥇 | [Duke](https://twitter.com/search?q=Duke) | — |
+| 🥈 | [Boozer](https://twitter.com/search?q=Boozer) | — |
+| 🥉 | [Braylon Mullins](https://twitter.com/search?q=Braylon%20Mullins) | — |
+| 4️⃣ | [Dan Hurley](https://twitter.com/search?q=Dan%20Hurley) | — |
+| 5️⃣ | [Jon Scheyer](https://twitter.com/search?q=Jon%20Scheyer) | — |
+| 6️⃣ | [Gary Woodland](https://twitter.com/search?q=Gary%20Woodland) | — |
+| 7️⃣ | [Dook](https://twitter.com/search?q=Dook) | — |
+| 8️⃣ | [Torts](https://twitter.com/search?q=Torts) | — |
+| 9️⃣ | [#BaddiesUSA](https://twitter.com/search?q=%23BaddiesUSA) | — |
+| 🔟 | [Chase Elliott](https://twitter.com/search?q=Chase%20Elliott) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-03-29 09:23 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-03-30 09:24 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-03-29 09:23 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-03-30 09:24 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,19 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 84344 | `Python` | real time face swap and one-click video deepfake with only a single imag… |
-| 🥈 | [obra/superpowers](https://github.com/obra/superpowers) | 120803 | `Shell` | An agentic skills framework & software development methodology that work… |
-| 🥉 | [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) | 3471 | `Python` | The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via A… |
-| 4️⃣ | [virattt/dexter](https://github.com/virattt/dexter) | 20207 | `TypeScript` | An autonomous agent for deep financial research |
-| 5️⃣ | [twentyhq/twenty](https://github.com/twentyhq/twenty) | 42438 | `TypeScript` | Building a modern alternative to Salesforce, powered by the community. |
-| 6️⃣ | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | 19756 | `Python` | Open Source AI Platform - AI Chat with advanced features that works with… |
-| 7️⃣ | [datalab-to/chandra](https://github.com/datalab-to/chandra) | 7598 | `Python` | OCR model that handles complex tables, forms, handwriting with full layo… |
-| 8️⃣ | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 21622 | `Python` | Build and run agents you can see, understand and trust. |
-| 9️⃣ | [apache/superset](https://github.com/apache/superset) | 71471 | `TypeScript` | Apache Superset is a Data Visualization and Data Exploration Platform |
+| 🥇 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 6739 | `Python` | A visual, example-driven guide to Claude Code — from basic concepts to a… |
+| 🥈 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 27340 | `Python` | Open-Source Frontier Voice AI |
+| 🥉 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 16786 | `Python` | The agent that grows with you |
+| 4️⃣ | [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 64028 | `Python` | Financial data platform for analysts, quants and AI agents. |
+| 5️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 122964 | `Shell` | An agentic skills framework & software development methodology that work… |
+| 6️⃣ | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 42608 | `TypeScript` | A Claude Code plugin that automatically captures everything Claude does … |
+| 7️⃣ | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 85306 | `Python` | real time face swap and one-click video deepfake with only a single imag… |
+| 8️⃣ | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 15369 | `Python` | AI agent skill that researches any topic across Reddit, X, YouTube, HN, … |
+| 9️⃣ | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 42692 | `TypeScript` | Bash is all you need - A nano claude code–like 「agent harness」, built fr… |
+| 🔟 | [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) | 21155 | `C` | A maintained, feature-rich and performance oriented, neofetch like syste… |
 
 </details>
 
-<sub>🕐 更新于 2026-03-29 09:23 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-03-30 09:24 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
