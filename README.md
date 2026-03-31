@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Duke](https://twitter.com/search?q=Duke) | — |
-| 🥈 | [Boozer](https://twitter.com/search?q=Boozer) | — |
-| 🥉 | [Braylon Mullins](https://twitter.com/search?q=Braylon%20Mullins) | — |
-| 4️⃣ | [Dan Hurley](https://twitter.com/search?q=Dan%20Hurley) | — |
-| 5️⃣ | [Jon Scheyer](https://twitter.com/search?q=Jon%20Scheyer) | — |
-| 6️⃣ | [Gary Woodland](https://twitter.com/search?q=Gary%20Woodland) | — |
-| 7️⃣ | [Dook](https://twitter.com/search?q=Dook) | — |
-| 8️⃣ | [Torts](https://twitter.com/search?q=Torts) | — |
-| 9️⃣ | [#BaddiesUSA](https://twitter.com/search?q=%23BaddiesUSA) | — |
-| 🔟 | [Chase Elliott](https://twitter.com/search?q=Chase%20Elliott) | — |
+| 🥇 | [#WWERaw](https://twitter.com/search?q=%23WWERaw) | — |
+| 🥈 | [Jaden Ivey](https://twitter.com/search?q=Jaden%20Ivey) | — |
+| 🥉 | [Stephanie McMahon](https://twitter.com/search?q=Stephanie%20McMahon) | — |
+| 4️⃣ | [Bulls](https://twitter.com/search?q=Bulls) | — |
+| 5️⃣ | [Usos](https://twitter.com/search?q=Usos) | — |
+| 6️⃣ | [Taijuan Walker](https://twitter.com/search?q=Taijuan%20Walker) | — |
+| 7️⃣ | [The NBA](https://twitter.com/search?q=The%20NBA) | — |
+| 8️⃣ | [Phillies](https://twitter.com/search?q=Phillies) | — |
+| 9️⃣ | [#ENGENES_WANT_ENHYPEN_7](https://twitter.com/search?q=%23ENGENES_WANT_ENHYPEN_7) | — |
+| 🔟 | [LA Knight](https://twitter.com/search?q=LA%20Knight) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-03-30 09:24 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-03-31 09:21 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-03-30 09:24 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-03-31 09:21 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 6739 | `Python` | A visual, example-driven guide to Claude Code — from basic concepts to a… |
-| 🥈 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 27340 | `Python` | Open-Source Frontier Voice AI |
-| 🥉 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 16786 | `Python` | The agent that grows with you |
-| 4️⃣ | [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 64028 | `Python` | Financial data platform for analysts, quants and AI agents. |
-| 5️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 122964 | `Shell` | An agentic skills framework & software development methodology that work… |
-| 6️⃣ | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 42608 | `TypeScript` | A Claude Code plugin that automatically captures everything Claude does … |
-| 7️⃣ | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 85306 | `Python` | real time face swap and one-click video deepfake with only a single imag… |
-| 8️⃣ | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 15369 | `Python` | AI agent skill that researches any topic across Reddit, X, YouTube, HN, … |
-| 9️⃣ | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 42692 | `TypeScript` | Bash is all you need - A nano claude code–like 「agent harness」, built fr… |
-| 🔟 | [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) | 21155 | `C` | A maintained, feature-rich and performance oriented, neofetch like syste… |
+| 🥇 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 30437 | `Python` | Open-Source Frontier Voice AI |
+| 🥈 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 9927 | `Python` | A visual, example-driven guide to Claude Code — from basic concepts to a… |
+| 🥉 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 26188 | `HTML` | practice made claude perfect |
+| 4️⃣ | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 86364 | `Python` | real time face swap and one-click video deepfake with only a single imag… |
+| 5️⃣ | [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 64539 | `Python` | Financial data platform for analysts, quants and AI agents. |
+| 6️⃣ | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 439727 | `TypeScript` | freeCodeCamp.org's open-source codebase and curriculum. Learn math, prog… |
+| 7️⃣ | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 74741 | `Python` | Hunt down social media accounts by username across social networks |
+| 8️⃣ | [apache/superset](https://github.com/apache/superset) | 71936 | `TypeScript` | Apache Superset is a Data Visualization and Data Exploration Platform |
+| 9️⃣ | [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) | 21419 | `C` | A maintained, feature-rich and performance oriented, neofetch like syste… |
+| 🔟 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 18633 | `Python` | The agent that grows with you |
 
 </details>
 
-<sub>🕐 更新于 2026-03-30 09:24 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-03-31 09:21 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
