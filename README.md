@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#WWERaw](https://twitter.com/search?q=%23WWERaw) | — |
-| 🥈 | [Jaden Ivey](https://twitter.com/search?q=Jaden%20Ivey) | — |
-| 🥉 | [Stephanie McMahon](https://twitter.com/search?q=Stephanie%20McMahon) | — |
-| 4️⃣ | [Bulls](https://twitter.com/search?q=Bulls) | — |
-| 5️⃣ | [Usos](https://twitter.com/search?q=Usos) | — |
-| 6️⃣ | [Taijuan Walker](https://twitter.com/search?q=Taijuan%20Walker) | — |
-| 7️⃣ | [The NBA](https://twitter.com/search?q=The%20NBA) | — |
-| 8️⃣ | [Phillies](https://twitter.com/search?q=Phillies) | — |
-| 9️⃣ | [#ENGENES_WANT_ENHYPEN_7](https://twitter.com/search?q=%23ENGENES_WANT_ENHYPEN_7) | — |
-| 🔟 | [LA Knight](https://twitter.com/search?q=LA%20Knight) | — |
+| 🥇 | [World Cup](https://twitter.com/search?q=World%20Cup) | — |
+| 🥈 | [Italy](https://twitter.com/search?q=Italy) | — |
+| 🥉 | [Andrew Painter](https://twitter.com/search?q=Andrew%20Painter) | — |
+| 4️⃣ | [Italia](https://twitter.com/search?q=Italia) | — |
+| 5️⃣ | [Bosnia](https://twitter.com/search?q=Bosnia) | — |
+| 6️⃣ | [#SummerHouse](https://twitter.com/search?q=%23SummerHouse) | — |
+| 7️⃣ | [#TrumpVotedByMail](https://twitter.com/search?q=%23TrumpVotedByMail) | — |
+| 8️⃣ | [April Fools](https://twitter.com/search?q=April%20Fools) | — |
+| 9️⃣ | [Drake Baldwin](https://twitter.com/search?q=Drake%20Baldwin) | — |
+| 🔟 | [Pulisic](https://twitter.com/search?q=Pulisic) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-03-31 09:21 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-04-01 09:28 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-03-31 09:21 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-04-01 09:28 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 30437 | `Python` | Open-Source Frontier Voice AI |
-| 🥈 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 9927 | `Python` | A visual, example-driven guide to Claude Code — from basic concepts to a… |
-| 🥉 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 26188 | `HTML` | practice made claude perfect |
-| 4️⃣ | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 86364 | `Python` | real time face swap and one-click video deepfake with only a single imag… |
-| 5️⃣ | [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 64539 | `Python` | Financial data platform for analysts, quants and AI agents. |
-| 6️⃣ | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 439727 | `TypeScript` | freeCodeCamp.org's open-source codebase and curriculum. Learn math, prog… |
-| 7️⃣ | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 74741 | `Python` | Hunt down social media accounts by username across social networks |
-| 8️⃣ | [apache/superset](https://github.com/apache/superset) | 71936 | `TypeScript` | Apache Superset is a Data Visualization and Data Exploration Platform |
-| 9️⃣ | [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) | 21419 | `C` | A maintained, feature-rich and performance oriented, neofetch like syste… |
-| 🔟 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 18633 | `Python` | The agent that grows with you |
+| 🥇 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 13106 | `Python` | A visual, example-driven guide to Claude Code — from basic concepts to a… |
+| 🥈 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 33159 | `Python` | Open-Source Frontier Voice AI |
+| 🥉 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | 19095 | `TypeScript` | Teams-first Multi-agent orchestration for Claude Code |
+| 4️⃣ | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 28707 | `HTML` | practice made claude perfect |
+| 5️⃣ | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 20398 | `Python` | The agent that grows with you |
+| 6️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 128198 | `Shell` | An agentic skills framework & software development methodology that work… |
+| 7️⃣ | [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | 16231 | `Python` | The absolute trainer to light up AI agents. |
+| 8️⃣ | [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 74200 | `Python` | Turn any PDF or image document into structured data for your AI. A power… |
+| 9️⃣ | [Dimillian/Skills](https://github.com/Dimillian/Skills) | 2868 | `Shell` | My Codex Skills |
+| 🔟 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 75554 | `Python` | Hunt down social media accounts by username across social networks |
 
 </details>
 
-<sub>🕐 更新于 2026-03-31 09:21 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-04-01 09:28 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
