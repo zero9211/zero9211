@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [World Cup](https://twitter.com/search?q=World%20Cup) | — |
-| 🥈 | [Italy](https://twitter.com/search?q=Italy) | — |
-| 🥉 | [Andrew Painter](https://twitter.com/search?q=Andrew%20Painter) | — |
-| 4️⃣ | [Italia](https://twitter.com/search?q=Italia) | — |
-| 5️⃣ | [Bosnia](https://twitter.com/search?q=Bosnia) | — |
-| 6️⃣ | [#SummerHouse](https://twitter.com/search?q=%23SummerHouse) | — |
-| 7️⃣ | [#TrumpVotedByMail](https://twitter.com/search?q=%23TrumpVotedByMail) | — |
-| 8️⃣ | [April Fools](https://twitter.com/search?q=April%20Fools) | — |
-| 9️⃣ | [Drake Baldwin](https://twitter.com/search?q=Drake%20Baldwin) | — |
-| 🔟 | [Pulisic](https://twitter.com/search?q=Pulisic) | — |
+| 🥇 | [Artemis II](https://twitter.com/search?q=Artemis%20II) | — |
+| 🥈 | [#AEWDynamite](https://twitter.com/search?q=%23AEWDynamite) | — |
+| 🥉 | [April Fools](https://twitter.com/search?q=April%20Fools) | — |
+| 4️⃣ | [Jericho](https://twitter.com/search?q=Jericho) | — |
+| 5️⃣ | [Challenger](https://twitter.com/search?q=Challenger) | — |
+| 6️⃣ | [Apollo](https://twitter.com/search?q=Apollo) | — |
+| 7️⃣ | [Passover](https://twitter.com/search?q=Passover) | — |
+| 8️⃣ | [SpaceX](https://twitter.com/search?q=SpaceX) | — |
+| 9️⃣ | [#TheMaskedSinger](https://twitter.com/search?q=%23TheMaskedSinger) | — |
+| 🔟 | [Chag Pesach Sameach](https://twitter.com/search?q=Chag%20Pesach%20Sameach) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-04-01 09:28 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-04-02 09:18 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-04-01 09:28 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-04-02 09:18 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,17 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 13106 | `Python` | A visual, example-driven guide to Claude Code — from basic concepts to a… |
-| 🥈 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 33159 | `Python` | Open-Source Frontier Voice AI |
-| 🥉 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | 19095 | `TypeScript` | Teams-first Multi-agent orchestration for Claude Code |
-| 4️⃣ | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 28707 | `HTML` | practice made claude perfect |
-| 5️⃣ | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 20398 | `Python` | The agent that grows with you |
-| 6️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 128198 | `Shell` | An agentic skills framework & software development methodology that work… |
-| 7️⃣ | [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | 16231 | `Python` | The absolute trainer to light up AI agents. |
-| 8️⃣ | [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 74200 | `Python` | Turn any PDF or image document into structured data for your AI. A power… |
-| 9️⃣ | [Dimillian/Skills](https://github.com/Dimillian/Skills) | 2868 | `Shell` | My Codex Skills |
-| 🔟 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 75554 | `Python` | Hunt down social media accounts by username across social networks |
+| 🥇 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 100984 | `Shell` | Claude Code is an agentic coding tool that lives in your terminal, under… |
+| 🥈 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 34459 | `Python` | Open-Source Frontier Voice AI |
+| 🥉 | [google-research/timesfm](https://github.com/google-research/timesfm) | 12137 | `Python` | TimesFM (Time Series Foundation Model) is a pretrained time-series found… |
+| 4️⃣ | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 15622 | `Python` | A visual, example-driven guide to Claude Code — from basic concepts to a… |
+| 5️⃣ | [axios/axios](https://github.com/axios/axios) | 108869 | `JavaScript` | Promise based HTTP client for the browser and node.js |
+| 6️⃣ | [openai/codex](https://github.com/openai/codex) | 71744 | `Rust` | Lightweight coding agent that runs in your terminal |
+| 7️⃣ | [f/prompts.chat](https://github.com/f/prompts.chat) | 156031 | `HTML` | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts fro… |
 
 </details>
 
-<sub>🕐 更新于 2026-04-01 09:28 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-04-02 09:18 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
