@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Artemis II](https://twitter.com/search?q=Artemis%20II) | — |
-| 🥈 | [#AEWDynamite](https://twitter.com/search?q=%23AEWDynamite) | — |
-| 🥉 | [April Fools](https://twitter.com/search?q=April%20Fools) | — |
-| 4️⃣ | [Jericho](https://twitter.com/search?q=Jericho) | — |
-| 5️⃣ | [Challenger](https://twitter.com/search?q=Challenger) | — |
-| 6️⃣ | [Apollo](https://twitter.com/search?q=Apollo) | — |
-| 7️⃣ | [Passover](https://twitter.com/search?q=Passover) | — |
-| 8️⃣ | [SpaceX](https://twitter.com/search?q=SpaceX) | — |
-| 9️⃣ | [#TheMaskedSinger](https://twitter.com/search?q=%23TheMaskedSinger) | — |
-| 🔟 | [Chag Pesach Sameach](https://twitter.com/search?q=Chag%20Pesach%20Sameach) | — |
+| 🥇 | [#911onABC](https://twitter.com/search?q=%23911onABC) | — |
+| 🥈 | [Memphis](https://twitter.com/search?q=Memphis) | — |
+| 🥉 | [Gucci](https://twitter.com/search?q=Gucci) | — |
+| 4️⃣ | [Bondi](https://twitter.com/search?q=Bondi) | — |
+| 5️⃣ | [Pooh Shiesty](https://twitter.com/search?q=Pooh%20Shiesty) | — |
+| 6️⃣ | [Theo](https://twitter.com/search?q=Theo) | — |
+| 7️⃣ | [Todd Blanche](https://twitter.com/search?q=Todd%20Blanche) | — |
+| 8️⃣ | [Hegseth](https://twitter.com/search?q=Hegseth) | — |
+| 9️⃣ | [Attorney General](https://twitter.com/search?q=Attorney%20General) | — |
+| 🔟 | [Mike Conley](https://twitter.com/search?q=Mike%20Conley) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-04-02 09:18 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-04-03 09:20 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-04-02 09:18 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-04-03 09:20 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,17 +90,14 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 100984 | `Shell` | Claude Code is an agentic coding tool that lives in your terminal, under… |
-| 🥈 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 34459 | `Python` | Open-Source Frontier Voice AI |
-| 🥉 | [google-research/timesfm](https://github.com/google-research/timesfm) | 12137 | `Python` | TimesFM (Time Series Foundation Model) is a pretrained time-series found… |
-| 4️⃣ | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 15622 | `Python` | A visual, example-driven guide to Claude Code — from basic concepts to a… |
-| 5️⃣ | [axios/axios](https://github.com/axios/axios) | 108869 | `JavaScript` | Promise based HTTP client for the browser and node.js |
-| 6️⃣ | [openai/codex](https://github.com/openai/codex) | 71744 | `Rust` | Lightweight coding agent that runs in your terminal |
-| 7️⃣ | [f/prompts.chat](https://github.com/f/prompts.chat) | 156031 | `HTML` | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts fro… |
+| 🥇 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | 15918 | `TypeScript` | Create stunning demos for free. Open-source, no subscriptions, no waterm… |
+| 🥈 | [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | 11753 | `TypeScript` | OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs… |
+| 🥉 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 36377 | — | Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude … |
+| 4️⃣ | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 77291 | `Python` | Hunt down social media accounts by username across social networks |
 
 </details>
 
-<sub>🕐 更新于 2026-04-02 09:18 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-04-03 09:20 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
