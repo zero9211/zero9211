@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#911onABC](https://twitter.com/search?q=%23911onABC) | — |
-| 🥈 | [Memphis](https://twitter.com/search?q=Memphis) | — |
-| 🥉 | [Gucci](https://twitter.com/search?q=Gucci) | — |
-| 4️⃣ | [Bondi](https://twitter.com/search?q=Bondi) | — |
-| 5️⃣ | [Pooh Shiesty](https://twitter.com/search?q=Pooh%20Shiesty) | — |
-| 6️⃣ | [Theo](https://twitter.com/search?q=Theo) | — |
-| 7️⃣ | [Todd Blanche](https://twitter.com/search?q=Todd%20Blanche) | — |
-| 8️⃣ | [Hegseth](https://twitter.com/search?q=Hegseth) | — |
-| 9️⃣ | [Attorney General](https://twitter.com/search?q=Attorney%20General) | — |
-| 🔟 | [Mike Conley](https://twitter.com/search?q=Mike%20Conley) | — |
+| 🥇 | [#SmackDown](https://twitter.com/search?q=%23SmackDown) | — |
+| 🥈 | [Pat McAfee](https://twitter.com/search?q=Pat%20McAfee) | — |
+| 🥉 | [Randy Orton](https://twitter.com/search?q=Randy%20Orton) | — |
+| 4️⃣ | [Azzi](https://twitter.com/search?q=Azzi) | — |
+| 5️⃣ | [Sarah Strong](https://twitter.com/search?q=Sarah%20Strong) | — |
+| 6️⃣ | [Good Friday](https://twitter.com/search?q=Good%20Friday) | — |
+| 7️⃣ | [Raven Johnson](https://twitter.com/search?q=Raven%20Johnson) | — |
+| 8️⃣ | [Elander](https://twitter.com/search?q=Elander) | — |
+| 9️⃣ | [Skip](https://twitter.com/search?q=Skip) | — |
+| 🔟 | [Happy Easter](https://twitter.com/search?q=Happy%20Easter) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-04-03 09:20 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-04-04 09:14 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-04-03 09:20 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-04-04 09:14 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,14 +90,17 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | 15918 | `TypeScript` | Create stunning demos for free. Open-source, no subscriptions, no waterm… |
-| 🥈 | [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | 11753 | `TypeScript` | OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs… |
-| 🥉 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 36377 | — | Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude … |
-| 4️⃣ | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 77291 | `Python` | Hunt down social media accounts by username across social networks |
+| 🥇 | [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | 14139 | `TypeScript` | OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs… |
+| 🥈 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | 23284 | `Python` | Open Source AI Platform - AI Chat with advanced features that works with… |
+| 🥉 | [google-research/timesfm](https://github.com/google-research/timesfm) | 14124 | `Python` | TimesFM (Time Series Foundation Model) is a pretrained time-series found… |
+| 4️⃣ | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | 18205 | `TypeScript` | Create stunning demos for free. Open-source, no subscriptions, no waterm… |
+| 5️⃣ | [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) | 3261 | `Rust` | The fastest and the most accurate file search toolkit for AI agents, Neo… |
+| 6️⃣ | [f/prompts.chat](https://github.com/f/prompts.chat) | 157188 | `HTML` | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts fro… |
+| 7️⃣ | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 78519 | `Python` | Hunt down social media accounts by username across social networks |
 
 </details>
 
-<sub>🕐 更新于 2026-04-03 09:20 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-04-04 09:14 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
