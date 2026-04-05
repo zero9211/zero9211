@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#SmackDown](https://twitter.com/search?q=%23SmackDown) | — |
-| 🥈 | [Pat McAfee](https://twitter.com/search?q=Pat%20McAfee) | — |
-| 🥉 | [Randy Orton](https://twitter.com/search?q=Randy%20Orton) | — |
-| 4️⃣ | [Azzi](https://twitter.com/search?q=Azzi) | — |
-| 5️⃣ | [Sarah Strong](https://twitter.com/search?q=Sarah%20Strong) | — |
-| 6️⃣ | [Good Friday](https://twitter.com/search?q=Good%20Friday) | — |
-| 7️⃣ | [Raven Johnson](https://twitter.com/search?q=Raven%20Johnson) | — |
-| 8️⃣ | [Elander](https://twitter.com/search?q=Elander) | — |
-| 9️⃣ | [Skip](https://twitter.com/search?q=Skip) | — |
-| 🔟 | [Happy Easter](https://twitter.com/search?q=Happy%20Easter) | — |
+| 🥇 | [#StandAndDeliver](https://twitter.com/search?q=%23StandAndDeliver) | — |
+| 🥈 | [#UFCVegas115](https://twitter.com/search?q=%23UFCVegas115) | — |
+| 🥉 | [#WWENXT](https://twitter.com/search?q=%23WWENXT) | — |
+| 4️⃣ | [UConn](https://twitter.com/search?q=UConn) | — |
+| 5️⃣ | [Wilder](https://twitter.com/search?q=Wilder) | — |
+| 6️⃣ | [Zaria](https://twitter.com/search?q=Zaria) | — |
+| 7️⃣ | [Walter Reed](https://twitter.com/search?q=Walter%20Reed) | — |
+| 8️⃣ | [Happy Easter](https://twitter.com/search?q=Happy%20Easter) | — |
+| 9️⃣ | [Jokic](https://twitter.com/search?q=Jokic) | — |
+| 🔟 | [Braylon Mullins](https://twitter.com/search?q=Braylon%20Mullins) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-04-04 09:14 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-04-05 09:24 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-04-04 09:14 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-04-05 09:24 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,17 +90,18 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | 14139 | `TypeScript` | OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs… |
-| 🥈 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | 23284 | `Python` | Open Source AI Platform - AI Chat with advanced features that works with… |
-| 🥉 | [google-research/timesfm](https://github.com/google-research/timesfm) | 14124 | `Python` | TimesFM (Time Series Foundation Model) is a pretrained time-series found… |
-| 4️⃣ | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | 18205 | `TypeScript` | Create stunning demos for free. Open-source, no subscriptions, no waterm… |
-| 5️⃣ | [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) | 3261 | `Rust` | The fastest and the most accurate file search toolkit for AI agents, Neo… |
-| 6️⃣ | [f/prompts.chat](https://github.com/f/prompts.chat) | 157188 | `HTML` | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts fro… |
-| 7️⃣ | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 78519 | `Python` | Hunt down social media accounts by username across social networks |
+| 🥇 | [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) | 3605 | `Python` | MLX-VLM is a package for inference and fine-tuning of Vision Language Mo… |
+| 🥈 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | 24253 | `Python` | Open Source AI Platform - AI Chat with advanced features that works with… |
+| 🥉 | [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | 15655 | `TypeScript` | OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs… |
+| 4️⃣ | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | 19916 | `TypeScript` | Create stunning demos for free. Open-source, no subscriptions, no waterm… |
+| 5️⃣ | [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | 30838 | `C++` | Telegram Desktop messaging app |
+| 6️⃣ | [block/goose](https://github.com/block/goose) | 35705 | `Rust` | an open source, extensible AI agent that goes beyond code suggestions - … |
+| 7️⃣ | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | 8710 | `Python` | A framework for building, orchestrating and deploying AI agents and mult… |
+| 8️⃣ | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 79376 | `Python` | Hunt down social media accounts by username across social networks |
 
 </details>
 
-<sub>🕐 更新于 2026-04-04 09:14 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-04-05 09:24 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
