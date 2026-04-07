@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Happy Easter](https://twitter.com/search?q=Happy%20Easter) | — |
-| 🥈 | [UCLA](https://twitter.com/search?q=UCLA) | — |
-| 🥉 | [South Carolina](https://twitter.com/search?q=South%20Carolina) | — |
-| 4️⃣ | [Ben Brown](https://twitter.com/search?q=Ben%20Brown) | — |
-| 5️⃣ | [#RHOA](https://twitter.com/search?q=%23RHOA) | — |
-| 6️⃣ | [Porter Martone](https://twitter.com/search?q=Porter%20Martone) | — |
-| 7️⃣ | [Honor Huff](https://twitter.com/search?q=Honor%20Huff) | — |
-| 8️⃣ | [Lauren Betts](https://twitter.com/search?q=Lauren%20Betts) | — |
-| 9️⃣ | [Cooper Flagg](https://twitter.com/search?q=Cooper%20Flagg) | — |
-| 🔟 | [Jake Bird](https://twitter.com/search?q=Jake%20Bird) | — |
+| 🥇 | [#WWERaw](https://twitter.com/search?q=%23WWERaw) | — |
+| 🥈 | [CM Punk](https://twitter.com/search?q=CM%20Punk) | — |
+| 🥉 | [Invited Users](https://twitter.com/search?q=Invited%20Users) | — |
+| 4️⃣ | [#WWEonNetflix](https://twitter.com/search?q=%23WWEonNetflix) | — |
+| 5️⃣ | [Willson Contreras](https://twitter.com/search?q=Willson%20Contreras) | — |
+| 6️⃣ | [Pat MAGAfee](https://twitter.com/search?q=Pat%20MAGAfee) | — |
+| 7️⃣ | [PRESALE IS NOW OPEN](https://twitter.com/search?q=PRESALE%20IS%20NOW%20OPEN) | — |
+| 8️⃣ | [THE PRESALE EVENT HAS STARTED](https://twitter.com/search?q=THE%20PRESALE%20EVENT%20HAS%20STARTED) | — |
+| 9️⃣ | [PRESALE HAS NOW LAUNCHED](https://twitter.com/search?q=PRESALE%20HAS%20NOW%20LAUNCHED) | — |
+| 🔟 | [PUBLIC PRESALE IS NOW LIVE](https://twitter.com/search?q=PUBLIC%20PRESALE%20IS%20NOW%20LIVE) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-04-06 09:24 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-04-07 09:21 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-04-06 09:24 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-04-07 09:21 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | 16967 | `Kotlin` | A gallery that showcases on-device ML/GenAI use cases and allows people … |
-| 🥈 | [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) | 3935 | `Python` | MLX-VLM is a package for inference and fine-tuning of Vision Language Mo… |
-| 🥉 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | 22564 | `TypeScript` | Create stunning demos for free. Open-source, no subscriptions, no waterm… |
-| 4️⃣ | [block/goose](https://github.com/block/goose) | 37062 | `Rust` | an open source, extensible AI agent that goes beyond code suggestions - … |
-| 5️⃣ | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | 25041 | `Python` | Open Source AI Platform - AI Chat with advanced features that works with… |
-| 6️⃣ | [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | 31926 | `TypeScript` | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI librar… |
-| 7️⃣ | [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) | 3702 | `Rust` | The fastest and the most accurate file search toolkit for AI agents, Neo… |
-| 8️⃣ | [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | 1570 | `C++` | — |
-| 9️⃣ | [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | 31074 | `C++` | Telegram Desktop messaging app |
-| 🔟 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 441517 | `TypeScript` | freeCodeCamp.org's open-source codebase and curriculum. Learn math, prog… |
+| 🥇 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 23471 | `TypeScript` | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a clien… |
+| 🥈 | [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | 17884 | `Kotlin` | A gallery that showcases on-device ML/GenAI use cases and allows people … |
+| 🥉 | [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | 2021 | `C++` | — |
+| 4️⃣ | [immich-app/immich](https://github.com/immich-app/immich) | 96866 | `TypeScript` | High performance self-hosted photo and video management solution. |
+| 5️⃣ | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | 36543 | `TypeScript` | Shannon Lite is an autonomous, white-box AI pentester for web applicatio… |
+| 6️⃣ | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 28141 | `Python` | The agent that grows with you |
+| 7️⃣ | [tobi/qmd](https://github.com/tobi/qmd) | 18759 | `TypeScript` | mini cli search engine for your docs, knowledge bases, meeting notes, wh… |
+| 8️⃣ | [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) | 8315 | `Swift` | Telegram-iOS |
+| 9️⃣ | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | 20562 | — | Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON… |
+| 🔟 | [ollama/ollama](https://github.com/ollama/ollama) | 167698 | `Go` | Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qw… |
 
 </details>
 
-<sub>🕐 更新于 2026-04-06 09:24 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-04-07 09:21 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
