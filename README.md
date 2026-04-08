@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#WWERaw](https://twitter.com/search?q=%23WWERaw) | — |
-| 🥈 | [CM Punk](https://twitter.com/search?q=CM%20Punk) | — |
-| 🥉 | [Invited Users](https://twitter.com/search?q=Invited%20Users) | — |
-| 4️⃣ | [#WWEonNetflix](https://twitter.com/search?q=%23WWEonNetflix) | — |
-| 5️⃣ | [Willson Contreras](https://twitter.com/search?q=Willson%20Contreras) | — |
-| 6️⃣ | [Pat MAGAfee](https://twitter.com/search?q=Pat%20MAGAfee) | — |
-| 7️⃣ | [PRESALE IS NOW OPEN](https://twitter.com/search?q=PRESALE%20IS%20NOW%20OPEN) | — |
-| 8️⃣ | [THE PRESALE EVENT HAS STARTED](https://twitter.com/search?q=THE%20PRESALE%20EVENT%20HAS%20STARTED) | — |
-| 9️⃣ | [PRESALE HAS NOW LAUNCHED](https://twitter.com/search?q=PRESALE%20HAS%20NOW%20LAUNCHED) | — |
-| 🔟 | [PUBLIC PRESALE IS NOW LIVE](https://twitter.com/search?q=PUBLIC%20PRESALE%20IS%20NOW%20LIVE) | — |
+| 🥇 | [Iran](https://twitter.com/search?q=Iran) | — |
+| 🥈 | [TACO Tuesday](https://twitter.com/search?q=TACO%20Tuesday) | — |
+| 🥉 | [Pakistan](https://twitter.com/search?q=Pakistan) | — |
+| 4️⃣ | [#FIFAWorldCupTicketBUY](https://twitter.com/search?q=%23FIFAWorldCupTicketBUY) | — |
+| 5️⃣ | [Strait](https://twitter.com/search?q=Strait) | — |
+| 6️⃣ | [Ceasefire](https://twitter.com/search?q=Ceasefire) | — |
+| 7️⃣ | [Mythos](https://twitter.com/search?q=Mythos) | — |
+| 8️⃣ | [Ronny Mauricio](https://twitter.com/search?q=Ronny%20Mauricio) | — |
+| 9️⃣ | [Art of the Deal](https://twitter.com/search?q=Art%20of%20the%20Deal) | — |
+| 🔟 | [Bayern](https://twitter.com/search?q=Bayern) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-04-07 09:21 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-04-08 09:22 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-04-07 09:21 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-04-08 09:22 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,19 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 23471 | `TypeScript` | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a clien… |
-| 🥈 | [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | 17884 | `Kotlin` | A gallery that showcases on-device ML/GenAI use cases and allows people … |
-| 🥉 | [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | 2021 | `C++` | — |
-| 4️⃣ | [immich-app/immich](https://github.com/immich-app/immich) | 96866 | `TypeScript` | High performance self-hosted photo and video management solution. |
-| 5️⃣ | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | 36543 | `TypeScript` | Shannon Lite is an autonomous, white-box AI pentester for web applicatio… |
-| 6️⃣ | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 28141 | `Python` | The agent that grows with you |
-| 7️⃣ | [tobi/qmd](https://github.com/tobi/qmd) | 18759 | `TypeScript` | mini cli search engine for your docs, knowledge bases, meeting notes, wh… |
-| 8️⃣ | [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) | 8315 | `Swift` | Telegram-iOS |
-| 9️⃣ | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | 20562 | — | Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON… |
-| 🔟 | [ollama/ollama](https://github.com/ollama/ollama) | 167698 | `Go` | Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qw… |
+| 🥇 | [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | 18787 | `Kotlin` | A gallery that showcases on-device ML/GenAI use cases and allows people … |
+| 🥈 | [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | 2547 | `C++` | — |
+| 🥉 | [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) | 7955 | `Python` | PersonaPlex code. |
+| 4️⃣ | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 24521 | `TypeScript` | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a clien… |
+| 5️⃣ | [tobi/qmd](https://github.com/tobi/qmd) | 19557 | `TypeScript` | mini cli search engine for your docs, knowledge bases, meeting notes, wh… |
+| 6️⃣ | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 8070 | — | — |
+| 7️⃣ | [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) | 10046 | `Python` | Create Reddit Videos with just✨ one command ✨ |
+| 8️⃣ | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 12218 | `Python` | "DeepTutor: Agent-Native Personalized Learning Assistant" |
+| 9️⃣ | [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | 3900 | `Python` | A specialized Claude Code workspace for creating long-form, SEO-optimize… |
 
 </details>
 
-<sub>🕐 更新于 2026-04-07 09:21 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-04-08 09:22 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
