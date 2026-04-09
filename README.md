@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Iran](https://twitter.com/search?q=Iran) | — |
-| 🥈 | [TACO Tuesday](https://twitter.com/search?q=TACO%20Tuesday) | — |
-| 🥉 | [Pakistan](https://twitter.com/search?q=Pakistan) | — |
-| 4️⃣ | [#FIFAWorldCupTicketBUY](https://twitter.com/search?q=%23FIFAWorldCupTicketBUY) | — |
-| 5️⃣ | [Strait](https://twitter.com/search?q=Strait) | — |
-| 6️⃣ | [Ceasefire](https://twitter.com/search?q=Ceasefire) | — |
-| 7️⃣ | [Mythos](https://twitter.com/search?q=Mythos) | — |
-| 8️⃣ | [Ronny Mauricio](https://twitter.com/search?q=Ronny%20Mauricio) | — |
-| 9️⃣ | [Art of the Deal](https://twitter.com/search?q=Art%20of%20the%20Deal) | — |
-| 🔟 | [Bayern](https://twitter.com/search?q=Bayern) | — |
+| 🥇 | [Lebanon](https://twitter.com/search?q=Lebanon) | — |
+| 🥈 | [Zeal](https://twitter.com/search?q=Zeal) | — |
+| 🥉 | [Pope](https://twitter.com/search?q=Pope) | — |
+| 4️⃣ | [Vatican](https://twitter.com/search?q=Vatican) | — |
+| 5️⃣ | [Hezbollah](https://twitter.com/search?q=Hezbollah) | — |
+| 6️⃣ | [Verge](https://twitter.com/search?q=Verge) | — |
+| 7️⃣ | [Pressure](https://twitter.com/search?q=Pressure) | — |
+| 8️⃣ | [Barca](https://twitter.com/search?q=Barca) | — |
+| 9️⃣ | [Cubarsi](https://twitter.com/search?q=Cubarsi) | — |
+| 🔟 | [Courtney Williams](https://twitter.com/search?q=Courtney%20Williams) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-04-08 09:22 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-04-09 09:13 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-04-08 09:22 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-04-09 09:13 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,19 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | 18787 | `Kotlin` | A gallery that showcases on-device ML/GenAI use cases and allows people … |
-| 🥈 | [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | 2547 | `C++` | — |
-| 🥉 | [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) | 7955 | `Python` | PersonaPlex code. |
-| 4️⃣ | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 24521 | `TypeScript` | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a clien… |
-| 5️⃣ | [tobi/qmd](https://github.com/tobi/qmd) | 19557 | `TypeScript` | mini cli search engine for your docs, knowledge bases, meeting notes, wh… |
-| 6️⃣ | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 8070 | — | — |
-| 7️⃣ | [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) | 10046 | `Python` | Create Reddit Videos with just✨ one command ✨ |
-| 8️⃣ | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 12218 | `Python` | "DeepTutor: Agent-Native Personalized Learning Assistant" |
-| 9️⃣ | [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | 3900 | `Python` | A specialized Claude Code workspace for creating long-form, SEO-optimize… |
+| 🥇 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 9009 | — | — |
+| 🥈 | [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | 4591 | `Python` | A specialized Claude Code workspace for creating long-form, SEO-optimize… |
+| 🥉 | [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | 19511 | `Kotlin` | A gallery that showcases on-device ML/GenAI use cases and allows people … |
+| 4️⃣ | [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) | 8416 | `Python` | PersonaPlex code. |
+| 5️⃣ | [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | 2991 | `C++` | — |
+| 6️⃣ | [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) | 10491 | `Python` | Create Reddit Videos with just✨ one command ✨ |
+| 7️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 141544 | `Shell` | An agentic skills framework & software development methodology that work… |
+| 8️⃣ | [newton-physics/newton](https://github.com/newton-physics/newton) | 4098 | `Python` | An open-source, GPU-accelerated physics simulation engine built upon NVI… |
+| 9️⃣ | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 25307 | `TypeScript` | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a clien… |
+| 🔟 | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 50688 | `Python` | An AI Hedge Fund Team |
 
 </details>
 
-<sub>🕐 更新于 2026-04-08 09:22 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-04-09 09:13 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
