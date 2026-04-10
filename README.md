@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Lebanon](https://twitter.com/search?q=Lebanon) | — |
-| 🥈 | [Zeal](https://twitter.com/search?q=Zeal) | — |
-| 🥉 | [Pope](https://twitter.com/search?q=Pope) | — |
-| 4️⃣ | [Vatican](https://twitter.com/search?q=Vatican) | — |
-| 5️⃣ | [Hezbollah](https://twitter.com/search?q=Hezbollah) | — |
-| 6️⃣ | [Verge](https://twitter.com/search?q=Verge) | — |
-| 7️⃣ | [Pressure](https://twitter.com/search?q=Pressure) | — |
-| 8️⃣ | [Barca](https://twitter.com/search?q=Barca) | — |
-| 9️⃣ | [Cubarsi](https://twitter.com/search?q=Cubarsi) | — |
-| 🔟 | [Courtney Williams](https://twitter.com/search?q=Courtney%20Williams) | — |
+| 🥇 | [Melania](https://twitter.com/search?q=Melania) | — |
+| 🥈 | [Melania](https://twitter.com/search?q=Melania) | — |
+| 🥉 | [Nolan McLean](https://twitter.com/search?q=Nolan%20McLean) | — |
+| 4️⃣ | [Alex Jones](https://twitter.com/search?q=Alex%20Jones) | — |
+| 5️⃣ | [Mitchell Robinson](https://twitter.com/search?q=Mitchell%20Robinson) | — |
+| 6️⃣ | [Demar](https://twitter.com/search?q=Demar) | — |
+| 7️⃣ | [Sandy Hook](https://twitter.com/search?q=Sandy%20Hook) | — |
+| 8️⃣ | [Josh Hart](https://twitter.com/search?q=Josh%20Hart) | — |
+| 9️⃣ | [Lane Thomas](https://twitter.com/search?q=Lane%20Thomas) | — |
+| 🔟 | [Vucevic](https://twitter.com/search?q=Vucevic) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-04-09 09:13 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-04-10 09:23 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-04-09 09:13 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-04-10 09:23 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 9009 | — | — |
-| 🥈 | [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | 4591 | `Python` | A specialized Claude Code workspace for creating long-form, SEO-optimize… |
-| 🥉 | [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | 19511 | `Kotlin` | A gallery that showcases on-device ML/GenAI use cases and allows people … |
-| 4️⃣ | [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) | 8416 | `Python` | PersonaPlex code. |
-| 5️⃣ | [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | 2991 | `C++` | — |
-| 6️⃣ | [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) | 10491 | `Python` | Create Reddit Videos with just✨ one command ✨ |
-| 7️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 141544 | `Shell` | An agentic skills framework & software development methodology that work… |
-| 8️⃣ | [newton-physics/newton](https://github.com/newton-physics/newton) | 4098 | `Python` | An open-source, GPU-accelerated physics simulation engine built upon NVI… |
-| 9️⃣ | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 25307 | `TypeScript` | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a clien… |
-| 🔟 | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 50688 | `Python` | An AI Hedge Fund Team |
+| 🥇 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 44604 | `Python` | The agent that grows with you |
+| 🥈 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 10486 | — | A single CLAUDE.md file to improve Claude Code behavior, derived from An… |
+| 🥉 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 14895 | `Python` | "DeepTutor: Agent-Native Personalized Learning Assistant" |
+| 4️⃣ | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 7674 | `Python` | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative… |
+| 5️⃣ | [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 13813 | `Java` | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
+| 6️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 143769 | `Shell` | An agentic skills framework & software development methodology that work… |
+| 7️⃣ | [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | 5213 | `Python` | A specialized Claude Code workspace for creating long-form, SEO-optimize… |
+| 8️⃣ | [coleam00/Archon](https://github.com/coleam00/Archon) | 14429 | `TypeScript` | The first open-source harness builder for AI coding. Make AI coding dete… |
+| 9️⃣ | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 12191 | `Python` | Kronos: A Foundation Model for the Language of Financial Markets |
+| 🔟 | [YishenTu/claudian](https://github.com/YishenTu/claudian) | 6841 | `TypeScript` | An Obsidian plugin that embeds Claude Code as an AI collaborator in your… |
 
 </details>
 
-<sub>🕐 更新于 2026-04-09 09:13 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-04-10 09:23 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
