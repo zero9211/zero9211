@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Melania](https://twitter.com/search?q=Melania) | — |
-| 🥈 | [Melania](https://twitter.com/search?q=Melania) | — |
-| 🥉 | [Nolan McLean](https://twitter.com/search?q=Nolan%20McLean) | — |
-| 4️⃣ | [Alex Jones](https://twitter.com/search?q=Alex%20Jones) | — |
-| 5️⃣ | [Mitchell Robinson](https://twitter.com/search?q=Mitchell%20Robinson) | — |
-| 6️⃣ | [Demar](https://twitter.com/search?q=Demar) | — |
-| 7️⃣ | [Sandy Hook](https://twitter.com/search?q=Sandy%20Hook) | — |
-| 8️⃣ | [Josh Hart](https://twitter.com/search?q=Josh%20Hart) | — |
-| 9️⃣ | [Lane Thomas](https://twitter.com/search?q=Lane%20Thomas) | — |
-| 🔟 | [Vucevic](https://twitter.com/search?q=Vucevic) | — |
+| 🥇 | [Artemis II](https://twitter.com/search?q=Artemis%20II) | — |
+| 🥈 | [Swalwell](https://twitter.com/search?q=Swalwell) | — |
+| 🥉 | [#NASA](https://twitter.com/search?q=%23NASA) | — |
+| 4️⃣ | [Rory](https://twitter.com/search?q=Rory) | — |
+| 5️⃣ | [#DragRace](https://twitter.com/search?q=%23DragRace) | — |
+| 6️⃣ | [Luis Gil](https://twitter.com/search?q=Luis%20Gil) | — |
+| 7️⃣ | [Pacific Ocean](https://twitter.com/search?q=Pacific%20Ocean) | — |
+| 8️⃣ | [THEY MADE IT](https://twitter.com/search?q=THEY%20MADE%20IT) | — |
+| 9️⃣ | [Wicks](https://twitter.com/search?q=Wicks) | — |
+| 🔟 | [#BINI_CoachellaWk1](https://twitter.com/search?q=%23BINI_CoachellaWk1) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-04-10 09:23 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-04-11 09:18 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-04-10 09:23 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-04-11 09:18 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 44604 | `Python` | The agent that grows with you |
-| 🥈 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 10486 | — | A single CLAUDE.md file to improve Claude Code behavior, derived from An… |
-| 🥉 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 14895 | `Python` | "DeepTutor: Agent-Native Personalized Learning Assistant" |
-| 4️⃣ | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 7674 | `Python` | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative… |
-| 5️⃣ | [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 13813 | `Java` | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
-| 6️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 143769 | `Shell` | An agentic skills framework & software development methodology that work… |
-| 7️⃣ | [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | 5213 | `Python` | A specialized Claude Code workspace for creating long-form, SEO-optimize… |
-| 8️⃣ | [coleam00/Archon](https://github.com/coleam00/Archon) | 14429 | `TypeScript` | The first open-source harness builder for AI coding. Make AI coding dete… |
-| 9️⃣ | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 12191 | `Python` | Kronos: A Foundation Model for the Language of Financial Markets |
-| 🔟 | [YishenTu/claudian](https://github.com/YishenTu/claudian) | 6841 | `TypeScript` | An Obsidian plugin that embeds Claude Code as an AI collaborator in your… |
+| 🥇 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 99733 | `Python` | Python tool for converting files and office documents to Markdown. |
+| 🥈 | [coleam00/Archon](https://github.com/coleam00/Archon) | 15639 | `TypeScript` | The first open-source harness builder for AI coding. Make AI coding dete… |
+| 🥉 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 52070 | `Python` | The agent that grows with you |
+| 4️⃣ | [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | 11740 | `TypeScript` | Open-source AI coworker, with memory |
+| 5️⃣ | [multica-ai/multica](https://github.com/multica-ai/multica) | 6110 | `TypeScript` | The open-source managed agents platform. Turn coding agents into real te… |
+| 6️⃣ | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 11750 | — | A single CLAUDE.md file to improve Claude Code behavior, derived from An… |
+| 7️⃣ | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 12719 | `Python` | Kronos: A Foundation Model for the Language of Financial Markets |
+| 8️⃣ | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 15989 | `Python` | "DeepTutor: Agent-Native Personalized Learning Assistant" |
+| 9️⃣ | [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 14800 | `Java` | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
+| 🔟 | [obra/superpowers](https://github.com/obra/superpowers) | 145759 | `Shell` | An agentic skills framework & software development methodology that work… |
 
 </details>
 
-<sub>🕐 更新于 2026-04-10 09:23 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-04-11 09:18 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
