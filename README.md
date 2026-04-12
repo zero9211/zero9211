@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Artemis II](https://twitter.com/search?q=Artemis%20II) | — |
-| 🥈 | [Swalwell](https://twitter.com/search?q=Swalwell) | — |
-| 🥉 | [#NASA](https://twitter.com/search?q=%23NASA) | — |
-| 4️⃣ | [Rory](https://twitter.com/search?q=Rory) | — |
-| 5️⃣ | [#DragRace](https://twitter.com/search?q=%23DragRace) | — |
-| 6️⃣ | [Luis Gil](https://twitter.com/search?q=Luis%20Gil) | — |
-| 7️⃣ | [Pacific Ocean](https://twitter.com/search?q=Pacific%20Ocean) | — |
-| 8️⃣ | [THEY MADE IT](https://twitter.com/search?q=THEY%20MADE%20IT) | — |
-| 9️⃣ | [Wicks](https://twitter.com/search?q=Wicks) | — |
-| 🔟 | [#BINI_CoachellaWk1](https://twitter.com/search?q=%23BINI_CoachellaWk1) | — |
+| 🥇 | [#UFC327](https://twitter.com/search?q=%23UFC327) | — |
+| 🥈 | [#AEWCollision](https://twitter.com/search?q=%23AEWCollision) | — |
+| 🥉 | [Kevin Holland](https://twitter.com/search?q=Kevin%20Holland) | — |
+| 4️⃣ | [Randy Brown](https://twitter.com/search?q=Randy%20Brown) | — |
+| 5️⃣ | [#TNARebellion](https://twitter.com/search?q=%23TNARebellion) | — |
+| 6️⃣ | [#Svengoolie](https://twitter.com/search?q=%23Svengoolie) | — |
+| 7️⃣ | [Padilla](https://twitter.com/search?q=Padilla) | — |
+| 8️⃣ | [#MostRequestedLive](https://twitter.com/search?q=%23MostRequestedLive) | — |
+| 9️⃣ | [Pico](https://twitter.com/search?q=Pico) | — |
+| 🔟 | [Cam Young](https://twitter.com/search?q=Cam%20Young) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-04-11 09:18 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-04-12 09:28 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-04-11 09:18 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-04-12 09:28 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 99733 | `Python` | Python tool for converting files and office documents to Markdown. |
-| 🥈 | [coleam00/Archon](https://github.com/coleam00/Archon) | 15639 | `TypeScript` | The first open-source harness builder for AI coding. Make AI coding dete… |
-| 🥉 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 52070 | `Python` | The agent that grows with you |
-| 4️⃣ | [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | 11740 | `TypeScript` | Open-source AI coworker, with memory |
-| 5️⃣ | [multica-ai/multica](https://github.com/multica-ai/multica) | 6110 | `TypeScript` | The open-source managed agents platform. Turn coding agents into real te… |
-| 6️⃣ | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 11750 | — | A single CLAUDE.md file to improve Claude Code behavior, derived from An… |
-| 7️⃣ | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 12719 | `Python` | Kronos: A Foundation Model for the Language of Financial Markets |
-| 8️⃣ | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 15989 | `Python` | "DeepTutor: Agent-Native Personalized Learning Assistant" |
-| 9️⃣ | [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 14800 | `Java` | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
-| 🔟 | [obra/superpowers](https://github.com/obra/superpowers) | 145759 | `Shell` | An agentic skills framework & software development methodology that work… |
+| 🥇 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 59071 | `Python` | The agent that grows with you |
+| 🥈 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 102258 | `Python` | Python tool for converting files and office documents to Markdown. |
+| 🥉 | [coleam00/Archon](https://github.com/coleam00/Archon) | 16478 | `TypeScript` | The first open-source harness builder for AI coding. Make AI coding dete… |
+| 4️⃣ | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 13642 | — | A single CLAUDE.md file to improve Claude Code behavior, derived from An… |
+| 5️⃣ | [multica-ai/multica](https://github.com/multica-ai/multica) | 7946 | `TypeScript` | The open-source managed agents platform. Turn coding agents into real te… |
+| 6️⃣ | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 37090 | `HTML` | practice made claude perfect |
+| 7️⃣ | [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 67790 | `Roff` | 所有小初高、大学PDF教材。 |
+| 8️⃣ | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 9923 | `Python` | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative… |
+| 9️⃣ | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 14287 | `Python` | Kronos: A Foundation Model for the Language of Financial Markets |
+| 🔟 | [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 15625 | `Java` | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
 
 </details>
 
-<sub>🕐 更新于 2026-04-11 09:18 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-04-12 09:28 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
