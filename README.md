@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#UFC327](https://twitter.com/search?q=%23UFC327) | — |
-| 🥈 | [#AEWCollision](https://twitter.com/search?q=%23AEWCollision) | — |
-| 🥉 | [Kevin Holland](https://twitter.com/search?q=Kevin%20Holland) | — |
-| 4️⃣ | [Randy Brown](https://twitter.com/search?q=Randy%20Brown) | — |
-| 5️⃣ | [#TNARebellion](https://twitter.com/search?q=%23TNARebellion) | — |
-| 6️⃣ | [#Svengoolie](https://twitter.com/search?q=%23Svengoolie) | — |
-| 7️⃣ | [Padilla](https://twitter.com/search?q=Padilla) | — |
-| 8️⃣ | [#MostRequestedLive](https://twitter.com/search?q=%23MostRequestedLive) | — |
-| 9️⃣ | [Pico](https://twitter.com/search?q=Pico) | — |
-| 🔟 | [Cam Young](https://twitter.com/search?q=Cam%20Young) | — |
+| 🥇 | [#AEWDynasty](https://twitter.com/search?q=%23AEWDynasty) | — |
+| 🥈 | [Hungary](https://twitter.com/search?q=Hungary) | — |
+| 🥉 | [Rory](https://twitter.com/search?q=Rory) | — |
+| 4️⃣ | [Orban](https://twitter.com/search?q=Orban) | — |
+| 5️⃣ | [Masters](https://twitter.com/search?q=Masters) | — |
+| 6️⃣ | [Ty Gibbs](https://twitter.com/search?q=Ty%20Gibbs) | — |
+| 7️⃣ | [Kamille](https://twitter.com/search?q=Kamille) | — |
+| 8️⃣ | [#BaddiesUSAReunion](https://twitter.com/search?q=%23BaddiesUSAReunion) | — |
+| 9️⃣ | [Okada](https://twitter.com/search?q=Okada) | — |
+| 🔟 | [Hungarian](https://twitter.com/search?q=Hungarian) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-04-12 09:28 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-04-13 09:30 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-04-12 09:28 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-04-13 09:30 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 59071 | `Python` | The agent that grows with you |
-| 🥈 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 102258 | `Python` | Python tool for converting files and office documents to Markdown. |
-| 🥉 | [coleam00/Archon](https://github.com/coleam00/Archon) | 16478 | `TypeScript` | The first open-source harness builder for AI coding. Make AI coding dete… |
-| 4️⃣ | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 13642 | — | A single CLAUDE.md file to improve Claude Code behavior, derived from An… |
-| 5️⃣ | [multica-ai/multica](https://github.com/multica-ai/multica) | 7946 | `TypeScript` | The open-source managed agents platform. Turn coding agents into real te… |
-| 6️⃣ | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 37090 | `HTML` | practice made claude perfect |
-| 7️⃣ | [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 67790 | `Roff` | 所有小初高、大学PDF教材。 |
-| 8️⃣ | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 9923 | `Python` | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative… |
-| 9️⃣ | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 14287 | `Python` | Kronos: A Foundation Model for the Language of Financial Markets |
-| 🔟 | [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 15625 | `Java` | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
+| 🥇 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 66947 | `Python` | The agent that grows with you |
+| 🥈 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 15810 | `Python` | Kronos: A Foundation Model for the Language of Financial Markets |
+| 🥉 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 16958 | — | A single CLAUDE.md file to improve Claude Code behavior, derived from An… |
+| 4️⃣ | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 104790 | `Python` | Python tool for converting files and office documents to Markdown. |
+| 5️⃣ | [multica-ai/multica](https://github.com/multica-ai/multica) | 9451 | `TypeScript` | The open-source managed agents platform. Turn coding agents into real te… |
+| 6️⃣ | [coleam00/Archon](https://github.com/coleam00/Archon) | 17076 | `TypeScript` | The first open-source harness builder for AI coding. Make AI coding dete… |
+| 7️⃣ | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 39099 | `HTML` | practice made claude perfect |
+| 8️⃣ | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 11335 | `Python` | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative… |
+| 9️⃣ | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 50113 | `TypeScript` | A Claude Code plugin that automatically captures everything Claude does … |
+| 🔟 | [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) | 19159 | `Python` | — |
 
 </details>
 
-<sub>🕐 更新于 2026-04-12 09:28 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-04-13 09:30 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
