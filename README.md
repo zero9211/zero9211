@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#AEWDynasty](https://twitter.com/search?q=%23AEWDynasty) | — |
-| 🥈 | [Hungary](https://twitter.com/search?q=Hungary) | — |
-| 🥉 | [Rory](https://twitter.com/search?q=Rory) | — |
-| 4️⃣ | [Orban](https://twitter.com/search?q=Orban) | — |
-| 5️⃣ | [Masters](https://twitter.com/search?q=Masters) | — |
-| 6️⃣ | [Ty Gibbs](https://twitter.com/search?q=Ty%20Gibbs) | — |
-| 7️⃣ | [Kamille](https://twitter.com/search?q=Kamille) | — |
-| 8️⃣ | [#BaddiesUSAReunion](https://twitter.com/search?q=%23BaddiesUSAReunion) | — |
-| 9️⃣ | [Okada](https://twitter.com/search?q=Okada) | — |
-| 🔟 | [Hungarian](https://twitter.com/search?q=Hungarian) | — |
+| 🥇 | [#WNBADraft](https://twitter.com/search?q=%23WNBADraft) | — |
+| 🥈 | [Lauren Betts](https://twitter.com/search?q=Lauren%20Betts) | — |
+| 🥉 | [Azzi Fudd](https://twitter.com/search?q=Azzi%20Fudd) | — |
+| 4️⃣ | [Olivia Miles](https://twitter.com/search?q=Olivia%20Miles) | — |
+| 5️⃣ | [Flau'jae](https://twitter.com/search?q=Flau'jae) | — |
+| 6️⃣ | [Red Cross](https://twitter.com/search?q=Red%20Cross) | — |
+| 7️⃣ | [Coach Mac](https://twitter.com/search?q=Coach%20Mac) | — |
+| 8️⃣ | [Gabriela Jaquez](https://twitter.com/search?q=Gabriela%20Jaquez) | — |
+| 9️⃣ | [Dallas Wings](https://twitter.com/search?q=Dallas%20Wings) | — |
+| 🔟 | [Kiki Rice](https://twitter.com/search?q=Kiki%20Rice) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-04-13 09:30 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-04-14 09:27 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-04-13 09:30 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-04-14 09:27 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 66947 | `Python` | The agent that grows with you |
-| 🥈 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 15810 | `Python` | Kronos: A Foundation Model for the Language of Financial Markets |
-| 🥉 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 16958 | — | A single CLAUDE.md file to improve Claude Code behavior, derived from An… |
-| 4️⃣ | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 104790 | `Python` | Python tool for converting files and office documents to Markdown. |
-| 5️⃣ | [multica-ai/multica](https://github.com/multica-ai/multica) | 9451 | `TypeScript` | The open-source managed agents platform. Turn coding agents into real te… |
-| 6️⃣ | [coleam00/Archon](https://github.com/coleam00/Archon) | 17076 | `TypeScript` | The first open-source harness builder for AI coding. Make AI coding dete… |
-| 7️⃣ | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 39099 | `HTML` | practice made claude perfect |
-| 8️⃣ | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 11335 | `Python` | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative… |
-| 9️⃣ | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 50113 | `TypeScript` | A Claude Code plugin that automatically captures everything Claude does … |
-| 🔟 | [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) | 19159 | `Python` | — |
+| 🥇 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 25367 | — | A single CLAUDE.md file to improve Claude Code behavior, derived from An… |
+| 🥈 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 77334 | `Python` | The agent that grows with you |
+| 🥉 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 17034 | `Python` | Kronos: A Foundation Model for the Language of Financial Markets |
+| 4️⃣ | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 53351 | `TypeScript` | A Claude Code plugin that automatically captures everything Claude does … |
+| 5️⃣ | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 106993 | `Python` | Python tool for converting files and office documents to Markdown. |
+| 6️⃣ | [multica-ai/multica](https://github.com/multica-ai/multica) | 11158 | `TypeScript` | The open-source managed agents platform. Turn coding agents into real te… |
+| 7️⃣ | [coleam00/Archon](https://github.com/coleam00/Archon) | 17627 | `TypeScript` | The first open-source harness builder for AI coding. Make AI coding dete… |
+| 8️⃣ | [snarktank/ralph](https://github.com/snarktank/ralph) | 16527 | `TypeScript` | Ralph is an autonomous AI agent loop that runs repeatedly until all PRD … |
+| 9️⃣ | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 52973 | `Python` | An AI Hedge Fund Team |
+| 🔟 | [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 39532 | `Jupyter Notebook` | A collection of notebooks/recipes showcasing some fun and effective ways… |
 
 </details>
 
-<sub>🕐 更新于 2026-04-13 09:30 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-04-14 09:27 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
