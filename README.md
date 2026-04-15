@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#WNBADraft](https://twitter.com/search?q=%23WNBADraft) | — |
-| 🥈 | [Lauren Betts](https://twitter.com/search?q=Lauren%20Betts) | — |
-| 🥉 | [Azzi Fudd](https://twitter.com/search?q=Azzi%20Fudd) | — |
-| 4️⃣ | [Olivia Miles](https://twitter.com/search?q=Olivia%20Miles) | — |
-| 5️⃣ | [Flau'jae](https://twitter.com/search?q=Flau'jae) | — |
-| 6️⃣ | [Red Cross](https://twitter.com/search?q=Red%20Cross) | — |
-| 7️⃣ | [Coach Mac](https://twitter.com/search?q=Coach%20Mac) | — |
-| 8️⃣ | [Gabriela Jaquez](https://twitter.com/search?q=Gabriela%20Jaquez) | — |
-| 9️⃣ | [Dallas Wings](https://twitter.com/search?q=Dallas%20Wings) | — |
-| 🔟 | [Kiki Rice](https://twitter.com/search?q=Kiki%20Rice) | — |
+| 🥇 | [$BULL](https://twitter.com/search?q=%24BULL) | — |
+| 🥈 | [Lamelo](https://twitter.com/search?q=Lamelo) | — |
+| 🥉 | [Ryan Weathers](https://twitter.com/search?q=Ryan%20Weathers) | — |
+| 4️⃣ | [Sneako](https://twitter.com/search?q=Sneako) | — |
+| 5️⃣ | [Vrabel](https://twitter.com/search?q=Vrabel) | — |
+| 6️⃣ | [Hornets](https://twitter.com/search?q=Hornets) | — |
+| 7️⃣ | [#NXTRevenge](https://twitter.com/search?q=%23NXTRevenge) | — |
+| 8️⃣ | [Barca](https://twitter.com/search?q=Barca) | — |
+| 9️⃣ | [Godzilla](https://twitter.com/search?q=Godzilla) | — |
+| 🔟 | [Bam Adebayo](https://twitter.com/search?q=Bam%20Adebayo) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-04-14 09:27 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-04-15 09:24 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-04-14 09:27 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-04-15 09:24 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 25367 | — | A single CLAUDE.md file to improve Claude Code behavior, derived from An… |
-| 🥈 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 77334 | `Python` | The agent that grows with you |
-| 🥉 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 17034 | `Python` | Kronos: A Foundation Model for the Language of Financial Markets |
-| 4️⃣ | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 53351 | `TypeScript` | A Claude Code plugin that automatically captures everything Claude does … |
-| 5️⃣ | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 106993 | `Python` | Python tool for converting files and office documents to Markdown. |
-| 6️⃣ | [multica-ai/multica](https://github.com/multica-ai/multica) | 11158 | `TypeScript` | The open-source managed agents platform. Turn coding agents into real te… |
-| 7️⃣ | [coleam00/Archon](https://github.com/coleam00/Archon) | 17627 | `TypeScript` | The first open-source harness builder for AI coding. Make AI coding dete… |
-| 8️⃣ | [snarktank/ralph](https://github.com/snarktank/ralph) | 16527 | `TypeScript` | Ralph is an autonomous AI agent loop that runs repeatedly until all PRD … |
-| 9️⃣ | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 52973 | `Python` | An AI Hedge Fund Team |
-| 🔟 | [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 39532 | `Jupyter Notebook` | A collection of notebooks/recipes showcasing some fun and effective ways… |
+| 🥇 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 34005 | — | A single CLAUDE.md file to improve Claude Code behavior, derived from An… |
+| 🥈 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 55846 | `TypeScript` | A Claude Code plugin that automatically captures everything Claude does … |
+| 🥉 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 17367 | `TypeScript` | The open-source voice synthesis studio |
+| 4️⃣ | [pascalorg/editor](https://github.com/pascalorg/editor) | 11660 | `TypeScript` | Create and share 3D architectural projects. |
+| 5️⃣ | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 108491 | `Python` | Python tool for converting files and office documents to Markdown. |
+| 6️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 152331 | `Shell` | An agentic skills framework & software development methodology that work… |
+| 7️⃣ | [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | 66372 | `Assembly` | Original Apollo 11 Guidance Computer (AGC) source code for the command a… |
+| 8️⃣ | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 54164 | `Python` | An AI Hedge Fund Team |
+| 9️⃣ | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 17813 | `Python` | Kronos: A Foundation Model for the Language of Financial Markets |
+| 🔟 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 84489 | `Python` | The agent that grows with you |
 
 </details>
 
-<sub>🕐 更新于 2026-04-14 09:27 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-04-15 09:24 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
