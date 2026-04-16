@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [$BULL](https://twitter.com/search?q=%24BULL) | — |
-| 🥈 | [Lamelo](https://twitter.com/search?q=Lamelo) | — |
-| 🥉 | [Ryan Weathers](https://twitter.com/search?q=Ryan%20Weathers) | — |
-| 4️⃣ | [Sneako](https://twitter.com/search?q=Sneako) | — |
-| 5️⃣ | [Vrabel](https://twitter.com/search?q=Vrabel) | — |
-| 6️⃣ | [Hornets](https://twitter.com/search?q=Hornets) | — |
-| 7️⃣ | [#NXTRevenge](https://twitter.com/search?q=%23NXTRevenge) | — |
-| 8️⃣ | [Barca](https://twitter.com/search?q=Barca) | — |
-| 9️⃣ | [Godzilla](https://twitter.com/search?q=Godzilla) | — |
-| 🔟 | [Bam Adebayo](https://twitter.com/search?q=Bam%20Adebayo) | — |
+| 🥇 | [#AEWDynamite](https://twitter.com/search?q=%23AEWDynamite) | — |
+| 🥈 | [Sal Stewart](https://twitter.com/search?q=Sal%20Stewart) | — |
+| 🥉 | [Camavinga](https://twitter.com/search?q=Camavinga) | — |
+| 4️⃣ | [Madrid](https://twitter.com/search?q=Madrid) | — |
+| 5️⃣ | [Haitians](https://twitter.com/search?q=Haitians) | — |
+| 6️⃣ | [Bayern](https://twitter.com/search?q=Bayern) | — |
+| 7️⃣ | [Ronda](https://twitter.com/search?q=Ronda) | — |
+| 8️⃣ | [Nico Hoerner](https://twitter.com/search?q=Nico%20Hoerner) | — |
+| 9️⃣ | [Tyler Mahle](https://twitter.com/search?q=Tyler%20Mahle) | — |
+| 🔟 | [Darby](https://twitter.com/search?q=Darby) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-04-15 09:24 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-04-16 09:30 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-04-15 09:24 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-04-16 09:30 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 34005 | — | A single CLAUDE.md file to improve Claude Code behavior, derived from An… |
-| 🥈 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 55846 | `TypeScript` | A Claude Code plugin that automatically captures everything Claude does … |
-| 🥉 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 17367 | `TypeScript` | The open-source voice synthesis studio |
-| 4️⃣ | [pascalorg/editor](https://github.com/pascalorg/editor) | 11660 | `TypeScript` | Create and share 3D architectural projects. |
-| 5️⃣ | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 108491 | `Python` | Python tool for converting files and office documents to Markdown. |
-| 6️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 152331 | `Shell` | An agentic skills framework & software development methodology that work… |
-| 7️⃣ | [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | 66372 | `Assembly` | Original Apollo 11 Guidance Computer (AGC) source code for the command a… |
-| 8️⃣ | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 54164 | `Python` | An AI Hedge Fund Team |
-| 9️⃣ | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 17813 | `Python` | Kronos: A Foundation Model for the Language of Financial Markets |
-| 🔟 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 84489 | `Python` | The agent that grows with you |
+| 🥇 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 43172 | — | A single CLAUDE.md file to improve Claude Code behavior, derived from An… |
+| 🥈 | [pascalorg/editor](https://github.com/pascalorg/editor) | 12674 | `TypeScript` | Create and share 3D architectural projects. |
+| 🥉 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 57876 | `TypeScript` | A Claude Code plugin that automatically captures everything Claude does … |
+| 4️⃣ | [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | 29483 | `Jupyter Notebook` | 《动手学大模型Dive into LLMs》系列编程实践教程 |
+| 5️⃣ | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 55084 | `Python` | An AI Hedge Fund Team |
+| 6️⃣ | [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | 66812 | `Assembly` | Original Apollo 11 Guidance Computer (AGC) source code for the command a… |
+| 7️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 154338 | `Shell` | An agentic skills framework & software development methodology that work… |
+| 8️⃣ | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 18308 | `TypeScript` | The open-source voice synthesis studio |
+| 9️⃣ | [public-apis/public-apis](https://github.com/public-apis/public-apis) | 423372 | `Python` | A collective list of free APIs |
+| 🔟 | [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) | 2652 | `TypeScript` | An open source template for building cloud agents. |
 
 </details>
 
-<sub>🕐 更新于 2026-04-15 09:24 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-04-16 09:30 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
