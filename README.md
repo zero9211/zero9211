@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#AEWDynamite](https://twitter.com/search?q=%23AEWDynamite) | — |
-| 🥈 | [Sal Stewart](https://twitter.com/search?q=Sal%20Stewart) | — |
-| 🥉 | [Camavinga](https://twitter.com/search?q=Camavinga) | — |
-| 4️⃣ | [Madrid](https://twitter.com/search?q=Madrid) | — |
-| 5️⃣ | [Haitians](https://twitter.com/search?q=Haitians) | — |
-| 6️⃣ | [Bayern](https://twitter.com/search?q=Bayern) | — |
-| 7️⃣ | [Ronda](https://twitter.com/search?q=Ronda) | — |
-| 8️⃣ | [Nico Hoerner](https://twitter.com/search?q=Nico%20Hoerner) | — |
-| 9️⃣ | [Tyler Mahle](https://twitter.com/search?q=Tyler%20Mahle) | — |
-| 🔟 | [Darby](https://twitter.com/search?q=Darby) | — |
+| 🥇 | [Parker Messick](https://twitter.com/search?q=Parker%20Messick) | — |
+| 🥈 | [Doomsday](https://twitter.com/search?q=Doomsday) | — |
+| 🥉 | [Cade Smith](https://twitter.com/search?q=Cade%20Smith) | — |
+| 4️⃣ | [#AEWCollision](https://twitter.com/search?q=%23AEWCollision) | — |
+| 5️⃣ | [$OKB](https://twitter.com/search?q=%24OKB) | — |
+| 6️⃣ | [#WCSupershow](https://twitter.com/search?q=%23WCSupershow) | — |
+| 7️⃣ | [#LiveLoud](https://twitter.com/search?q=%23LiveLoud) | — |
+| 8️⃣ | [Ravens](https://twitter.com/search?q=Ravens) | — |
+| 9️⃣ | [Infinity Vision](https://twitter.com/search?q=Infinity%20Vision) | — |
+| 🔟 | [#VitoriaAblaze](https://twitter.com/search?q=%23VitoriaAblaze) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-04-16 09:30 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-04-17 09:27 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-04-16 09:30 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-04-17 09:27 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 43172 | — | A single CLAUDE.md file to improve Claude Code behavior, derived from An… |
-| 🥈 | [pascalorg/editor](https://github.com/pascalorg/editor) | 12674 | `TypeScript` | Create and share 3D architectural projects. |
-| 🥉 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 57876 | `TypeScript` | A Claude Code plugin that automatically captures everything Claude does … |
-| 4️⃣ | [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | 29483 | `Jupyter Notebook` | 《动手学大模型Dive into LLMs》系列编程实践教程 |
-| 5️⃣ | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 55084 | `Python` | An AI Hedge Fund Team |
-| 6️⃣ | [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | 66812 | `Assembly` | Original Apollo 11 Guidance Computer (AGC) source code for the command a… |
-| 7️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 154338 | `Shell` | An agentic skills framework & software development methodology that work… |
-| 8️⃣ | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 18308 | `TypeScript` | The open-source voice synthesis studio |
-| 9️⃣ | [public-apis/public-apis](https://github.com/public-apis/public-apis) | 423372 | `Python` | A collective list of free APIs |
-| 🔟 | [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) | 2652 | `TypeScript` | An open source template for building cloud agents. |
+| 🥇 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 50012 | — | A single CLAUDE.md file to improve Claude Code behavior, derived from An… |
+| 🥈 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 59803 | `TypeScript` | A Claude Code plugin that automatically captures everything Claude does … |
+| 🥉 | [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | 2791 | `Python` | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving ful… |
+| 4️⃣ | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 19077 | `TypeScript` | The open-source voice synthesis studio |
+| 5️⃣ | [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) | 3215 | `TypeScript` | An open source template for building cloud agents. |
+| 6️⃣ | [google/magika](https://github.com/google/magika) | 14780 | `Python` | Fast and accurate AI powered file content types detection |
+| 7️⃣ | [steipete/wacli](https://github.com/steipete/wacli) | 1687 | `Go` | WhatsApp CLI |
+| 8️⃣ | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 15816 | `Python` | Knowledge Engine for AI Agent Memory in 6 lines of code |
+| 9️⃣ | [z-lab/dflash](https://github.com/z-lab/dflash) | 1614 | `Python` | DFlash: Block Diffusion for Flash Speculative Decoding |
+| 🔟 | [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | 30718 | `Jupyter Notebook` | 《动手学大模型Dive into LLMs》系列编程实践教程 |
 
 </details>
 
-<sub>🕐 更新于 2026-04-16 09:30 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-04-17 09:27 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
