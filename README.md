@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Parker Messick](https://twitter.com/search?q=Parker%20Messick) | — |
-| 🥈 | [Doomsday](https://twitter.com/search?q=Doomsday) | — |
-| 🥉 | [Cade Smith](https://twitter.com/search?q=Cade%20Smith) | — |
-| 4️⃣ | [#AEWCollision](https://twitter.com/search?q=%23AEWCollision) | — |
-| 5️⃣ | [$OKB](https://twitter.com/search?q=%24OKB) | — |
-| 6️⃣ | [#WCSupershow](https://twitter.com/search?q=%23WCSupershow) | — |
-| 7️⃣ | [#LiveLoud](https://twitter.com/search?q=%23LiveLoud) | — |
-| 8️⃣ | [Ravens](https://twitter.com/search?q=Ravens) | — |
-| 9️⃣ | [Infinity Vision](https://twitter.com/search?q=Infinity%20Vision) | — |
-| 🔟 | [#VitoriaAblaze](https://twitter.com/search?q=%23VitoriaAblaze) | — |
+| 🥇 | [Taijuan Walker](https://twitter.com/search?q=Taijuan%20Walker) | — |
+| 🥈 | [#JBBSXV](https://twitter.com/search?q=%23JBBSXV) | — |
+| 🥉 | [PRAGMATA RTX](https://twitter.com/search?q=PRAGMATA%20RTX) | — |
+| 4️⃣ | [Billy the Kid](https://twitter.com/search?q=Billy%20the%20Kid) | — |
+| 5️⃣ | [#BINI_CoachellaWk2](https://twitter.com/search?q=%23BINI_CoachellaWk2) | — |
+| 6️⃣ | [Sue Bird](https://twitter.com/search?q=Sue%20Bird) | — |
+| 7️⃣ | [Austin Riley](https://twitter.com/search?q=Austin%20Riley) | — |
+| 8️⃣ | [#BrazilHistoricTurn](https://twitter.com/search?q=%23BrazilHistoricTurn) | — |
+| 9️⃣ | [#BINICHELLA](https://twitter.com/search?q=%23BINICHELLA) | — |
+| 🔟 | [#WrestleMania](https://twitter.com/search?q=%23WrestleMania) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-04-17 09:27 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-04-18 09:21 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-04-17 09:27 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-04-18 09:21 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 50012 | — | A single CLAUDE.md file to improve Claude Code behavior, derived from An… |
-| 🥈 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 59803 | `TypeScript` | A Claude Code plugin that automatically captures everything Claude does … |
-| 🥉 | [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | 2791 | `Python` | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving ful… |
-| 4️⃣ | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 19077 | `TypeScript` | The open-source voice synthesis studio |
-| 5️⃣ | [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) | 3215 | `TypeScript` | An open source template for building cloud agents. |
-| 6️⃣ | [google/magika](https://github.com/google/magika) | 14780 | `Python` | Fast and accurate AI powered file content types detection |
-| 7️⃣ | [steipete/wacli](https://github.com/steipete/wacli) | 1687 | `Go` | WhatsApp CLI |
-| 8️⃣ | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 15816 | `Python` | Knowledge Engine for AI Agent Memory in 6 lines of code |
-| 9️⃣ | [z-lab/dflash](https://github.com/z-lab/dflash) | 1614 | `Python` | DFlash: Block Diffusion for Flash Speculative Decoding |
-| 🔟 | [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | 30718 | `Jupyter Notebook` | 《动手学大模型Dive into LLMs》系列编程实践教程 |
+| 🥇 | [EvoMap/evolver](https://github.com/EvoMap/evolver) | 4259 | `JavaScript` | The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Pr… |
+| 🥈 | [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | 3640 | `Python` | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving ful… |
+| 🥉 | [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) | 2751 | `Shell` | Claude Code skill to support Android app's reverse engineering |
+| 4️⃣ | [BasedHardware/omi](https://github.com/BasedHardware/omi) | 9848 | `Dart` | AI that sees your screen, listens to your conversations and tells you wh… |
+| 5️⃣ | [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | 31532 | `Jupyter Notebook` | 《动手学大模型Dive into LLMs》系列编程实践教程 |
+| 6️⃣ | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | 11799 | `Shell` | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow… |
+| 7️⃣ | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 19867 | `TypeScript` | The open-source voice synthesis studio |
+| 8️⃣ | [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) | 4300 | `TypeScript` | — |
+| 9️⃣ | [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) | 1461 | `Python` | Build your own AI SRE agents. The open source toolkit for the AI era ✨ |
+| 🔟 | [obra/superpowers](https://github.com/obra/superpowers) | 157782 | `Shell` | An agentic skills framework & software development methodology that work… |
 
 </details>
 
-<sub>🕐 更新于 2026-04-17 09:27 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-04-18 09:21 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
