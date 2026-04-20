@@ -58,19 +58,19 @@
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
 | 🥇 | [#WrestleMania](https://twitter.com/search?q=%23WrestleMania) | — |
-| 🥈 | [Paige](https://twitter.com/search?q=Paige) | — |
-| 🥉 | [Bengals](https://twitter.com/search?q=Bengals) | — |
-| 4️⃣ | [Seth Rollins](https://twitter.com/search?q=Seth%20Rollins) | — |
-| 5️⃣ | [Becky](https://twitter.com/search?q=Becky) | — |
-| 6️⃣ | [Bron Breakker](https://twitter.com/search?q=Bron%20Breakker) | — |
-| 7️⃣ | [Liv Morgan](https://twitter.com/search?q=Liv%20Morgan) | — |
-| 8️⃣ | [#UFCWinnipeg](https://twitter.com/search?q=%23UFCWinnipeg) | — |
-| 9️⃣ | [Dexter Lawrence](https://twitter.com/search?q=Dexter%20Lawrence) | — |
-| 🔟 | [Knicks](https://twitter.com/search?q=Knicks) | — |
+| 🥈 | [Brock](https://twitter.com/search?q=Brock) | — |
+| 🥉 | [Rhea](https://twitter.com/search?q=Rhea) | — |
+| 4️⃣ | [#bucciovertimechallenge](https://twitter.com/search?q=%23bucciovertimechallenge) | — |
+| 5️⃣ | [Pistons](https://twitter.com/search?q=Pistons) | — |
+| 6️⃣ | [CM Punk](https://twitter.com/search?q=CM%20Punk) | — |
+| 7️⃣ | [Cade](https://twitter.com/search?q=Cade) | — |
+| 8️⃣ | [Miseria Cantare](https://twitter.com/search?q=Miseria%20Cantare) | — |
+| 9️⃣ | [Jalen Duren](https://twitter.com/search?q=Jalen%20Duren) | — |
+| 🔟 | [Night 2](https://twitter.com/search?q=Night%202) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-04-19 09:43 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-04-20 09:45 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-04-19 09:43 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-04-20 09:45 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) | 1587 | `TypeScript` | AI You Control: Choose your models. Own your data. Eliminate vendor lock… |
-| 🥈 | [BasedHardware/omi](https://github.com/BasedHardware/omi) | 10477 | `Dart` | AI that sees your screen, listens to your conversations and tells you wh… |
-| 🥉 | [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | 22357 | `Python` | A lightweight, powerful framework for multi-agent workflows |
-| 4️⃣ | [EvoMap/evolver](https://github.com/EvoMap/evolver) | 5025 | `JavaScript` | The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Pr… |
-| 5️⃣ | [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) | 6543 | `Cuda` | DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling |
-| 6️⃣ | [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | 32037 | `Jupyter Notebook` | 《动手学大模型Dive into LLMs》系列编程实践教程 |
-| 7️⃣ | [aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) | 3477 | `Shell` | Claude Desktop for Debian-based Linux distributions |
-| 8️⃣ | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 112107 | `Rust` | An open-source remote desktop application designed for self-hosting, as … |
-| 9️⃣ | [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) | 3147 | `Shell` | Claude Code skill to support Android app's reverse engineering |
-| 🔟 | [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) | 746 | `HTML` | Enterprise Architecture Governance & Vendor Procurement Toolkit |
+| 🥇 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | 6706 | `Python` | FinceptTerminal is a modern finance application offering advanced market… |
+| 🥈 | [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) | 2257 | `TypeScript` | AI You Control: Choose your models. Own your data. Eliminate vendor lock… |
+| 🥉 | [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) | 1020 | `HTML` | Enterprise Architecture Governance & Vendor Procurement Toolkit |
+| 4️⃣ | [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | 23219 | `Python` | A lightweight, powerful framework for multi-agent workflows |
+| 5️⃣ | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 9902 | `TypeScript` | — |
+| 6️⃣ | [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | 38898 | `Python` | A community-supported supercharged document management system: scan, ind… |
+| 7️⃣ | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 47529 | `Rust` | π RuView: WiFi DensePose turns commodity WiFi signals into real-time hum… |
+| 8️⃣ | [EvoMap/evolver](https://github.com/EvoMap/evolver) | 5559 | `JavaScript` | The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Pr… |
+| 9️⃣ | [BasedHardware/omi](https://github.com/BasedHardware/omi) | 11194 | `Dart` | AI that sees your screen, listens to your conversations and tells you wh… |
+| 🔟 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | 13515 | `Shell` | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow… |
 
 </details>
 
-<sub>🕐 更新于 2026-04-19 09:43 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-04-20 09:45 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
