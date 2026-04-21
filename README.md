@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#WrestleMania](https://twitter.com/search?q=%23WrestleMania) | — |
-| 🥈 | [Brock](https://twitter.com/search?q=Brock) | — |
-| 🥉 | [Rhea](https://twitter.com/search?q=Rhea) | — |
-| 4️⃣ | [#bucciovertimechallenge](https://twitter.com/search?q=%23bucciovertimechallenge) | — |
-| 5️⃣ | [Pistons](https://twitter.com/search?q=Pistons) | — |
-| 6️⃣ | [CM Punk](https://twitter.com/search?q=CM%20Punk) | — |
-| 7️⃣ | [Cade](https://twitter.com/search?q=Cade) | — |
-| 8️⃣ | [Miseria Cantare](https://twitter.com/search?q=Miseria%20Cantare) | — |
-| 9️⃣ | [Jalen Duren](https://twitter.com/search?q=Jalen%20Duren) | — |
-| 🔟 | [Night 2](https://twitter.com/search?q=Night%202) | — |
+| 🥇 | [#WWERaw](https://twitter.com/search?q=%23WWERaw) | — |
+| 🥈 | [Ethan Page](https://twitter.com/search?q=Ethan%20Page) | — |
+| 🥉 | [Brandon Ingram](https://twitter.com/search?q=Brandon%20Ingram) | — |
+| 4️⃣ | [#RawAfterMania](https://twitter.com/search?q=%23RawAfterMania) | — |
+| 5️⃣ | [Tim Cook](https://twitter.com/search?q=Tim%20Cook) | — |
+| 6️⃣ | [Porter Martone](https://twitter.com/search?q=Porter%20Martone) | — |
+| 7️⃣ | [Thune](https://twitter.com/search?q=Thune) | — |
+| 8️⃣ | [John Ternus](https://twitter.com/search?q=John%20Ternus) | — |
+| 9️⃣ | [DPOY](https://twitter.com/search?q=DPOY) | — |
+| 🔟 | [#IgniteTheOrange](https://twitter.com/search?q=%23IgniteTheOrange) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-04-20 09:45 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-04-21 09:27 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-04-20 09:45 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-04-21 09:27 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | 6706 | `Python` | FinceptTerminal is a modern finance application offering advanced market… |
-| 🥈 | [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) | 2257 | `TypeScript` | AI You Control: Choose your models. Own your data. Eliminate vendor lock… |
-| 🥉 | [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) | 1020 | `HTML` | Enterprise Architecture Governance & Vendor Procurement Toolkit |
-| 4️⃣ | [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | 23219 | `Python` | A lightweight, powerful framework for multi-agent workflows |
-| 5️⃣ | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 9902 | `TypeScript` | — |
-| 6️⃣ | [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | 38898 | `Python` | A community-supported supercharged document management system: scan, ind… |
-| 7️⃣ | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 47529 | `Rust` | π RuView: WiFi DensePose turns commodity WiFi signals into real-time hum… |
-| 8️⃣ | [EvoMap/evolver](https://github.com/EvoMap/evolver) | 5559 | `JavaScript` | The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Pr… |
-| 9️⃣ | [BasedHardware/omi](https://github.com/BasedHardware/omi) | 11194 | `Dart` | AI that sees your screen, listens to your conversations and tells you wh… |
-| 🔟 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | 13515 | `Shell` | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow… |
+| 🥇 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | 9599 | `Python` | FinceptTerminal is a modern finance application offering advanced market… |
+| 🥈 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 48224 | `Rust` | π RuView: WiFi DensePose turns commodity WiFi signals into real-time hum… |
+| 🥉 | [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) | 2831 | `TypeScript` | AI You Control: Choose your models. Own your data. Eliminate vendor lock… |
+| 4️⃣ | [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | 39432 | `Python` | A community-supported supercharged document management system: scan, ind… |
+| 5️⃣ | [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) | 1348 | `HTML` | Enterprise Architecture Governance & Vendor Procurement Toolkit |
+| 6️⃣ | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 50136 | `TypeScript` | Real-time global intelligence dashboard. AI-powered news aggregation, ge… |
+| 7️⃣ | [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | 23951 | `Python` | A lightweight, powerful framework for multi-agent workflows |
+| 8️⃣ | [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) | 6831 | `Cuda` | DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling |
+| 9️⃣ | [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) | 57186 | `Shell` | A black hole for Internet advertisements |
+| 🔟 | [XTLS/Xray-core](https://github.com/XTLS/Xray-core) | 37459 | `Go` | Xray, Penetrates Everything. Also the best v2ray-core. Where the magic h… |
 
 </details>
 
-<sub>🕐 更新于 2026-04-20 09:45 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-04-21 09:27 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
