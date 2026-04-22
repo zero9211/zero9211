@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#WWERaw](https://twitter.com/search?q=%23WWERaw) | — |
-| 🥈 | [Ethan Page](https://twitter.com/search?q=Ethan%20Page) | — |
-| 🥉 | [Brandon Ingram](https://twitter.com/search?q=Brandon%20Ingram) | — |
-| 4️⃣ | [#RawAfterMania](https://twitter.com/search?q=%23RawAfterMania) | — |
-| 5️⃣ | [Tim Cook](https://twitter.com/search?q=Tim%20Cook) | — |
-| 6️⃣ | [Porter Martone](https://twitter.com/search?q=Porter%20Martone) | — |
-| 7️⃣ | [Thune](https://twitter.com/search?q=Thune) | — |
-| 8️⃣ | [John Ternus](https://twitter.com/search?q=John%20Ternus) | — |
-| 9️⃣ | [DPOY](https://twitter.com/search?q=DPOY) | — |
-| 🔟 | [#IgniteTheOrange](https://twitter.com/search?q=%23IgniteTheOrange) | — |
+| 🥇 | [SPLC](https://twitter.com/search?q=SPLC) | — |
+| 🥈 | [Southern Poverty Law Center](https://twitter.com/search?q=Southern%20Poverty%20Law%20Center) | — |
+| 🥉 | [Cursor](https://twitter.com/search?q=Cursor) | — |
+| 4️⃣ | [TACO Tuesday](https://twitter.com/search?q=TACO%20Tuesday) | — |
+| 5️⃣ | [Fairfax](https://twitter.com/search?q=Fairfax) | — |
+| 6️⃣ | [Josh Allen](https://twitter.com/search?q=Josh%20Allen) | — |
+| 7️⃣ | [Jaylen Brown](https://twitter.com/search?q=Jaylen%20Brown) | — |
+| 8️⃣ | [Nolan McLean](https://twitter.com/search?q=Nolan%20McLean) | — |
+| 9️⃣ | [Virginia](https://twitter.com/search?q=Virginia) | — |
+| 🔟 | [Charlottesville](https://twitter.com/search?q=Charlottesville) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-04-21 09:27 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-04-22 09:26 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-04-21 09:27 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-04-22 09:26 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,18 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | 9599 | `Python` | FinceptTerminal is a modern finance application offering advanced market… |
-| 🥈 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 48224 | `Rust` | π RuView: WiFi DensePose turns commodity WiFi signals into real-time hum… |
-| 🥉 | [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) | 2831 | `TypeScript` | AI You Control: Choose your models. Own your data. Eliminate vendor lock… |
-| 4️⃣ | [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | 39432 | `Python` | A community-supported supercharged document management system: scan, ind… |
-| 5️⃣ | [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) | 1348 | `HTML` | Enterprise Architecture Governance & Vendor Procurement Toolkit |
-| 6️⃣ | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 50136 | `TypeScript` | Real-time global intelligence dashboard. AI-powered news aggregation, ge… |
-| 7️⃣ | [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | 23951 | `Python` | A lightweight, powerful framework for multi-agent workflows |
-| 8️⃣ | [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) | 6831 | `Cuda` | DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling |
-| 9️⃣ | [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) | 57186 | `Shell` | A black hole for Internet advertisements |
-| 🔟 | [XTLS/Xray-core](https://github.com/XTLS/Xray-core) | 37459 | `Go` | Xray, Penetrates Everything. Also the best v2ray-core. Where the magic h… |
+| 🥇 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | 11643 | `Python` | FinceptTerminal is a modern finance application offering advanced market… |
+| 🥈 | [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) | 3480 | `TypeScript` | AI You Control: Choose your models. Own your data. Eliminate vendor lock… |
+| 🥉 | [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | 6625 | `TypeScript` | Code search MCP for Claude Code. Make entire codebase the context for an… |
+| 4️⃣ | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 48903 | `Rust` | π RuView: WiFi DensePose turns commodity WiFi signals into real-time hum… |
+| 5️⃣ | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 57704 | `Jupyter Notebook` | 12 Lessons to Get Started Building AI Agents |
+| 6️⃣ | [dayanch96/YTLite](https://github.com/dayanch96/YTLite) | 4838 | `Logos` | A flexible enhancer for YouTube on iOS |
+| 7️⃣ | [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | 16899 | `Python` | "RAG-Anything: All-in-One RAG Framework" |
+| 8️⃣ | [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 53670 | `Python` | ⭐AI-driven public opinion & trend monitor with multi-platform aggregatio… |
 
 </details>
 
-<sub>🕐 更新于 2026-04-21 09:27 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-04-22 09:26 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
