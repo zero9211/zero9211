@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [SPLC](https://twitter.com/search?q=SPLC) | — |
-| 🥈 | [Southern Poverty Law Center](https://twitter.com/search?q=Southern%20Poverty%20Law%20Center) | — |
-| 🥉 | [Cursor](https://twitter.com/search?q=Cursor) | — |
-| 4️⃣ | [TACO Tuesday](https://twitter.com/search?q=TACO%20Tuesday) | — |
-| 5️⃣ | [Fairfax](https://twitter.com/search?q=Fairfax) | — |
-| 6️⃣ | [Josh Allen](https://twitter.com/search?q=Josh%20Allen) | — |
-| 7️⃣ | [Jaylen Brown](https://twitter.com/search?q=Jaylen%20Brown) | — |
-| 8️⃣ | [Nolan McLean](https://twitter.com/search?q=Nolan%20McLean) | — |
-| 9️⃣ | [Virginia](https://twitter.com/search?q=Virginia) | — |
-| 🔟 | [Charlottesville](https://twitter.com/search?q=Charlottesville) | — |
+| 🥇 | [#AEWDynamite](https://twitter.com/search?q=%23AEWDynamite) | — |
+| 🥈 | [#Survivor50](https://twitter.com/search?q=%23Survivor50) | — |
+| 🥉 | [Rust](https://twitter.com/search?q=Rust) | — |
+| 4️⃣ | [Crosby](https://twitter.com/search?q=Crosby) | — |
+| 5️⃣ | [#IgniteTheOrange](https://twitter.com/search?q=%23IgniteTheOrange) | — |
+| 6️⃣ | [Lio Rush](https://twitter.com/search?q=Lio%20Rush) | — |
+| 7️⃣ | [Konecny](https://twitter.com/search?q=Konecny) | — |
+| 8️⃣ | [Hung Cao](https://twitter.com/search?q=Hung%20Cao) | — |
+| 9️⃣ | [#AbbottElementary](https://twitter.com/search?q=%23AbbottElementary) | — |
+| 🔟 | [Jalen Duren](https://twitter.com/search?q=Jalen%20Duren) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-04-22 09:26 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-04-23 09:44 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-04-22 09:26 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-04-23 09:44 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,18 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | 11643 | `Python` | FinceptTerminal is a modern finance application offering advanced market… |
-| 🥈 | [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) | 3480 | `TypeScript` | AI You Control: Choose your models. Own your data. Eliminate vendor lock… |
-| 🥉 | [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | 6625 | `TypeScript` | Code search MCP for Claude Code. Make entire codebase the context for an… |
-| 4️⃣ | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 48903 | `Rust` | π RuView: WiFi DensePose turns commodity WiFi signals into real-time hum… |
-| 5️⃣ | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 57704 | `Jupyter Notebook` | 12 Lessons to Get Started Building AI Agents |
-| 6️⃣ | [dayanch96/YTLite](https://github.com/dayanch96/YTLite) | 4838 | `Logos` | A flexible enhancer for YouTube on iOS |
-| 7️⃣ | [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | 16899 | `Python` | "RAG-Anything: All-in-One RAG Framework" |
-| 8️⃣ | [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 53670 | `Python` | ⭐AI-driven public opinion & trend monitor with multi-platform aggregatio… |
+| 🥇 | [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | 7569 | `TypeScript` | Code search MCP for Claude Code. Make entire codebase the context for an… |
+| 🥈 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | 13149 | `Python` | FinceptTerminal is a modern finance application offering advanced market… |
+| 🥉 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 51615 | `TypeScript` | Real-time global intelligence dashboard. AI-powered news aggregation, ge… |
+| 4️⃣ | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 25636 | `TypeScript` | 🪢 Open source LLM engineering platform: LLM Observability, metrics, eval… |
+| 5️⃣ | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | 39611 | `TypeScript` | Shannon Lite is an autonomous, white-box AI pentester for web applicatio… |
+| 6️⃣ | [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) | 12202 | `TypeScript` | OpenMetadata is a unified metadata platform for data discovery, data obs… |
+| 7️⃣ | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 49388 | `Rust` | π RuView: WiFi DensePose turns commodity WiFi signals into real-time hum… |
+| 8️⃣ | [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | 17571 | `Python` | "RAG-Anything: All-in-One RAG Framework" |
+| 9️⃣ | [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 54478 | `Python` | ⭐AI-driven public opinion & trend monitor with multi-platform aggregatio… |
+| 🔟 | [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) | 5616 | `Python` | 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine |
 
 </details>
 
-<sub>🕐 更新于 2026-04-22 09:26 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-04-23 09:44 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
