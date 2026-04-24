@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#AEWDynamite](https://twitter.com/search?q=%23AEWDynamite) | — |
-| 🥈 | [#Survivor50](https://twitter.com/search?q=%23Survivor50) | — |
-| 🥉 | [Rust](https://twitter.com/search?q=Rust) | — |
-| 4️⃣ | [Crosby](https://twitter.com/search?q=Crosby) | — |
-| 5️⃣ | [#IgniteTheOrange](https://twitter.com/search?q=%23IgniteTheOrange) | — |
-| 6️⃣ | [Lio Rush](https://twitter.com/search?q=Lio%20Rush) | — |
-| 7️⃣ | [Konecny](https://twitter.com/search?q=Konecny) | — |
-| 8️⃣ | [Hung Cao](https://twitter.com/search?q=Hung%20Cao) | — |
-| 9️⃣ | [#AbbottElementary](https://twitter.com/search?q=%23AbbottElementary) | — |
-| 🔟 | [Jalen Duren](https://twitter.com/search?q=Jalen%20Duren) | — |
+| 🥇 | [#NFLDraft](https://twitter.com/search?q=%23NFLDraft) | — |
+| 🥈 | [Fernando Mendoza](https://twitter.com/search?q=Fernando%20Mendoza) | — |
+| 🥉 | [Vrabel](https://twitter.com/search?q=Vrabel) | — |
+| 4️⃣ | [Vrabel](https://twitter.com/search?q=Vrabel) | — |
+| 5️⃣ | [CJ McCollum](https://twitter.com/search?q=CJ%20McCollum) | — |
+| 6️⃣ | [Payton Tolle](https://twitter.com/search?q=Payton%20Tolle) | — |
+| 7️⃣ | [Raiders](https://twitter.com/search?q=Raiders) | — |
+| 8️⃣ | [Pickens](https://twitter.com/search?q=Pickens) | — |
+| 9️⃣ | [Roger Goodell](https://twitter.com/search?q=Roger%20Goodell) | — |
+| 🔟 | [Weissert](https://twitter.com/search?q=Weissert) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-04-23 09:44 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-04-24 09:30 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-04-23 09:44 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-04-24 09:30 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | 7569 | `TypeScript` | Code search MCP for Claude Code. Make entire codebase the context for an… |
-| 🥈 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | 13149 | `Python` | FinceptTerminal is a modern finance application offering advanced market… |
-| 🥉 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 51615 | `TypeScript` | Real-time global intelligence dashboard. AI-powered news aggregation, ge… |
-| 4️⃣ | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 25636 | `TypeScript` | 🪢 Open source LLM engineering platform: LLM Observability, metrics, eval… |
-| 5️⃣ | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | 39611 | `TypeScript` | Shannon Lite is an autonomous, white-box AI pentester for web applicatio… |
-| 6️⃣ | [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) | 12202 | `TypeScript` | OpenMetadata is a unified metadata platform for data discovery, data obs… |
-| 7️⃣ | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 49388 | `Rust` | π RuView: WiFi DensePose turns commodity WiFi signals into real-time hum… |
-| 8️⃣ | [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | 17571 | `Python` | "RAG-Anything: All-in-One RAG Framework" |
-| 9️⃣ | [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 54478 | `Python` | ⭐AI-driven public opinion & trend monitor with multi-platform aggregatio… |
-| 🔟 | [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) | 5616 | `Python` | 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine |
+| 🥇 | [huggingface/ml-intern](https://github.com/huggingface/ml-intern) | 3373 | `Python` | 🤗 ml-intern: an open-source ML engineer that reads papers, trains models… |
+| 🥈 | [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | 8441 | `TypeScript` | Code search MCP for Claude Code. Make entire codebase the context for an… |
+| 🥉 | [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | 18181 | `Python` | "RAG-Anything: All-in-One RAG Framework" |
+| 4️⃣ | [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | 61087 | `Python` | ALL IN ONE Hacking Tool For Hackers |
+| 5️⃣ | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 49844 | `Rust` | π RuView: WiFi DensePose turns commodity WiFi signals into real-time hum… |
+| 6️⃣ | [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | 6971 | `JavaScript` | Uncensored, open-source alternative to Higgsfield AI, Freepik, Krea, Ope… |
+| 7️⃣ | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 5628 | `Python` | Use claude-code for free in the terminal, VSCode extension or via discor… |
+| 8️⃣ | [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) | 12945 | `TypeScript` | OpenMetadata is a unified metadata platform for data discovery, data obs… |
+| 9️⃣ | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 58810 | `Jupyter Notebook` | 12 Lessons to Get Started Building AI Agents |
+| 🔟 | [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | 52793 | `C#` | PowerShell for every system! |
 
 </details>
 
-<sub>🕐 更新于 2026-04-23 09:44 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-04-24 09:30 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
