@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Wyatt Sicks](https://twitter.com/search?q=Wyatt%20Sicks) | — |
-| 🥈 | [Kayden McDonald](https://twitter.com/search?q=Kayden%20McDonald) | — |
-| 🥉 | [Invited Users](https://twitter.com/search?q=Invited%20Users) | — |
-| 4️⃣ | [Stribling](https://twitter.com/search?q=Stribling) | — |
-| 5️⃣ | [Denzel Boston](https://twitter.com/search?q=Denzel%20Boston) | — |
-| 6️⃣ | [Bo Dallas](https://twitter.com/search?q=Bo%20Dallas) | — |
-| 7️⃣ | [#raindelayquestions](https://twitter.com/search?q=%23raindelayquestions) | — |
-| 8️⃣ | [Gen V](https://twitter.com/search?q=Gen%20V) | — |
-| 9️⃣ | [Chase U](https://twitter.com/search?q=Chase%20U) | — |
-| 🔟 | [Nikki Cross](https://twitter.com/search?q=Nikki%20Cross) | — |
+| 🥇 | [Cora](https://twitter.com/search?q=Cora) | — |
+| 🥈 | [Klay](https://twitter.com/search?q=Klay) | — |
+| 🥉 | [Breslow](https://twitter.com/search?q=Breslow) | — |
+| 4️⃣ | [UDFA](https://twitter.com/search?q=UDFA) | — |
+| 5️⃣ | [Secret Service](https://twitter.com/search?q=Secret%20Service) | — |
+| 6️⃣ | [White House Correspondents](https://twitter.com/search?q=White%20House%20Correspondents) | — |
+| 7️⃣ | [WHCD](https://twitter.com/search?q=WHCD) | — |
+| 8️⃣ | [Megan](https://twitter.com/search?q=Megan) | — |
+| 9️⃣ | [#bucciovertimechallenge](https://twitter.com/search?q=%23bucciovertimechallenge) | — |
+| 🔟 | [#UFCVegas116](https://twitter.com/search?q=%23UFCVegas116) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-04-25 09:23 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-04-26 09:45 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-04-25 09:23 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-04-26 09:45 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 8999 | `Python` | Use claude-code for free in the terminal, VSCode extension or via discor… |
-| 🥈 | [huggingface/ml-intern](https://github.com/huggingface/ml-intern) | 5357 | `Python` | 🤗 ml-intern: an open-source ML engineer that reads papers, trains models… |
-| 🥉 | [google/osv-scanner](https://github.com/google/osv-scanner) | 9514 | `Go` | Vulnerability scanner written in Go which uses the data provided by http… |
-| 4️⃣ | [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | 62388 | `Python` | ALL IN ONE Hacking Tool For Hackers |
-| 5️⃣ | [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | 9017 | `TypeScript` | Code search MCP for Claude Code. Make entire codebase the context for an… |
-| 6️⃣ | [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) | 13355 | `TypeScript` | OpenMetadata is a unified metadata platform for data discovery, data obs… |
-| 7️⃣ | [PostHog/posthog](https://github.com/PostHog/posthog) | 33117 | `Python` | 🦔 PostHog is an all-in-one developer platform for building successful pr… |
-| 8️⃣ | [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | 59175 | `Rust` | Unofficial Bitwarden compatible server written in Rust, formerly known a… |
-| 9️⃣ | [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | 7697 | `JavaScript` | Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea A… |
-| 🔟 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 494798 | `Markdown` | Master programming by recreating your favorite technologies from scratch… |
+| 🥇 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 11528 | `Python` | Use claude-code for free in the terminal, VSCode extension or via discor… |
+| 🥈 | [mattpocock/skills](https://github.com/mattpocock/skills) | 20119 | `Shell` | My personal directory of skills, straight from my .claude directory. |
+| 🥉 | [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | 63915 | `Python` | ALL IN ONE Hacking Tool For Hackers |
+| 4️⃣ | [PostHog/posthog](https://github.com/PostHog/posthog) | 33506 | `Python` | 🦔 PostHog is an all-in-one developer platform for building successful pr… |
+| 5️⃣ | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 25362 | `Python` | CLI tool for configuring and monitoring Claude Code |
+| 6️⃣ | [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) | 9497 | `Cuda` | DeepEP: an efficient expert-parallel communication library |
+| 7️⃣ | [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | 53077 | `C#` | PowerShell for every system! |
+| 8️⃣ | [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) | 23512 | `TypeScript` | Roo Code gives you a whole dev team of AI agents in your code editor. |
+| 9️⃣ | [huggingface/ml-intern](https://github.com/huggingface/ml-intern) | 6256 | `Python` | 🤗 ml-intern: an open-source ML engineer that reads papers, trains models… |
+| 🔟 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 496010 | `Markdown` | Master programming by recreating your favorite technologies from scratch… |
 
 </details>
 
-<sub>🕐 更新于 2026-04-25 09:23 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-04-26 09:45 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
