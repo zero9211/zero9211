@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Cora](https://twitter.com/search?q=Cora) | — |
-| 🥈 | [Klay](https://twitter.com/search?q=Klay) | — |
-| 🥉 | [Breslow](https://twitter.com/search?q=Breslow) | — |
-| 4️⃣ | [UDFA](https://twitter.com/search?q=UDFA) | — |
-| 5️⃣ | [Secret Service](https://twitter.com/search?q=Secret%20Service) | — |
-| 6️⃣ | [White House Correspondents](https://twitter.com/search?q=White%20House%20Correspondents) | — |
-| 7️⃣ | [WHCD](https://twitter.com/search?q=WHCD) | — |
-| 8️⃣ | [Megan](https://twitter.com/search?q=Megan) | — |
-| 9️⃣ | [#bucciovertimechallenge](https://twitter.com/search?q=%23bucciovertimechallenge) | — |
-| 🔟 | [#UFCVegas116](https://twitter.com/search?q=%23UFCVegas116) | — |
+| 🥇 | [Embiid](https://twitter.com/search?q=Embiid) | — |
+| 🥈 | [Payton Pritchard](https://twitter.com/search?q=Payton%20Pritchard) | — |
+| 🥉 | [Carson Hocevar](https://twitter.com/search?q=Carson%20Hocevar) | — |
+| 4️⃣ | [Stearns](https://twitter.com/search?q=Stearns) | — |
+| 5️⃣ | [Stearns](https://twitter.com/search?q=Stearns) | — |
+| 6️⃣ | [60 Minutes](https://twitter.com/search?q=60%20Minutes) | — |
+| 7️⃣ | [#NASCAR](https://twitter.com/search?q=%23NASCAR) | — |
+| 8️⃣ | [Kopitar](https://twitter.com/search?q=Kopitar) | — |
+| 9️⃣ | [Maxey](https://twitter.com/search?q=Maxey) | — |
+| 🔟 | [Rockies](https://twitter.com/search?q=Rockies) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-04-26 09:45 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-04-27 09:49 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-04-26 09:45 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-04-27 09:49 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 11528 | `Python` | Use claude-code for free in the terminal, VSCode extension or via discor… |
-| 🥈 | [mattpocock/skills](https://github.com/mattpocock/skills) | 20119 | `Shell` | My personal directory of skills, straight from my .claude directory. |
-| 🥉 | [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | 63915 | `Python` | ALL IN ONE Hacking Tool For Hackers |
-| 4️⃣ | [PostHog/posthog](https://github.com/PostHog/posthog) | 33506 | `Python` | 🦔 PostHog is an all-in-one developer platform for building successful pr… |
-| 5️⃣ | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 25362 | `Python` | CLI tool for configuring and monitoring Claude Code |
-| 6️⃣ | [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) | 9497 | `Cuda` | DeepEP: an efficient expert-parallel communication library |
-| 7️⃣ | [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | 53077 | `C#` | PowerShell for every system! |
-| 8️⃣ | [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) | 23512 | `TypeScript` | Roo Code gives you a whole dev team of AI agents in your code editor. |
-| 9️⃣ | [huggingface/ml-intern](https://github.com/huggingface/ml-intern) | 6256 | `Python` | 🤗 ml-intern: an open-source ML engineer that reads papers, trains models… |
-| 🔟 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 496010 | `Markdown` | Master programming by recreating your favorite technologies from scratch… |
+| 🥇 | [mattpocock/skills](https://github.com/mattpocock/skills) | 23961 | `Shell` | Agent Skills for real engineers. Straight from my .claude directory. |
+| 🥈 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 13727 | `Python` | Use claude-code for free in the terminal, VSCode extension or via discor… |
+| 🥉 | [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | 65562 | `Python` | ALL IN ONE Hacking Tool For Hackers |
+| 4️⃣ | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 30221 | `TypeScript` | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a clien… |
+| 5️⃣ | [PostHog/posthog](https://github.com/PostHog/posthog) | 33855 | `Python` | 🦔 PostHog is an all-in-one developer platform for building successful pr… |
+| 6️⃣ | [microsoft/typescript-go](https://github.com/microsoft/typescript-go) | 25167 | `Go` | Staging repo for development of native port of TypeScript |
+| 7️⃣ | [trycua/cua](https://github.com/trycua/cua) | 14415 | `HTML` | Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and… |
+| 8️⃣ | [gastownhall/beads](https://github.com/gastownhall/beads) | 21702 | `Go` | Beads - A memory upgrade for your coding agent |
+| 9️⃣ | [curl/curl](https://github.com/curl/curl) | 41547 | `C` | A command line tool and library for transferring data with URL syntax, s… |
+| 🔟 | [home-assistant/core](https://github.com/home-assistant/core) | 86538 | `Python` | 🏡 Open source home automation that puts local control and privacy first. |
 
 </details>
 
-<sub>🕐 更新于 2026-04-26 09:45 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-04-27 09:49 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
