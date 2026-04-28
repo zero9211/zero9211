@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Embiid](https://twitter.com/search?q=Embiid) | — |
-| 🥈 | [Payton Pritchard](https://twitter.com/search?q=Payton%20Pritchard) | — |
-| 🥉 | [Carson Hocevar](https://twitter.com/search?q=Carson%20Hocevar) | — |
-| 4️⃣ | [Stearns](https://twitter.com/search?q=Stearns) | — |
-| 5️⃣ | [Stearns](https://twitter.com/search?q=Stearns) | — |
-| 6️⃣ | [60 Minutes](https://twitter.com/search?q=60%20Minutes) | — |
-| 7️⃣ | [#NASCAR](https://twitter.com/search?q=%23NASCAR) | — |
-| 8️⃣ | [Kopitar](https://twitter.com/search?q=Kopitar) | — |
-| 9️⃣ | [Maxey](https://twitter.com/search?q=Maxey) | — |
-| 🔟 | [Rockies](https://twitter.com/search?q=Rockies) | — |
+| 🥇 | [#WWERaw](https://twitter.com/search?q=%23WWERaw) | — |
+| 🥈 | [Kimmel](https://twitter.com/search?q=Kimmel) | — |
+| 🥉 | [World War Eleven](https://twitter.com/search?q=World%20War%20Eleven) | — |
+| 4️⃣ | [Cooper Flagg](https://twitter.com/search?q=Cooper%20Flagg) | — |
+| 5️⃣ | [#AmericanIdol](https://twitter.com/search?q=%23AmericanIdol) | — |
+| 6️⃣ | [Dennis Santana](https://twitter.com/search?q=Dennis%20Santana) | — |
+| 7️⃣ | [ROTY](https://twitter.com/search?q=ROTY) | — |
+| 8️⃣ | [Vladar](https://twitter.com/search?q=Vladar) | — |
+| 9️⃣ | [Luis Castillo](https://twitter.com/search?q=Luis%20Castillo) | — |
+| 🔟 | [Mantha](https://twitter.com/search?q=Mantha) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-04-27 09:49 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-04-28 09:56 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-04-27 09:49 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-04-28 09:56 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [mattpocock/skills](https://github.com/mattpocock/skills) | 23961 | `Shell` | Agent Skills for real engineers. Straight from my .claude directory. |
-| 🥈 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 13727 | `Python` | Use claude-code for free in the terminal, VSCode extension or via discor… |
-| 🥉 | [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | 65562 | `Python` | ALL IN ONE Hacking Tool For Hackers |
-| 4️⃣ | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 30221 | `TypeScript` | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a clien… |
-| 5️⃣ | [PostHog/posthog](https://github.com/PostHog/posthog) | 33855 | `Python` | 🦔 PostHog is an all-in-one developer platform for building successful pr… |
-| 6️⃣ | [microsoft/typescript-go](https://github.com/microsoft/typescript-go) | 25167 | `Go` | Staging repo for development of native port of TypeScript |
-| 7️⃣ | [trycua/cua](https://github.com/trycua/cua) | 14415 | `HTML` | Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and… |
-| 8️⃣ | [gastownhall/beads](https://github.com/gastownhall/beads) | 21702 | `Go` | Beads - A memory upgrade for your coding agent |
-| 9️⃣ | [curl/curl](https://github.com/curl/curl) | 41547 | `C` | A command line tool and library for transferring data with URL syntax, s… |
-| 🔟 | [home-assistant/core](https://github.com/home-assistant/core) | 86538 | `Python` | 🏡 Open source home automation that puts local control and privacy first. |
+| 🥇 | [mattpocock/skills](https://github.com/mattpocock/skills) | 30615 | `Shell` | Skills for Real Engineers. Straight from my .claude directory. |
+| 🥈 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 31599 | `TypeScript` | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a clien… |
+| 🥉 | [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) | 2857 | `Python` | A curated list of practical Codex skills for automating workflows across… |
+| 4️⃣ | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 16196 | `Python` | Use claude-code for free in the terminal, VSCode extension or via discor… |
+| 5️⃣ | [gastownhall/beads](https://github.com/gastownhall/beads) | 22220 | `Go` | Beads - A memory upgrade for your coding agent |
+| 6️⃣ | [penpot/penpot](https://github.com/penpot/penpot) | 46651 | `Clojure` | Penpot: The open-source design tool for design and code collaboration |
+| 7️⃣ | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 25803 | `Python` | CLI tool for configuring and monitoring Claude Code |
+| 8️⃣ | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 43167 | `Python` | Open-Source Frontier Voice AI |
+| 9️⃣ | [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | 67152 | `Python` | ALL IN ONE Hacking Tool For Hackers |
+| 🔟 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 53834 | `Python` | TradingAgents: Multi-Agents LLM Financial Trading Framework |
 
 </details>
 
-<sub>🕐 更新于 2026-04-27 09:49 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-04-28 09:56 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
