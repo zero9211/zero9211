@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#WWERaw](https://twitter.com/search?q=%23WWERaw) | — |
-| 🥈 | [Kimmel](https://twitter.com/search?q=Kimmel) | — |
-| 🥉 | [World War Eleven](https://twitter.com/search?q=World%20War%20Eleven) | — |
-| 4️⃣ | [Cooper Flagg](https://twitter.com/search?q=Cooper%20Flagg) | — |
-| 5️⃣ | [#AmericanIdol](https://twitter.com/search?q=%23AmericanIdol) | — |
-| 6️⃣ | [Dennis Santana](https://twitter.com/search?q=Dennis%20Santana) | — |
-| 7️⃣ | [ROTY](https://twitter.com/search?q=ROTY) | — |
-| 8️⃣ | [Vladar](https://twitter.com/search?q=Vladar) | — |
-| 9️⃣ | [Luis Castillo](https://twitter.com/search?q=Luis%20Castillo) | — |
-| 🔟 | [Mantha](https://twitter.com/search?q=Mantha) | — |
+| 🥇 | [Comey](https://twitter.com/search?q=Comey) | — |
+| 🥈 | [#WWENXT](https://twitter.com/search?q=%23WWENXT) | — |
+| 🥉 | [King Charles](https://twitter.com/search?q=King%20Charles) | — |
+| 4️⃣ | [Stokes](https://twitter.com/search?q=Stokes) | — |
+| 5️⃣ | [Mark Pope](https://twitter.com/search?q=Mark%20Pope) | — |
+| 6️⃣ | [Kansas](https://twitter.com/search?q=Kansas) | — |
+| 7️⃣ | [Adam Silver](https://twitter.com/search?q=Adam%20Silver) | — |
+| 8️⃣ | [Will Kroos](https://twitter.com/search?q=Will%20Kroos) | — |
+| 9️⃣ | [#thisisjimin](https://twitter.com/search?q=%23thisisjimin) | — |
+| 🔟 | [Bayern](https://twitter.com/search?q=Bayern) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-04-28 09:56 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-04-29 09:59 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-04-28 09:56 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-04-29 09:59 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [mattpocock/skills](https://github.com/mattpocock/skills) | 30615 | `Shell` | Skills for Real Engineers. Straight from my .claude directory. |
-| 🥈 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 31599 | `TypeScript` | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a clien… |
-| 🥉 | [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) | 2857 | `Python` | A curated list of practical Codex skills for automating workflows across… |
-| 4️⃣ | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 16196 | `Python` | Use claude-code for free in the terminal, VSCode extension or via discor… |
-| 5️⃣ | [gastownhall/beads](https://github.com/gastownhall/beads) | 22220 | `Go` | Beads - A memory upgrade for your coding agent |
-| 6️⃣ | [penpot/penpot](https://github.com/penpot/penpot) | 46651 | `Clojure` | Penpot: The open-source design tool for design and code collaboration |
-| 7️⃣ | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 25803 | `Python` | CLI tool for configuring and monitoring Claude Code |
-| 8️⃣ | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 43167 | `Python` | Open-Source Frontier Voice AI |
-| 9️⃣ | [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | 67152 | `Python` | ALL IN ONE Hacking Tool For Hackers |
-| 🔟 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 53834 | `Python` | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| 🥇 | [mattpocock/skills](https://github.com/mattpocock/skills) | 37761 | `Shell` | Skills for Real Engineers. Straight from my .claude directory. |
+| 🥈 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 32680 | `TypeScript` | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a clien… |
+| 🥉 | [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) | 4049 | `Python` | A curated list of practical Codex skills for automating workflows across… |
+| 4️⃣ | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 44878 | `Python` | Open-Source Frontier Voice AI |
+| 5️⃣ | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 26176 | `Python` | CLI tool for configuring and monitoring Claude Code |
+| 6️⃣ | [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | 10671 | `Python` | Useful tool to track location or mobile number |
+| 7️⃣ | [fspecii/ace-step-ui](https://github.com/fspecii/ace-step-ui) | 1725 | `JavaScript` | 🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-St… |
+| 8️⃣ | [public-apis/public-apis](https://github.com/public-apis/public-apis) | 428219 | `Python` | A collective list of free APIs |
+| 9️⃣ | [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api) | 2359 | `Go` | Deepseek to API: A lightweight, high-performance full-stack middleware c… |
+| 🔟 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 17565 | `Python` | Use claude-code for free in the terminal, VSCode extension or via discor… |
 
 </details>
 
-<sub>🕐 更新于 2026-04-28 09:56 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-04-29 09:59 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
