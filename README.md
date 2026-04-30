@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Comey](https://twitter.com/search?q=Comey) | — |
-| 🥈 | [#WWENXT](https://twitter.com/search?q=%23WWENXT) | — |
-| 🥉 | [King Charles](https://twitter.com/search?q=King%20Charles) | — |
-| 4️⃣ | [Stokes](https://twitter.com/search?q=Stokes) | — |
-| 5️⃣ | [Mark Pope](https://twitter.com/search?q=Mark%20Pope) | — |
-| 6️⃣ | [Kansas](https://twitter.com/search?q=Kansas) | — |
-| 7️⃣ | [Adam Silver](https://twitter.com/search?q=Adam%20Silver) | — |
-| 8️⃣ | [Will Kroos](https://twitter.com/search?q=Will%20Kroos) | — |
-| 9️⃣ | [#thisisjimin](https://twitter.com/search?q=%23thisisjimin) | — |
-| 🔟 | [Bayern](https://twitter.com/search?q=Bayern) | — |
+| 🥇 | [#AEWDynamite](https://twitter.com/search?q=%23AEWDynamite) | — |
+| 🥈 | [#Survivor](https://twitter.com/search?q=%23Survivor) | — |
+| 🥉 | [Jim Crow](https://twitter.com/search?q=Jim%20Crow) | — |
+| 4️⃣ | [David Peterson](https://twitter.com/search?q=David%20Peterson) | — |
+| 5️⃣ | [Kevin Knight](https://twitter.com/search?q=Kevin%20Knight) | — |
+| 6️⃣ | [Supreme Court](https://twitter.com/search?q=Supreme%20Court) | — |
+| 7️⃣ | [Scottie Barnes](https://twitter.com/search?q=Scottie%20Barnes) | — |
+| 8️⃣ | [SCOTUS](https://twitter.com/search?q=SCOTUS) | — |
+| 9️⃣ | [Ben Brown](https://twitter.com/search?q=Ben%20Brown) | — |
+| 🔟 | [Anthony Mackie](https://twitter.com/search?q=Anthony%20Mackie) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-04-29 09:59 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-04-30 09:58 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-04-29 09:59 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-04-30 09:58 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [mattpocock/skills](https://github.com/mattpocock/skills) | 37761 | `Shell` | Skills for Real Engineers. Straight from my .claude directory. |
-| 🥈 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 32680 | `TypeScript` | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a clien… |
-| 🥉 | [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) | 4049 | `Python` | A curated list of practical Codex skills for automating workflows across… |
-| 4️⃣ | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 44878 | `Python` | Open-Source Frontier Voice AI |
-| 5️⃣ | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 26176 | `Python` | CLI tool for configuring and monitoring Claude Code |
-| 6️⃣ | [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | 10671 | `Python` | Useful tool to track location or mobile number |
-| 7️⃣ | [fspecii/ace-step-ui](https://github.com/fspecii/ace-step-ui) | 1725 | `JavaScript` | 🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-St… |
-| 8️⃣ | [public-apis/public-apis](https://github.com/public-apis/public-apis) | 428219 | `Python` | A collective list of free APIs |
-| 9️⃣ | [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api) | 2359 | `Go` | Deepseek to API: A lightweight, high-performance full-stack middleware c… |
-| 🔟 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 17565 | `Python` | Use claude-code for free in the terminal, VSCode extension or via discor… |
+| 🥇 | [warpdotdev/warp](https://github.com/warpdotdev/warp) | 44345 | `Rust` | Warp is an agentic development environment, born out of the terminal. |
+| 🥈 | [mattpocock/skills](https://github.com/mattpocock/skills) | 44963 | `Shell` | Skills for Real Engineers. Straight from my .claude directory. |
+| 🥉 | [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | 11608 | `Python` | Useful tool to track location or mobile number |
+| 4️⃣ | [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) | 4833 | `Python` | A curated list of practical Codex skills for automating workflows across… |
+| 5️⃣ | [1jehuang/jcode](https://github.com/1jehuang/jcode) | 1399 | `Rust` | Coding Agent Harness |
+| 6️⃣ | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 33365 | `TypeScript` | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a clien… |
+| 7️⃣ | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 45719 | `Python` | Open-Source Frontier Voice AI |
+| 8️⃣ | [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api) | 2738 | `Go` | Deepseek to API: A lightweight, high-performance full-stack middleware c… |
+| 9️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 173197 | `Shell` | An agentic skills framework & software development methodology that work… |
+| 🔟 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 32820 | `Python` | LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-pow… |
 
 </details>
 
-<sub>🕐 更新于 2026-04-29 09:59 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-04-30 09:58 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
