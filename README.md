@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#AEWDynamite](https://twitter.com/search?q=%23AEWDynamite) | — |
-| 🥈 | [#Survivor](https://twitter.com/search?q=%23Survivor) | — |
-| 🥉 | [Jim Crow](https://twitter.com/search?q=Jim%20Crow) | — |
-| 4️⃣ | [David Peterson](https://twitter.com/search?q=David%20Peterson) | — |
-| 5️⃣ | [Kevin Knight](https://twitter.com/search?q=Kevin%20Knight) | — |
-| 6️⃣ | [Supreme Court](https://twitter.com/search?q=Supreme%20Court) | — |
-| 7️⃣ | [Scottie Barnes](https://twitter.com/search?q=Scottie%20Barnes) | — |
-| 8️⃣ | [SCOTUS](https://twitter.com/search?q=SCOTUS) | — |
-| 9️⃣ | [Ben Brown](https://twitter.com/search?q=Ben%20Brown) | — |
-| 🔟 | [Anthony Mackie](https://twitter.com/search?q=Anthony%20Mackie) | — |
+| 🥇 | [Hawks](https://twitter.com/search?q=Hawks) | — |
+| 🥈 | [Hawks](https://twitter.com/search?q=Hawks) | — |
+| 🥉 | [#911onABC](https://twitter.com/search?q=%23911onABC) | — |
+| 4️⃣ | [Dyson Daniels](https://twitter.com/search?q=Dyson%20Daniels) | — |
+| 5️⃣ | [Mitch](https://twitter.com/search?q=Mitch) | — |
+| 6️⃣ | [Down 50](https://twitter.com/search?q=Down%2050) | — |
+| 7️⃣ | [OG Anunoby](https://twitter.com/search?q=OG%20Anunoby) | — |
+| 8️⃣ | [JP Morgan](https://twitter.com/search?q=JP%20Morgan) | — |
+| 9️⃣ | [Trae Young](https://twitter.com/search?q=Trae%20Young) | — |
+| 🔟 | [Derrick White](https://twitter.com/search?q=Derrick%20White) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-04-30 09:58 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-05-01 10:00 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-04-30 09:58 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-05-01 10:00 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [warpdotdev/warp](https://github.com/warpdotdev/warp) | 44345 | `Rust` | Warp is an agentic development environment, born out of the terminal. |
-| 🥈 | [mattpocock/skills](https://github.com/mattpocock/skills) | 44963 | `Shell` | Skills for Real Engineers. Straight from my .claude directory. |
-| 🥉 | [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | 11608 | `Python` | Useful tool to track location or mobile number |
-| 4️⃣ | [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) | 4833 | `Python` | A curated list of practical Codex skills for automating workflows across… |
-| 5️⃣ | [1jehuang/jcode](https://github.com/1jehuang/jcode) | 1399 | `Rust` | Coding Agent Harness |
-| 6️⃣ | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 33365 | `TypeScript` | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a clien… |
-| 7️⃣ | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 45719 | `Python` | Open-Source Frontier Voice AI |
-| 8️⃣ | [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api) | 2738 | `Go` | Deepseek to API: A lightweight, high-performance full-stack middleware c… |
-| 9️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 173197 | `Shell` | An agentic skills framework & software development methodology that work… |
-| 🔟 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 32820 | `Python` | LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-pow… |
+| 🥇 | [warpdotdev/warp](https://github.com/warpdotdev/warp) | 49323 | `Rust` | Warp is an agentic development environment, born out of the terminal. |
+| 🥈 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 57822 | `Python` | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| 🥉 | [mattpocock/skills](https://github.com/mattpocock/skills) | 49609 | `Shell` | Skills for Real Engineers. Straight from my .claude directory. |
+| 4️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 174626 | `Shell` | An agentic skills framework & software development methodology that work… |
+| 5️⃣ | [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) | 5583 | `TypeScript` | — |
+| 6️⃣ | [public-apis/public-apis](https://github.com/public-apis/public-apis) | 429558 | `Python` | A collective list of free APIs |
+| 7️⃣ | [1jehuang/jcode](https://github.com/1jehuang/jcode) | 1905 | `Rust` | Coding Agent Harness |
+| 8️⃣ | [soxoj/maigret](https://github.com/soxoj/maigret) | 20861 | `Python` | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
+| 9️⃣ | [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | 12187 | `Python` | Useful tool to track location or mobile number |
+| 🔟 | [iamgio/quarkdown](https://github.com/iamgio/quarkdown) | 13092 | `Kotlin` | 🪐 Markdown with superpowers: from ideas to papers, presentations, websit… |
 
 </details>
 
-<sub>🕐 更新于 2026-04-30 09:58 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-05-01 10:00 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
