@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Hawks](https://twitter.com/search?q=Hawks) | — |
-| 🥈 | [Hawks](https://twitter.com/search?q=Hawks) | — |
-| 🥉 | [#911onABC](https://twitter.com/search?q=%23911onABC) | — |
-| 4️⃣ | [Dyson Daniels](https://twitter.com/search?q=Dyson%20Daniels) | — |
-| 5️⃣ | [Mitch](https://twitter.com/search?q=Mitch) | — |
-| 6️⃣ | [Down 50](https://twitter.com/search?q=Down%2050) | — |
-| 7️⃣ | [OG Anunoby](https://twitter.com/search?q=OG%20Anunoby) | — |
-| 8️⃣ | [JP Morgan](https://twitter.com/search?q=JP%20Morgan) | — |
-| 9️⃣ | [Trae Young](https://twitter.com/search?q=Trae%20Young) | — |
-| 🔟 | [Derrick White](https://twitter.com/search?q=Derrick%20White) | — |
+| 🥇 | [#SmackDown](https://twitter.com/search?q=%23SmackDown) | — |
+| 🥈 | [eBay](https://twitter.com/search?q=eBay) | — |
+| 🥉 | [Grant Holmes](https://twitter.com/search?q=Grant%20Holmes) | — |
+| 4️⃣ | [The Magic](https://twitter.com/search?q=The%20Magic) | — |
+| 5️⃣ | [Always a Runner](https://twitter.com/search?q=Always%20a%20Runner) | — |
+| 6️⃣ | [Ricky Saints](https://twitter.com/search?q=Ricky%20Saints) | — |
+| 7️⃣ | [Jacy Jayne](https://twitter.com/search?q=Jacy%20Jayne) | — |
+| 8️⃣ | [Paul Reed](https://twitter.com/search?q=Paul%20Reed) | — |
+| 9️⃣ | [Fraxiom](https://twitter.com/search?q=Fraxiom) | — |
+| 🔟 | [Will Warren](https://twitter.com/search?q=Will%20Warren) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-05-01 10:00 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-05-02 09:49 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-05-01 10:00 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-05-02 09:49 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,19 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [warpdotdev/warp](https://github.com/warpdotdev/warp) | 49323 | `Rust` | Warp is an agentic development environment, born out of the terminal. |
-| 🥈 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 57822 | `Python` | TradingAgents: Multi-Agents LLM Financial Trading Framework |
-| 🥉 | [mattpocock/skills](https://github.com/mattpocock/skills) | 49609 | `Shell` | Skills for Real Engineers. Straight from my .claude directory. |
-| 4️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 174626 | `Shell` | An agentic skills framework & software development methodology that work… |
-| 5️⃣ | [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) | 5583 | `TypeScript` | — |
-| 6️⃣ | [public-apis/public-apis](https://github.com/public-apis/public-apis) | 429558 | `Python` | A collective list of free APIs |
-| 7️⃣ | [1jehuang/jcode](https://github.com/1jehuang/jcode) | 1905 | `Rust` | Coding Agent Harness |
-| 8️⃣ | [soxoj/maigret](https://github.com/soxoj/maigret) | 20861 | `Python` | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
-| 9️⃣ | [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | 12187 | `Python` | Useful tool to track location or mobile number |
-| 🔟 | [iamgio/quarkdown](https://github.com/iamgio/quarkdown) | 13092 | `Kotlin` | 🪐 Markdown with superpowers: from ideas to papers, presentations, websit… |
+| 🥇 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 59947 | `Python` | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| 🥈 | [soxoj/maigret](https://github.com/soxoj/maigret) | 21698 | `Python` | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
+| 🥉 | [warpdotdev/warp](https://github.com/warpdotdev/warp) | 51518 | `Rust` | Warp is an agentic development environment, born out of the terminal. |
+| 4️⃣ | [1jehuang/jcode](https://github.com/1jehuang/jcode) | 2378 | `Rust` | Coding Agent Harness |
+| 5️⃣ | [mattpocock/skills](https://github.com/mattpocock/skills) | 52622 | `Shell` | Skills for Real Engineers. Straight from my .claude directory. |
+| 6️⃣ | [browserbase/skills](https://github.com/browserbase/skills) | 1197 | `JavaScript` | Claude Agent SDK with a web browsing tool |
+| 7️⃣ | [simstudioai/sim](https://github.com/simstudioai/sim) | 28165 | `TypeScript` | Build, deploy, and orchestrate AI agents. Sim is the central intelligenc… |
+| 8️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 175656 | `Shell` | An agentic skills framework & software development methodology that work… |
+| 9️⃣ | [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) | 26976 | `Batchfile` | — |
 
 </details>
 
-<sub>🕐 更新于 2026-05-01 10:00 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-05-02 09:49 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
