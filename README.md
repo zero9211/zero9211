@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#SmackDown](https://twitter.com/search?q=%23SmackDown) | — |
-| 🥈 | [eBay](https://twitter.com/search?q=eBay) | — |
-| 🥉 | [Grant Holmes](https://twitter.com/search?q=Grant%20Holmes) | — |
-| 4️⃣ | [The Magic](https://twitter.com/search?q=The%20Magic) | — |
-| 5️⃣ | [Always a Runner](https://twitter.com/search?q=Always%20a%20Runner) | — |
-| 6️⃣ | [Ricky Saints](https://twitter.com/search?q=Ricky%20Saints) | — |
-| 7️⃣ | [Jacy Jayne](https://twitter.com/search?q=Jacy%20Jayne) | — |
-| 8️⃣ | [Paul Reed](https://twitter.com/search?q=Paul%20Reed) | — |
-| 9️⃣ | [Fraxiom](https://twitter.com/search?q=Fraxiom) | — |
-| 🔟 | [Will Warren](https://twitter.com/search?q=Will%20Warren) | — |
+| 🥇 | [Golden Tempo](https://twitter.com/search?q=Golden%20Tempo) | — |
+| 🥈 | [Kentucky Derby](https://twitter.com/search?q=Kentucky%20Derby) | — |
+| 🥉 | [Celtics](https://twitter.com/search?q=Celtics) | — |
+| 4️⃣ | [Embiid](https://twitter.com/search?q=Embiid) | — |
+| 5️⃣ | [Derrick White](https://twitter.com/search?q=Derrick%20White) | — |
+| 6️⃣ | [Great White](https://twitter.com/search?q=Great%20White) | — |
+| 7️⃣ | [Tatum](https://twitter.com/search?q=Tatum) | — |
+| 8️⃣ | [Jaylen Brown](https://twitter.com/search?q=Jaylen%20Brown) | — |
+| 9️⃣ | [Cherie DeVaux](https://twitter.com/search?q=Cherie%20DeVaux) | — |
+| 🔟 | [#AEWCollision](https://twitter.com/search?q=%23AEWCollision) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-05-02 09:49 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-05-03 09:52 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-05-02 09:49 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-05-03 09:52 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,19 +90,18 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 59947 | `Python` | TradingAgents: Multi-Agents LLM Financial Trading Framework |
-| 🥈 | [soxoj/maigret](https://github.com/soxoj/maigret) | 21698 | `Python` | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
-| 🥉 | [warpdotdev/warp](https://github.com/warpdotdev/warp) | 51518 | `Rust` | Warp is an agentic development environment, born out of the terminal. |
-| 4️⃣ | [1jehuang/jcode](https://github.com/1jehuang/jcode) | 2378 | `Rust` | Coding Agent Harness |
-| 5️⃣ | [mattpocock/skills](https://github.com/mattpocock/skills) | 52622 | `Shell` | Skills for Real Engineers. Straight from my .claude directory. |
-| 6️⃣ | [browserbase/skills](https://github.com/browserbase/skills) | 1197 | `JavaScript` | Claude Agent SDK with a web browsing tool |
-| 7️⃣ | [simstudioai/sim](https://github.com/simstudioai/sim) | 28165 | `TypeScript` | Build, deploy, and orchestrate AI agents. Sim is the central intelligenc… |
-| 8️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 175656 | `Shell` | An agentic skills framework & software development methodology that work… |
-| 9️⃣ | [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) | 26976 | `Batchfile` | — |
+| 🥇 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 62791 | `Python` | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| 🥈 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 36861 | `TypeScript` | 🌊 The leading agent orchestration platform for Claude. Deploy intelligen… |
+| 🥉 | [browserbase/skills](https://github.com/browserbase/skills) | 1527 | `JavaScript` | Claude Agent SDK with a web browsing tool |
+| 4️⃣ | [soxoj/maigret](https://github.com/soxoj/maigret) | 22751 | `Python` | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
+| 5️⃣ | [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) | 27121 | `Batchfile` | — |
+| 6️⃣ | [1jehuang/jcode](https://github.com/1jehuang/jcode) | 2861 | `Rust` | Coding Agent Harness |
+| 7️⃣ | [ShareX/ShareX](https://github.com/ShareX/ShareX) | 36831 | `C#` | ShareX is a free and open-source application that enables users to captu… |
+| 8️⃣ | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | 344598 | — | A complete computer science study plan to become a software engineer. |
 
 </details>
 
-<sub>🕐 更新于 2026-05-02 09:49 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-05-03 09:52 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
