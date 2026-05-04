@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Golden Tempo](https://twitter.com/search?q=Golden%20Tempo) | — |
-| 🥈 | [Kentucky Derby](https://twitter.com/search?q=Kentucky%20Derby) | — |
-| 🥉 | [Celtics](https://twitter.com/search?q=Celtics) | — |
-| 4️⃣ | [Embiid](https://twitter.com/search?q=Embiid) | — |
-| 5️⃣ | [Derrick White](https://twitter.com/search?q=Derrick%20White) | — |
-| 6️⃣ | [Great White](https://twitter.com/search?q=Great%20White) | — |
-| 7️⃣ | [Tatum](https://twitter.com/search?q=Tatum) | — |
-| 8️⃣ | [Jaylen Brown](https://twitter.com/search?q=Jaylen%20Brown) | — |
-| 9️⃣ | [Cherie DeVaux](https://twitter.com/search?q=Cherie%20DeVaux) | — |
-| 🔟 | [#AEWCollision](https://twitter.com/search?q=%23AEWCollision) | — |
+| 🥇 | [Rudy](https://twitter.com/search?q=Rudy) | — |
+| 🥈 | [Cavs](https://twitter.com/search?q=Cavs) | — |
+| 🥉 | [#LetEmKnow](https://twitter.com/search?q=%23LetEmKnow) | — |
+| 4️⃣ | [Tobias Harris](https://twitter.com/search?q=Tobias%20Harris) | — |
+| 5️⃣ | [America's Mayor](https://twitter.com/search?q=America's%20Mayor) | — |
+| 6️⃣ | [Jamal Shead](https://twitter.com/search?q=Jamal%20Shead) | — |
+| 7️⃣ | [James Harden](https://twitter.com/search?q=James%20Harden) | — |
+| 8️⃣ | [Donovan Mitchell](https://twitter.com/search?q=Donovan%20Mitchell) | — |
+| 9️⃣ | [Dean Wade](https://twitter.com/search?q=Dean%20Wade) | — |
+| 🔟 | [Project Freedom](https://twitter.com/search?q=Project%20Freedom) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-05-03 09:52 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-05-04 09:52 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-05-03 09:52 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-05-04 09:52 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,18 +90,19 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 62791 | `Python` | TradingAgents: Multi-Agents LLM Financial Trading Framework |
-| 🥈 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 36861 | `TypeScript` | 🌊 The leading agent orchestration platform for Claude. Deploy intelligen… |
-| 🥉 | [browserbase/skills](https://github.com/browserbase/skills) | 1527 | `JavaScript` | Claude Agent SDK with a web browsing tool |
-| 4️⃣ | [soxoj/maigret](https://github.com/soxoj/maigret) | 22751 | `Python` | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
-| 5️⃣ | [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) | 27121 | `Batchfile` | — |
-| 6️⃣ | [1jehuang/jcode](https://github.com/1jehuang/jcode) | 2861 | `Rust` | Coding Agent Harness |
-| 7️⃣ | [ShareX/ShareX](https://github.com/ShareX/ShareX) | 36831 | `C#` | ShareX is a free and open-source application that enables users to captu… |
-| 8️⃣ | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | 344598 | — | A complete computer science study plan to become a software engineer. |
+| 🥇 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 39082 | `TypeScript` | 🌊 The leading agent orchestration platform for Claude. Deploy intelligen… |
+| 🥈 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 65364 | `Python` | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| 🥉 | [soxoj/maigret](https://github.com/soxoj/maigret) | 23853 | `Python` | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
+| 4️⃣ | [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | 2201 | `Rust` | Coding agent for DeepSeek models that runs in your terminal |
+| 5️⃣ | [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) | 10018 | `Python` | 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine |
+| 6️⃣ | [browserbase/skills](https://github.com/browserbase/skills) | 1839 | `JavaScript` | Claude Agent SDK with a web browsing tool |
+| 7️⃣ | [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | 19540 | `TypeScript` | A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n … |
+| 8️⃣ | [1jehuang/jcode](https://github.com/1jehuang/jcode) | 3449 | `Rust` | Coding Agent Harness |
+| 9️⃣ | [openwrt/openwrt](https://github.com/openwrt/openwrt) | 26626 | `C` | This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.g… |
 
 </details>
 
-<sub>🕐 更新于 2026-05-03 09:52 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-05-04 09:52 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
