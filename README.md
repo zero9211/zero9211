@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#MetGala](https://twitter.com/search?q=%23MetGala) | — |
-| 🥈 | [#WWERaw](https://twitter.com/search?q=%23WWERaw) | — |
-| 🥉 | [#raindelayquestions](https://twitter.com/search?q=%23raindelayquestions) | — |
-| 4️⃣ | [Star Wars](https://twitter.com/search?q=Star%20Wars) | — |
-| 5️⃣ | [#Olandria](https://twitter.com/search?q=%23Olandria) | — |
-| 6️⃣ | [Heidi Klum](https://twitter.com/search?q=Heidi%20Klum) | — |
-| 7️⃣ | [Michael Kay](https://twitter.com/search?q=Michael%20Kay) | — |
-| 8️⃣ | [Bad Bunny](https://twitter.com/search?q=Bad%20Bunny) | — |
-| 9️⃣ | [Fashion is Art](https://twitter.com/search?q=Fashion%20is%20Art) | — |
-| 🔟 | [May the 4th](https://twitter.com/search?q=May%20the%204th) | — |
+| 🥇 | [James Harden](https://twitter.com/search?q=James%20Harden) | — |
+| 🥈 | [#WWENXT](https://twitter.com/search?q=%23WWENXT) | — |
+| 🥉 | [Framber Valdez](https://twitter.com/search?q=Framber%20Valdez) | — |
+| 4️⃣ | [McKenna](https://twitter.com/search?q=McKenna) | — |
+| 5️⃣ | [Leafs](https://twitter.com/search?q=Leafs) | — |
+| 6️⃣ | [Matthews](https://twitter.com/search?q=Matthews) | — |
+| 7️⃣ | [Cinco de Mayo](https://twitter.com/search?q=Cinco%20de%20Mayo) | — |
+| 8️⃣ | [Sharks](https://twitter.com/search?q=Sharks) | — |
+| 9️⃣ | [Stenberg](https://twitter.com/search?q=Stenberg) | — |
+| 🔟 | [Vivek](https://twitter.com/search?q=Vivek) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-05-05 09:53 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-05-06 09:52 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-05-05 09:53 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-05-06 09:52 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 41501 | `TypeScript` | 🌊 The leading agent orchestration platform for Claude. Deploy intelligen… |
-| 🥈 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 67588 | `Python` | TradingAgents: Multi-Agents LLM Financial Trading Framework |
-| 🥉 | [browserbase/skills](https://github.com/browserbase/skills) | 2130 | `JavaScript` | Claude Agent SDK with a web browsing tool |
-| 4️⃣ | [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | 4046 | `Rust` | Coding agent for DeepSeek models that runs in your terminal |
-| 5️⃣ | [soxoj/maigret](https://github.com/soxoj/maigret) | 24879 | `Python` | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
-| 6️⃣ | [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) | 37057 | `C++` | qBittorrent BitTorrent client |
-| 7️⃣ | [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | 19930 | `TypeScript` | A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n … |
-| 8️⃣ | [1jehuang/jcode](https://github.com/1jehuang/jcode) | 3929 | `Rust` | Coding Agent Harness |
-| 9️⃣ | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 92704 | `Shell` | A complete AI agency at your fingertips - From frontend wizards to Reddi… |
-| 🔟 | [virattt/dexter](https://github.com/virattt/dexter) | 23225 | `TypeScript` | An autonomous agent for deep financial research |
+| 🥇 | [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | 7825 | `Rust` | Coding agent for DeepSeek models that runs in your terminal |
+| 🥈 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 43746 | `TypeScript` | 🌊 The leading agent orchestration platform for Claude. Deploy intelligen… |
+| 🥉 | [virattt/dexter](https://github.com/virattt/dexter) | 23813 | `TypeScript` | An autonomous agent for deep financial research |
+| 4️⃣ | [docusealco/docuseal](https://github.com/docusealco/docuseal) | 14040 | `Ruby` | Open source DocuSign alternative. Create, fill, and sign digital documen… |
+| 5️⃣ | [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands) | 7889 | `PowerShell` | VSCode theme based off the easemate IDE and Jetbrains islands theme |
+| 6️⃣ | [mksglu/context-mode](https://github.com/mksglu/context-mode) | 13072 | `TypeScript` | Context window optimization for AI coding agents. Sandboxes tool output,… |
+| 7️⃣ | [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | 8407 | `Python` | Incremental engine for long horizon agents 🌟 Star if you like it! |
+| 8️⃣ | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 93673 | `Shell` | A complete AI agency at your fingertips - From frontend wizards to Reddi… |
+| 9️⃣ | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | 345838 | — | A complete computer science study plan to become a software engineer. |
+| 🔟 | [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps) | 11342 | `Python` | A collection of projects showcasing RAG, agents, workflows, and other AI… |
 
 </details>
 
-<sub>🕐 更新于 2026-05-05 09:53 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-05-06 09:52 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
