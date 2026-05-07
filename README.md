@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [James Harden](https://twitter.com/search?q=James%20Harden) | — |
-| 🥈 | [#WWENXT](https://twitter.com/search?q=%23WWENXT) | — |
-| 🥉 | [Framber Valdez](https://twitter.com/search?q=Framber%20Valdez) | — |
-| 4️⃣ | [McKenna](https://twitter.com/search?q=McKenna) | — |
-| 5️⃣ | [Leafs](https://twitter.com/search?q=Leafs) | — |
-| 6️⃣ | [Matthews](https://twitter.com/search?q=Matthews) | — |
-| 7️⃣ | [Cinco de Mayo](https://twitter.com/search?q=Cinco%20de%20Mayo) | — |
-| 8️⃣ | [Sharks](https://twitter.com/search?q=Sharks) | — |
-| 9️⃣ | [Stenberg](https://twitter.com/search?q=Stenberg) | — |
-| 🔟 | [Vivek](https://twitter.com/search?q=Vivek) | — |
+| 🥇 | [Star Fox](https://twitter.com/search?q=Star%20Fox) | — |
+| 🥈 | [#Survivor50](https://twitter.com/search?q=%23Survivor50) | — |
+| 🥉 | [#AEWDynamite](https://twitter.com/search?q=%23AEWDynamite) | — |
+| 4️⃣ | [Falco](https://twitter.com/search?q=Falco) | — |
+| 5️⃣ | [Ted Turner](https://twitter.com/search?q=Ted%20Turner) | — |
+| 6️⃣ | [Kent State](https://twitter.com/search?q=Kent%20State) | — |
+| 7️⃣ | [SNES](https://twitter.com/search?q=SNES) | — |
+| 8️⃣ | [Preakness](https://twitter.com/search?q=Preakness) | — |
+| 9️⃣ | [Tony Brothers](https://twitter.com/search?q=Tony%20Brothers) | — |
+| 🔟 | [Eovaldi](https://twitter.com/search?q=Eovaldi) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-05-06 09:52 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-05-07 09:56 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-05-06 09:52 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-05-07 09:56 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | 7825 | `Rust` | Coding agent for DeepSeek models that runs in your terminal |
-| 🥈 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 43746 | `TypeScript` | 🌊 The leading agent orchestration platform for Claude. Deploy intelligen… |
-| 🥉 | [virattt/dexter](https://github.com/virattt/dexter) | 23813 | `TypeScript` | An autonomous agent for deep financial research |
-| 4️⃣ | [docusealco/docuseal](https://github.com/docusealco/docuseal) | 14040 | `Ruby` | Open source DocuSign alternative. Create, fill, and sign digital documen… |
-| 5️⃣ | [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands) | 7889 | `PowerShell` | VSCode theme based off the easemate IDE and Jetbrains islands theme |
-| 6️⃣ | [mksglu/context-mode](https://github.com/mksglu/context-mode) | 13072 | `TypeScript` | Context window optimization for AI coding agents. Sandboxes tool output,… |
-| 7️⃣ | [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | 8407 | `Python` | Incremental engine for long horizon agents 🌟 Star if you like it! |
-| 8️⃣ | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 93673 | `Shell` | A complete AI agency at your fingertips - From frontend wizards to Reddi… |
-| 9️⃣ | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | 345838 | — | A complete computer science study plan to become a software engineer. |
-| 🔟 | [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps) | 11342 | `Python` | A collection of projects showcasing RAG, agents, workflows, and other AI… |
+| 🥇 | [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | 14288 | `Rust` | Coding agent for DeepSeek models that runs in your terminal |
+| 🥈 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 30653 | `Shell` | Production-grade engineering skills for AI coding agents. |
+| 🥉 | [PriorLabs/TabPFN](https://github.com/PriorLabs/TabPFN) | 6592 | `Python` | ⚡ TabPFN: Foundation Model for Tabular Data ⚡ |
+| 4️⃣ | [docusealco/docuseal](https://github.com/docusealco/docuseal) | 14923 | `Ruby` | Open source DocuSign alternative. Create, fill, and sign digital documen… |
+| 5️⃣ | [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | 5682 | `Python` | ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cl… |
+| 6️⃣ | [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 62994 | `C++` | Truly independent web browser |
+| 7️⃣ | [InsForge/InsForge](https://github.com/InsForge/InsForge) | 8477 | `TypeScript` | InsForge is a Postgres-based backend with auth, storage, compute, hostin… |
+| 8️⃣ | [virattt/dexter](https://github.com/virattt/dexter) | 24381 | `TypeScript` | An autonomous agent for deep financial research |
+| 9️⃣ | [anthropics/financial-services](https://github.com/anthropics/financial-services) | 9196 | `Python` | — |
+| 🔟 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 45309 | `TypeScript` | 🌊 The leading agent orchestration platform for Claude. Deploy intelligen… |
 
 </details>
 
-<sub>🕐 更新于 2026-05-06 09:52 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-05-07 09:56 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
