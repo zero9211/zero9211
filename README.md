@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#911onABC](https://twitter.com/search?q=%23911onABC) | — |
-| 🥈 | [James Harden](https://twitter.com/search?q=James%20Harden) | — |
-| 🥉 | [Canvas](https://twitter.com/search?q=Canvas) | — |
-| 4️⃣ | [Greg Weissert](https://twitter.com/search?q=Greg%20Weissert) | — |
-| 5️⃣ | [Tennessee](https://twitter.com/search?q=Tennessee) | — |
-| 6️⃣ | [Sean](https://twitter.com/search?q=Sean) | — |
-| 7️⃣ | [Khamzat](https://twitter.com/search?q=Khamzat) | — |
-| 8️⃣ | [Mark Hamill](https://twitter.com/search?q=Mark%20Hamill) | — |
-| 9️⃣ | [Druski](https://twitter.com/search?q=Druski) | — |
-| 🔟 | [Daniss Jenkins](https://twitter.com/search?q=Daniss%20Jenkins) | — |
+| 🥇 | [#SmackDown](https://twitter.com/search?q=%23SmackDown) | — |
+| 🥈 | [Paul George](https://twitter.com/search?q=Paul%20George) | — |
+| 🥉 | [Tage Thompson](https://twitter.com/search?q=Tage%20Thompson) | — |
+| 4️⃣ | [Landry Shamet](https://twitter.com/search?q=Landry%20Shamet) | — |
+| 5️⃣ | [Kelly Oubre](https://twitter.com/search?q=Kelly%20Oubre) | — |
+| 6️⃣ | [Ben Brown](https://twitter.com/search?q=Ben%20Brown) | — |
+| 7️⃣ | [Virginia](https://twitter.com/search?q=Virginia) | — |
+| 8️⃣ | [Gronk](https://twitter.com/search?q=Gronk) | — |
+| 9️⃣ | [Jacob Misiorowski](https://twitter.com/search?q=Jacob%20Misiorowski) | — |
+| 🔟 | [Tegan Kuhns](https://twitter.com/search?q=Tegan%20Kuhns) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-05-08 10:02 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-05-09 09:56 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-05-08 10:02 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-05-09 09:56 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | 11901 | `Python` | — |
-| 🥈 | [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | 19096 | `Rust` | Coding agent for DeepSeek models that runs in your terminal |
-| 🥉 | [z-lab/dflash](https://github.com/z-lab/dflash) | 3520 | `Python` | DFlash: Block Diffusion for Flash Speculative Decoding |
-| 4️⃣ | [InsForge/InsForge](https://github.com/InsForge/InsForge) | 8885 | `TypeScript` | InsForge is a Postgres-based backend with auth, storage, compute, hostin… |
-| 5️⃣ | [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | 6292 | `Python` | ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cl… |
-| 6️⃣ | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 33085 | `Shell` | Production-grade engineering skills for AI coding agents. |
-| 7️⃣ | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 29601 | `Python` | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
-| 8️⃣ | [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) | 5063 | `TypeScript` | An open source template for building cloud agents. |
-| 9️⃣ | [docusealco/docuseal](https://github.com/docusealco/docuseal) | 15658 | `Ruby` | Open source DocuSign alternative. Create, fill, and sign digital documen… |
-| 🔟 | [decolua/9router](https://github.com/decolua/9router) | 4616 | `JavaScript` | 🆓 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, C… |
+| 🥇 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | 15296 | `Python` | — |
+| 🥈 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 35515 | `Shell` | Production-grade engineering skills for AI coding agents. |
+| 🥉 | [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | 21886 | `Rust` | Coding agent for DeepSeek models that runs in your terminal |
+| 4️⃣ | [z-lab/dflash](https://github.com/z-lab/dflash) | 3860 | `Python` | DFlash: Block Diffusion for Flash Speculative Decoding |
+| 5️⃣ | [decolua/9router](https://github.com/decolua/9router) | 5633 | `JavaScript` | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Cop… |
+| 6️⃣ | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 3080 | `Python` | Stealth Chromium that passes every bot detection test. Drop-in Playwrigh… |
+| 7️⃣ | [awslabs/aidlc-workflows](https://github.com/awslabs/aidlc-workflows) | 1773 | `Python` | AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI co… |
+| 8️⃣ | [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) | 14666 | `Python` | "AI-Trader: 100% Fully-Automated Agent-Native Trading" |
+| 9️⃣ | [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | 6753 | `Python` | ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cl… |
+| 🔟 | [lobehub/lobehub](https://github.com/lobehub/lobehub) | 76516 | `TypeScript` | The ultimate space for work and life — to find, build, and collaborate w… |
 
 </details>
 
-<sub>🕐 更新于 2026-05-08 10:02 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-05-09 09:56 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
