@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#SmackDown](https://twitter.com/search?q=%23SmackDown) | — |
-| 🥈 | [Paul George](https://twitter.com/search?q=Paul%20George) | — |
-| 🥉 | [Tage Thompson](https://twitter.com/search?q=Tage%20Thompson) | — |
-| 4️⃣ | [Landry Shamet](https://twitter.com/search?q=Landry%20Shamet) | — |
-| 5️⃣ | [Kelly Oubre](https://twitter.com/search?q=Kelly%20Oubre) | — |
-| 6️⃣ | [Ben Brown](https://twitter.com/search?q=Ben%20Brown) | — |
-| 7️⃣ | [Virginia](https://twitter.com/search?q=Virginia) | — |
-| 8️⃣ | [Gronk](https://twitter.com/search?q=Gronk) | — |
-| 9️⃣ | [Jacob Misiorowski](https://twitter.com/search?q=Jacob%20Misiorowski) | — |
-| 🔟 | [Tegan Kuhns](https://twitter.com/search?q=Tegan%20Kuhns) | — |
+| 🥇 | [#WWEBacklash](https://twitter.com/search?q=%23WWEBacklash) | — |
+| 🥈 | [#UFC328](https://twitter.com/search?q=%23UFC328) | — |
+| 🥉 | [#bucciovertimechallenge](https://twitter.com/search?q=%23bucciovertimechallenge) | — |
+| 4️⃣ | [Asuka](https://twitter.com/search?q=Asuka) | — |
+| 5️⃣ | [John Cena Classic](https://twitter.com/search?q=John%20Cena%20Classic) | — |
+| 6️⃣ | [#AEWCollision](https://twitter.com/search?q=%23AEWCollision) | — |
+| 7️⃣ | [Danhausen](https://twitter.com/search?q=Danhausen) | — |
+| 8️⃣ | [Jim Miller](https://twitter.com/search?q=Jim%20Miller) | — |
+| 9️⃣ | [Jacob Fatu](https://twitter.com/search?q=Jacob%20Fatu) | — |
+| 🔟 | [Grant Dawson](https://twitter.com/search?q=Grant%20Dawson) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-05-09 09:56 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-05-10 09:55 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-05-09 09:56 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-05-10 09:55 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | 15296 | `Python` | — |
-| 🥈 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 35515 | `Shell` | Production-grade engineering skills for AI coding agents. |
-| 🥉 | [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | 21886 | `Rust` | Coding agent for DeepSeek models that runs in your terminal |
-| 4️⃣ | [z-lab/dflash](https://github.com/z-lab/dflash) | 3860 | `Python` | DFlash: Block Diffusion for Flash Speculative Decoding |
-| 5️⃣ | [decolua/9router](https://github.com/decolua/9router) | 5633 | `JavaScript` | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Cop… |
-| 6️⃣ | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 3080 | `Python` | Stealth Chromium that passes every bot detection test. Drop-in Playwrigh… |
-| 7️⃣ | [awslabs/aidlc-workflows](https://github.com/awslabs/aidlc-workflows) | 1773 | `Python` | AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI co… |
-| 8️⃣ | [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) | 14666 | `Python` | "AI-Trader: 100% Fully-Automated Agent-Native Trading" |
-| 9️⃣ | [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | 6753 | `Python` | ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cl… |
-| 🔟 | [lobehub/lobehub](https://github.com/lobehub/lobehub) | 76516 | `TypeScript` | The ultimate space for work and life — to find, build, and collaborate w… |
+| 🥇 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | 17446 | `Python` | — |
+| 🥈 | [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 31431 | `TypeScript` | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Mo… |
+| 🥉 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 3459 | `TypeScript` | #1 Persistent memory for AI coding agents based on real-world benchmarks |
+| 4️⃣ | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 45711 | `Python` | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
+| 5️⃣ | [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) | 8547 | `JavaScript` | 💻 vibe coding 2026 | Your first modern programming course for beginners … |
+| 6️⃣ | [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | 13799 | `TypeScript` | Open-source AI coworker, with memory |
+| 7️⃣ | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 38838 | `TypeScript` | Chrome DevTools for coding agents |
+| 8️⃣ | [masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) | 2552 | `Go` | Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT… |
+| 9️⃣ | [playcanvas/supersplat](https://github.com/playcanvas/supersplat) | 6328 | `TypeScript` | 3D Gaussian Splat Editor |
+| 🔟 | [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | 36489 | `Jupyter Notebook` | 《动手学大模型Dive into LLMs》系列编程实践教程 |
 
 </details>
 
-<sub>🕐 更新于 2026-05-09 09:56 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-05-10 09:55 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
