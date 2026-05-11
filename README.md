@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#WWEBacklash](https://twitter.com/search?q=%23WWEBacklash) | — |
-| 🥈 | [#UFC328](https://twitter.com/search?q=%23UFC328) | — |
-| 🥉 | [#bucciovertimechallenge](https://twitter.com/search?q=%23bucciovertimechallenge) | — |
-| 4️⃣ | [Asuka](https://twitter.com/search?q=Asuka) | — |
-| 5️⃣ | [John Cena Classic](https://twitter.com/search?q=John%20Cena%20Classic) | — |
-| 6️⃣ | [#AEWCollision](https://twitter.com/search?q=%23AEWCollision) | — |
-| 7️⃣ | [Danhausen](https://twitter.com/search?q=Danhausen) | — |
-| 8️⃣ | [Jim Miller](https://twitter.com/search?q=Jim%20Miller) | — |
-| 9️⃣ | [Jacob Fatu](https://twitter.com/search?q=Jacob%20Fatu) | — |
-| 🔟 | [Grant Dawson](https://twitter.com/search?q=Grant%20Dawson) | — |
+| 🥇 | [Wemby](https://twitter.com/search?q=Wemby) | — |
+| 🥈 | [#euphoria](https://twitter.com/search?q=%23euphoria) | — |
+| 🥉 | [Mother's Day](https://twitter.com/search?q=Mother's%20Day) | — |
+| 4️⃣ | [Naz Reid](https://twitter.com/search?q=Naz%20Reid) | — |
+| 5️⃣ | [Flagrant 2](https://twitter.com/search?q=Flagrant%202) | — |
+| 6️⃣ | [#KevinHartRoast](https://twitter.com/search?q=%23KevinHartRoast) | — |
+| 7️⃣ | [Julius Randle](https://twitter.com/search?q=Julius%20Randle) | — |
+| 8️⃣ | [Dylan Harper](https://twitter.com/search?q=Dylan%20Harper) | — |
+| 9️⃣ | [Lyon](https://twitter.com/search?q=Lyon) | — |
+| 🔟 | [#90DayFiance](https://twitter.com/search?q=%2390DayFiance) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-05-10 09:55 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-05-11 10:05 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-05-10 09:55 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-05-11 10:05 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | 17446 | `Python` | — |
-| 🥈 | [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 31431 | `TypeScript` | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Mo… |
-| 🥉 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 3459 | `TypeScript` | #1 Persistent memory for AI coding agents based on real-world benchmarks |
-| 4️⃣ | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 45711 | `Python` | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
-| 5️⃣ | [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) | 8547 | `JavaScript` | 💻 vibe coding 2026 | Your first modern programming course for beginners … |
-| 6️⃣ | [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | 13799 | `TypeScript` | Open-source AI coworker, with memory |
-| 7️⃣ | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 38838 | `TypeScript` | Chrome DevTools for coding agents |
-| 8️⃣ | [masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) | 2552 | `Go` | Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT… |
-| 9️⃣ | [playcanvas/supersplat](https://github.com/playcanvas/supersplat) | 6328 | `TypeScript` | 3D Gaussian Splat Editor |
-| 🔟 | [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | 36489 | `Jupyter Notebook` | 《动手学大模型Dive into LLMs》系列编程实践教程 |
+| 🥇 | [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 32198 | `TypeScript` | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Mo… |
+| 🥈 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | 18940 | `Python` | — |
+| 🥉 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 38512 | `Shell` | Production-grade engineering skills for AI coding agents. |
+| 4️⃣ | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 4814 | `Python` | Stealth Chromium that passes every bot detection test. Drop-in Playwrigh… |
+| 5️⃣ | [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) | 15617 | `Python` | "AI-Trader: 100% Fully-Automated Agent-Native Trading" |
+| 6️⃣ | [jundot/omlx](https://github.com/jundot/omlx) | 13326 | `Python` | LLM inference server with continuous batching & SSD caching for Apple Si… |
+| 7️⃣ | [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) | 9219 | `JavaScript` | 💻 vibe coding 2026 | Your first modern Coding course for beginners to ma… |
+| 8️⃣ | [playcanvas/supersplat](https://github.com/playcanvas/supersplat) | 6849 | `TypeScript` | 3D Gaussian Splat Editor |
+| 9️⃣ | [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | 10547 | `Python` | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving ful… |
+| 🔟 | [decolua/9router](https://github.com/decolua/9router) | 7342 | `JavaScript` | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Cop… |
 
 </details>
 
-<sub>🕐 更新于 2026-05-10 09:55 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-05-11 10:05 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
