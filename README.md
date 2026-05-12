@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Wemby](https://twitter.com/search?q=Wemby) | — |
-| 🥈 | [#euphoria](https://twitter.com/search?q=%23euphoria) | — |
-| 🥉 | [Mother's Day](https://twitter.com/search?q=Mother's%20Day) | — |
-| 4️⃣ | [Naz Reid](https://twitter.com/search?q=Naz%20Reid) | — |
-| 5️⃣ | [Flagrant 2](https://twitter.com/search?q=Flagrant%202) | — |
-| 6️⃣ | [#KevinHartRoast](https://twitter.com/search?q=%23KevinHartRoast) | — |
-| 7️⃣ | [Julius Randle](https://twitter.com/search?q=Julius%20Randle) | — |
-| 8️⃣ | [Dylan Harper](https://twitter.com/search?q=Dylan%20Harper) | — |
-| 9️⃣ | [Lyon](https://twitter.com/search?q=Lyon) | — |
-| 🔟 | [#90DayFiance](https://twitter.com/search?q=%2390DayFiance) | — |
+| 🥇 | [#WWERaw](https://twitter.com/search?q=%23WWERaw) | — |
+| 🥈 | [Caris LeVert](https://twitter.com/search?q=Caris%20LeVert) | — |
+| 🥉 | [Manson](https://twitter.com/search?q=Manson) | — |
+| 4️⃣ | [#AmericanIdol](https://twitter.com/search?q=%23AmericanIdol) | — |
+| 5️⃣ | [McCarron](https://twitter.com/search?q=McCarron) | — |
+| 6️⃣ | [Arcadia](https://twitter.com/search?q=Arcadia) | — |
+| 7️⃣ | [Ethan Page](https://twitter.com/search?q=Ethan%20Page) | — |
+| 8️⃣ | [Eileen Wang](https://twitter.com/search?q=Eileen%20Wang) | — |
+| 9️⃣ | [Weathers](https://twitter.com/search?q=Weathers) | — |
+| 🔟 | [Coby Mayo](https://twitter.com/search?q=Coby%20Mayo) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-05-11 10:05 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-05-12 10:01 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-05-11 10:05 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-05-12 10:01 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 32198 | `TypeScript` | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Mo… |
-| 🥈 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | 18940 | `Python` | — |
-| 🥉 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 38512 | `Shell` | Production-grade engineering skills for AI coding agents. |
-| 4️⃣ | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 4814 | `Python` | Stealth Chromium that passes every bot detection test. Drop-in Playwrigh… |
-| 5️⃣ | [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) | 15617 | `Python` | "AI-Trader: 100% Fully-Automated Agent-Native Trading" |
-| 6️⃣ | [jundot/omlx](https://github.com/jundot/omlx) | 13326 | `Python` | LLM inference server with continuous batching & SSD caching for Apple Si… |
-| 7️⃣ | [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) | 9219 | `JavaScript` | 💻 vibe coding 2026 | Your first modern Coding course for beginners to ma… |
-| 8️⃣ | [playcanvas/supersplat](https://github.com/playcanvas/supersplat) | 6849 | `TypeScript` | 3D Gaussian Splat Editor |
-| 9️⃣ | [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | 10547 | `Python` | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving ful… |
-| 🔟 | [decolua/9router](https://github.com/decolua/9router) | 7342 | `JavaScript` | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Cop… |
+| 🥇 | [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 33043 | `TypeScript` | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Mo… |
+| 🥈 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 6253 | `Python` | Stealth Chromium that passes every bot detection test. Drop-in Playwrigh… |
+| 🥉 | [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | 10850 | `TypeScript` | Let's use AI to Earn! |
+| 4️⃣ | [playcanvas/supersplat](https://github.com/playcanvas/supersplat) | 7374 | `TypeScript` | 3D Gaussian Splat Editor |
+| 5️⃣ | [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) | 9963 | `JavaScript` | 💻 vibe coding 2026 | Your first modern Coding course for beginners to ma… |
+| 6️⃣ | [decolua/9router](https://github.com/decolua/9router) | 8393 | `JavaScript` | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Cop… |
+| 7️⃣ | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 1524 | `Rust` | Your Personal AI super intelligence. Private, Simple and extremely power… |
+| 8️⃣ | [millionco/react-doctor](https://github.com/millionco/react-doctor) | 8097 | `TypeScript` | Your agent writes bad React. This catches it |
+| 9️⃣ | [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | 37336 | `Jupyter Notebook` | 《动手学大模型Dive into LLMs》系列编程实践教程 |
+| 🔟 | [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | 162909 | `Python` | Stable Diffusion web UI |
 
 </details>
 
-<sub>🕐 更新于 2026-05-11 10:05 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-05-12 10:01 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
