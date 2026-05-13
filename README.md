@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#WWERaw](https://twitter.com/search?q=%23WWERaw) | — |
-| 🥈 | [Caris LeVert](https://twitter.com/search?q=Caris%20LeVert) | — |
-| 🥉 | [Manson](https://twitter.com/search?q=Manson) | — |
-| 4️⃣ | [#AmericanIdol](https://twitter.com/search?q=%23AmericanIdol) | — |
-| 5️⃣ | [McCarron](https://twitter.com/search?q=McCarron) | — |
-| 6️⃣ | [Arcadia](https://twitter.com/search?q=Arcadia) | — |
-| 7️⃣ | [Ethan Page](https://twitter.com/search?q=Ethan%20Page) | — |
-| 8️⃣ | [Eileen Wang](https://twitter.com/search?q=Eileen%20Wang) | — |
-| 9️⃣ | [Weathers](https://twitter.com/search?q=Weathers) | — |
-| 🔟 | [Coby Mayo](https://twitter.com/search?q=Coby%20Mayo) | — |
+| 🥇 | [Toned](https://twitter.com/search?q=Toned) | — |
+| 🥈 | [Montreal](https://twitter.com/search?q=Montreal) | — |
+| 🥉 | [#WWENXT](https://twitter.com/search?q=%23WWENXT) | — |
+| 4️⃣ | [Jason Collins](https://twitter.com/search?q=Jason%20Collins) | — |
+| 5️⃣ | [Dahlin](https://twitter.com/search?q=Dahlin) | — |
+| 6️⃣ | [Paul Skenes](https://twitter.com/search?q=Paul%20Skenes) | — |
+| 7️⃣ | [Van Hollen](https://twitter.com/search?q=Van%20Hollen) | — |
+| 8️⃣ | [Guhle](https://twitter.com/search?q=Guhle) | — |
+| 9️⃣ | [Kash](https://twitter.com/search?q=Kash) | — |
+| 🔟 | [Grant Holmes](https://twitter.com/search?q=Grant%20Holmes) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-05-12 10:01 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-05-13 10:07 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-05-12 10:01 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-05-13 10:07 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 33043 | `TypeScript` | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Mo… |
-| 🥈 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 6253 | `Python` | Stealth Chromium that passes every bot detection test. Drop-in Playwrigh… |
-| 🥉 | [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | 10850 | `TypeScript` | Let's use AI to Earn! |
-| 4️⃣ | [playcanvas/supersplat](https://github.com/playcanvas/supersplat) | 7374 | `TypeScript` | 3D Gaussian Splat Editor |
-| 5️⃣ | [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) | 9963 | `JavaScript` | 💻 vibe coding 2026 | Your first modern Coding course for beginners to ma… |
-| 6️⃣ | [decolua/9router](https://github.com/decolua/9router) | 8393 | `JavaScript` | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Cop… |
-| 7️⃣ | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 1524 | `Rust` | Your Personal AI super intelligence. Private, Simple and extremely power… |
-| 8️⃣ | [millionco/react-doctor](https://github.com/millionco/react-doctor) | 8097 | `TypeScript` | Your agent writes bad React. This catches it |
-| 9️⃣ | [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | 37336 | `Jupyter Notebook` | 《动手学大模型Dive into LLMs》系列编程实践教程 |
-| 🔟 | [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | 162909 | `Python` | Stable Diffusion web UI |
+| 🥇 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 2823 | `Rust` | Your Personal AI super intelligence. Private, Simple and extremely power… |
+| 🥈 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 5956 | `TypeScript` | #1 Persistent memory for AI coding agents based on real-world benchmarks |
+| 🥉 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 7964 | `Python` | Stealth Chromium that passes every bot detection test. Drop-in Playwrigh… |
+| 4️⃣ | [apernet/hysteria](https://github.com/apernet/hysteria) | 20258 | `Go` | Hysteria is a powerful, lightning fast and censorship resistant proxy. |
+| 5️⃣ | [mattpocock/skills](https://github.com/mattpocock/skills) | 76257 | `Shell` | Skills for Real Engineers. Straight from my .claude directory. |
+| 6️⃣ | [anonfaded/FadCam](https://github.com/anonfaded/FadCam) | 2233 | `Java` | Open-source, ad-free Android multimedia recorder with background video r… |
+| 7️⃣ | [millionco/react-doctor](https://github.com/millionco/react-doctor) | 8796 | `TypeScript` | Your agent writes bad React. This catches it |
+| 8️⃣ | [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 93844 | `Jupyter Notebook` | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step |
+| 9️⃣ | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 48308 | `Python` | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
+| 🔟 | [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | 11943 | `TypeScript` | Let's use AI to Earn! |
 
 </details>
 
-<sub>🕐 更新于 2026-05-12 10:01 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-05-13 10:07 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
