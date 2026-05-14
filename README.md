@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Toned](https://twitter.com/search?q=Toned) | — |
-| 🥈 | [Montreal](https://twitter.com/search?q=Montreal) | — |
-| 🥉 | [#WWENXT](https://twitter.com/search?q=%23WWENXT) | — |
-| 4️⃣ | [Jason Collins](https://twitter.com/search?q=Jason%20Collins) | — |
-| 5️⃣ | [Dahlin](https://twitter.com/search?q=Dahlin) | — |
-| 6️⃣ | [Paul Skenes](https://twitter.com/search?q=Paul%20Skenes) | — |
-| 7️⃣ | [Van Hollen](https://twitter.com/search?q=Van%20Hollen) | — |
-| 8️⃣ | [Guhle](https://twitter.com/search?q=Guhle) | — |
-| 9️⃣ | [Kash](https://twitter.com/search?q=Kash) | — |
-| 🔟 | [Grant Holmes](https://twitter.com/search?q=Grant%20Holmes) | — |
+| 🥇 | [#AEWDynamite](https://twitter.com/search?q=%23AEWDynamite) | — |
+| 🥈 | [Chud](https://twitter.com/search?q=Chud) | — |
+| 🥉 | [Raskin](https://twitter.com/search?q=Raskin) | — |
+| 4️⃣ | [Benny](https://twitter.com/search?q=Benny) | — |
+| 5️⃣ | [Justin Crawford](https://twitter.com/search?q=Justin%20Crawford) | — |
+| 6️⃣ | [#ChicagoMed](https://twitter.com/search?q=%23ChicagoMed) | — |
+| 7️⃣ | [Starlink](https://twitter.com/search?q=Starlink) | — |
+| 8️⃣ | [Harvey](https://twitter.com/search?q=Harvey) | — |
+| 9️⃣ | [Achane](https://twitter.com/search?q=Achane) | — |
+| 🔟 | [Bass](https://twitter.com/search?q=Bass) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-05-13 10:07 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-05-14 10:09 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-05-13 10:07 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-05-14 10:09 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 2823 | `Rust` | Your Personal AI super intelligence. Private, Simple and extremely power… |
-| 🥈 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 5956 | `TypeScript` | #1 Persistent memory for AI coding agents based on real-world benchmarks |
-| 🥉 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 7964 | `Python` | Stealth Chromium that passes every bot detection test. Drop-in Playwrigh… |
-| 4️⃣ | [apernet/hysteria](https://github.com/apernet/hysteria) | 20258 | `Go` | Hysteria is a powerful, lightning fast and censorship resistant proxy. |
-| 5️⃣ | [mattpocock/skills](https://github.com/mattpocock/skills) | 76257 | `Shell` | Skills for Real Engineers. Straight from my .claude directory. |
-| 6️⃣ | [anonfaded/FadCam](https://github.com/anonfaded/FadCam) | 2233 | `Java` | Open-source, ad-free Android multimedia recorder with background video r… |
-| 7️⃣ | [millionco/react-doctor](https://github.com/millionco/react-doctor) | 8796 | `TypeScript` | Your agent writes bad React. This catches it |
-| 8️⃣ | [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 93844 | `Jupyter Notebook` | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step |
-| 9️⃣ | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 48308 | `Python` | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
-| 🔟 | [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | 11943 | `TypeScript` | Let's use AI to Earn! |
+| 🥇 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 5684 | `Rust` | Your Personal AI super intelligence. Private, Simple and extremely power… |
+| 🥈 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 7751 | `TypeScript` | #1 Persistent memory for AI coding agents based on real-world benchmarks |
+| 🥉 | [obra/superpowers](https://github.com/obra/superpowers) | 189627 | `Shell` | An agentic skills framework & software development methodology that work… |
+| 4️⃣ | [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | 12990 | `TypeScript` | Let's use AI to Earn! |
+| 5️⃣ | [influxdata/telegraf](https://github.com/influxdata/telegraf) | 17023 | `Go` | Agent for collecting, processing, aggregating, and writing metrics, logs… |
+| 6️⃣ | [millionco/react-doctor](https://github.com/millionco/react-doctor) | 9309 | `TypeScript` | Your agent writes bad React. This catches it |
+| 7️⃣ | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 21169 | `Python` | A set of ready to use Agent Skills for research, science, engineering, a… |
+| 8️⃣ | [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) | 13401 | `TypeScript` | Agentic AI Infrastructure for magnifying HUMAN capabilities. |
+| 9️⃣ | [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | 4405 | `Swift` | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
+| 🔟 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 9581 | `Python` | Stealth Chromium that passes every bot detection test. Drop-in Playwrigh… |
 
 </details>
 
-<sub>🕐 更新于 2026-05-13 10:07 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-05-14 10:09 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
