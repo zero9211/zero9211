@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#AEWDynamite](https://twitter.com/search?q=%23AEWDynamite) | — |
-| 🥈 | [Chud](https://twitter.com/search?q=Chud) | — |
-| 🥉 | [Raskin](https://twitter.com/search?q=Raskin) | — |
-| 4️⃣ | [Benny](https://twitter.com/search?q=Benny) | — |
-| 5️⃣ | [Justin Crawford](https://twitter.com/search?q=Justin%20Crawford) | — |
-| 6️⃣ | [#ChicagoMed](https://twitter.com/search?q=%23ChicagoMed) | — |
-| 7️⃣ | [Starlink](https://twitter.com/search?q=Starlink) | — |
-| 8️⃣ | [Harvey](https://twitter.com/search?q=Harvey) | — |
-| 9️⃣ | [Achane](https://twitter.com/search?q=Achane) | — |
-| 🔟 | [Bass](https://twitter.com/search?q=Bass) | — |
+| 🥇 | [Chargers](https://twitter.com/search?q=Chargers) | — |
+| 🥈 | [#OlandriaxSiSwim26](https://twitter.com/search?q=%23OlandriaxSiSwim26) | — |
+| 🥉 | [Tuch](https://twitter.com/search?q=Tuch) | — |
+| 4️⃣ | [#TNAiMPACT](https://twitter.com/search?q=%23TNAiMPACT) | — |
+| 5️⃣ | [Timmins](https://twitter.com/search?q=Timmins) | — |
+| 6️⃣ | [MatPat](https://twitter.com/search?q=MatPat) | — |
+| 7️⃣ | [Ben Brown](https://twitter.com/search?q=Ben%20Brown) | — |
+| 8️⃣ | [Dukes](https://twitter.com/search?q=Dukes) | — |
+| 9️⃣ | [Yina](https://twitter.com/search?q=Yina) | — |
+| 🔟 | [Titans](https://twitter.com/search?q=Titans) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-05-14 10:09 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-05-15 10:07 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-05-14 10:09 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-05-15 10:07 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 5684 | `Rust` | Your Personal AI super intelligence. Private, Simple and extremely power… |
-| 🥈 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 7751 | `TypeScript` | #1 Persistent memory for AI coding agents based on real-world benchmarks |
-| 🥉 | [obra/superpowers](https://github.com/obra/superpowers) | 189627 | `Shell` | An agentic skills framework & software development methodology that work… |
-| 4️⃣ | [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | 12990 | `TypeScript` | Let's use AI to Earn! |
-| 5️⃣ | [influxdata/telegraf](https://github.com/influxdata/telegraf) | 17023 | `Go` | Agent for collecting, processing, aggregating, and writing metrics, logs… |
-| 6️⃣ | [millionco/react-doctor](https://github.com/millionco/react-doctor) | 9309 | `TypeScript` | Your agent writes bad React. This catches it |
-| 7️⃣ | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 21169 | `Python` | A set of ready to use Agent Skills for research, science, engineering, a… |
-| 8️⃣ | [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) | 13401 | `TypeScript` | Agentic AI Infrastructure for magnifying HUMAN capabilities. |
-| 9️⃣ | [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | 4405 | `Swift` | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
-| 🔟 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 9581 | `Python` | Stealth Chromium that passes every bot detection test. Drop-in Playwrigh… |
+| 🥇 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 56117 | `Rust` | π RuView turns commodity WiFi signals into real-time spatial intelligenc… |
+| 🥈 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 7833 | `Rust` | Your Personal AI super intelligence. Private, Simple and extremely power… |
+| 🥉 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 9026 | `TypeScript` | #1 Persistent memory for AI coding agents based on real-world benchmarks |
+| 4️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 191305 | `Shell` | An agentic skills framework & software development methodology that work… |
+| 5️⃣ | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 21837 | `Python` | A set of ready to use Agent Skills for research, science, engineering, a… |
+| 6️⃣ | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 24856 | `Python` | Kronos: A Foundation Model for the Language of Financial Markets |
+| 7️⃣ | [roboflow/supervision](https://github.com/roboflow/supervision) | 38904 | `Python` | We write your reusable computer vision tools. 💜 |
+| 8️⃣ | [influxdata/telegraf](https://github.com/influxdata/telegraf) | 17228 | `Go` | Agent for collecting, processing, aggregating, and writing metrics, logs… |
+| 9️⃣ | [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | 5382 | `Swift` | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
+| 🔟 | [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) | 141388 | `C` | Display and control your Android device |
 
 </details>
 
-<sub>🕐 更新于 2026-05-14 10:09 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-05-15 10:07 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
