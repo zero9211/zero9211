@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Chargers](https://twitter.com/search?q=Chargers) | — |
-| 🥈 | [#OlandriaxSiSwim26](https://twitter.com/search?q=%23OlandriaxSiSwim26) | — |
-| 🥉 | [Tuch](https://twitter.com/search?q=Tuch) | — |
-| 4️⃣ | [#TNAiMPACT](https://twitter.com/search?q=%23TNAiMPACT) | — |
-| 5️⃣ | [Timmins](https://twitter.com/search?q=Timmins) | — |
-| 6️⃣ | [MatPat](https://twitter.com/search?q=MatPat) | — |
-| 7️⃣ | [Ben Brown](https://twitter.com/search?q=Ben%20Brown) | — |
-| 8️⃣ | [Dukes](https://twitter.com/search?q=Dukes) | — |
-| 9️⃣ | [Yina](https://twitter.com/search?q=Yina) | — |
-| 🔟 | [Titans](https://twitter.com/search?q=Titans) | — |
+| 🥇 | [#SmackDown](https://twitter.com/search?q=%23SmackDown) | — |
+| 🥈 | [Tina Peters](https://twitter.com/search?q=Tina%20Peters) | — |
+| 🥉 | [Rick James](https://twitter.com/search?q=Rick%20James) | — |
+| 4️⃣ | [Polis](https://twitter.com/search?q=Polis) | — |
+| 5️⃣ | [#ROHSupercard](https://twitter.com/search?q=%23ROHSupercard) | — |
+| 6️⃣ | [Trick Williams](https://twitter.com/search?q=Trick%20Williams) | — |
+| 7️⃣ | [Aaron Nola](https://twitter.com/search?q=Aaron%20Nola) | — |
+| 8️⃣ | [#gameoverse](https://twitter.com/search?q=%23gameoverse) | — |
+| 9️⃣ | [Ausar Thompson](https://twitter.com/search?q=Ausar%20Thompson) | — |
+| 🔟 | [Theo](https://twitter.com/search?q=Theo) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-05-15 10:07 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-05-16 09:59 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-05-15 10:07 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-05-16 09:59 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 56117 | `Rust` | π RuView turns commodity WiFi signals into real-time spatial intelligenc… |
-| 🥈 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 7833 | `Rust` | Your Personal AI super intelligence. Private, Simple and extremely power… |
-| 🥉 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 9026 | `TypeScript` | #1 Persistent memory for AI coding agents based on real-world benchmarks |
-| 4️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 191305 | `Shell` | An agentic skills framework & software development methodology that work… |
-| 5️⃣ | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 21837 | `Python` | A set of ready to use Agent Skills for research, science, engineering, a… |
-| 6️⃣ | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 24856 | `Python` | Kronos: A Foundation Model for the Language of Financial Markets |
-| 7️⃣ | [roboflow/supervision](https://github.com/roboflow/supervision) | 38904 | `Python` | We write your reusable computer vision tools. 💜 |
-| 8️⃣ | [influxdata/telegraf](https://github.com/influxdata/telegraf) | 17228 | `Go` | Agent for collecting, processing, aggregating, and writing metrics, logs… |
-| 9️⃣ | [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | 5382 | `Swift` | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
-| 🔟 | [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) | 141388 | `C` | Display and control your Android device |
+| 🥇 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 9099 | `Rust` | Your Personal AI super intelligence. Private, Simple and extremely power… |
+| 🥈 | [obra/superpowers](https://github.com/obra/superpowers) | 192865 | `Shell` | An agentic skills framework & software development methodology that work… |
+| 🥉 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 22477 | `Python` | A set of ready to use Agent Skills for research, science, engineering, a… |
+| 4️⃣ | [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | 6071 | `Swift` | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
+| 5️⃣ | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 57536 | `Rust` | π RuView turns commodity WiFi signals into real-time spatial intelligenc… |
+| 6️⃣ | [influxdata/telegraf](https://github.com/influxdata/telegraf) | 17420 | `Go` | Agent for collecting, processing, aggregating, and writing metrics, logs… |
+| 7️⃣ | [anthropics/skills](https://github.com/anthropics/skills) | 135179 | `Python` | Public repository for Agent Skills |
+| 8️⃣ | [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | 20904 | `TypeScript` | A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n … |
+| 9️⃣ | [NVIDIA-AI-Blueprints/video-search-and-summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) | 1162 | `Python` | Suite of reference architectures for building GPU-accelerated vision age… |
+| 🔟 | [oven-sh/bun](https://github.com/oven-sh/bun) | 90627 | `Rust` | Incredibly fast JavaScript runtime, bundler, test runner, and package ma… |
 
 </details>
 
-<sub>🕐 更新于 2026-05-15 10:07 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-05-16 09:59 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
