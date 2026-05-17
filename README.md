@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#SmackDown](https://twitter.com/search?q=%23SmackDown) | — |
-| 🥈 | [Tina Peters](https://twitter.com/search?q=Tina%20Peters) | — |
-| 🥉 | [Rick James](https://twitter.com/search?q=Rick%20James) | — |
-| 4️⃣ | [Polis](https://twitter.com/search?q=Polis) | — |
-| 5️⃣ | [#ROHSupercard](https://twitter.com/search?q=%23ROHSupercard) | — |
-| 6️⃣ | [Trick Williams](https://twitter.com/search?q=Trick%20Williams) | — |
-| 7️⃣ | [Aaron Nola](https://twitter.com/search?q=Aaron%20Nola) | — |
-| 8️⃣ | [#gameoverse](https://twitter.com/search?q=%23gameoverse) | — |
-| 9️⃣ | [Ausar Thompson](https://twitter.com/search?q=Ausar%20Thompson) | — |
-| 🔟 | [Theo](https://twitter.com/search?q=Theo) | — |
+| 🥇 | [Rodon](https://twitter.com/search?q=Rodon) | — |
+| 🥈 | [Aaron Rodgers](https://twitter.com/search?q=Aaron%20Rodgers) | — |
+| 🥉 | [Alex Saab](https://twitter.com/search?q=Alex%20Saab) | — |
+| 4️⃣ | [#UFCVegas117](https://twitter.com/search?q=%23UFCVegas117) | — |
+| 5️⃣ | [#RouseyCarano](https://twitter.com/search?q=%23RouseyCarano) | — |
+| 6️⃣ | [#AEWCollision](https://twitter.com/search?q=%23AEWCollision) | — |
+| 7️⃣ | [Taillon](https://twitter.com/search?q=Taillon) | — |
+| 8️⃣ | [Pizza Hut](https://twitter.com/search?q=Pizza%20Hut) | — |
+| 9️⃣ | [Napoleon Solo](https://twitter.com/search?q=Napoleon%20Solo) | — |
+| 🔟 | [Moraes](https://twitter.com/search?q=Moraes) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-05-16 09:59 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-05-17 10:01 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-05-16 09:59 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-05-17 10:01 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,18 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 9099 | `Rust` | Your Personal AI super intelligence. Private, Simple and extremely power… |
-| 🥈 | [obra/superpowers](https://github.com/obra/superpowers) | 192865 | `Shell` | An agentic skills framework & software development methodology that work… |
-| 🥉 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 22477 | `Python` | A set of ready to use Agent Skills for research, science, engineering, a… |
-| 4️⃣ | [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | 6071 | `Swift` | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
-| 5️⃣ | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 57536 | `Rust` | π RuView turns commodity WiFi signals into real-time spatial intelligenc… |
-| 6️⃣ | [influxdata/telegraf](https://github.com/influxdata/telegraf) | 17420 | `Go` | Agent for collecting, processing, aggregating, and writing metrics, logs… |
-| 7️⃣ | [anthropics/skills](https://github.com/anthropics/skills) | 135179 | `Python` | Public repository for Agent Skills |
-| 8️⃣ | [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | 20904 | `TypeScript` | A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n … |
-| 9️⃣ | [NVIDIA-AI-Blueprints/video-search-and-summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) | 1162 | `Python` | Suite of reference architectures for building GPU-accelerated vision age… |
-| 🔟 | [oven-sh/bun](https://github.com/oven-sh/bun) | 90627 | `Rust` | Incredibly fast JavaScript runtime, bundler, test runner, and package ma… |
+| 🥇 | [oven-sh/bun](https://github.com/oven-sh/bun) | 91263 | `Rust` | Incredibly fast JavaScript runtime, bundler, test runner, and package ma… |
+| 🥈 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 23178 | `Python` | A set of ready to use Agent Skills for research, science, engineering, a… |
+| 🥉 | [obra/superpowers](https://github.com/obra/superpowers) | 194066 | `Shell` | An agentic skills framework & software development methodology that work… |
+| 4️⃣ | [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | 14473 | `JavaScript` | Open-source alternative to AI video platforms — Free AI image & video ge… |
+| 5️⃣ | [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | 6926 | `Swift` | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
+| 6️⃣ | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 10789 | `Rust` | Your Personal AI super intelligence. Private, Simple and extremely power… |
+| 7️⃣ | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 58383 | `Rust` | π RuView turns commodity WiFi signals into real-time spatial intelligenc… |
+| 8️⃣ | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 2568 | `TypeScript` | Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer t… |
 
 </details>
 
-<sub>🕐 更新于 2026-05-16 09:59 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-05-17 10:01 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
