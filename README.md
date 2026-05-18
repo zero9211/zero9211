@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Rodon](https://twitter.com/search?q=Rodon) | — |
-| 🥈 | [Aaron Rodgers](https://twitter.com/search?q=Aaron%20Rodgers) | — |
-| 🥉 | [Alex Saab](https://twitter.com/search?q=Alex%20Saab) | — |
-| 4️⃣ | [#UFCVegas117](https://twitter.com/search?q=%23UFCVegas117) | — |
-| 5️⃣ | [#RouseyCarano](https://twitter.com/search?q=%23RouseyCarano) | — |
-| 6️⃣ | [#AEWCollision](https://twitter.com/search?q=%23AEWCollision) | — |
-| 7️⃣ | [Taillon](https://twitter.com/search?q=Taillon) | — |
-| 8️⃣ | [Pizza Hut](https://twitter.com/search?q=Pizza%20Hut) | — |
-| 9️⃣ | [Napoleon Solo](https://twitter.com/search?q=Napoleon%20Solo) | — |
-| 🔟 | [Moraes](https://twitter.com/search?q=Moraes) | — |
+| 🥇 | [#RHOA](https://twitter.com/search?q=%23RHOA) | — |
+| 🥈 | [Sam Merrill](https://twitter.com/search?q=Sam%20Merrill) | — |
+| 🥉 | [Aaron Rai](https://twitter.com/search?q=Aaron%20Rai) | — |
+| 4️⃣ | [K Michelle](https://twitter.com/search?q=K%20Michelle) | — |
+| 5️⃣ | [Carmen Navas](https://twitter.com/search?q=Carmen%20Navas) | — |
+| 6️⃣ | [Game 7](https://twitter.com/search?q=Game%207) | — |
+| 7️⃣ | [#BaddiesUSA](https://twitter.com/search?q=%23BaddiesUSA) | — |
+| 8️⃣ | [Shamea](https://twitter.com/search?q=Shamea) | — |
+| 9️⃣ | [#90DayFiance](https://twitter.com/search?q=%2390DayFiance) | — |
+| 🔟 | [#ACMawards](https://twitter.com/search?q=%23ACMawards) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-05-17 10:01 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-05-18 10:13 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-05-17 10:01 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-05-18 10:13 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,18 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [oven-sh/bun](https://github.com/oven-sh/bun) | 91263 | `Rust` | Incredibly fast JavaScript runtime, bundler, test runner, and package ma… |
-| 🥈 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 23178 | `Python` | A set of ready to use Agent Skills for research, science, engineering, a… |
-| 🥉 | [obra/superpowers](https://github.com/obra/superpowers) | 194066 | `Shell` | An agentic skills framework & software development methodology that work… |
-| 4️⃣ | [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | 14473 | `JavaScript` | Open-source alternative to AI video platforms — Free AI image & video ge… |
-| 5️⃣ | [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | 6926 | `Swift` | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
-| 6️⃣ | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 10789 | `Rust` | Your Personal AI super intelligence. Private, Simple and extremely power… |
-| 7️⃣ | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 58383 | `Rust` | π RuView turns commodity WiFi signals into real-time spatial intelligenc… |
-| 8️⃣ | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 2568 | `TypeScript` | Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer t… |
+| 🥇 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 13501 | `Rust` | Your Personal AI super intelligence. Private, Simple and extremely power… |
+| 🥈 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 35717 | `Python` | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://cli… |
+| 🥉 | [calcom/cal.diy](https://github.com/calcom/cal.diy) | 43304 | `TypeScript` | Scheduling infrastructure for absolutely everyone. |
+| 4️⃣ | [oven-sh/bun](https://github.com/oven-sh/bun) | 91737 | `Rust` | Incredibly fast JavaScript runtime, bundler, test runner, and package ma… |
+| 5️⃣ | [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | 15175 | `JavaScript` | Open-source alternative to AI video platforms — Free AI image & video ge… |
+| 6️⃣ | [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) | 7141 | `Python` | Open-source intelligence for the global theater. Track everything from t… |
+| 7️⃣ | [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) | 3582 | `TypeScript` | The secure, validated skill registry for professional AI coding agents. … |
+| 8️⃣ | [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) | 19959 | `Jupyter Notebook` | End-to-end, code-first tutorials for building production-grade GenAI age… |
+| 9️⃣ | [dograh-hq/dograh](https://github.com/dograh-hq/dograh) | 1715 | `Python` | Open Source Voice Agent Platform |
+| 🔟 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 23862 | `Python` | A set of ready to use Agent Skills for research, science, engineering, a… |
 
 </details>
 
-<sub>🕐 更新于 2026-05-17 10:01 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-05-18 10:13 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
