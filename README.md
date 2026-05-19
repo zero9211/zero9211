@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#RHOA](https://twitter.com/search?q=%23RHOA) | — |
-| 🥈 | [Sam Merrill](https://twitter.com/search?q=Sam%20Merrill) | — |
-| 🥉 | [Aaron Rai](https://twitter.com/search?q=Aaron%20Rai) | — |
-| 4️⃣ | [K Michelle](https://twitter.com/search?q=K%20Michelle) | — |
-| 5️⃣ | [Carmen Navas](https://twitter.com/search?q=Carmen%20Navas) | — |
-| 6️⃣ | [Game 7](https://twitter.com/search?q=Game%207) | — |
-| 7️⃣ | [#BaddiesUSA](https://twitter.com/search?q=%23BaddiesUSA) | — |
-| 8️⃣ | [Shamea](https://twitter.com/search?q=Shamea) | — |
-| 9️⃣ | [#90DayFiance](https://twitter.com/search?q=%2390DayFiance) | — |
-| 🔟 | [#ACMawards](https://twitter.com/search?q=%23ACMawards) | — |
+| 🥇 | [#WWERaw](https://twitter.com/search?q=%23WWERaw) | — |
+| 🥈 | [San Diego](https://twitter.com/search?q=San%20Diego) | — |
+| 🥉 | [Mark Cuban](https://twitter.com/search?q=Mark%20Cuban) | — |
+| 4️⃣ | [Mark Fuhrman](https://twitter.com/search?q=Mark%20Fuhrman) | — |
+| 5️⃣ | [Tribal Combat](https://twitter.com/search?q=Tribal%20Combat) | — |
+| 6️⃣ | [Neymar](https://twitter.com/search?q=Neymar) | — |
+| 7️⃣ | [Pinecone](https://twitter.com/search?q=Pinecone) | — |
+| 8️⃣ | [Trevor Rogers](https://twitter.com/search?q=Trevor%20Rogers) | — |
+| 9️⃣ | [Joao Pedro](https://twitter.com/search?q=Joao%20Pedro) | — |
+| 🔟 | [Cain Clark](https://twitter.com/search?q=Cain%20Clark) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-05-18 10:13 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-05-19 10:12 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-05-18 10:13 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-05-19 10:12 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 13501 | `Rust` | Your Personal AI super intelligence. Private, Simple and extremely power… |
-| 🥈 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 35717 | `Python` | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://cli… |
-| 🥉 | [calcom/cal.diy](https://github.com/calcom/cal.diy) | 43304 | `TypeScript` | Scheduling infrastructure for absolutely everyone. |
-| 4️⃣ | [oven-sh/bun](https://github.com/oven-sh/bun) | 91737 | `Rust` | Incredibly fast JavaScript runtime, bundler, test runner, and package ma… |
-| 5️⃣ | [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | 15175 | `JavaScript` | Open-source alternative to AI video platforms — Free AI image & video ge… |
-| 6️⃣ | [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) | 7141 | `Python` | Open-source intelligence for the global theater. Track everything from t… |
-| 7️⃣ | [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) | 3582 | `TypeScript` | The secure, validated skill registry for professional AI coding agents. … |
-| 8️⃣ | [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) | 19959 | `Jupyter Notebook` | End-to-end, code-first tutorials for building production-grade GenAI age… |
-| 9️⃣ | [dograh-hq/dograh](https://github.com/dograh-hq/dograh) | 1715 | `Python` | Open Source Voice Agent Platform |
-| 🔟 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 23862 | `Python` | A set of ready to use Agent Skills for research, science, engineering, a… |
+| 🥇 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 17513 | `Rust` | Your Personal AI super intelligence. Private, Simple and extremely power… |
+| 🥈 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 11955 | `Python` | Academic Research Skills for Claude Code: research → write → review → re… |
+| 🥉 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 36714 | `Python` | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://cli… |
+| 4️⃣ | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 24438 | `Python` | A set of ready to use Agent Skills for research, science, engineering, a… |
+| 5️⃣ | [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | 8385 | `Swift` | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
+| 6️⃣ | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 111080 | `C++` | LLM inference in C/C++ |
+| 7️⃣ | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 59943 | `Rust` | π RuView turns commodity WiFi signals into real-time spatial intelligenc… |
+| 8️⃣ | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 15319 | `Python` | Stealth Chromium that passes every bot detection test. Drop-in Playwrigh… |
+| 9️⃣ | [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) | 4078 | `TypeScript` | The secure, validated skill registry for professional AI coding agents. … |
+| 🔟 | [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) | 7773 | `Python` | Open-source intelligence for the global theater. Track everything from t… |
 
 </details>
 
-<sub>🕐 更新于 2026-05-18 10:13 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-05-19 10:12 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
