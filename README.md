@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#WWERaw](https://twitter.com/search?q=%23WWERaw) | — |
-| 🥈 | [San Diego](https://twitter.com/search?q=San%20Diego) | — |
-| 🥉 | [Mark Cuban](https://twitter.com/search?q=Mark%20Cuban) | — |
-| 4️⃣ | [Mark Fuhrman](https://twitter.com/search?q=Mark%20Fuhrman) | — |
-| 5️⃣ | [Tribal Combat](https://twitter.com/search?q=Tribal%20Combat) | — |
-| 6️⃣ | [Neymar](https://twitter.com/search?q=Neymar) | — |
-| 7️⃣ | [Pinecone](https://twitter.com/search?q=Pinecone) | — |
-| 8️⃣ | [Trevor Rogers](https://twitter.com/search?q=Trevor%20Rogers) | — |
-| 9️⃣ | [Joao Pedro](https://twitter.com/search?q=Joao%20Pedro) | — |
-| 🔟 | [Cain Clark](https://twitter.com/search?q=Cain%20Clark) | — |
+| 🥇 | [Massie](https://twitter.com/search?q=Massie) | — |
+| 🥈 | [Kentucky](https://twitter.com/search?q=Kentucky) | — |
+| 🥉 | [Jason Kidd](https://twitter.com/search?q=Jason%20Kidd) | — |
+| 4️⃣ | [#WWENXT](https://twitter.com/search?q=%23WWENXT) | — |
+| 5️⃣ | [McLean](https://twitter.com/search?q=McLean) | — |
+| 6️⃣ | [Thune](https://twitter.com/search?q=Thune) | — |
+| 7️⃣ | [Arsenal](https://twitter.com/search?q=Arsenal) | — |
+| 8️⃣ | [Ed Gallrein](https://twitter.com/search?q=Ed%20Gallrein) | — |
+| 9️⃣ | [Happy Birthday Danny](https://twitter.com/search?q=Happy%20Birthday%20Danny) | — |
+| 🔟 | [RINO](https://twitter.com/search?q=RINO) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-05-19 10:12 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-05-20 10:11 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-05-19 10:12 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-05-20 10:11 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 17513 | `Rust` | Your Personal AI super intelligence. Private, Simple and extremely power… |
-| 🥈 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 11955 | `Python` | Academic Research Skills for Claude Code: research → write → review → re… |
-| 🥉 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 36714 | `Python` | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://cli… |
-| 4️⃣ | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 24438 | `Python` | A set of ready to use Agent Skills for research, science, engineering, a… |
-| 5️⃣ | [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | 8385 | `Swift` | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
-| 6️⃣ | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 111080 | `C++` | LLM inference in C/C++ |
-| 7️⃣ | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 59943 | `Rust` | π RuView turns commodity WiFi signals into real-time spatial intelligenc… |
-| 8️⃣ | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 15319 | `Python` | Stealth Chromium that passes every bot detection test. Drop-in Playwrigh… |
-| 9️⃣ | [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) | 4078 | `TypeScript` | The secure, validated skill registry for professional AI coding agents. … |
-| 🔟 | [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) | 7773 | `Python` | Open-source intelligence for the global theater. Track everything from t… |
+| 🥇 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 21455 | `Rust` | Your Personal AI super intelligence. Private, Simple and extremely power… |
+| 🥈 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 37767 | `Python` | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://cli… |
+| 🥉 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 14222 | `Python` | Academic Research Skills for Claude Code: research → write → review → re… |
+| 4️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 198511 | `Shell` | An agentic skills framework & software development methodology that work… |
+| 5️⃣ | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 20249 | `Python` | Official, Anthropic-managed directory of high quality Claude Code Plugin… |
+| 6️⃣ | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 14224 | `TypeScript` | #1 Persistent memory for AI coding agents based on real-world benchmarks |
+| 7️⃣ | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 16683 | `Python` | Stealth Chromium that passes every bot detection test. Drop-in Playwrigh… |
+| 8️⃣ | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 50966 | `Rust` | CLI proxy that reduces LLM token consumption by 60-90% on common dev com… |
+| 9️⃣ | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 101701 | `Shell` | A complete AI agency at your fingertips - From frontend wizards to Reddi… |
+| 🔟 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 6736 | `TypeScript` | Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and Ope… |
 
 </details>
 
-<sub>🕐 更新于 2026-05-19 10:12 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-05-20 10:11 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
