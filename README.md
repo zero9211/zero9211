@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Massie](https://twitter.com/search?q=Massie) | — |
-| 🥈 | [Kentucky](https://twitter.com/search?q=Kentucky) | — |
-| 🥉 | [Jason Kidd](https://twitter.com/search?q=Jason%20Kidd) | — |
-| 4️⃣ | [#WWENXT](https://twitter.com/search?q=%23WWENXT) | — |
-| 5️⃣ | [McLean](https://twitter.com/search?q=McLean) | — |
-| 6️⃣ | [Thune](https://twitter.com/search?q=Thune) | — |
-| 7️⃣ | [Arsenal](https://twitter.com/search?q=Arsenal) | — |
-| 8️⃣ | [Ed Gallrein](https://twitter.com/search?q=Ed%20Gallrein) | — |
-| 9️⃣ | [Happy Birthday Danny](https://twitter.com/search?q=Happy%20Birthday%20Danny) | — |
-| 🔟 | [RINO](https://twitter.com/search?q=RINO) | — |
+| 🥇 | [#Survivor50](https://twitter.com/search?q=%23Survivor50) | — |
+| 🥈 | [#AEWDynamite](https://twitter.com/search?q=%23AEWDynamite) | — |
+| 🥉 | [Not Israel](https://twitter.com/search?q=Not%20Israel) | — |
+| 4️⃣ | [Betty Boop](https://twitter.com/search?q=Betty%20Boop) | — |
+| 5️⃣ | [Dom Smith](https://twitter.com/search?q=Dom%20Smith) | — |
+| 6️⃣ | [Tiff](https://twitter.com/search?q=Tiff) | — |
+| 7️⃣ | [Mark Briscoe](https://twitter.com/search?q=Mark%20Briscoe) | — |
+| 8️⃣ | [Joey Jones](https://twitter.com/search?q=Joey%20Jones) | — |
+| 9️⃣ | [Homelander](https://twitter.com/search?q=Homelander) | — |
+| 🔟 | [Cabrera](https://twitter.com/search?q=Cabrera) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-05-20 10:11 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-05-21 10:10 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-05-20 10:11 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-05-21 10:10 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 21455 | `Rust` | Your Personal AI super intelligence. Private, Simple and extremely power… |
-| 🥈 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 37767 | `Python` | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://cli… |
-| 🥉 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 14222 | `Python` | Academic Research Skills for Claude Code: research → write → review → re… |
-| 4️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 198511 | `Shell` | An agentic skills framework & software development methodology that work… |
-| 5️⃣ | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 20249 | `Python` | Official, Anthropic-managed directory of high quality Claude Code Plugin… |
-| 6️⃣ | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 14224 | `TypeScript` | #1 Persistent memory for AI coding agents based on real-world benchmarks |
-| 7️⃣ | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 16683 | `Python` | Stealth Chromium that passes every bot detection test. Drop-in Playwrigh… |
-| 8️⃣ | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 50966 | `Rust` | CLI proxy that reduces LLM token consumption by 60-90% on common dev com… |
-| 9️⃣ | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 101701 | `Shell` | A complete AI agency at your fingertips - From frontend wizards to Reddi… |
-| 🔟 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 6736 | `TypeScript` | Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and Ope… |
+| 🥇 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 9858 | `TypeScript` | Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and Ope… |
+| 🥈 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 16324 | `Python` | Academic Research Skills for Claude Code: research → write → review → re… |
+| 🥉 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 23746 | `Rust` | Your Personal AI super intelligence. Private, Simple and extremely power… |
+| 4️⃣ | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 141027 | — | A single CLAUDE.md file to improve Claude Code behavior, derived from An… |
+| 5️⃣ | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 9659 | `Python` | Learn it. Build it. Ship it for others. |
+| 6️⃣ | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 38573 | `Python` | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://cli… |
+| 7️⃣ | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 5450 | `TypeScript` | ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool… |
+| 8️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 200134 | `Shell` | An agentic skills framework & software development methodology that work… |
+| 9️⃣ | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 20831 | `Python` | Official, Anthropic-managed directory of high quality Claude Code Plugin… |
+| 🔟 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 102891 | `Shell` | A complete AI agency at your fingertips - From frontend wizards to Reddi… |
 
 </details>
 
-<sub>🕐 更新于 2026-05-20 10:11 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-05-21 10:10 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
