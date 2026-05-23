@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Kyle Busch](https://twitter.com/search?q=Kyle%20Busch) | — |
-| 🥈 | [NASCAR](https://twitter.com/search?q=NASCAR) | — |
-| 🥉 | [Nathan Lane](https://twitter.com/search?q=Nathan%20Lane) | — |
-| 4️⃣ | [$NOAR](https://twitter.com/search?q=%24NOAR) | — |
-| 5️⃣ | [Destiny](https://twitter.com/search?q=Destiny) | — |
-| 6️⃣ | [Josh Hart](https://twitter.com/search?q=Josh%20Hart) | — |
-| 7️⃣ | [Bungie](https://twitter.com/search?q=Bungie) | — |
-| 8️⃣ | [Thune](https://twitter.com/search?q=Thune) | — |
-| 9️⃣ | [Marathon](https://twitter.com/search?q=Marathon) | — |
-| 🔟 | [Samantha](https://twitter.com/search?q=Samantha) | — |
+| 🥇 | [Trump](https://twitter.com/search?q=Trump) | — |
+| 🥈 | [Spurs](https://twitter.com/search?q=Spurs) | — |
+| 🥉 | [America](https://twitter.com/search?q=America) | — |
+| 4️⃣ | [Democrats](https://twitter.com/search?q=Democrats) | — |
+| 5️⃣ | [Iran](https://twitter.com/search?q=Iran) | — |
+| 6️⃣ | [Wemby](https://twitter.com/search?q=Wemby) | — |
+| 7️⃣ | [#SmackDown](https://twitter.com/search?q=%23SmackDown) | — |
+| 8️⃣ | [Israel](https://twitter.com/search?q=Israel) | — |
+| 9️⃣ | [Chet](https://twitter.com/search?q=Chet) | — |
+| 🔟 | [Jesus](https://twitter.com/search?q=Jesus) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-05-22 10:14 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-05-23 10:01 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-05-22 10:14 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-05-23 10:01 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 22596 | `Python` | Official, Anthropic-managed directory of high quality Claude Code Plugin… |
-| 🥈 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 13765 | `TypeScript` | Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and Ope… |
-| 🥉 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 143356 | — | A single CLAUDE.md file to improve Claude Code behavior, derived from An… |
-| 4️⃣ | [dotnet/skills](https://github.com/dotnet/skills) | 2220 | `C#` | Repository for skills to assist AI coding agents with .NET and C# |
-| 5️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 201608 | `Shell` | An agentic skills framework & software development methodology that work… |
-| 6️⃣ | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 39165 | `Python` | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://cli… |
-| 7️⃣ | [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) | 5448 | `TypeScript` | Free, Open Source, Self-Hosted WhatsApp API Gateway |
-| 8️⃣ | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 40523 | `TypeScript` | Chrome DevTools for coding agents |
-| 9️⃣ | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 10795 | `Python` | Learn it. Build it. Ship it for others. |
-| 🔟 | [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) | 14406 | `Python` | Unofficial Python API and agentic skill for Google NotebookLM. Full prog… |
+| 🥇 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 25019 | `Python` | Official, Anthropic-managed directory of high quality Claude Code Plugin… |
+| 🥈 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 16653 | `TypeScript` | Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCod… |
+| 🥉 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 64061 | `Rust` | π RuView turns commodity WiFi signals into real-time spatial intelligenc… |
+| 4️⃣ | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 11986 | `Python` | Learn it. Build it. Ship it for others. |
+| 5️⃣ | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 40989 | `TypeScript` | Chrome DevTools for coding agents |
+| 6️⃣ | [dotnet/skills](https://github.com/dotnet/skills) | 2543 | `C#` | Repository for skills to assist AI coding agents with .NET and C# |
+| 7️⃣ | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 18754 | `TypeScript` | Graphs that teach > graphs that impress. Turn any code into an interacti… |
+| 8️⃣ | [odoo/odoo](https://github.com/odoo/odoo) | 51149 | `Python` | Odoo. Open Source Apps To Grow Your Business. |
+| 9️⃣ | [byJoey/cfnew](https://github.com/byJoey/cfnew) | 13317 | — | — |
+| 🔟 | [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | 223230 | — | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one… |
 
 </details>
 
-<sub>🕐 更新于 2026-05-22 10:14 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-05-23 10:01 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
