@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#SNME](https://twitter.com/search?q=%23SNME) | — |
-| 🥈 | [Usyk](https://twitter.com/search?q=Usyk) | — |
-| 🥉 | [Usyk](https://twitter.com/search?q=Usyk) | — |
-| 4️⃣ | [White House](https://twitter.com/search?q=White%20House) | — |
-| 5️⃣ | [Cavs](https://twitter.com/search?q=Cavs) | — |
-| 6️⃣ | [Knicks](https://twitter.com/search?q=Knicks) | — |
-| 7️⃣ | [Trump](https://twitter.com/search?q=Trump) | — |
-| 8️⃣ | [Secret Service](https://twitter.com/search?q=Secret%20Service) | — |
-| 9️⃣ | [Iran](https://twitter.com/search?q=Iran) | — |
-| 🔟 | [Becky](https://twitter.com/search?q=Becky) | — |
+| 🥇 | [#AEWDoN](https://twitter.com/search?q=%23AEWDoN) | — |
+| 🥈 | [Okada](https://twitter.com/search?q=Okada) | — |
+| 🥉 | [Spurs](https://twitter.com/search?q=Spurs) | — |
+| 4️⃣ | [Samsung](https://twitter.com/search?q=Samsung) | — |
+| 5️⃣ | [Kyle Fletcher](https://twitter.com/search?q=Kyle%20Fletcher) | — |
+| 6️⃣ | [Chet](https://twitter.com/search?q=Chet) | — |
+| 7️⃣ | [#AEWDoubleOrNothing](https://twitter.com/search?q=%23AEWDoubleOrNothing) | — |
+| 8️⃣ | [Porsha](https://twitter.com/search?q=Porsha) | — |
+| 9️⃣ | [Athena](https://twitter.com/search?q=Athena) | — |
+| 🔟 | [Kelli](https://twitter.com/search?q=Kelli) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-05-24 10:10 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-05-25 10:29 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-05-24 10:10 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-05-25 10:29 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 21720 | `TypeScript` | Graphs that teach > graphs that impress. Turn any code into an interacti… |
-| 🥈 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 26509 | `Python` | Official, Anthropic-managed directory of high quality Claude Code Plugin… |
-| 🥉 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 19634 | `TypeScript` | Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCod… |
-| 4️⃣ | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 13828 | `Python` | Learn it. Build it. Ship it for others. |
-| 5️⃣ | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | 23143 | `Python` | FinceptTerminal is a modern finance application offering advanced market… |
-| 6️⃣ | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 149752 | — | A single CLAUDE.md file to improve Claude Code behavior, derived from An… |
-| 7️⃣ | [dotnet/skills](https://github.com/dotnet/skills) | 2757 | `C#` | Repository for skills to assist AI coding agents with .NET and C# |
-| 8️⃣ | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 41353 | `TypeScript` | Chrome DevTools for coding agents |
-| 9️⃣ | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 7471 | `Python` | 754 structured cybersecurity skills for AI agents · Mapped to 5 framewor… |
-| 🔟 | [presenton/presenton](https://github.com/presenton/presenton) | 6406 | `TypeScript` | Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Deck… |
+| 🥇 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 26437 | `TypeScript` | Graphs that teach > graphs that impress. Turn any code into an interacti… |
+| 🥈 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 16286 | `Python` | Learn it. Build it. Ship it for others. |
+| 🥉 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 27298 | `Python` | Official, Anthropic-managed directory of high quality Claude Code Plugin… |
+| 4️⃣ | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 14132 | `Python` | Open source repository of plugins primarily intended for knowledge worke… |
+| 5️⃣ | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 152359 | — | A single CLAUDE.md file to improve Claude Code behavior, derived from An… |
+| 6️⃣ | [earendil-works/pi](https://github.com/earendil-works/pi) | 53997 | `TypeScript` | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI librar… |
+| 7️⃣ | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 29205 | `Python` | Use claude-code for free in the terminal, VSCode extension or discord li… |
+| 8️⃣ | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 22363 | `TypeScript` | Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCod… |
+| 9️⃣ | [multica-ai/multica](https://github.com/multica-ai/multica) | 32559 | `TypeScript` | The open-source managed agents platform. Turn coding agents into real te… |
+| 🔟 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 25816 | `Python` | Kronos: A Foundation Model for the Language of Financial Markets |
 
 </details>
 
-<sub>🕐 更新于 2026-05-24 10:10 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-05-25 10:29 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
