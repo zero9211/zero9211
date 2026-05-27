@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Cavs](https://twitter.com/search?q=Cavs) | — |
-| 🥈 | [Knicks](https://twitter.com/search?q=Knicks) | — |
-| 🥉 | [#WWERaw](https://twitter.com/search?q=%23WWERaw) | — |
-| 4️⃣ | [#AMAs](https://twitter.com/search?q=%23AMAs) | — |
-| 5️⃣ | [George Floyd](https://twitter.com/search?q=George%20Floyd) | — |
-| 6️⃣ | [Ferrari](https://twitter.com/search?q=Ferrari) | — |
-| 7️⃣ | [Harden](https://twitter.com/search?q=Harden) | — |
-| 8️⃣ | [Cleveland](https://twitter.com/search?q=Cleveland) | — |
-| 9️⃣ | [Landry Shamet](https://twitter.com/search?q=Landry%20Shamet) | — |
-| 🔟 | [LA Knight](https://twitter.com/search?q=LA%20Knight) | — |
+| 🥇 | [#SummerHouse](https://twitter.com/search?q=%23SummerHouse) | — |
+| 🥈 | [Chet](https://twitter.com/search?q=Chet) | — |
+| 🥉 | [Paxton](https://twitter.com/search?q=Paxton) | — |
+| 4️⃣ | [Cornyn](https://twitter.com/search?q=Cornyn) | — |
+| 5️⃣ | [Texas](https://twitter.com/search?q=Texas) | — |
+| 6️⃣ | [Josh Jacobs](https://twitter.com/search?q=Josh%20Jacobs) | — |
+| 7️⃣ | [Ciara](https://twitter.com/search?q=Ciara) | — |
+| 8️⃣ | [Al Green](https://twitter.com/search?q=Al%20Green) | — |
+| 9️⃣ | [Amanda](https://twitter.com/search?q=Amanda) | — |
+| 🔟 | [Wemby](https://twitter.com/search?q=Wemby) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-05-26 10:08 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-05-27 10:29 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-05-26 10:08 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-05-27 10:29 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 31432 | `TypeScript` | Graphs that teach > graphs that impress. Turn any code into an interacti… |
-| 🥈 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 15558 | `Python` | Open source repository of plugins primarily intended for knowledge worke… |
-| 🥉 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 18744 | `Python` | Learn it. Build it. Ship it for others. |
-| 4️⃣ | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 192468 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, me… |
-| 5️⃣ | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 9294 | `Python` | 754 structured cybersecurity skills for AI agents · Mapped to 5 framewor… |
-| 6️⃣ | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 25271 | `TypeScript` | Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCod… |
-| 7️⃣ | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 19522 | `Swift` | Ghostty-based macOS terminal with vertical tabs and notifications for AI… |
-| 8️⃣ | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 155105 | — | A single CLAUDE.md file to improve Claude Code behavior, derived from An… |
-| 9️⃣ | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | 23908 | `Python` | FinceptTerminal is a modern finance application offering advanced market… |
-| 🔟 | [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | 41360 | `Python` | A community-supported supercharged document management system: scan, ind… |
+| 🥇 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 36213 | `TypeScript` | Graphs that teach > graphs that impress. Turn any code into an interacti… |
+| 🥈 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 194537 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, me… |
+| 🥉 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 20887 | `Python` | Learn it. Build it. Ship it for others. |
+| 4️⃣ | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 16730 | `Python` | Open source repository of plugins primarily intended for knowledge worke… |
+| 5️⃣ | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 10176 | `Python` | 754 structured cybersecurity skills for AI agents · Mapped to 5 framewor… |
+| 6️⃣ | [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) | 5076 | — | A skill file for removing AI tells from prose |
+| 7️⃣ | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 22016 | `Shell` | Taste-Skill - gives your AI good taste. stops the AI from generating bor… |
+| 8️⃣ | [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | 167535 | `HTML` | DigitalPlat FreeDomain: Free Domain For Everyone |
+| 9️⃣ | [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) | 52405 | `C#` | The Free Software Media System - Server Backend & API |
+| 🔟 | [Axorax/awesome-free-apps](https://github.com/Axorax/awesome-free-apps) | 5333 | `JavaScript` | Curated list of the best free apps for PC and mobile |
 
 </details>
 
-<sub>🕐 更新于 2026-05-26 10:08 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-05-27 10:29 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
