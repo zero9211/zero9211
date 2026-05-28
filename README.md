@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#SummerHouse](https://twitter.com/search?q=%23SummerHouse) | — |
-| 🥈 | [Chet](https://twitter.com/search?q=Chet) | — |
-| 🥉 | [Paxton](https://twitter.com/search?q=Paxton) | — |
-| 4️⃣ | [Cornyn](https://twitter.com/search?q=Cornyn) | — |
-| 5️⃣ | [Texas](https://twitter.com/search?q=Texas) | — |
-| 6️⃣ | [Josh Jacobs](https://twitter.com/search?q=Josh%20Jacobs) | — |
-| 7️⃣ | [Ciara](https://twitter.com/search?q=Ciara) | — |
-| 8️⃣ | [Al Green](https://twitter.com/search?q=Al%20Green) | — |
-| 9️⃣ | [Amanda](https://twitter.com/search?q=Amanda) | — |
-| 🔟 | [Wemby](https://twitter.com/search?q=Wemby) | — |
+| 🥇 | [#AEWDynamite](https://twitter.com/search?q=%23AEWDynamite) | — |
+| 🥈 | [Stephen Miller](https://twitter.com/search?q=Stephen%20Miller) | — |
+| 🥉 | [Kevin Knight](https://twitter.com/search?q=Kevin%20Knight) | — |
+| 4️⃣ | [Fort Knox](https://twitter.com/search?q=Fort%20Knox) | — |
+| 5️⃣ | [E. Jean Carroll](https://twitter.com/search?q=E.%20Jean%20Carroll) | — |
+| 6️⃣ | [JAKE DOYLE](https://twitter.com/search?q=JAKE%20DOYLE) | — |
+| 7️⃣ | [Harambe](https://twitter.com/search?q=Harambe) | — |
+| 8️⃣ | [Ciampa](https://twitter.com/search?q=Ciampa) | — |
+| 9️⃣ | [Jericho](https://twitter.com/search?q=Jericho) | — |
+| 🔟 | [Gerrit Cole](https://twitter.com/search?q=Gerrit%20Cole) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-05-27 10:29 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-05-28 10:02 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-05-27 10:29 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-05-28 10:02 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 36213 | `TypeScript` | Graphs that teach > graphs that impress. Turn any code into an interacti… |
-| 🥈 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 194537 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, me… |
-| 🥉 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 20887 | `Python` | Learn it. Build it. Ship it for others. |
-| 4️⃣ | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 16730 | `Python` | Open source repository of plugins primarily intended for knowledge worke… |
-| 5️⃣ | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 10176 | `Python` | 754 structured cybersecurity skills for AI agents · Mapped to 5 framewor… |
-| 6️⃣ | [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) | 5076 | — | A skill file for removing AI tells from prose |
-| 7️⃣ | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 22016 | `Shell` | Taste-Skill - gives your AI good taste. stops the AI from generating bor… |
-| 8️⃣ | [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | 167535 | `HTML` | DigitalPlat FreeDomain: Free Domain For Everyone |
-| 9️⃣ | [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) | 52405 | `C#` | The Free Software Media System - Server Backend & API |
-| 🔟 | [Axorax/awesome-free-apps](https://github.com/Axorax/awesome-free-apps) | 5333 | `JavaScript` | Curated list of the best free apps for PC and mobile |
+| 🥇 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 62354 | `Python` | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
+| 🥈 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 40062 | `TypeScript` | Graphs that teach > graphs that impress. Turn any code into an interacti… |
+| 🥉 | [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) | 5755 | — | A skill file for removing AI tells from prose |
+| 4️⃣ | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 196106 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, me… |
+| 5️⃣ | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 17318 | `Python` | Open source repository of plugins primarily intended for knowledge worke… |
+| 6️⃣ | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 24408 | `Shell` | Taste-Skill - gives your AI good taste. stops the AI from generating bor… |
+| 7️⃣ | [p-e-w/heretic](https://github.com/p-e-w/heretic) | 22045 | `Python` | Fully automatic censorship removal for language models |
+| 8️⃣ | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 26900 | `Python` | Kronos: A Foundation Model for the Language of Financial Markets |
+| 9️⃣ | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 11007 | `Python` | 754 structured cybersecurity skills for AI agents · Mapped to 5 framewor… |
+| 🔟 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | 47361 | `TypeScript` | The open alternative to Salesforce, designed for AI. |
 
 </details>
 
-<sub>🕐 更新于 2026-05-27 10:29 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-05-28 10:02 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
