@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#loveislandusa](https://twitter.com/search?q=%23loveislandusa) | — |
-| 🥈 | [Argentina](https://twitter.com/search?q=Argentina) | — |
-| 🥉 | [Chennedy Carter](https://twitter.com/search?q=Chennedy%20Carter) | — |
-| 4️⃣ | [Sark](https://twitter.com/search?q=Sark) | — |
-| 5️⃣ | [Mitch](https://twitter.com/search?q=Mitch) | — |
-| 6️⃣ | [Merry Christmas](https://twitter.com/search?q=Merry%20Christmas) | — |
-| 7️⃣ | [$DELL](https://twitter.com/search?q=%24DELL) | — |
-| 8️⃣ | [Melanie](https://twitter.com/search?q=Melanie) | — |
-| 9️⃣ | [Martina McBride](https://twitter.com/search?q=Martina%20McBride) | — |
-| 🔟 | [Brandon Roy](https://twitter.com/search?q=Brandon%20Roy) | — |
+| 🥇 | [Kennedy Center](https://twitter.com/search?q=Kennedy%20Center) | — |
+| 🥈 | [Abdul](https://twitter.com/search?q=Abdul) | — |
+| 🥉 | [#SmackDown](https://twitter.com/search?q=%23SmackDown) | — |
+| 4️⃣ | [Shota](https://twitter.com/search?q=Shota) | — |
+| 5️⃣ | [#LoveAfterLockup](https://twitter.com/search?q=%23LoveAfterLockup) | — |
+| 6️⃣ | [#OPLive](https://twitter.com/search?q=%23OPLive) | — |
+| 7️⃣ | [Marcia Lucas](https://twitter.com/search?q=Marcia%20Lucas) | — |
+| 8️⃣ | [Nancy Mace](https://twitter.com/search?q=Nancy%20Mace) | — |
+| 9️⃣ | [#OPNation](https://twitter.com/search?q=%23OPNation) | — |
+| 🔟 | [Jameis](https://twitter.com/search?q=Jameis) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-05-29 10:07 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-05-30 10:02 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-05-29 10:07 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-05-30 10:02 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 66556 | `Python` | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
-| 🥈 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 197353 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, me… |
-| 🥉 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 26552 | `Shell` | Taste-Skill - gives your AI good taste. stops the AI from generating bor… |
-| 4️⃣ | [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) | 6458 | — | A skill file for removing AI tells from prose |
-| 5️⃣ | [twentyhq/twenty](https://github.com/twentyhq/twenty) | 47890 | `TypeScript` | The open alternative to Salesforce, designed for AI. |
-| 6️⃣ | [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | 170782 | `HTML` | DigitalPlat FreeDomain: Free Domain For Everyone |
-| 7️⃣ | [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) | 48607 | — | An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的… |
-| 8️⃣ | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 127816 | `Python` | Python tool for converting files and office documents to Markdown. |
-| 9️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 211161 | `Shell` | An agentic skills framework & software development methodology that work… |
-| 🔟 | [revfactory/harness](https://github.com/revfactory/harness) | 3916 | `HTML` | A meta-skill that designs domain-specific agent teams, defines specializ… |
+| 🥇 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 69761 | `Python` | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
+| 🥈 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 130035 | `Python` | Python tool for converting files and office documents to Markdown. |
+| 🥉 | [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | 18152 | `TypeScript` | Official Compound Engineering plugin for Claude Code, Codex, Cursor, and… |
+| 4️⃣ | [twentyhq/twenty](https://github.com/twentyhq/twenty) | 48426 | `TypeScript` | The open alternative to Salesforce, designed for AI. |
+| 5️⃣ | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 127901 | `Python` | Claude Code is an agentic coding tool that lives in your terminal, under… |
+| 6️⃣ | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 28184 | `Shell` | Taste-Skill - gives your AI good taste. stops the AI from generating bor… |
+| 7️⃣ | [cursor/plugins](https://github.com/cursor/plugins) | 1309 | `TypeScript` | Cursor plugin specification and official plugins |
+| 8️⃣ | [run-llama/liteparse](https://github.com/run-llama/liteparse) | 7352 | `Rust` | A fast, helpful, and open-source document parser |
+| 9️⃣ | [galilai-group/stable-worldmodel](https://github.com/galilai-group/stable-worldmodel) | 1261 | `Python` | A platform for reproducible world model research and evaluation |
+| 🔟 | [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) | 49657 | — | An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的… |
 
 </details>
 
-<sub>🕐 更新于 2026-05-29 10:07 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-05-30 10:02 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
