@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Kennedy Center](https://twitter.com/search?q=Kennedy%20Center) | — |
-| 🥈 | [Abdul](https://twitter.com/search?q=Abdul) | — |
-| 🥉 | [#SmackDown](https://twitter.com/search?q=%23SmackDown) | — |
-| 4️⃣ | [Shota](https://twitter.com/search?q=Shota) | — |
-| 5️⃣ | [#LoveAfterLockup](https://twitter.com/search?q=%23LoveAfterLockup) | — |
-| 6️⃣ | [#OPLive](https://twitter.com/search?q=%23OPLive) | — |
-| 7️⃣ | [Marcia Lucas](https://twitter.com/search?q=Marcia%20Lucas) | — |
-| 8️⃣ | [Nancy Mace](https://twitter.com/search?q=Nancy%20Mace) | — |
-| 9️⃣ | [#OPNation](https://twitter.com/search?q=%23OPNation) | — |
-| 🔟 | [Jameis](https://twitter.com/search?q=Jameis) | — |
+| 🥇 | [Spurs](https://twitter.com/search?q=Spurs) | — |
+| 🥈 | [Caruso](https://twitter.com/search?q=Caruso) | — |
+| 🥉 | [Wemby](https://twitter.com/search?q=Wemby) | — |
+| 4️⃣ | [Chet](https://twitter.com/search?q=Chet) | — |
+| 5️⃣ | [Shai](https://twitter.com/search?q=Shai) | — |
+| 6️⃣ | [Game 7](https://twitter.com/search?q=Game%207) | — |
+| 7️⃣ | [#AEWCollision](https://twitter.com/search?q=%23AEWCollision) | — |
+| 8️⃣ | [Platner](https://twitter.com/search?q=Platner) | — |
+| 9️⃣ | [Lu Dort](https://twitter.com/search?q=Lu%20Dort) | — |
+| 🔟 | [Ben Brown](https://twitter.com/search?q=Ben%20Brown) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-05-30 10:02 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-05-31 10:29 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-05-30 10:02 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-05-31 10:29 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 69761 | `Python` | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
-| 🥈 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 130035 | `Python` | Python tool for converting files and office documents to Markdown. |
-| 🥉 | [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | 18152 | `TypeScript` | Official Compound Engineering plugin for Claude Code, Codex, Cursor, and… |
-| 4️⃣ | [twentyhq/twenty](https://github.com/twentyhq/twenty) | 48426 | `TypeScript` | The open alternative to Salesforce, designed for AI. |
-| 5️⃣ | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 127901 | `Python` | Claude Code is an agentic coding tool that lives in your terminal, under… |
-| 6️⃣ | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 28184 | `Shell` | Taste-Skill - gives your AI good taste. stops the AI from generating bor… |
-| 7️⃣ | [cursor/plugins](https://github.com/cursor/plugins) | 1309 | `TypeScript` | Cursor plugin specification and official plugins |
-| 8️⃣ | [run-llama/liteparse](https://github.com/run-llama/liteparse) | 7352 | `Rust` | A fast, helpful, and open-source document parser |
-| 9️⃣ | [galilai-group/stable-worldmodel](https://github.com/galilai-group/stable-worldmodel) | 1261 | `Python` | A platform for reproducible world model research and evaluation |
-| 🔟 | [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) | 49657 | — | An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的… |
+| 🥇 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 132518 | `Python` | Python tool for converting files and office documents to Markdown. |
+| 🥈 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 72071 | `Python` | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
+| 🥉 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 128424 | `Python` | Claude Code is an agentic coding tool that lives in your terminal, under… |
+| 4️⃣ | [cursor/plugins](https://github.com/cursor/plugins) | 1471 | `TypeScript` | Cursor plugin specification and official plugins |
+| 5️⃣ | [revfactory/harness](https://github.com/revfactory/harness) | 4281 | `HTML` | A meta-skill that designs domain-specific agent teams, defines specializ… |
+| 6️⃣ | [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | 18438 | `TypeScript` | Official Compound Engineering plugin for Claude Code, Codex, Cursor, and… |
+| 7️⃣ | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 199360 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, me… |
+| 8️⃣ | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 22791 | `Python` | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative… |
+| 9️⃣ | [galilai-group/stable-worldmodel](https://github.com/galilai-group/stable-worldmodel) | 1470 | `Python` | A platform for reproducible world model research and evaluation |
+| 🔟 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 27375 | `TypeScript` | Project N.O.M.A.D, is a self-contained, offline survival computer packed… |
 
 </details>
 
-<sub>🕐 更新于 2026-05-30 10:02 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-05-31 10:29 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
