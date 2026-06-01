@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Spurs](https://twitter.com/search?q=Spurs) | — |
-| 🥈 | [Caruso](https://twitter.com/search?q=Caruso) | — |
-| 🥉 | [Wemby](https://twitter.com/search?q=Wemby) | — |
-| 4️⃣ | [Chet](https://twitter.com/search?q=Chet) | — |
-| 5️⃣ | [Shai](https://twitter.com/search?q=Shai) | — |
-| 6️⃣ | [Game 7](https://twitter.com/search?q=Game%207) | — |
-| 7️⃣ | [#AEWCollision](https://twitter.com/search?q=%23AEWCollision) | — |
-| 8️⃣ | [Platner](https://twitter.com/search?q=Platner) | — |
-| 9️⃣ | [Lu Dort](https://twitter.com/search?q=Lu%20Dort) | — |
-| 🔟 | [Ben Brown](https://twitter.com/search?q=Ben%20Brown) | — |
+| 🥇 | [#euphoria](https://twitter.com/search?q=%23euphoria) | — |
+| 🥈 | [Laurie](https://twitter.com/search?q=Laurie) | — |
+| 🥉 | [UCLA](https://twitter.com/search?q=UCLA) | — |
+| 4️⃣ | [#BaddiesUSA](https://twitter.com/search?q=%23BaddiesUSA) | — |
+| 5️⃣ | [hudson](https://twitter.com/search?q=hudson) | — |
+| 6️⃣ | [Alamo](https://twitter.com/search?q=Alamo) | — |
+| 7️⃣ | [Colombia](https://twitter.com/search?q=Colombia) | — |
+| 8️⃣ | [#90DayFiance](https://twitter.com/search?q=%2390DayFiance) | — |
+| 9️⃣ | [sam levinson](https://twitter.com/search?q=sam%20levinson) | — |
+| 🔟 | [Cepeda](https://twitter.com/search?q=Cepeda) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-05-31 10:29 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-06-01 10:39 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-05-31 10:29 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-06-01 10:39 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 132518 | `Python` | Python tool for converting files and office documents to Markdown. |
-| 🥈 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 72071 | `Python` | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
-| 🥉 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 128424 | `Python` | Claude Code is an agentic coding tool that lives in your terminal, under… |
-| 4️⃣ | [cursor/plugins](https://github.com/cursor/plugins) | 1471 | `TypeScript` | Cursor plugin specification and official plugins |
-| 5️⃣ | [revfactory/harness](https://github.com/revfactory/harness) | 4281 | `HTML` | A meta-skill that designs domain-specific agent teams, defines specializ… |
-| 6️⃣ | [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | 18438 | `TypeScript` | Official Compound Engineering plugin for Claude Code, Codex, Cursor, and… |
-| 7️⃣ | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 199360 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, me… |
-| 8️⃣ | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 22791 | `Python` | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative… |
-| 9️⃣ | [galilai-group/stable-worldmodel](https://github.com/galilai-group/stable-worldmodel) | 1470 | `Python` | A platform for reproducible world model research and evaluation |
-| 🔟 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 27375 | `TypeScript` | Project N.O.M.A.D, is a self-contained, offline survival computer packed… |
+| 🥇 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 74583 | `Python` | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
+| 🥈 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 135243 | `Python` | Python tool for converting files and office documents to Markdown. |
+| 🥉 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 56753 | `Python` | 🕷️ An adaptive Web Scraping framework that handles everything from a sin… |
+| 4️⃣ | [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) | 10069 | `Python` | Hermes WebUI: The best way to use Hermes Agent from the web or from your… |
+| 5️⃣ | [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | 18748 | `TypeScript` | Official Compound Engineering plugin for Claude Code, Codex, Cursor, and… |
+| 6️⃣ | [github/docs](https://github.com/github/docs) | 19750 | `TypeScript` | The open-source repo for docs.github.com |
+| 7️⃣ | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 23620 | `Python` | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative… |
+| 8️⃣ | [revfactory/harness](https://github.com/revfactory/harness) | 4652 | `HTML` | A meta-skill that designs domain-specific agent teams, defines specializ… |
+| 9️⃣ | [FareedKhan-dev/train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch) | 3026 | `Jupyter Notebook` | A straightforward method for training your LLM, from downloading data to… |
+| 🔟 | [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | 23412 | `TypeScript` | Memory engine and app that is extremely fast, scalable. The Memory API f… |
 
 </details>
 
-<sub>🕐 更新于 2026-05-31 10:29 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-06-01 10:39 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
