@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#euphoria](https://twitter.com/search?q=%23euphoria) | — |
-| 🥈 | [Laurie](https://twitter.com/search?q=Laurie) | — |
-| 🥉 | [UCLA](https://twitter.com/search?q=UCLA) | — |
-| 4️⃣ | [#BaddiesUSA](https://twitter.com/search?q=%23BaddiesUSA) | — |
-| 5️⃣ | [hudson](https://twitter.com/search?q=hudson) | — |
-| 6️⃣ | [Alamo](https://twitter.com/search?q=Alamo) | — |
-| 7️⃣ | [Colombia](https://twitter.com/search?q=Colombia) | — |
-| 8️⃣ | [#90DayFiance](https://twitter.com/search?q=%2390DayFiance) | — |
-| 9️⃣ | [sam levinson](https://twitter.com/search?q=sam%20levinson) | — |
-| 🔟 | [Cepeda](https://twitter.com/search?q=Cepeda) | — |
+| 🥇 | [Bibi](https://twitter.com/search?q=Bibi) | — |
+| 🥈 | [Troy](https://twitter.com/search?q=Troy) | — |
+| 🥉 | [Mia Williams](https://twitter.com/search?q=Mia%20Williams) | — |
+| 4️⃣ | [Axios](https://twitter.com/search?q=Axios) | — |
+| 5️⃣ | [Netanyahu](https://twitter.com/search?q=Netanyahu) | — |
+| 6️⃣ | [Pride](https://twitter.com/search?q=Pride) | — |
+| 7️⃣ | [Rams](https://twitter.com/search?q=Rams) | — |
+| 8️⃣ | [Country Roads](https://twitter.com/search?q=Country%20Roads) | — |
+| 9️⃣ | [Sesame Street](https://twitter.com/search?q=Sesame%20Street) | — |
+| 🔟 | [Henry Nowak](https://twitter.com/search?q=Henry%20Nowak) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-06-01 10:39 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-06-02 10:37 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-06-01 10:39 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-06-02 10:37 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 74583 | `Python` | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
-| 🥈 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 135243 | `Python` | Python tool for converting files and office documents to Markdown. |
-| 🥉 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 56753 | `Python` | 🕷️ An adaptive Web Scraping framework that handles everything from a sin… |
-| 4️⃣ | [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) | 10069 | `Python` | Hermes WebUI: The best way to use Hermes Agent from the web or from your… |
-| 5️⃣ | [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | 18748 | `TypeScript` | Official Compound Engineering plugin for Claude Code, Codex, Cursor, and… |
-| 6️⃣ | [github/docs](https://github.com/github/docs) | 19750 | `TypeScript` | The open-source repo for docs.github.com |
-| 7️⃣ | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 23620 | `Python` | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative… |
-| 8️⃣ | [revfactory/harness](https://github.com/revfactory/harness) | 4652 | `HTML` | A meta-skill that designs domain-specific agent teams, defines specializ… |
-| 9️⃣ | [FareedKhan-dev/train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch) | 3026 | `Jupyter Notebook` | A straightforward method for training your LLM, from downloading data to… |
-| 🔟 | [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | 23412 | `TypeScript` | Memory engine and app that is extremely fast, scalable. The Memory API f… |
+| 🥇 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 138722 | `Python` | Python tool for converting files and office documents to Markdown. |
+| 🥈 | [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) | 11436 | `Python` | Hermes WebUI: The best way to use Hermes Agent from the web or from your… |
+| 🥉 | [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | 24051 | `TypeScript` | Memory engine and app that is extremely fast, scalable. The Memory API f… |
+| 4️⃣ | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 76967 | `Python` | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
+| 5️⃣ | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 58150 | `Python` | 🕷️ An adaptive Web Scraping framework that handles everything from a sin… |
+| 6️⃣ | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 32811 | `JavaScript` | The design language that makes your AI harness better at design. |
+| 7️⃣ | [p-e-w/heretic](https://github.com/p-e-w/heretic) | 23058 | `Python` | Fully automatic censorship removal for language models |
+| 8️⃣ | [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | 19138 | `TypeScript` | Official Compound Engineering plugin for Claude Code, Codex, Cursor, and… |
+| 9️⃣ | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 81833 | `Python` | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| 🔟 | [revfactory/harness](https://github.com/revfactory/harness) | 5199 | `HTML` | A meta-skill that designs domain-specific agent teams, defines specializ… |
 
 </details>
 
-<sub>🕐 更新于 2026-06-01 10:39 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-06-02 10:37 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
