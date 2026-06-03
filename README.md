@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Bibi](https://twitter.com/search?q=Bibi) | — |
-| 🥈 | [Troy](https://twitter.com/search?q=Troy) | — |
-| 🥉 | [Mia Williams](https://twitter.com/search?q=Mia%20Williams) | — |
-| 4️⃣ | [Axios](https://twitter.com/search?q=Axios) | — |
-| 5️⃣ | [Netanyahu](https://twitter.com/search?q=Netanyahu) | — |
-| 6️⃣ | [Pride](https://twitter.com/search?q=Pride) | — |
-| 7️⃣ | [Rams](https://twitter.com/search?q=Rams) | — |
-| 8️⃣ | [Country Roads](https://twitter.com/search?q=Country%20Roads) | — |
-| 9️⃣ | [Sesame Street](https://twitter.com/search?q=Sesame%20Street) | — |
-| 🔟 | [Henry Nowak](https://twitter.com/search?q=Henry%20Nowak) | — |
+| 🥇 | [#loveislandusa](https://twitter.com/search?q=%23loveislandusa) | — |
+| 🥈 | [Kenzie](https://twitter.com/search?q=Kenzie) | — |
+| 🥉 | [Kratos](https://twitter.com/search?q=Kratos) | — |
+| 4️⃣ | [God of War](https://twitter.com/search?q=God%20of%20War) | — |
+| 5️⃣ | [#SummerHouse](https://twitter.com/search?q=%23SummerHouse) | — |
+| 6️⃣ | [#StanleyCup](https://twitter.com/search?q=%23StanleyCup) | — |
+| 7️⃣ | [Melanie](https://twitter.com/search?q=Melanie) | — |
+| 8️⃣ | [Wolverine](https://twitter.com/search?q=Wolverine) | — |
+| 9️⃣ | [Bryce](https://twitter.com/search?q=Bryce) | — |
+| 🔟 | [#WWENXT](https://twitter.com/search?q=%23WWENXT) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-06-02 10:37 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-06-03 10:45 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-06-02 10:37 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-06-03 10:45 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 138722 | `Python` | Python tool for converting files and office documents to Markdown. |
-| 🥈 | [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) | 11436 | `Python` | Hermes WebUI: The best way to use Hermes Agent from the web or from your… |
-| 🥉 | [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | 24051 | `TypeScript` | Memory engine and app that is extremely fast, scalable. The Memory API f… |
-| 4️⃣ | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 76967 | `Python` | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
-| 5️⃣ | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 58150 | `Python` | 🕷️ An adaptive Web Scraping framework that handles everything from a sin… |
-| 6️⃣ | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 32811 | `JavaScript` | The design language that makes your AI harness better at design. |
-| 7️⃣ | [p-e-w/heretic](https://github.com/p-e-w/heretic) | 23058 | `Python` | Fully automatic censorship removal for language models |
-| 8️⃣ | [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | 19138 | `TypeScript` | Official Compound Engineering plugin for Claude Code, Codex, Cursor, and… |
-| 9️⃣ | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 81833 | `Python` | TradingAgents: Multi-Agents LLM Financial Trading Framework |
-| 🔟 | [revfactory/harness](https://github.com/revfactory/harness) | 5199 | `HTML` | A meta-skill that designs domain-specific agent teams, defines specializ… |
+| 🥇 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 6747 | `Python` | Compress tool outputs, logs, files, and RAG chunks before they reach the… |
+| 🥈 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 141332 | `Python` | Python tool for converting files and office documents to Markdown. |
+| 🥉 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 204131 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, me… |
+| 4️⃣ | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 59268 | `Python` | 🕷️ An adaptive Web Scraping framework that handles everything from a sin… |
+| 5️⃣ | [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) | 12614 | `Python` | Hermes WebUI: The best way to use Hermes Agent from the web or from your… |
+| 6️⃣ | [reconurge/flowsint](https://github.com/reconurge/flowsint) | 4559 | `TypeScript` | A modern platform for visual, flexible, and extensible graph-based inves… |
+| 7️⃣ | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 25196 | `Python` | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative… |
+| 8️⃣ | [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) | 18537 | `Jupyter Notebook` | Code for Machine Learning for Algorithmic Trading, 2nd edition. |
+| 9️⃣ | [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) | 6419 | `Python` | — |
+| 🔟 | [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | 24699 | `TypeScript` | Memory engine and app that is extremely fast, scalable. The Memory API f… |
 
 </details>
 
-<sub>🕐 更新于 2026-06-02 10:37 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-06-03 10:45 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
