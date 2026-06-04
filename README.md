@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#loveislandusa](https://twitter.com/search?q=%23loveislandusa) | — |
-| 🥈 | [Kenzie](https://twitter.com/search?q=Kenzie) | — |
-| 🥉 | [Kratos](https://twitter.com/search?q=Kratos) | — |
-| 4️⃣ | [God of War](https://twitter.com/search?q=God%20of%20War) | — |
-| 5️⃣ | [#SummerHouse](https://twitter.com/search?q=%23SummerHouse) | — |
-| 6️⃣ | [#StanleyCup](https://twitter.com/search?q=%23StanleyCup) | — |
-| 7️⃣ | [Melanie](https://twitter.com/search?q=Melanie) | — |
-| 8️⃣ | [Wolverine](https://twitter.com/search?q=Wolverine) | — |
+| 🥇 | [Brunson](https://twitter.com/search?q=Brunson) | — |
+| 🥈 | [Knicks](https://twitter.com/search?q=Knicks) | — |
+| 🥉 | [Dylan Harper](https://twitter.com/search?q=Dylan%20Harper) | — |
+| 4️⃣ | [#NBAFinals](https://twitter.com/search?q=%23NBAFinals) | — |
+| 5️⃣ | [#AEWDynamite](https://twitter.com/search?q=%23AEWDynamite) | — |
+| 6️⃣ | [Scott Foster](https://twitter.com/search?q=Scott%20Foster) | — |
+| 7️⃣ | [#loveislandusa](https://twitter.com/search?q=%23loveislandusa) | — |
+| 8️⃣ | [Kenzie](https://twitter.com/search?q=Kenzie) | — |
 | 9️⃣ | [Bryce](https://twitter.com/search?q=Bryce) | — |
-| 🔟 | [#WWENXT](https://twitter.com/search?q=%23WWENXT) | — |
+| 🔟 | [Shamet](https://twitter.com/search?q=Shamet) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-06-03 10:45 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-06-04 10:40 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-06-03 10:45 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-06-04 10:40 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 6747 | `Python` | Compress tool outputs, logs, files, and RAG chunks before they reach the… |
-| 🥈 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 141332 | `Python` | Python tool for converting files and office documents to Markdown. |
-| 🥉 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 204131 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, me… |
-| 4️⃣ | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 59268 | `Python` | 🕷️ An adaptive Web Scraping framework that handles everything from a sin… |
-| 5️⃣ | [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) | 12614 | `Python` | Hermes WebUI: The best way to use Hermes Agent from the web or from your… |
-| 6️⃣ | [reconurge/flowsint](https://github.com/reconurge/flowsint) | 4559 | `TypeScript` | A modern platform for visual, flexible, and extensible graph-based inves… |
-| 7️⃣ | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 25196 | `Python` | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative… |
-| 8️⃣ | [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) | 18537 | `Jupyter Notebook` | Code for Machine Learning for Algorithmic Trading, 2nd edition. |
-| 9️⃣ | [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) | 6419 | `Python` | — |
-| 🔟 | [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | 24699 | `TypeScript` | Memory engine and app that is extremely fast, scalable. The Memory API f… |
+| 🥇 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 10027 | `Python` | Compress tool outputs, logs, files, and RAG chunks before they reach the… |
+| 🥈 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 205869 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, me… |
+| 🥉 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 35436 | `Go` | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Ku… |
+| 4️⃣ | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 179289 | `Python` | The agent that grows with you |
+| 5️⃣ | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 142991 | `Python` | Python tool for converting files and office documents to Markdown. |
+| 6️⃣ | [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) | 13134 | `Python` | Hermes WebUI: The best way to use Hermes Agent from the web or from your… |
+| 7️⃣ | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 60349 | `Python` | 🕷️ An adaptive Web Scraping framework that handles everything from a sin… |
+| 8️⃣ | [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 23350 | `Java` | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
+| 9️⃣ | [odoo/odoo](https://github.com/odoo/odoo) | 51977 | `Python` | Odoo. Open Source Apps To Grow Your Business. |
+| 🔟 | [Open-LLM-VTuber/Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) | 9015 | `Python` | Talk to any LLM with hands-free voice interaction, voice interruption, a… |
 
 </details>
 
-<sub>🕐 更新于 2026-06-03 10:45 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-06-04 10:40 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
