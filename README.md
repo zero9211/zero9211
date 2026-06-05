@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Brunson](https://twitter.com/search?q=Brunson) | — |
-| 🥈 | [Knicks](https://twitter.com/search?q=Knicks) | — |
-| 🥉 | [Dylan Harper](https://twitter.com/search?q=Dylan%20Harper) | — |
-| 4️⃣ | [#NBAFinals](https://twitter.com/search?q=%23NBAFinals) | — |
-| 5️⃣ | [#AEWDynamite](https://twitter.com/search?q=%23AEWDynamite) | — |
-| 6️⃣ | [Scott Foster](https://twitter.com/search?q=Scott%20Foster) | — |
-| 7️⃣ | [#loveislandusa](https://twitter.com/search?q=%23loveislandusa) | — |
-| 8️⃣ | [Kenzie](https://twitter.com/search?q=Kenzie) | — |
-| 9️⃣ | [Bryce](https://twitter.com/search?q=Bryce) | — |
-| 🔟 | [Shamet](https://twitter.com/search?q=Shamet) | — |
+| 🥇 | [Kelsey Mitchell](https://twitter.com/search?q=Kelsey%20Mitchell) | — |
+| 🥈 | [Larkin](https://twitter.com/search?q=Larkin) | — |
+| 🥉 | [McConnell](https://twitter.com/search?q=McConnell) | — |
+| 4️⃣ | [Murkowski](https://twitter.com/search?q=Murkowski) | — |
+| 5️⃣ | [Platner](https://twitter.com/search?q=Platner) | — |
+| 6️⃣ | [Kenzie](https://twitter.com/search?q=Kenzie) | — |
+| 7️⃣ | [Brett Howden](https://twitter.com/search?q=Brett%20Howden) | — |
+| 8️⃣ | [Rhyne](https://twitter.com/search?q=Rhyne) | — |
+| 9️⃣ | [Billy the Kid](https://twitter.com/search?q=Billy%20the%20Kid) | — |
+| 🔟 | [McNabb](https://twitter.com/search?q=McNabb) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-06-04 10:40 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-06-05 10:15 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-06-04 10:40 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-06-05 10:15 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 10027 | `Python` | Compress tool outputs, logs, files, and RAG chunks before they reach the… |
-| 🥈 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 205869 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, me… |
-| 🥉 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 35436 | `Go` | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Ku… |
-| 4️⃣ | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 179289 | `Python` | The agent that grows with you |
-| 5️⃣ | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 142991 | `Python` | Python tool for converting files and office documents to Markdown. |
-| 6️⃣ | [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) | 13134 | `Python` | Hermes WebUI: The best way to use Hermes Agent from the web or from your… |
-| 7️⃣ | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 60349 | `Python` | 🕷️ An adaptive Web Scraping framework that handles everything from a sin… |
-| 8️⃣ | [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 23350 | `Java` | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
-| 9️⃣ | [odoo/odoo](https://github.com/odoo/odoo) | 51977 | `Python` | Odoo. Open Source Apps To Grow Your Business. |
-| 🔟 | [Open-LLM-VTuber/Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) | 9015 | `Python` | Talk to any LLM with hands-free voice interaction, voice interruption, a… |
+| 🥇 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 12666 | `Python` | Compress tool outputs, logs, files, and RAG chunks before they reach the… |
+| 🥈 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 181109 | `Python` | The agent that grows with you |
+| 🥉 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 207321 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, me… |
+| 4️⃣ | [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 79929 | `Python` | Turn any PDF or image document into structured data for your AI. A power… |
+| 5️⃣ | [github/spec-kit](https://github.com/github/spec-kit) | 108615 | `Python` | 💫 Toolkit to help you get started with Spec-Driven Development |
+| 6️⃣ | [NVIDIA/cosmos](https://github.com/NVIDIA/cosmos) | 9046 | `Jupyter Notebook` | NVIDIA Cosmos is an open platform of world models, datasets, and tools t… |
+| 7️⃣ | [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 25112 | `TypeScript` | An Open Source implementation of Notebook LM with more flexibility and f… |
+| 8️⃣ | [Open-LLM-VTuber/Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) | 9642 | `Python` | Talk to any LLM with hands-free voice interaction, voice interruption, a… |
+| 9️⃣ | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | 349762 | — | A complete computer science study plan to become a software engineer. |
+| 🔟 | [github/copilot-sdk](https://github.com/github/copilot-sdk) | 8995 | `Java` | Multi-platform SDK for integrating GitHub Copilot Agent into apps and se… |
 
 </details>
 
-<sub>🕐 更新于 2026-06-04 10:40 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-06-05 10:15 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
