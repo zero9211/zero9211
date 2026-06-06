@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Kelsey Mitchell](https://twitter.com/search?q=Kelsey%20Mitchell) | — |
-| 🥈 | [Larkin](https://twitter.com/search?q=Larkin) | — |
-| 🥉 | [McConnell](https://twitter.com/search?q=McConnell) | — |
-| 4️⃣ | [Murkowski](https://twitter.com/search?q=Murkowski) | — |
-| 5️⃣ | [Platner](https://twitter.com/search?q=Platner) | — |
-| 6️⃣ | [Kenzie](https://twitter.com/search?q=Kenzie) | — |
-| 7️⃣ | [Brett Howden](https://twitter.com/search?q=Brett%20Howden) | — |
-| 8️⃣ | [Rhyne](https://twitter.com/search?q=Rhyne) | — |
-| 9️⃣ | [Billy the Kid](https://twitter.com/search?q=Billy%20the%20Kid) | — |
-| 🔟 | [McNabb](https://twitter.com/search?q=McNabb) | — |
+| 🥇 | [#loveislandusas8](https://twitter.com/search?q=%23loveislandusas8) | — |
+| 🥈 | [Corbin](https://twitter.com/search?q=Corbin) | — |
+| 🥉 | [Tifa](https://twitter.com/search?q=Tifa) | — |
+| 4️⃣ | [Melanie](https://twitter.com/search?q=Melanie) | — |
+| 5️⃣ | [Baseless](https://twitter.com/search?q=Baseless) | — |
+| 6️⃣ | [Mitch](https://twitter.com/search?q=Mitch) | — |
+| 7️⃣ | [Tony Brothers](https://twitter.com/search?q=Tony%20Brothers) | — |
+| 8️⃣ | [Geno](https://twitter.com/search?q=Geno) | — |
+| 9️⃣ | [Tupac](https://twitter.com/search?q=Tupac) | — |
+| 🔟 | [#SummerGameFest](https://twitter.com/search?q=%23SummerGameFest) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-06-05 10:15 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-06-06 10:06 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-06-05 10:15 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-06-06 10:06 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 12666 | `Python` | Compress tool outputs, logs, files, and RAG chunks before they reach the… |
-| 🥈 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 181109 | `Python` | The agent that grows with you |
-| 🥉 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 207321 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, me… |
-| 4️⃣ | [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 79929 | `Python` | Turn any PDF or image document into structured data for your AI. A power… |
-| 5️⃣ | [github/spec-kit](https://github.com/github/spec-kit) | 108615 | `Python` | 💫 Toolkit to help you get started with Spec-Driven Development |
-| 6️⃣ | [NVIDIA/cosmos](https://github.com/NVIDIA/cosmos) | 9046 | `Jupyter Notebook` | NVIDIA Cosmos is an open platform of world models, datasets, and tools t… |
-| 7️⃣ | [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 25112 | `TypeScript` | An Open Source implementation of Notebook LM with more flexibility and f… |
-| 8️⃣ | [Open-LLM-VTuber/Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) | 9642 | `Python` | Talk to any LLM with hands-free voice interaction, voice interruption, a… |
-| 9️⃣ | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | 349762 | — | A complete computer science study plan to become a software engineer. |
-| 🔟 | [github/copilot-sdk](https://github.com/github/copilot-sdk) | 8995 | `Java` | Multi-platform SDK for integrating GitHub Copilot Agent into apps and se… |
+| 🥇 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 183204 | `Python` | The agent that grows with you |
+| 🥈 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 14560 | `Python` | Compress tool outputs, logs, files, and RAG chunks before they reach the… |
+| 🥉 | [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | 32715 | `TypeScript` | The Frontend Stack for Agents & Generative UI. React + Angular. Makers o… |
+| 4️⃣ | [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 26039 | `TypeScript` | An Open Source implementation of Notebook LM with more flexibility and f… |
+| 5️⃣ | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 208390 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, me… |
+| 6️⃣ | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 21597 | `Python` | Give your AI agent eyes to see the entire internet. Read & search Twitte… |
+| 7️⃣ | [NVIDIA/cosmos](https://github.com/NVIDIA/cosmos) | 9427 | `Jupyter Notebook` | NVIDIA Cosmos is an open platform of world models, datasets, and tools t… |
+| 8️⃣ | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 64724 | `Python` | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简… |
+| 9️⃣ | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 28232 | `Python` | AI agent skill that researches any topic across Reddit, X, YouTube, HN, … |
+| 🔟 | [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 80563 | `Python` | Turn any PDF or image document into structured data for your AI. A power… |
 
 </details>
 
-<sub>🕐 更新于 2026-06-05 10:15 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-06-06 10:06 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
