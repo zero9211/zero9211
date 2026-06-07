@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#loveislandusas8](https://twitter.com/search?q=%23loveislandusas8) | — |
-| 🥈 | [Corbin](https://twitter.com/search?q=Corbin) | — |
-| 🥉 | [Tifa](https://twitter.com/search?q=Tifa) | — |
-| 4️⃣ | [Melanie](https://twitter.com/search?q=Melanie) | — |
-| 5️⃣ | [Baseless](https://twitter.com/search?q=Baseless) | — |
-| 6️⃣ | [Mitch](https://twitter.com/search?q=Mitch) | — |
-| 7️⃣ | [Tony Brothers](https://twitter.com/search?q=Tony%20Brothers) | — |
-| 8️⃣ | [Geno](https://twitter.com/search?q=Geno) | — |
-| 9️⃣ | [Tupac](https://twitter.com/search?q=Tupac) | — |
-| 🔟 | [#SummerGameFest](https://twitter.com/search?q=%23SummerGameFest) | — |
+| 🥇 | [#AEWCollision](https://twitter.com/search?q=%23AEWCollision) | — |
+| 🥈 | [#UFCVegas118](https://twitter.com/search?q=%23UFCVegas118) | — |
+| 🥉 | [Golden Tempo](https://twitter.com/search?q=Golden%20Tempo) | — |
+| 4️⃣ | [Mitch Marner](https://twitter.com/search?q=Mitch%20Marner) | — |
+| 5️⃣ | [Mormons](https://twitter.com/search?q=Mormons) | — |
+| 6️⃣ | [Ziam](https://twitter.com/search?q=Ziam) | — |
+| 7️⃣ | [Moby](https://twitter.com/search?q=Moby) | — |
+| 8️⃣ | [Omaha](https://twitter.com/search?q=Omaha) | — |
+| 9️⃣ | [Bryce Mitchell](https://twitter.com/search?q=Bryce%20Mitchell) | — |
+| 🔟 | [#Svengoolie](https://twitter.com/search?q=%23Svengoolie) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-06-06 10:06 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-06-07 10:33 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-06-06 10:06 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-06-07 10:33 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 183204 | `Python` | The agent that grows with you |
-| 🥈 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 14560 | `Python` | Compress tool outputs, logs, files, and RAG chunks before they reach the… |
-| 🥉 | [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | 32715 | `TypeScript` | The Frontend Stack for Agents & Generative UI. React + Angular. Makers o… |
-| 4️⃣ | [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 26039 | `TypeScript` | An Open Source implementation of Notebook LM with more flexibility and f… |
-| 5️⃣ | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 208390 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, me… |
-| 6️⃣ | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 21597 | `Python` | Give your AI agent eyes to see the entire internet. Read & search Twitte… |
-| 7️⃣ | [NVIDIA/cosmos](https://github.com/NVIDIA/cosmos) | 9427 | `Jupyter Notebook` | NVIDIA Cosmos is an open platform of world models, datasets, and tools t… |
-| 8️⃣ | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 64724 | `Python` | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简… |
-| 9️⃣ | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 28232 | `Python` | AI agent skill that researches any topic across Reddit, X, YouTube, HN, … |
-| 🔟 | [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 80563 | `Python` | Turn any PDF or image document into structured data for your AI. A power… |
+| 🥇 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 28887 | `Python` | AI agent skill that researches any topic across Reddit, X, YouTube, HN, … |
+| 🥈 | [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | 33244 | `TypeScript` | The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, S… |
+| 🥉 | [MemPalace/mempalace](https://github.com/MemPalace/mempalace) | 54311 | `Python` | The best-benchmarked open-source AI memory system. And it's free. |
+| 4️⃣ | [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) | 14984 | `TypeScript` | Agentic AI Infrastructure for magnifying HUMAN capabilities. |
+| 5️⃣ | [openai/plugins](https://github.com/openai/plugins) | 1792 | `JavaScript` | OpenAI Plugins |
+| 6️⃣ | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 22383 | `Python` | Give your AI agent eyes to see the entire internet. Read & search Twitte… |
+| 7️⃣ | [sveltejs/svelte](https://github.com/sveltejs/svelte) | 87005 | `JavaScript` | web development for the rest of us |
+| 8️⃣ | [nginx/nginx](https://github.com/nginx/nginx) | 30700 | `C` | The official NGINX Open Source repository. |
+| 9️⃣ | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 36014 | `Go` | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Ku… |
+| 🔟 | [golang/go](https://github.com/golang/go) | 134518 | `Go` | The Go programming language |
 
 </details>
 
-<sub>🕐 更新于 2026-06-06 10:06 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-06-07 10:33 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
