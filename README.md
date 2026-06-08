@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#AEWCollision](https://twitter.com/search?q=%23AEWCollision) | — |
-| 🥈 | [#UFCVegas118](https://twitter.com/search?q=%23UFCVegas118) | — |
-| 🥉 | [Golden Tempo](https://twitter.com/search?q=Golden%20Tempo) | — |
-| 4️⃣ | [Mitch Marner](https://twitter.com/search?q=Mitch%20Marner) | — |
-| 5️⃣ | [Mormons](https://twitter.com/search?q=Mormons) | — |
-| 6️⃣ | [Ziam](https://twitter.com/search?q=Ziam) | — |
-| 7️⃣ | [Moby](https://twitter.com/search?q=Moby) | — |
-| 8️⃣ | [Omaha](https://twitter.com/search?q=Omaha) | — |
-| 9️⃣ | [Bryce Mitchell](https://twitter.com/search?q=Bryce%20Mitchell) | — |
-| 🔟 | [#Svengoolie](https://twitter.com/search?q=%23Svengoolie) | — |
+| 🥇 | [Corbin](https://twitter.com/search?q=Corbin) | — |
+| 🥈 | [#TonyAwards](https://twitter.com/search?q=%23TonyAwards) | — |
+| 🥉 | [#BaddiesUSA](https://twitter.com/search?q=%23BaddiesUSA) | — |
+| 4️⃣ | [Xbox](https://twitter.com/search?q=Xbox) | — |
+| 5️⃣ | [#Tonys](https://twitter.com/search?q=%23Tonys) | — |
+| 6️⃣ | [#90DayFiance](https://twitter.com/search?q=%2390DayFiance) | — |
+| 7️⃣ | [Welker](https://twitter.com/search?q=Welker) | — |
+| 8️⃣ | [#BadBoysDR](https://twitter.com/search?q=%23BadBoysDR) | — |
+| 9️⃣ | [Nelly](https://twitter.com/search?q=Nelly) | — |
+| 🔟 | [Philippines](https://twitter.com/search?q=Philippines) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-06-07 10:33 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-06-08 10:38 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-06-07 10:33 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-06-08 10:38 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 28887 | `Python` | AI agent skill that researches any topic across Reddit, X, YouTube, HN, … |
-| 🥈 | [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | 33244 | `TypeScript` | The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, S… |
-| 🥉 | [MemPalace/mempalace](https://github.com/MemPalace/mempalace) | 54311 | `Python` | The best-benchmarked open-source AI memory system. And it's free. |
-| 4️⃣ | [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) | 14984 | `TypeScript` | Agentic AI Infrastructure for magnifying HUMAN capabilities. |
-| 5️⃣ | [openai/plugins](https://github.com/openai/plugins) | 1792 | `JavaScript` | OpenAI Plugins |
-| 6️⃣ | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 22383 | `Python` | Give your AI agent eyes to see the entire internet. Read & search Twitte… |
-| 7️⃣ | [sveltejs/svelte](https://github.com/sveltejs/svelte) | 87005 | `JavaScript` | web development for the rest of us |
-| 8️⃣ | [nginx/nginx](https://github.com/nginx/nginx) | 30700 | `C` | The official NGINX Open Source repository. |
-| 9️⃣ | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 36014 | `Go` | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Ku… |
-| 🔟 | [golang/go](https://github.com/golang/go) | 134518 | `Go` | The Go programming language |
+| 🥇 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 31369 | `Python` | AI agent skill that researches any topic across Reddit, X, YouTube, HN, … |
+| 🥈 | [opencv/opencv](https://github.com/opencv/opencv) | 88136 | `C++` | Open Source Computer Vision Library |
+| 🥉 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 36899 | `Shell` | Taste-Skill - gives your AI good taste. stops the AI from generating bor… |
+| 4️⃣ | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 186083 | `Python` | The agent that grows with you |
+| 5️⃣ | [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 27347 | `TypeScript` | An Open Source implementation of Notebook LM with more flexibility and f… |
+| 6️⃣ | [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | 18855 | `TypeScript` | Let's use AI to Earn! |
+| 7️⃣ | [aaif-goose/goose](https://github.com/aaif-goose/goose) | 47558 | `Rust` | an open source, extensible AI agent that goes beyond code suggestions - … |
+| 8️⃣ | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 29770 | `TypeScript` | Project N.O.M.A.D, is a self-contained, offline survival computer packed… |
+| 9️⃣ | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 115369 | `C++` | LLM inference in C/C++ |
+| 🔟 | [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | 7300 | `Python` | A vector index built on TurboQuant, written in Rust with Python bindings |
 
 </details>
 
-<sub>🕐 更新于 2026-06-07 10:33 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-06-08 10:38 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
