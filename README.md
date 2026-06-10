@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Josh Hart](https://twitter.com/search?q=Josh%20Hart) | — |
-| 🥈 | [Carter Bryant](https://twitter.com/search?q=Carter%20Bryant) | — |
-| 🥉 | [Avery Wilson](https://twitter.com/search?q=Avery%20Wilson) | — |
-| 4️⃣ | [National Anthem](https://twitter.com/search?q=National%20Anthem) | — |
-| 5️⃣ | [Kornet](https://twitter.com/search?q=Kornet) | — |
-| 6️⃣ | [Madison Square Garden](https://twitter.com/search?q=Madison%20Square%20Garden) | — |
-| 7️⃣ | [Stabler](https://twitter.com/search?q=Stabler) | — |
-| 8️⃣ | [Alvarado](https://twitter.com/search?q=Alvarado) | — |
-| 9️⃣ | [Texas Tech](https://twitter.com/search?q=Texas%20Tech) | — |
-| 🔟 | [#SASvsNYK](https://twitter.com/search?q=%23SASvsNYK) | — |
+| 🥇 | [Karmelo Anthony](https://twitter.com/search?q=Karmelo%20Anthony) | — |
+| 🥈 | [#raindelayquestions](https://twitter.com/search?q=%23raindelayquestions) | — |
+| 🥉 | [Ireland](https://twitter.com/search?q=Ireland) | — |
+| 4️⃣ | [#WWENXT](https://twitter.com/search?q=%23WWENXT) | — |
+| 5️⃣ | [Belfast](https://twitter.com/search?q=Belfast) | — |
+| 6️⃣ | [Austin Metcalf](https://twitter.com/search?q=Austin%20Metcalf) | — |
+| 7️⃣ | [Justice](https://twitter.com/search?q=Justice) | — |
+| 8️⃣ | [Peralta](https://twitter.com/search?q=Peralta) | — |
+| 9️⃣ | [Mark Stone](https://twitter.com/search?q=Mark%20Stone) | — |
+| 🔟 | [Apache](https://twitter.com/search?q=Apache) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-06-09 10:03 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-06-10 10:28 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-06-09 10:03 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-06-10 10:28 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 34696 | `Python` | AI agent skill that researches any topic across Reddit, X, YouTube, HN, … |
-| 🥈 | [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | 8954 | `Python` | A vector index built on TurboQuant, written in Rust with Python bindings |
-| 🥉 | [google/skills](https://github.com/google/skills) | 12462 | `Python` | Agent Skills for Google products and technologies |
-| 4️⃣ | [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | 13619 | `TypeScript` | Desktop app to manage markdown knowledge bases |
-| 5️⃣ | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 24279 | `Python` | Give your AI agent eyes to see the entire internet. Read & search Twitte… |
-| 6️⃣ | [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) | 15461 | `TypeScript` | Agentic AI Infrastructure for magnifying HUMAN capabilities. |
-| 7️⃣ | [santifer/career-ops](https://github.com/santifer/career-ops) | 50575 | `JavaScript` | AI-powered job search system built on Claude Code. 14 skill modes, Go da… |
-| 8️⃣ | [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | 12737 | — | PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from… |
-| 9️⃣ | [openai/plugins](https://github.com/openai/plugins) | 2336 | `JavaScript` | OpenAI Plugins |
-| 🔟 | [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm) | 3508 | `Python` | Find the local LLM that actually runs and performs best on your hardware… |
+| 🥇 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 37512 | `Python` | AI agent skill that researches any topic across Reddit, X, YouTube, HN, … |
+| 🥈 | [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | 10255 | `Python` | A vector index built on TurboQuant, written in Rust with Python bindings |
+| 🥉 | [roboflow/supervision](https://github.com/roboflow/supervision) | 43055 | `Python` | We write your reusable computer vision tools. 💜 |
+| 4️⃣ | [opencv/opencv](https://github.com/opencv/opencv) | 88679 | `C++` | Open Source Computer Vision Library |
+| 5️⃣ | [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | 14388 | `TypeScript` | Desktop app to manage markdown knowledge bases |
+| 6️⃣ | [aaif-goose/goose](https://github.com/aaif-goose/goose) | 48525 | `Rust` | an open source, extensible AI agent that goes beyond code suggestions - … |
+| 7️⃣ | [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm) | 4141 | `Python` | Find the local LLM that actually runs and performs best on your hardware… |
+| 8️⃣ | [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 73540 | `Roff` | 所有小初高、大学PDF教材。 |
+| 9️⃣ | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 139205 | — | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin … |
+| 🔟 | [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | 19994 | `TypeScript` | Let's use AI to Earn! |
 
 </details>
 
-<sub>🕐 更新于 2026-06-09 10:03 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-06-10 10:28 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
