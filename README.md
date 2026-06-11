@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Karmelo Anthony](https://twitter.com/search?q=Karmelo%20Anthony) | — |
-| 🥈 | [#raindelayquestions](https://twitter.com/search?q=%23raindelayquestions) | — |
-| 🥉 | [Ireland](https://twitter.com/search?q=Ireland) | — |
-| 4️⃣ | [#WWENXT](https://twitter.com/search?q=%23WWENXT) | — |
-| 5️⃣ | [Belfast](https://twitter.com/search?q=Belfast) | — |
-| 6️⃣ | [Austin Metcalf](https://twitter.com/search?q=Austin%20Metcalf) | — |
-| 7️⃣ | [Justice](https://twitter.com/search?q=Justice) | — |
-| 8️⃣ | [Peralta](https://twitter.com/search?q=Peralta) | — |
-| 9️⃣ | [Mark Stone](https://twitter.com/search?q=Mark%20Stone) | — |
-| 🔟 | [Apache](https://twitter.com/search?q=Apache) | — |
+| 🥇 | [#AEWDynamite](https://twitter.com/search?q=%23AEWDynamite) | — |
+| 🥈 | [Dolan](https://twitter.com/search?q=Dolan) | — |
+| 🥉 | [Avery Wilson](https://twitter.com/search?q=Avery%20Wilson) | — |
+| 4️⃣ | [Towns](https://twitter.com/search?q=Towns) | — |
+| 5️⃣ | [#raindelayquestions](https://twitter.com/search?q=%23raindelayquestions) | — |
+| 6️⃣ | [Stevie Knicks](https://twitter.com/search?q=Stevie%20Knicks) | — |
+| 7️⃣ | [Ryan Ward](https://twitter.com/search?q=Ryan%20Ward) | — |
+| 8️⃣ | [Shane Taylor](https://twitter.com/search?q=Shane%20Taylor) | — |
+| 9️⃣ | [KAT 2](https://twitter.com/search?q=KAT%202) | — |
+| 🔟 | [Ella Fella](https://twitter.com/search?q=Ella%20Fella) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-06-10 10:28 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-06-11 10:37 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-06-10 10:28 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-06-11 10:37 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 37512 | `Python` | AI agent skill that researches any topic across Reddit, X, YouTube, HN, … |
-| 🥈 | [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | 10255 | `Python` | A vector index built on TurboQuant, written in Rust with Python bindings |
-| 🥉 | [roboflow/supervision](https://github.com/roboflow/supervision) | 43055 | `Python` | We write your reusable computer vision tools. 💜 |
-| 4️⃣ | [opencv/opencv](https://github.com/opencv/opencv) | 88679 | `C++` | Open Source Computer Vision Library |
-| 5️⃣ | [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | 14388 | `TypeScript` | Desktop app to manage markdown knowledge bases |
-| 6️⃣ | [aaif-goose/goose](https://github.com/aaif-goose/goose) | 48525 | `Rust` | an open source, extensible AI agent that goes beyond code suggestions - … |
-| 7️⃣ | [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm) | 4141 | `Python` | Find the local LLM that actually runs and performs best on your hardware… |
-| 8️⃣ | [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 73540 | `Roff` | 所有小初高、大学PDF教材。 |
-| 9️⃣ | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 139205 | — | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin … |
-| 🔟 | [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | 19994 | `TypeScript` | Let's use AI to Earn! |
+| 🥇 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 52036 | `Shell` | Production-grade engineering skills for AI coding agents. |
+| 🥈 | [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | 15048 | — | PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from… |
+| 🥉 | [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | 14970 | `TypeScript` | Desktop app to manage markdown knowledge bases |
+| 4️⃣ | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 39165 | `Python` | AI agent skill that researches any topic across Reddit, X, YouTube, HN, … |
+| 5️⃣ | [soxoj/maigret](https://github.com/soxoj/maigret) | 32082 | `Python` | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
+| 6️⃣ | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 139556 | — | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin … |
+| 7️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 223695 | `Shell` | An agentic skills framework & software development methodology that work… |
+| 8️⃣ | [masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) | 5255 | `Go` | Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT… |
+| 9️⃣ | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 85148 | `Python` | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
+| 🔟 | [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | 2334 | `Python` | open-source healthcare ai |
 
 </details>
 
-<sub>🕐 更新于 2026-06-10 10:28 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-06-11 10:37 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
