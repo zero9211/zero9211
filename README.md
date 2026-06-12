@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#AEWDynamite](https://twitter.com/search?q=%23AEWDynamite) | — |
-| 🥈 | [Dolan](https://twitter.com/search?q=Dolan) | — |
-| 🥉 | [Avery Wilson](https://twitter.com/search?q=Avery%20Wilson) | — |
-| 4️⃣ | [Towns](https://twitter.com/search?q=Towns) | — |
-| 5️⃣ | [#raindelayquestions](https://twitter.com/search?q=%23raindelayquestions) | — |
-| 6️⃣ | [Stevie Knicks](https://twitter.com/search?q=Stevie%20Knicks) | — |
-| 7️⃣ | [Ryan Ward](https://twitter.com/search?q=Ryan%20Ward) | — |
-| 8️⃣ | [Shane Taylor](https://twitter.com/search?q=Shane%20Taylor) | — |
-| 9️⃣ | [KAT 2](https://twitter.com/search?q=KAT%202) | — |
-| 🔟 | [Ella Fella](https://twitter.com/search?q=Ella%20Fella) | — |
+| 🥇 | [Zach](https://twitter.com/search?q=Zach) | — |
+| 🥈 | [Sydney Taylor](https://twitter.com/search?q=Sydney%20Taylor) | — |
+| 🥉 | [South Korea](https://twitter.com/search?q=South%20Korea) | — |
+| 4️⃣ | [Fabio](https://twitter.com/search?q=Fabio) | — |
+| 5️⃣ | [Jordan Staal](https://twitter.com/search?q=Jordan%20Staal) | — |
+| 6️⃣ | [Grifter](https://twitter.com/search?q=Grifter) | — |
+| 7️⃣ | [#TNAiMPACT](https://twitter.com/search?q=%23TNAiMPACT) | — |
+| 8️⃣ | [Scott Presler](https://twitter.com/search?q=Scott%20Presler) | — |
+| 9️⃣ | [Disclosure Day](https://twitter.com/search?q=Disclosure%20Day) | — |
+| 🔟 | [South Africa](https://twitter.com/search?q=South%20Africa) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-06-11 10:37 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-06-12 10:33 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-06-11 10:37 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-06-12 10:33 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 52036 | `Shell` | Production-grade engineering skills for AI coding agents. |
-| 🥈 | [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | 15048 | — | PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from… |
-| 🥉 | [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | 14970 | `TypeScript` | Desktop app to manage markdown knowledge bases |
-| 4️⃣ | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 39165 | `Python` | AI agent skill that researches any topic across Reddit, X, YouTube, HN, … |
-| 5️⃣ | [soxoj/maigret](https://github.com/soxoj/maigret) | 32082 | `Python` | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
-| 6️⃣ | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 139556 | — | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin … |
-| 7️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 223695 | `Shell` | An agentic skills framework & software development methodology that work… |
-| 8️⃣ | [masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) | 5255 | `Go` | Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT… |
-| 9️⃣ | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 85148 | `Python` | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
-| 🔟 | [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | 2334 | `Python` | open-source healthcare ai |
+| 🥇 | [apple/container](https://github.com/apple/container) | 32751 | `Swift` | A tool for creating and running Linux containers using lightweight virtu… |
+| 🥈 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 54967 | `Shell` | Production-grade engineering skills for AI coding agents. |
+| 🥉 | [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | 2805 | `Python` | open-source healthcare ai |
+| 4️⃣ | [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | 16293 | — | PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from… |
+| 5️⃣ | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | 2743 | `Python` | Security scanner for AI agent skills. Detect vulnerabilities, malicious … |
+| 6️⃣ | [soxoj/maigret](https://github.com/soxoj/maigret) | 32657 | `Python` | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
+| 7️⃣ | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 139900 | — | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin … |
+| 8️⃣ | [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | 15439 | `TypeScript` | Desktop app to manage markdown knowledge bases |
+| 9️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 224942 | `Shell` | An agentic skills framework & software development methodology that work… |
+| 🔟 | [restic/restic](https://github.com/restic/restic) | 34197 | `Go` | Fast, secure, efficient backup program |
 
 </details>
 
-<sub>🕐 更新于 2026-06-11 10:37 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-06-12 10:33 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
