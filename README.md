@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Zach](https://twitter.com/search?q=Zach) | — |
-| 🥈 | [Sydney Taylor](https://twitter.com/search?q=Sydney%20Taylor) | — |
-| 🥉 | [South Korea](https://twitter.com/search?q=South%20Korea) | — |
-| 4️⃣ | [Fabio](https://twitter.com/search?q=Fabio) | — |
-| 5️⃣ | [Jordan Staal](https://twitter.com/search?q=Jordan%20Staal) | — |
-| 6️⃣ | [Grifter](https://twitter.com/search?q=Grifter) | — |
-| 7️⃣ | [#TNAiMPACT](https://twitter.com/search?q=%23TNAiMPACT) | — |
-| 8️⃣ | [Scott Presler](https://twitter.com/search?q=Scott%20Presler) | — |
-| 9️⃣ | [Disclosure Day](https://twitter.com/search?q=Disclosure%20Day) | — |
-| 🔟 | [South Africa](https://twitter.com/search?q=South%20Africa) | — |
+| 🥇 | [Paraguay](https://twitter.com/search?q=Paraguay) | — |
+| 🥈 | [#USMNT](https://twitter.com/search?q=%23USMNT) | — |
+| 🥉 | [Elon](https://twitter.com/search?q=Elon) | — |
+| 4️⃣ | [Pulisic](https://twitter.com/search?q=Pulisic) | — |
+| 5️⃣ | [#SmackDown](https://twitter.com/search?q=%23SmackDown) | — |
+| 6️⃣ | [Katy Perry](https://twitter.com/search?q=Katy%20Perry) | — |
+| 7️⃣ | [#WorldCup](https://twitter.com/search?q=%23WorldCup) | — |
+| 8️⃣ | [#LaysFWC26](https://twitter.com/search?q=%23LaysFWC26) | — |
+| 9️⃣ | [Strider](https://twitter.com/search?q=Strider) | — |
+| 🔟 | [Dest](https://twitter.com/search?q=Dest) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-06-12 10:33 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-06-13 10:14 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-06-12 10:33 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-06-13 10:14 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [apple/container](https://github.com/apple/container) | 32751 | `Swift` | A tool for creating and running Linux containers using lightweight virtu… |
-| 🥈 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 54967 | `Shell` | Production-grade engineering skills for AI coding agents. |
-| 🥉 | [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | 2805 | `Python` | open-source healthcare ai |
-| 4️⃣ | [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | 16293 | — | PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from… |
-| 5️⃣ | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | 2743 | `Python` | Security scanner for AI agent skills. Detect vulnerabilities, malicious … |
-| 6️⃣ | [soxoj/maigret](https://github.com/soxoj/maigret) | 32657 | `Python` | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
-| 7️⃣ | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 139900 | — | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin … |
-| 8️⃣ | [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | 15439 | `TypeScript` | Desktop app to manage markdown knowledge bases |
-| 9️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 224942 | `Shell` | An agentic skills framework & software development methodology that work… |
-| 🔟 | [restic/restic](https://github.com/restic/restic) | 34197 | `Go` | Fast, secure, efficient backup program |
+| 🥇 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 56870 | `Shell` | Production-grade engineering skills for AI coding agents. |
+| 🥈 | [music-assistant/server](https://github.com/music-assistant/server) | 1797 | `Python` | Music Assistant is a free, opensource Media library manager that connect… |
+| 🥉 | [mattermost/mattermost](https://github.com/mattermost/mattermost) | 37643 | `TypeScript` | Mattermost is an open source platform for secure collaboration across th… |
+| 4️⃣ | [apple/container](https://github.com/apple/container) | 35174 | `Swift` | A tool for creating and running Linux containers using lightweight virtu… |
+| 5️⃣ | [iptv-org/iptv](https://github.com/iptv-org/iptv) | 118056 | `TypeScript` | Collection of publicly available IPTV channels from all over the world |
+| 6️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 226047 | `Shell` | An agentic skills framework & software development methodology that work… |
+| 7️⃣ | [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | 15791 | `TypeScript` | Desktop app to manage markdown knowledge bases |
+| 8️⃣ | [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | 3202 | `Python` | open-source healthcare ai |
+| 9️⃣ | [LMCache/LMCache](https://github.com/LMCache/LMCache) | 8647 | `Python` | LMCache: Supercharge Your LLM with the Fastest KV Cache Layer |
+| 🔟 | [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | 17013 | — | PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from… |
 
 </details>
 
-<sub>🕐 更新于 2026-06-12 10:33 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-06-13 10:14 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
