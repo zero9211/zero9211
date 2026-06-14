@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Paraguay](https://twitter.com/search?q=Paraguay) | — |
-| 🥈 | [#USMNT](https://twitter.com/search?q=%23USMNT) | — |
-| 🥉 | [Elon](https://twitter.com/search?q=Elon) | — |
-| 4️⃣ | [Pulisic](https://twitter.com/search?q=Pulisic) | — |
-| 5️⃣ | [#SmackDown](https://twitter.com/search?q=%23SmackDown) | — |
-| 6️⃣ | [Katy Perry](https://twitter.com/search?q=Katy%20Perry) | — |
-| 7️⃣ | [#WorldCup](https://twitter.com/search?q=%23WorldCup) | — |
-| 8️⃣ | [#LaysFWC26](https://twitter.com/search?q=%23LaysFWC26) | — |
-| 9️⃣ | [Strider](https://twitter.com/search?q=Strider) | — |
-| 🔟 | [Dest](https://twitter.com/search?q=Dest) | — |
+| 🥇 | [Brazil](https://twitter.com/search?q=Brazil) | — |
+| 🥈 | [Scotland](https://twitter.com/search?q=Scotland) | — |
+| 🥉 | [Aldon Smith](https://twitter.com/search?q=Aldon%20Smith) | — |
+| 4️⃣ | [Vini](https://twitter.com/search?q=Vini) | — |
+| 5️⃣ | [#AEWCollision](https://twitter.com/search?q=%23AEWCollision) | — |
+| 6️⃣ | [White House](https://twitter.com/search?q=White%20House) | — |
+| 7️⃣ | [Endrick](https://twitter.com/search?q=Endrick) | — |
+| 8️⃣ | [Ancelotti](https://twitter.com/search?q=Ancelotti) | — |
+| 9️⃣ | [Igor Thiago](https://twitter.com/search?q=Igor%20Thiago) | — |
+| 🔟 | [John McGinn](https://twitter.com/search?q=John%20McGinn) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-06-13 10:14 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-06-14 10:37 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-06-13 10:14 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-06-14 10:37 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 56870 | `Shell` | Production-grade engineering skills for AI coding agents. |
-| 🥈 | [music-assistant/server](https://github.com/music-assistant/server) | 1797 | `Python` | Music Assistant is a free, opensource Media library manager that connect… |
-| 🥉 | [mattermost/mattermost](https://github.com/mattermost/mattermost) | 37643 | `TypeScript` | Mattermost is an open source platform for secure collaboration across th… |
-| 4️⃣ | [apple/container](https://github.com/apple/container) | 35174 | `Swift` | A tool for creating and running Linux containers using lightweight virtu… |
-| 5️⃣ | [iptv-org/iptv](https://github.com/iptv-org/iptv) | 118056 | `TypeScript` | Collection of publicly available IPTV channels from all over the world |
-| 6️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 226047 | `Shell` | An agentic skills framework & software development methodology that work… |
-| 7️⃣ | [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | 15791 | `TypeScript` | Desktop app to manage markdown knowledge bases |
-| 8️⃣ | [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | 3202 | `Python` | open-source healthcare ai |
-| 9️⃣ | [LMCache/LMCache](https://github.com/LMCache/LMCache) | 8647 | `Python` | LMCache: Supercharge Your LLM with the Fastest KV Cache Layer |
-| 🔟 | [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | 17013 | — | PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from… |
+| 🥇 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | 119211 | `TypeScript` | Collection of publicly available IPTV channels from all over the world |
+| 🥈 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 58471 | `Shell` | Production-grade engineering skills for AI coding agents. |
+| 🥉 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | 30884 | `Ruby` | Open-source live-chat, email support, omni-channel desk. An alternative … |
+| 4️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 226991 | `Shell` | An agentic skills framework & software development methodology that work… |
+| 5️⃣ | [apple/container](https://github.com/apple/container) | 36354 | `Swift` | A tool for creating and running Linux containers using lightweight virtu… |
+| 6️⃣ | [music-assistant/server](https://github.com/music-assistant/server) | 2014 | `Python` | Music Assistant is a free, opensource Media library manager that connect… |
+| 7️⃣ | [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | 2379 | `Go` | Local-first session intelligence and analytics for coding agents, suppor… |
+| 8️⃣ | [LMCache/LMCache](https://github.com/LMCache/LMCache) | 8907 | `Python` | LMCache: Supercharge Your LLM with the Fastest KV Cache Layer |
+| 9️⃣ | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 134690 | `C` | Microsoft PowerToys is a collection of utilities that supercharge produc… |
+| 🔟 | [andrewyng/aisuite](https://github.com/andrewyng/aisuite) | 14136 | `Python` | Simple, unified interface to multiple Generative AI providers |
 
 </details>
 
-<sub>🕐 更新于 2026-06-13 10:14 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-06-14 10:37 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
