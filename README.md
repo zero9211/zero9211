@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Brazil](https://twitter.com/search?q=Brazil) | — |
-| 🥈 | [Scotland](https://twitter.com/search?q=Scotland) | — |
-| 🥉 | [Aldon Smith](https://twitter.com/search?q=Aldon%20Smith) | — |
-| 4️⃣ | [Vini](https://twitter.com/search?q=Vini) | — |
-| 5️⃣ | [#AEWCollision](https://twitter.com/search?q=%23AEWCollision) | — |
-| 6️⃣ | [White House](https://twitter.com/search?q=White%20House) | — |
-| 7️⃣ | [Endrick](https://twitter.com/search?q=Endrick) | — |
-| 8️⃣ | [Ancelotti](https://twitter.com/search?q=Ancelotti) | — |
-| 9️⃣ | [Igor Thiago](https://twitter.com/search?q=Igor%20Thiago) | — |
-| 🔟 | [John McGinn](https://twitter.com/search?q=John%20McGinn) | — |
+| 🥇 | [#UFCFreedom250](https://twitter.com/search?q=%23UFCFreedom250) | — |
+| 🥈 | [#UFCWhiteHouse](https://twitter.com/search?q=%23UFCWhiteHouse) | — |
+| 🥉 | [Ivory Coast](https://twitter.com/search?q=Ivory%20Coast) | — |
+| 4️⃣ | [#UFC250](https://twitter.com/search?q=%23UFC250) | — |
+| 5️⃣ | [Bo Nickal](https://twitter.com/search?q=Bo%20Nickal) | — |
+| 6️⃣ | [Diego Lopes](https://twitter.com/search?q=Diego%20Lopes) | — |
+| 7️⃣ | [Tyson Fury](https://twitter.com/search?q=Tyson%20Fury) | — |
+| 8️⃣ | [Eric Trump](https://twitter.com/search?q=Eric%20Trump) | — |
+| 9️⃣ | [Garcia](https://twitter.com/search?q=Garcia) | — |
+| 🔟 | [Diomande](https://twitter.com/search?q=Diomande) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-06-14 10:37 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-06-15 10:43 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-06-14 10:37 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-06-15 10:43 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | 119211 | `TypeScript` | Collection of publicly available IPTV channels from all over the world |
-| 🥈 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 58471 | `Shell` | Production-grade engineering skills for AI coding agents. |
-| 🥉 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | 30884 | `Ruby` | Open-source live-chat, email support, omni-channel desk. An alternative … |
-| 4️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 226991 | `Shell` | An agentic skills framework & software development methodology that work… |
-| 5️⃣ | [apple/container](https://github.com/apple/container) | 36354 | `Swift` | A tool for creating and running Linux containers using lightweight virtu… |
-| 6️⃣ | [music-assistant/server](https://github.com/music-assistant/server) | 2014 | `Python` | Music Assistant is a free, opensource Media library manager that connect… |
-| 7️⃣ | [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | 2379 | `Go` | Local-first session intelligence and analytics for coding agents, suppor… |
-| 8️⃣ | [LMCache/LMCache](https://github.com/LMCache/LMCache) | 8907 | `Python` | LMCache: Supercharge Your LLM with the Fastest KV Cache Layer |
-| 9️⃣ | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 134690 | `C` | Microsoft PowerToys is a collection of utilities that supercharge produc… |
-| 🔟 | [andrewyng/aisuite](https://github.com/andrewyng/aisuite) | 14136 | `Python` | Simple, unified interface to multiple Generative AI providers |
+| 🥇 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | 121220 | `TypeScript` | Collection of publicly available IPTV channels from all over the world |
+| 🥈 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 447272 | `TypeScript` | freeCodeCamp.org's open-source codebase and curriculum. Learn math, prog… |
+| 🥉 | [pytest-dev/pytest](https://github.com/pytest-dev/pytest) | 14061 | `Python` | The pytest framework makes it easy to write small tests, yet scales to s… |
+| 4️⃣ | [swc-project/swc](https://github.com/swc-project/swc) | 33795 | `Rust` | Rust-based platform for the Web |
+| 5️⃣ | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | 31279 | `Ruby` | Open-source live-chat, email support, omni-channel desk. An alternative … |
+| 6️⃣ | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | 5409 | `Python` | Security scanner for AI agent skills. Detect vulnerabilities, malicious … |
+| 7️⃣ | [meshery/meshery](https://github.com/meshery/meshery) | 10422 | `TypeScript` | Meshery, the cloud native manager |
+| 8️⃣ | [cypress-io/cypress](https://github.com/cypress-io/cypress) | 49972 | `TypeScript` | Fast, easy and reliable testing for anything that runs in a browser. |
+| 9️⃣ | [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) | 35523 | — | 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram,… |
+| 🔟 | [Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots) | 2766 | `TeX` | Introduction to Autonomous Robots |
 
 </details>
 
-<sub>🕐 更新于 2026-06-14 10:37 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-06-15 10:43 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
