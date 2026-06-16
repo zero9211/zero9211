@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#UFCFreedom250](https://twitter.com/search?q=%23UFCFreedom250) | — |
-| 🥈 | [#UFCWhiteHouse](https://twitter.com/search?q=%23UFCWhiteHouse) | — |
-| 🥉 | [Ivory Coast](https://twitter.com/search?q=Ivory%20Coast) | — |
-| 4️⃣ | [#UFC250](https://twitter.com/search?q=%23UFC250) | — |
-| 5️⃣ | [Bo Nickal](https://twitter.com/search?q=Bo%20Nickal) | — |
-| 6️⃣ | [Diego Lopes](https://twitter.com/search?q=Diego%20Lopes) | — |
-| 7️⃣ | [Tyson Fury](https://twitter.com/search?q=Tyson%20Fury) | — |
-| 8️⃣ | [Eric Trump](https://twitter.com/search?q=Eric%20Trump) | — |
-| 9️⃣ | [Garcia](https://twitter.com/search?q=Garcia) | — |
-| 🔟 | [Diomande](https://twitter.com/search?q=Diomande) | — |
+| 🥇 | [Kenzie](https://twitter.com/search?q=Kenzie) | — |
+| 🥈 | [#WWERaw](https://twitter.com/search?q=%23WWERaw) | — |
+| 🥉 | [New Zealand](https://twitter.com/search?q=New%20Zealand) | — |
+| 4️⃣ | [Dustin May](https://twitter.com/search?q=Dustin%20May) | — |
+| 5️⃣ | [Uruguay](https://twitter.com/search?q=Uruguay) | — |
+| 6️⃣ | [Brendan Sorsby](https://twitter.com/search?q=Brendan%20Sorsby) | — |
+| 7️⃣ | [Eric Andre](https://twitter.com/search?q=Eric%20Andre) | — |
+| 8️⃣ | [Newsom](https://twitter.com/search?q=Newsom) | — |
+| 9️⃣ | [Aniya](https://twitter.com/search?q=Aniya) | — |
+| 🔟 | [Chad Gable](https://twitter.com/search?q=Chad%20Gable) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-06-15 10:43 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-06-16 10:44 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-06-15 10:43 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-06-16 10:44 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | 121220 | `TypeScript` | Collection of publicly available IPTV channels from all over the world |
-| 🥈 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 447272 | `TypeScript` | freeCodeCamp.org's open-source codebase and curriculum. Learn math, prog… |
-| 🥉 | [pytest-dev/pytest](https://github.com/pytest-dev/pytest) | 14061 | `Python` | The pytest framework makes it easy to write small tests, yet scales to s… |
-| 4️⃣ | [swc-project/swc](https://github.com/swc-project/swc) | 33795 | `Rust` | Rust-based platform for the Web |
-| 5️⃣ | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | 31279 | `Ruby` | Open-source live-chat, email support, omni-channel desk. An alternative … |
-| 6️⃣ | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | 5409 | `Python` | Security scanner for AI agent skills. Detect vulnerabilities, malicious … |
-| 7️⃣ | [meshery/meshery](https://github.com/meshery/meshery) | 10422 | `TypeScript` | Meshery, the cloud native manager |
-| 8️⃣ | [cypress-io/cypress](https://github.com/cypress-io/cypress) | 49972 | `TypeScript` | Fast, easy and reliable testing for anything that runs in a browser. |
-| 9️⃣ | [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) | 35523 | — | 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram,… |
-| 🔟 | [Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots) | 2766 | `TeX` | Introduction to Autonomous Robots |
+| 🥇 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | 123005 | `TypeScript` | Collection of publicly available IPTV channels from all over the world |
+| 🥈 | [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) | 8265 | `Elixir` | A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichte… |
+| 🥉 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 30427 | `Python` | Give your AI agent eyes to see the entire internet. Read & search Twitte… |
+| 4️⃣ | [meshery/meshery](https://github.com/meshery/meshery) | 10652 | `TypeScript` | Meshery, the cloud native manager |
+| 5️⃣ | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | 31725 | `Ruby` | Open-source live-chat, email support, omni-channel desk. An alternative … |
+| 6️⃣ | [krahets/hello-algo](https://github.com/krahets/hello-algo) | 126985 | `Java` | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++,… |
+| 7️⃣ | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 447958 | `TypeScript` | freeCodeCamp.org's open-source codebase and curriculum. Learn math, prog… |
+| 8️⃣ | [trycua/cua](https://github.com/trycua/cua) | 18190 | `HTML` | Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and… |
+| 9️⃣ | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | 352357 | — | A complete computer science study plan to become a software engineer. |
+| 🔟 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 33158 | `Python` | Learn it. Build it. Ship it for others. |
 
 </details>
 
-<sub>🕐 更新于 2026-06-15 10:43 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-06-16 10:44 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
