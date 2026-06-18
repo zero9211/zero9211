@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Messi](https://twitter.com/search?q=Messi) | — |
-| 🥈 | [Algeria](https://twitter.com/search?q=Algeria) | — |
-| 🥉 | [Kenzie](https://twitter.com/search?q=Kenzie) | — |
-| 4️⃣ | [Caleb](https://twitter.com/search?q=Caleb) | — |
-| 5️⃣ | [#WWENXT](https://twitter.com/search?q=%23WWENXT) | — |
-| 6️⃣ | [Norway](https://twitter.com/search?q=Norway) | — |
-| 7️⃣ | [Haaland](https://twitter.com/search?q=Haaland) | — |
-| 8️⃣ | [#summerhouse](https://twitter.com/search?q=%23summerhouse) | — |
-| 9️⃣ | [Iraq](https://twitter.com/search?q=Iraq) | — |
-| 🔟 | [KEEP SWIMMING](https://twitter.com/search?q=KEEP%20SWIMMING) | — |
+| 🥇 | [Ghana](https://twitter.com/search?q=Ghana) | — |
+| 🥈 | [#AEWDynamite](https://twitter.com/search?q=%23AEWDynamite) | — |
+| 🥉 | [Hazuki](https://twitter.com/search?q=Hazuki) | — |
+| 4️⃣ | [Versailles](https://twitter.com/search?q=Versailles) | — |
+| 5️⃣ | [Jordan Ayew](https://twitter.com/search?q=Jordan%20Ayew) | — |
+| 6️⃣ | [Croatia](https://twitter.com/search?q=Croatia) | — |
+| 7️⃣ | [Effingham](https://twitter.com/search?q=Effingham) | — |
+| 8️⃣ | [Caleb Yirenkyi](https://twitter.com/search?q=Caleb%20Yirenkyi) | — |
+| 9️⃣ | [Daniel Espino](https://twitter.com/search?q=Daniel%20Espino) | — |
+| 🔟 | [Semenyo](https://twitter.com/search?q=Semenyo) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-06-17 10:41 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-06-18 10:38 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-06-17 10:41 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-06-18 10:38 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 448628 | `TypeScript` | freeCodeCamp.org's open-source codebase and curriculum. Learn math, prog… |
-| 🥈 | [swc-project/swc](https://github.com/swc-project/swc) | 33983 | `Rust` | Rust-based platform for the Web |
-| 🥉 | [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) | 8424 | `Elixir` | A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichte… |
-| 4️⃣ | [iptv-org/iptv](https://github.com/iptv-org/iptv) | 124207 | `TypeScript` | Collection of publicly available IPTV channels from all over the world |
-| 5️⃣ | [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) | 94914 | `TypeScript` | JavaScript API for Chrome and Firefox |
-| 6️⃣ | [meshery/meshery](https://github.com/meshery/meshery) | 10867 | `TypeScript` | Meshery, the cloud native manager |
-| 7️⃣ | [cypress-io/cypress](https://github.com/cypress-io/cypress) | 50235 | `TypeScript` | Fast, easy and reliable testing for anything that runs in a browser. |
-| 8️⃣ | [music-assistant/server](https://github.com/music-assistant/server) | 2580 | `Python` | Music Assistant is a free, opensource Media library manager that connect… |
-| 9️⃣ | [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) | 7349 | `Rust` | Cross-platform GUI written in Rust using ADB to debloat non-rooted Andro… |
-| 🔟 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 30173 | `Python` | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative… |
+| 🥇 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 5475 | `C` | High-performance code intelligence MCP server. Indexes codebases into a … |
+| 🥈 | [n0-computer/iroh](https://github.com/n0-computer/iroh) | 9688 | `Rust` | IP addresses break, dial keys instead. Modular networking stack in Rust. |
+| 🥉 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 33321 | `Python` | Give your AI agent eyes to see the entire internet. Read & search Twitte… |
+| 4️⃣ | [meshery/meshery](https://github.com/meshery/meshery) | 11037 | `TypeScript` | Meshery, the cloud native manager |
+| 5️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 231189 | `Shell` | An agentic skills framework & software development methodology that work… |
+| 6️⃣ | [google-research/timesfm](https://github.com/google-research/timesfm) | 21957 | `Python` | TimesFM (Time Series Foundation Model) is a pretrained time-series found… |
+| 7️⃣ | [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | 45605 | `TypeScript` | The Secure CommsOS™ for mission-critical operations |
+| 8️⃣ | [continuedev/continue](https://github.com/continuedev/continue) | 33927 | `TypeScript` | open-source coding agent |
+| 9️⃣ | [penpot/penpot](https://github.com/penpot/penpot) | 50126 | `Clojure` | Penpot: The open-source design tool for design and code collaboration |
+| 🔟 | [krahets/hello-algo](https://github.com/krahets/hello-algo) | 127496 | `Java` | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++,… |
 
 </details>
 
-<sub>🕐 更新于 2026-06-17 10:41 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-06-18 10:38 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
