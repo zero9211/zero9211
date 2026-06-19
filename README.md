@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Ghana](https://twitter.com/search?q=Ghana) | — |
-| 🥈 | [#AEWDynamite](https://twitter.com/search?q=%23AEWDynamite) | — |
-| 🥉 | [Hazuki](https://twitter.com/search?q=Hazuki) | — |
-| 4️⃣ | [Versailles](https://twitter.com/search?q=Versailles) | — |
-| 5️⃣ | [Jordan Ayew](https://twitter.com/search?q=Jordan%20Ayew) | — |
-| 6️⃣ | [Croatia](https://twitter.com/search?q=Croatia) | — |
-| 7️⃣ | [Effingham](https://twitter.com/search?q=Effingham) | — |
-| 8️⃣ | [Caleb Yirenkyi](https://twitter.com/search?q=Caleb%20Yirenkyi) | — |
-| 9️⃣ | [Daniel Espino](https://twitter.com/search?q=Daniel%20Espino) | — |
-| 🔟 | [Semenyo](https://twitter.com/search?q=Semenyo) | — |
+| 🥇 | [Tay Keith](https://twitter.com/search?q=Tay%20Keith) | — |
+| 🥈 | [South Korea](https://twitter.com/search?q=South%20Korea) | — |
+| 🥉 | [Doval](https://twitter.com/search?q=Doval) | — |
+| 4️⃣ | [Qatar](https://twitter.com/search?q=Qatar) | — |
+| 5️⃣ | [Zach and Bryce](https://twitter.com/search?q=Zach%20and%20Bryce) | — |
+| 6️⃣ | [VAMOS MEXICO](https://twitter.com/search?q=VAMOS%20MEXICO) | — |
+| 7️⃣ | [Jonathan David](https://twitter.com/search?q=Jonathan%20David) | — |
+| 8️⃣ | [Kennedy](https://twitter.com/search?q=Kennedy) | — |
+| 9️⃣ | [Kone](https://twitter.com/search?q=Kone) | — |
+| 🔟 | [#MEXKOR](https://twitter.com/search?q=%23MEXKOR) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-06-18 10:38 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-06-19 10:54 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-06-18 10:38 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-06-19 10:54 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 5475 | `C` | High-performance code intelligence MCP server. Indexes codebases into a … |
-| 🥈 | [n0-computer/iroh](https://github.com/n0-computer/iroh) | 9688 | `Rust` | IP addresses break, dial keys instead. Modular networking stack in Rust. |
-| 🥉 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 33321 | `Python` | Give your AI agent eyes to see the entire internet. Read & search Twitte… |
-| 4️⃣ | [meshery/meshery](https://github.com/meshery/meshery) | 11037 | `TypeScript` | Meshery, the cloud native manager |
-| 5️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 231189 | `Shell` | An agentic skills framework & software development methodology that work… |
-| 6️⃣ | [google-research/timesfm](https://github.com/google-research/timesfm) | 21957 | `Python` | TimesFM (Time Series Foundation Model) is a pretrained time-series found… |
-| 7️⃣ | [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | 45605 | `TypeScript` | The Secure CommsOS™ for mission-critical operations |
-| 8️⃣ | [continuedev/continue](https://github.com/continuedev/continue) | 33927 | `TypeScript` | open-source coding agent |
-| 9️⃣ | [penpot/penpot](https://github.com/penpot/penpot) | 50126 | `Clojure` | Penpot: The open-source design tool for design and code collaboration |
-| 🔟 | [krahets/hello-algo](https://github.com/krahets/hello-algo) | 127496 | `Java` | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++,… |
+| 🥇 | [google-research/timesfm](https://github.com/google-research/timesfm) | 23270 | `Python` | TimesFM (Time Series Foundation Model) is a pretrained time-series found… |
+| 🥈 | [n0-computer/iroh](https://github.com/n0-computer/iroh) | 10025 | `Rust` | IP addresses break, dial keys instead. Modular networking stack in Rust. |
+| 🥉 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 449569 | `TypeScript` | freeCodeCamp.org's open-source codebase and curriculum. Learn math, prog… |
+| 4️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 232490 | `Shell` | An agentic skills framework & software development methodology that work… |
+| 5️⃣ | [zai-org/GLM-5](https://github.com/zai-org/GLM-5) | 4163 | — | GLM-5: From Vibe Coding to Agentic Engineering |
+| 6️⃣ | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 7137 | `C` | High-performance code intelligence MCP server. Indexes codebases into a … |
+| 7️⃣ | [yifanfeng97/Hyper-Extract](https://github.com/yifanfeng97/Hyper-Extract) | 1815 | `Python` | Transform unstructured text into structured knowledge with LLMs. Graphs,… |
+| 8️⃣ | [alibaba/zvec](https://github.com/alibaba/zvec) | 11256 | `C++` | A lightweight, lightning-fast, in-process vector database |
+| 9️⃣ | [withastro/flue](https://github.com/withastro/flue) | 5531 | `TypeScript` | The sandbox agent framework. |
+| 🔟 | [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) | 22210 | `TypeScript` | Kilo is the all-in-one agentic engineering platform. Build, ship, and it… |
 
 </details>
 
-<sub>🕐 更新于 2026-06-18 10:38 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-06-19 10:54 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
