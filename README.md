@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Tay Keith](https://twitter.com/search?q=Tay%20Keith) | — |
-| 🥈 | [South Korea](https://twitter.com/search?q=South%20Korea) | — |
-| 🥉 | [Doval](https://twitter.com/search?q=Doval) | — |
-| 4️⃣ | [Qatar](https://twitter.com/search?q=Qatar) | — |
-| 5️⃣ | [Zach and Bryce](https://twitter.com/search?q=Zach%20and%20Bryce) | — |
-| 6️⃣ | [VAMOS MEXICO](https://twitter.com/search?q=VAMOS%20MEXICO) | — |
-| 7️⃣ | [Jonathan David](https://twitter.com/search?q=Jonathan%20David) | — |
-| 8️⃣ | [Kennedy](https://twitter.com/search?q=Kennedy) | — |
-| 9️⃣ | [Kone](https://twitter.com/search?q=Kone) | — |
-| 🔟 | [#MEXKOR](https://twitter.com/search?q=%23MEXKOR) | — |
+| 🥇 | [Zach](https://twitter.com/search?q=Zach) | — |
+| 🥈 | [#SmackDown](https://twitter.com/search?q=%23SmackDown) | — |
+| 🥉 | [Haiti](https://twitter.com/search?q=Haiti) | — |
+| 4️⃣ | [Cunha](https://twitter.com/search?q=Cunha) | — |
+| 5️⃣ | [Vini](https://twitter.com/search?q=Vini) | — |
+| 6️⃣ | [Juneteenth](https://twitter.com/search?q=Juneteenth) | — |
+| 7️⃣ | [Raphinha](https://twitter.com/search?q=Raphinha) | — |
+| 8️⃣ | [TADC](https://twitter.com/search?q=TADC) | — |
+| 9️⃣ | [Eli White](https://twitter.com/search?q=Eli%20White) | — |
+| 🔟 | [Gunther](https://twitter.com/search?q=Gunther) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-06-19 10:54 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-06-20 10:27 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-06-19 10:54 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-06-20 10:27 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [google-research/timesfm](https://github.com/google-research/timesfm) | 23270 | `Python` | TimesFM (Time Series Foundation Model) is a pretrained time-series found… |
-| 🥈 | [n0-computer/iroh](https://github.com/n0-computer/iroh) | 10025 | `Rust` | IP addresses break, dial keys instead. Modular networking stack in Rust. |
-| 🥉 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 449569 | `TypeScript` | freeCodeCamp.org's open-source codebase and curriculum. Learn math, prog… |
-| 4️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 232490 | `Shell` | An agentic skills framework & software development methodology that work… |
-| 5️⃣ | [zai-org/GLM-5](https://github.com/zai-org/GLM-5) | 4163 | — | GLM-5: From Vibe Coding to Agentic Engineering |
-| 6️⃣ | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 7137 | `C` | High-performance code intelligence MCP server. Indexes codebases into a … |
-| 7️⃣ | [yifanfeng97/Hyper-Extract](https://github.com/yifanfeng97/Hyper-Extract) | 1815 | `Python` | Transform unstructured text into structured knowledge with LLMs. Graphs,… |
-| 8️⃣ | [alibaba/zvec](https://github.com/alibaba/zvec) | 11256 | `C++` | A lightweight, lightning-fast, in-process vector database |
-| 9️⃣ | [withastro/flue](https://github.com/withastro/flue) | 5531 | `TypeScript` | The sandbox agent framework. |
-| 🔟 | [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) | 22210 | `TypeScript` | Kilo is the all-in-one agentic engineering platform. Build, ship, and it… |
+| 🥇 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 8304 | `C` | High-performance code intelligence MCP server. Indexes codebases into a … |
+| 🥈 | [google-research/timesfm](https://github.com/google-research/timesfm) | 24106 | `Python` | TimesFM (Time Series Foundation Model) is a pretrained time-series found… |
+| 🥉 | [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) | 1972 | `Swift` | macOS video editor built for AI |
+| 4️⃣ | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 57296 | `TypeScript` | Real-time global intelligence dashboard. AI-powered news aggregation, ge… |
+| 5️⃣ | [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) | 27648 | `HTML` | A one stop repository for generative AI research updates, interview reso… |
+| 6️⃣ | [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | 1065 | `TypeScript` | A framework for building agent-native applications. |
+| 7️⃣ | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 38860 | `Python` | Compress tool outputs, logs, files, and RAG chunks before they reach the… |
+| 8️⃣ | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 6327 | `Python` | World's first open-source, agentic video production system. 12 pipelines… |
+| 9️⃣ | [zai-org/GLM-5](https://github.com/zai-org/GLM-5) | 4601 | — | GLM-5: From Vibe Coding to Agentic Engineering |
+| 🔟 | [withastro/flue](https://github.com/withastro/flue) | 5855 | `TypeScript` | The sandbox agent framework. |
 
 </details>
 
-<sub>🕐 更新于 2026-06-19 10:54 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-06-20 10:27 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
