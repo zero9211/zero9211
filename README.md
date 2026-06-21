@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Zach](https://twitter.com/search?q=Zach) | — |
-| 🥈 | [#SmackDown](https://twitter.com/search?q=%23SmackDown) | — |
-| 🥉 | [Haiti](https://twitter.com/search?q=Haiti) | — |
-| 4️⃣ | [Cunha](https://twitter.com/search?q=Cunha) | — |
-| 5️⃣ | [Vini](https://twitter.com/search?q=Vini) | — |
-| 6️⃣ | [Juneteenth](https://twitter.com/search?q=Juneteenth) | — |
-| 7️⃣ | [Raphinha](https://twitter.com/search?q=Raphinha) | — |
-| 8️⃣ | [TADC](https://twitter.com/search?q=TADC) | — |
-| 9️⃣ | [Eli White](https://twitter.com/search?q=Eli%20White) | — |
-| 🔟 | [Gunther](https://twitter.com/search?q=Gunther) | — |
+| 🥇 | [Ecuador](https://twitter.com/search?q=Ecuador) | — |
+| 🥈 | [Eloy Room](https://twitter.com/search?q=Eloy%20Room) | — |
+| 🥉 | [#UFCVegas119](https://twitter.com/search?q=%23UFCVegas119) | — |
+| 4️⃣ | [Austin Hill](https://twitter.com/search?q=Austin%20Hill) | — |
+| 5️⃣ | [#AEWCollision](https://twitter.com/search?q=%23AEWCollision) | — |
+| 6️⃣ | [CuraÃ§ao](https://twitter.com/search?q=Cura%C3%A7ao) | — |
+| 7️⃣ | [Bryce Harper](https://twitter.com/search?q=Bryce%20Harper) | — |
+| 8️⃣ | [Kyle Schwarber](https://twitter.com/search?q=Kyle%20Schwarber) | — |
+| 9️⃣ | [Freddy Peralta](https://twitter.com/search?q=Freddy%20Peralta) | — |
+| 🔟 | [Taylor Gray](https://twitter.com/search?q=Taylor%20Gray) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-06-20 10:27 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-06-21 10:41 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-06-20 10:27 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-06-21 10:41 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 8304 | `C` | High-performance code intelligence MCP server. Indexes codebases into a … |
-| 🥈 | [google-research/timesfm](https://github.com/google-research/timesfm) | 24106 | `Python` | TimesFM (Time Series Foundation Model) is a pretrained time-series found… |
-| 🥉 | [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) | 1972 | `Swift` | macOS video editor built for AI |
-| 4️⃣ | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 57296 | `TypeScript` | Real-time global intelligence dashboard. AI-powered news aggregation, ge… |
-| 5️⃣ | [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) | 27648 | `HTML` | A one stop repository for generative AI research updates, interview reso… |
-| 6️⃣ | [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | 1065 | `TypeScript` | A framework for building agent-native applications. |
-| 7️⃣ | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 38860 | `Python` | Compress tool outputs, logs, files, and RAG chunks before they reach the… |
-| 8️⃣ | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 6327 | `Python` | World's first open-source, agentic video production system. 12 pipelines… |
-| 9️⃣ | [zai-org/GLM-5](https://github.com/zai-org/GLM-5) | 4601 | — | GLM-5: From Vibe Coding to Agentic Engineering |
-| 🔟 | [withastro/flue](https://github.com/withastro/flue) | 5855 | `TypeScript` | The sandbox agent framework. |
+| 🥇 | [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) | 3480 | `Swift` | macOS video editor built for AI |
+| 🥈 | [penpot/penpot](https://github.com/penpot/penpot) | 51494 | `Clojure` | Penpot: The open-source design tool for design and code collaboration |
+| 🥉 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 7118 | `Python` | World's first open-source, agentic video production system. 12 pipelines… |
+| 4️⃣ | [tursodatabase/turso](https://github.com/tursodatabase/turso) | 20362 | `Rust` | Turso is an in-process SQL database, compatible with SQLite. |
+| 5️⃣ | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 9424 | `C` | High-performance code intelligence MCP server. Indexes codebases into a … |
+| 6️⃣ | [google-research/timesfm](https://github.com/google-research/timesfm) | 24575 | `Python` | TimesFM (Time Series Foundation Model) is a pretrained time-series found… |
+| 7️⃣ | [twentyhq/twenty](https://github.com/twentyhq/twenty) | 50879 | `TypeScript` | The open alternative to Salesforce, designed for AI. |
+| 8️⃣ | [Kong/insomnia](https://github.com/Kong/insomnia) | 39343 | `TypeScript` | The open-source, cross-platform API client for GraphQL, REST, WebSockets… |
+| 9️⃣ | [tw93/Pake](https://github.com/tw93/Pake) | 54900 | `Rust` | 🤱🏻 Turn any webpage into a desktop app with one command. |
+| 🔟 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 42009 | `Python` | Compress tool outputs, logs, files, and RAG chunks before they reach the… |
 
 </details>
 
-<sub>🕐 更新于 2026-06-20 10:27 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-06-21 10:41 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
