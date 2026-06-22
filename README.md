@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Ecuador](https://twitter.com/search?q=Ecuador) | — |
-| 🥈 | [Eloy Room](https://twitter.com/search?q=Eloy%20Room) | — |
-| 🥉 | [#UFCVegas119](https://twitter.com/search?q=%23UFCVegas119) | — |
-| 4️⃣ | [Austin Hill](https://twitter.com/search?q=Austin%20Hill) | — |
-| 5️⃣ | [#AEWCollision](https://twitter.com/search?q=%23AEWCollision) | — |
-| 6️⃣ | [CuraÃ§ao](https://twitter.com/search?q=Cura%C3%A7ao) | — |
-| 7️⃣ | [Bryce Harper](https://twitter.com/search?q=Bryce%20Harper) | — |
-| 8️⃣ | [Kyle Schwarber](https://twitter.com/search?q=Kyle%20Schwarber) | — |
-| 9️⃣ | [Freddy Peralta](https://twitter.com/search?q=Freddy%20Peralta) | — |
-| 🔟 | [Taylor Gray](https://twitter.com/search?q=Taylor%20Gray) | — |
+| 🥇 | [#HOTD](https://twitter.com/search?q=%23HOTD) | — |
+| 🥈 | [Cape Verde](https://twitter.com/search?q=Cape%20Verde) | — |
+| 🥉 | [#HouseOfTheDragon](https://twitter.com/search?q=%23HouseOfTheDragon) | — |
+| 4️⃣ | [Uruguay](https://twitter.com/search?q=Uruguay) | — |
+| 5️⃣ | [Cabo Verde](https://twitter.com/search?q=Cabo%20Verde) | — |
+| 6️⃣ | [Introducing](https://twitter.com/search?q=Introducing) | — |
+| 7️⃣ | [Father's Day](https://twitter.com/search?q=Father's%20Day) | — |
+| 8️⃣ | [Colombia](https://twitter.com/search?q=Colombia) | — |
+| 9️⃣ | [Jace](https://twitter.com/search?q=Jace) | — |
+| 🔟 | [Corey Heim](https://twitter.com/search?q=Corey%20Heim) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-06-21 10:41 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-06-22 10:44 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-06-21 10:41 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-06-22 10:44 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) | 3480 | `Swift` | macOS video editor built for AI |
-| 🥈 | [penpot/penpot](https://github.com/penpot/penpot) | 51494 | `Clojure` | Penpot: The open-source design tool for design and code collaboration |
-| 🥉 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 7118 | `Python` | World's first open-source, agentic video production system. 12 pipelines… |
-| 4️⃣ | [tursodatabase/turso](https://github.com/tursodatabase/turso) | 20362 | `Rust` | Turso is an in-process SQL database, compatible with SQLite. |
-| 5️⃣ | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 9424 | `C` | High-performance code intelligence MCP server. Indexes codebases into a … |
-| 6️⃣ | [google-research/timesfm](https://github.com/google-research/timesfm) | 24575 | `Python` | TimesFM (Time Series Foundation Model) is a pretrained time-series found… |
-| 7️⃣ | [twentyhq/twenty](https://github.com/twentyhq/twenty) | 50879 | `TypeScript` | The open alternative to Salesforce, designed for AI. |
-| 8️⃣ | [Kong/insomnia](https://github.com/Kong/insomnia) | 39343 | `TypeScript` | The open-source, cross-platform API client for GraphQL, REST, WebSockets… |
-| 9️⃣ | [tw93/Pake](https://github.com/tw93/Pake) | 54900 | `Rust` | 🤱🏻 Turn any webpage into a desktop app with one command. |
-| 🔟 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 42009 | `Python` | Compress tool outputs, logs, files, and RAG chunks before they reach the… |
+| 🥇 | [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) | 5382 | `Swift` | macOS video editor built for AI |
+| 🥈 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 9027 | `Python` | World's first open-source, agentic video production system. 12 pipelines… |
+| 🥉 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 44702 | `Python` | Compress tool outputs, logs, files, and RAG chunks before they reach the… |
+| 4️⃣ | [tursodatabase/turso](https://github.com/tursodatabase/turso) | 20859 | `Rust` | Turso is an in-process SQL database, compatible with SQLite. |
+| 5️⃣ | [penpot/penpot](https://github.com/penpot/penpot) | 52313 | `Clojure` | Penpot: The open-source design tool for design and code collaboration |
+| 6️⃣ | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 44661 | `Python` | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-mark… |
+| 7️⃣ | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 58163 | `TypeScript` | Real-time global intelligence dashboard. AI-powered news aggregation, ge… |
+| 8️⃣ | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 72651 | `Python` | An open-source long-horizon SuperAgent harness that researches, codes, a… |
+| 9️⃣ | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 10427 | `C` | High-performance code intelligence MCP server. Indexes codebases into a … |
+| 🔟 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 17780 | `Python` | 754 structured cybersecurity skills for AI agents · Mapped to 5 framewor… |
 
 </details>
 
-<sub>🕐 更新于 2026-06-21 10:41 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-06-22 10:44 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
