@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#HOTD](https://twitter.com/search?q=%23HOTD) | — |
-| 🥈 | [Cape Verde](https://twitter.com/search?q=Cape%20Verde) | — |
-| 🥉 | [#HouseOfTheDragon](https://twitter.com/search?q=%23HouseOfTheDragon) | — |
-| 4️⃣ | [Uruguay](https://twitter.com/search?q=Uruguay) | — |
-| 5️⃣ | [Cabo Verde](https://twitter.com/search?q=Cabo%20Verde) | — |
-| 6️⃣ | [Introducing](https://twitter.com/search?q=Introducing) | — |
-| 7️⃣ | [Father's Day](https://twitter.com/search?q=Father's%20Day) | — |
-| 8️⃣ | [Colombia](https://twitter.com/search?q=Colombia) | — |
-| 9️⃣ | [Jace](https://twitter.com/search?q=Jace) | — |
-| 🔟 | [Corey Heim](https://twitter.com/search?q=Corey%20Heim) | — |
+| 🥇 | [Haaland](https://twitter.com/search?q=Haaland) | — |
+| 🥈 | [Senegal](https://twitter.com/search?q=Senegal) | — |
+| 🥉 | [Dembele](https://twitter.com/search?q=Dembele) | — |
+| 4️⃣ | [Tucker](https://twitter.com/search?q=Tucker) | — |
+| 5️⃣ | [Koulibaly](https://twitter.com/search?q=Koulibaly) | — |
+| 6️⃣ | [Iraq](https://twitter.com/search?q=Iraq) | — |
+| 7️⃣ | [jungkook](https://twitter.com/search?q=jungkook) | — |
+| 8️⃣ | [Mikey](https://twitter.com/search?q=Mikey) | — |
+| 9️⃣ | [Odegaard](https://twitter.com/search?q=Odegaard) | — |
+| 🔟 | [Sparkle](https://twitter.com/search?q=Sparkle) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-06-22 10:44 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-06-23 10:10 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-06-22 10:44 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-06-23 10:10 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) | 5382 | `Swift` | macOS video editor built for AI |
-| 🥈 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 9027 | `Python` | World's first open-source, agentic video production system. 12 pipelines… |
-| 🥉 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 44702 | `Python` | Compress tool outputs, logs, files, and RAG chunks before they reach the… |
-| 4️⃣ | [tursodatabase/turso](https://github.com/tursodatabase/turso) | 20859 | `Rust` | Turso is an in-process SQL database, compatible with SQLite. |
-| 5️⃣ | [penpot/penpot](https://github.com/penpot/penpot) | 52313 | `Clojure` | Penpot: The open-source design tool for design and code collaboration |
-| 6️⃣ | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 44661 | `Python` | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-mark… |
-| 7️⃣ | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 58163 | `TypeScript` | Real-time global intelligence dashboard. AI-powered news aggregation, ge… |
-| 8️⃣ | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 72651 | `Python` | An open-source long-horizon SuperAgent harness that researches, codes, a… |
-| 9️⃣ | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 10427 | `C` | High-performance code intelligence MCP server. Indexes codebases into a … |
-| 🔟 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 17780 | `Python` | 754 structured cybersecurity skills for AI agents · Mapped to 5 framewor… |
+| 🥇 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 12299 | `Python` | World's first open-source, agentic video production system. 12 pipelines… |
+| 🥈 | [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) | 7469 | `Swift` | macOS video editor built for AI |
+| 🥉 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 32323 | `TypeScript` | The open-source AI voice studio. Clone, dictate, create. |
+| 4️⃣ | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 18766 | `Python` | 817 structured cybersecurity skills for AI agents · Mapped to 6 framewor… |
+| 5️⃣ | [penpot/penpot](https://github.com/penpot/penpot) | 52900 | `Clojure` | Penpot: The open-source design tool for design and code collaboration |
+| 6️⃣ | [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 82996 | `TypeScript` | #1 PDF Application on GitHub that lets you edit PDFs on any device anywh… |
+| 7️⃣ | [garrytan/gstack](https://github.com/garrytan/gstack) | 113207 | `TypeScript` | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve… |
+| 8️⃣ | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 30061 | `TypeScript` | Write HTML. Render video. Built for agents. |
+| 9️⃣ | [tursodatabase/turso](https://github.com/tursodatabase/turso) | 21519 | `Rust` | Turso is an in-process SQL database, compatible with SQLite. |
+| 🔟 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 73310 | `Python` | An open-source long-horizon SuperAgent harness that researches, codes, a… |
 
 </details>
 
-<sub>🕐 更新于 2026-06-22 10:44 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-06-23 10:10 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
