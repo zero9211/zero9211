@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Haaland](https://twitter.com/search?q=Haaland) | — |
-| 🥈 | [Senegal](https://twitter.com/search?q=Senegal) | — |
-| 🥉 | [Dembele](https://twitter.com/search?q=Dembele) | — |
-| 4️⃣ | [Tucker](https://twitter.com/search?q=Tucker) | — |
-| 5️⃣ | [Koulibaly](https://twitter.com/search?q=Koulibaly) | — |
-| 6️⃣ | [Iraq](https://twitter.com/search?q=Iraq) | — |
-| 7️⃣ | [jungkook](https://twitter.com/search?q=jungkook) | — |
-| 8️⃣ | [Mikey](https://twitter.com/search?q=Mikey) | — |
-| 9️⃣ | [Odegaard](https://twitter.com/search?q=Odegaard) | — |
-| 🔟 | [Sparkle](https://twitter.com/search?q=Sparkle) | — |
+| 🥇 | [Mara](https://twitter.com/search?q=Mara) | — |
+| 🥈 | [#NBADraft](https://twitter.com/search?q=%23NBADraft) | — |
+| 🥉 | [Acuff](https://twitter.com/search?q=Acuff) | — |
+| 4️⃣ | [Caleb Wilson](https://twitter.com/search?q=Caleb%20Wilson) | — |
+| 5️⃣ | [Nate Ament](https://twitter.com/search?q=Nate%20Ament) | — |
+| 6️⃣ | [Yaxel](https://twitter.com/search?q=Yaxel) | — |
+| 7️⃣ | [Byram](https://twitter.com/search?q=Byram) | — |
+| 8️⃣ | [Chet](https://twitter.com/search?q=Chet) | — |
+| 9️⃣ | [Ghana](https://twitter.com/search?q=Ghana) | — |
+| 🔟 | [Kyle Davidson](https://twitter.com/search?q=Kyle%20Davidson) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-06-23 10:10 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-06-24 10:11 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-06-23 10:10 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-06-24 10:11 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 12299 | `Python` | World's first open-source, agentic video production system. 12 pipelines… |
-| 🥈 | [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) | 7469 | `Swift` | macOS video editor built for AI |
-| 🥉 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 32323 | `TypeScript` | The open-source AI voice studio. Clone, dictate, create. |
-| 4️⃣ | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 18766 | `Python` | 817 structured cybersecurity skills for AI agents · Mapped to 6 framewor… |
-| 5️⃣ | [penpot/penpot](https://github.com/penpot/penpot) | 52900 | `Clojure` | Penpot: The open-source design tool for design and code collaboration |
-| 6️⃣ | [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 82996 | `TypeScript` | #1 PDF Application on GitHub that lets you edit PDFs on any device anywh… |
-| 7️⃣ | [garrytan/gstack](https://github.com/garrytan/gstack) | 113207 | `TypeScript` | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve… |
-| 8️⃣ | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 30061 | `TypeScript` | Write HTML. Render video. Built for agents. |
-| 9️⃣ | [tursodatabase/turso](https://github.com/tursodatabase/turso) | 21519 | `Rust` | Turso is an in-process SQL database, compatible with SQLite. |
-| 🔟 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 73310 | `Python` | An open-source long-horizon SuperAgent harness that researches, codes, a… |
+| 🥇 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 15891 | `Python` | World's first open-source, agentic video production system. 12 pipelines… |
+| 🥈 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 47150 | `Python` | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-mark… |
+| 🥉 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 19760 | `Python` | 817 structured cybersecurity skills for AI agents · Mapped to 6 framewor… |
+| 4️⃣ | [garrytan/gstack](https://github.com/garrytan/gstack) | 114142 | `TypeScript` | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve… |
+| 5️⃣ | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 73965 | `Python` | An open-source long-horizon SuperAgent harness that researches, codes, a… |
+| 6️⃣ | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 59131 | `TypeScript` | Real-time global intelligence dashboard. AI-powered news aggregation, ge… |
+| 7️⃣ | [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) | 8462 | `Swift` | macOS video editor built for AI |
+| 8️⃣ | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 30864 | `Python` | Official, Anthropic-managed directory of high quality Claude Code Plugin… |
+| 9️⃣ | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 59520 | `HTML` | from vibe coding to agentic engineering - practice makes claude perfect |
+| 🔟 | [revfactory/harness](https://github.com/revfactory/harness) | 7455 | `HTML` | A meta-skill that designs domain-specific agent teams, defines specializ… |
 
 </details>
 
-<sub>🕐 更新于 2026-06-23 10:10 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-06-24 10:11 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
