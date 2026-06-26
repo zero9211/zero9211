@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Venezuela](https://twitter.com/search?q=Venezuela) | — |
-| 🥈 | [#AEWDynamite](https://twitter.com/search?q=%23AEWDynamite) | — |
-| 🥉 | [Neymar](https://twitter.com/search?q=Neymar) | — |
-| 4️⃣ | [Beef Stew](https://twitter.com/search?q=Beef%20Stew) | — |
-| 5️⃣ | [Haiti](https://twitter.com/search?q=Haiti) | — |
-| 6️⃣ | [Vini](https://twitter.com/search?q=Vini) | — |
-| 7️⃣ | [Braden Smith](https://twitter.com/search?q=Braden%20Smith) | — |
-| 8️⃣ | [Morocco](https://twitter.com/search?q=Morocco) | — |
-| 9️⃣ | [Derek Hill](https://twitter.com/search?q=Derek%20Hill) | — |
-| 🔟 | [Scotland](https://twitter.com/search?q=Scotland) | — |
+| 🥇 | [#Verzuz](https://twitter.com/search?q=%23Verzuz) | — |
+| 🥈 | [Pretty Ricky](https://twitter.com/search?q=Pretty%20Ricky) | — |
+| 🥉 | [Pleasure P](https://twitter.com/search?q=Pleasure%20P) | — |
+| 4️⃣ | [Marina](https://twitter.com/search?q=Marina) | — |
+| 5️⃣ | [WNBA](https://twitter.com/search?q=WNBA) | — |
+| 6️⃣ | [Temporary](https://twitter.com/search?q=Temporary) | — |
+| 7️⃣ | [KC and Corbin](https://twitter.com/search?q=KC%20and%20Corbin) | — |
+| 8️⃣ | [Corbin and KC](https://twitter.com/search?q=Corbin%20and%20KC) | — |
+| 9️⃣ | [Ecuador](https://twitter.com/search?q=Ecuador) | — |
+| 🔟 | [Alannah](https://twitter.com/search?q=Alannah) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-06-25 10:12 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-06-26 10:13 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-06-25 10:12 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-06-26 10:13 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 19611 | `Python` | World's first open-source, agentic video production system. 12 pipelines… |
-| 🥈 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 48605 | `Python` | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-mark… |
-| 🥉 | [apple/container](https://github.com/apple/container) | 42298 | `Swift` | A tool for creating and running Linux containers using lightweight virtu… |
-| 4️⃣ | [interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent) | 2241 | `Python` | AI agent to evaluate and score resumes. |
-| 5️⃣ | [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | 19381 | `TypeScript` | Clone any website with one command using AI coding agents |
-| 6️⃣ | [revfactory/harness](https://github.com/revfactory/harness) | 7762 | `HTML` | A meta-skill that designs domain-specific agent teams, defines specializ… |
-| 7️⃣ | [flutter/flutter](https://github.com/flutter/flutter) | 177359 | `Dart` | Flutter makes it easy and fast to build beautiful apps for mobile and be… |
-| 8️⃣ | [andreknieriem/headunit-revived](https://github.com/andreknieriem/headunit-revived) | 1431 | `Kotlin` | Headunit App for displaying Android Auto |
-| 9️⃣ | [stablyai/orca](https://github.com/stablyai/orca) | 6842 | `TypeScript` | Orca is the ADE for working with a fleet of parallel agents. Run any cod… |
-| 🔟 | [google-labs-code/design.md](https://github.com/google-labs-code/design.md) | 17403 | `TypeScript` | A format specification for describing a visual identity to coding agents… |
+| 🥇 | [google-labs-code/design.md](https://github.com/google-labs-code/design.md) | 19390 | `TypeScript` | A format specification for describing a visual identity to coding agents… |
+| 🥈 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 22190 | `Python` | World's first open-source, agentic video production system. 12 pipelines… |
+| 🥉 | [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | 2018 | `Python` | AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| A… |
+| 4️⃣ | [mauriceboe/TREK](https://github.com/mauriceboe/TREK) | 6750 | `TypeScript` | A self-hosted travel/trip planner with real-time collaboration, interact… |
+| 5️⃣ | [apple/container](https://github.com/apple/container) | 43243 | `Swift` | A tool for creating and running Linux containers using lightweight virtu… |
+| 6️⃣ | [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | 20512 | `TypeScript` | Clone any website with one command using AI coding agents |
+| 7️⃣ | [every-app/open-seo](https://github.com/every-app/open-seo) | 2558 | `TypeScript` | Open source alternative to Semrush and Ahrefs |
+| 8️⃣ | [garrytan/gstack](https://github.com/garrytan/gstack) | 115861 | `TypeScript` | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve… |
+| 9️⃣ | [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws) | 1149 | `Python` | Official, AWS-supported MCP servers, skills, and plugins to help AI agen… |
+| 🔟 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 21282 | `Python` | 817 structured cybersecurity skills for AI agents · Mapped to 6 framewor… |
 
 </details>
 
-<sub>🕐 更新于 2026-06-25 10:12 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-06-26 10:13 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
