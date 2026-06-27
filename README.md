@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#Verzuz](https://twitter.com/search?q=%23Verzuz) | — |
-| 🥈 | [Pretty Ricky](https://twitter.com/search?q=Pretty%20Ricky) | — |
-| 🥉 | [Pleasure P](https://twitter.com/search?q=Pleasure%20P) | — |
-| 4️⃣ | [Marina](https://twitter.com/search?q=Marina) | — |
-| 5️⃣ | [WNBA](https://twitter.com/search?q=WNBA) | — |
-| 6️⃣ | [Temporary](https://twitter.com/search?q=Temporary) | — |
-| 7️⃣ | [KC and Corbin](https://twitter.com/search?q=KC%20and%20Corbin) | — |
-| 8️⃣ | [Corbin and KC](https://twitter.com/search?q=Corbin%20and%20KC) | — |
-| 9️⃣ | [Ecuador](https://twitter.com/search?q=Ecuador) | — |
-| 🔟 | [Alannah](https://twitter.com/search?q=Alannah) | — |
+| 🥇 | [Muslera](https://twitter.com/search?q=Muslera) | — |
+| 🥈 | [Uruguay](https://twitter.com/search?q=Uruguay) | — |
+| 🥉 | [#NHLDraft](https://twitter.com/search?q=%23NHLDraft) | — |
+| 4️⃣ | [Chase Reid](https://twitter.com/search?q=Chase%20Reid) | — |
+| 5️⃣ | [Dorofeyev](https://twitter.com/search?q=Dorofeyev) | — |
+| 6️⃣ | [Gavin McKenna](https://twitter.com/search?q=Gavin%20McKenna) | — |
+| 7️⃣ | [Belchetz](https://twitter.com/search?q=Belchetz) | — |
+| 8️⃣ | [Will Warren](https://twitter.com/search?q=Will%20Warren) | — |
+| 9️⃣ | [Contreras](https://twitter.com/search?q=Contreras) | — |
+| 🔟 | [Skenes](https://twitter.com/search?q=Skenes) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-06-26 10:13 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-06-27 10:09 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-06-26 10:13 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-06-27 10:09 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [google-labs-code/design.md](https://github.com/google-labs-code/design.md) | 19390 | `TypeScript` | A format specification for describing a visual identity to coding agents… |
-| 🥈 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 22190 | `Python` | World's first open-source, agentic video production system. 12 pipelines… |
-| 🥉 | [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | 2018 | `Python` | AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| A… |
-| 4️⃣ | [mauriceboe/TREK](https://github.com/mauriceboe/TREK) | 6750 | `TypeScript` | A self-hosted travel/trip planner with real-time collaboration, interact… |
-| 5️⃣ | [apple/container](https://github.com/apple/container) | 43243 | `Swift` | A tool for creating and running Linux containers using lightweight virtu… |
-| 6️⃣ | [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | 20512 | `TypeScript` | Clone any website with one command using AI coding agents |
-| 7️⃣ | [every-app/open-seo](https://github.com/every-app/open-seo) | 2558 | `TypeScript` | Open source alternative to Semrush and Ahrefs |
-| 8️⃣ | [garrytan/gstack](https://github.com/garrytan/gstack) | 115861 | `TypeScript` | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve… |
-| 9️⃣ | [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws) | 1149 | `Python` | Official, AWS-supported MCP servers, skills, and plugins to help AI agen… |
-| 🔟 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 21282 | `Python` | 817 structured cybersecurity skills for AI agents · Mapped to 6 framewor… |
+| 🥇 | [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) | 12638 | `Haskell` | SimpleX - the first messaging network operating without user identifiers… |
+| 🥈 | [google-labs-code/design.md](https://github.com/google-labs-code/design.md) | 21320 | `TypeScript` | A format specification for describing a visual identity to coding agents… |
+| 🥉 | [commaai/openpilot](https://github.com/commaai/openpilot) | 61804 | `Python` | openpilot is an operating system for robotics. Currently, it upgrades th… |
+| 4️⃣ | [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) | 3449 | `Go` | git push no-mistakes |
+| 5️⃣ | [grafana/grafana](https://github.com/grafana/grafana) | 74923 | `TypeScript` | The open and composable observability and data visualization platform. V… |
+| 6️⃣ | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 123755 | `HTML` | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest… |
+| 7️⃣ | [opendatalab/MinerU](https://github.com/opendatalab/MinerU) | 70458 | `Python` | Transforms complex documents like PDFs and Office docs into LLM-ready ma… |
+| 8️⃣ | [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) | 9267 | — | 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。 |
+| 9️⃣ | [mauriceboe/TREK](https://github.com/mauriceboe/TREK) | 7686 | `TypeScript` | A self-hosted travel/trip planner with real-time collaboration, interact… |
+| 🔟 | [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | 3152 | `Python` | AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| A… |
 
 </details>
 
-<sub>🕐 更新于 2026-06-26 10:13 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-06-27 10:09 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
