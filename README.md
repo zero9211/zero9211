@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Muslera](https://twitter.com/search?q=Muslera) | — |
-| 🥈 | [Uruguay](https://twitter.com/search?q=Uruguay) | — |
-| 🥉 | [#NHLDraft](https://twitter.com/search?q=%23NHLDraft) | — |
-| 4️⃣ | [Chase Reid](https://twitter.com/search?q=Chase%20Reid) | — |
-| 5️⃣ | [Dorofeyev](https://twitter.com/search?q=Dorofeyev) | — |
-| 6️⃣ | [Gavin McKenna](https://twitter.com/search?q=Gavin%20McKenna) | — |
-| 7️⃣ | [Belchetz](https://twitter.com/search?q=Belchetz) | — |
-| 8️⃣ | [Will Warren](https://twitter.com/search?q=Will%20Warren) | — |
-| 9️⃣ | [Contreras](https://twitter.com/search?q=Contreras) | — |
-| 🔟 | [Skenes](https://twitter.com/search?q=Skenes) | — |
+| 🥇 | [Colombia](https://twitter.com/search?q=Colombia) | — |
+| 🥈 | [DR Congo](https://twitter.com/search?q=DR%20Congo) | — |
+| 🥉 | [#AEWCollision](https://twitter.com/search?q=%23AEWCollision) | — |
+| 4️⃣ | [Sami](https://twitter.com/search?q=Sami) | — |
+| 5️⃣ | [Leao](https://twitter.com/search?q=Leao) | — |
+| 6️⃣ | [Roberto Martinez](https://twitter.com/search?q=Roberto%20Martinez) | — |
+| 7️⃣ | [#Svengoolie](https://twitter.com/search?q=%23Svengoolie) | — |
+| 8️⃣ | [Chad Patrick](https://twitter.com/search?q=Chad%20Patrick) | — |
+| 9️⃣ | [#COLPOR](https://twitter.com/search?q=%23COLPOR) | — |
+| 🔟 | [Hunter Goodman](https://twitter.com/search?q=Hunter%20Goodman) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-06-27 10:09 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-06-28 10:30 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-06-27 10:09 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-06-28 10:30 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) | 12638 | `Haskell` | SimpleX - the first messaging network operating without user identifiers… |
-| 🥈 | [google-labs-code/design.md](https://github.com/google-labs-code/design.md) | 21320 | `TypeScript` | A format specification for describing a visual identity to coding agents… |
-| 🥉 | [commaai/openpilot](https://github.com/commaai/openpilot) | 61804 | `Python` | openpilot is an operating system for robotics. Currently, it upgrades th… |
-| 4️⃣ | [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) | 3449 | `Go` | git push no-mistakes |
-| 5️⃣ | [grafana/grafana](https://github.com/grafana/grafana) | 74923 | `TypeScript` | The open and composable observability and data visualization platform. V… |
-| 6️⃣ | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 123755 | `HTML` | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest… |
-| 7️⃣ | [opendatalab/MinerU](https://github.com/opendatalab/MinerU) | 70458 | `Python` | Transforms complex documents like PDFs and Office docs into LLM-ready ma… |
-| 8️⃣ | [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) | 9267 | — | 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。 |
-| 9️⃣ | [mauriceboe/TREK](https://github.com/mauriceboe/TREK) | 7686 | `TypeScript` | A self-hosted travel/trip planner with real-time collaboration, interact… |
-| 🔟 | [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | 3152 | `Python` | AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| A… |
+| 🥇 | [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) | 13903 | `Haskell` | SimpleX - the first messaging network operating without user identifiers… |
+| 🥈 | [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | 4213 | `Python` | AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent… |
+| 🥉 | [commaai/openpilot](https://github.com/commaai/openpilot) | 62085 | `Python` | openpilot is an operating system for robotics. Currently, it upgrades th… |
+| 4️⃣ | [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) | 35810 | `Go` | CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud syste… |
+| 5️⃣ | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 124199 | `HTML` | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest… |
+| 6️⃣ | [google-labs-code/design.md](https://github.com/google-labs-code/design.md) | 22381 | `TypeScript` | A format specification for describing a visual identity to coding agents… |
+| 7️⃣ | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 135719 | `C` | Microsoft PowerToys is a collection of utilities that supercharge produc… |
+| 8️⃣ | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 33131 | `Python` | AI generates a real, editable PowerPoint from any document — native shap… |
+| 9️⃣ | [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | 22166 | `TypeScript` | Clone any website with one command using AI coding agents |
+| 🔟 | [garrytan/gstack](https://github.com/garrytan/gstack) | 117282 | `TypeScript` | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve… |
 
 </details>
 
-<sub>🕐 更新于 2026-06-27 10:09 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-06-28 10:30 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
