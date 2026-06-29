@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Colombia](https://twitter.com/search?q=Colombia) | — |
-| 🥈 | [DR Congo](https://twitter.com/search?q=DR%20Congo) | — |
-| 🥉 | [#AEWCollision](https://twitter.com/search?q=%23AEWCollision) | — |
-| 4️⃣ | [Sami](https://twitter.com/search?q=Sami) | — |
-| 5️⃣ | [Leao](https://twitter.com/search?q=Leao) | — |
-| 6️⃣ | [Roberto Martinez](https://twitter.com/search?q=Roberto%20Martinez) | — |
-| 7️⃣ | [#Svengoolie](https://twitter.com/search?q=%23Svengoolie) | — |
-| 8️⃣ | [Chad Patrick](https://twitter.com/search?q=Chad%20Patrick) | — |
-| 9️⃣ | [#COLPOR](https://twitter.com/search?q=%23COLPOR) | — |
-| 🔟 | [Hunter Goodman](https://twitter.com/search?q=Hunter%20Goodman) | — |
+| 🥇 | [#BETAwards](https://twitter.com/search?q=%23BETAwards) | — |
+| 🥈 | [Cardi](https://twitter.com/search?q=Cardi) | — |
+| 🥉 | [#ForbiddenDoor](https://twitter.com/search?q=%23ForbiddenDoor) | — |
+| 4️⃣ | [Sonny Gray](https://twitter.com/search?q=Sonny%20Gray) | — |
+| 5️⃣ | [Teyana](https://twitter.com/search?q=Teyana) | — |
+| 6️⃣ | [Kehlani](https://twitter.com/search?q=Kehlani) | — |
+| 7️⃣ | [Druski](https://twitter.com/search?q=Druski) | — |
+| 8️⃣ | [Janet](https://twitter.com/search?q=Janet) | — |
+| 9️⃣ | [#NXTGAB](https://twitter.com/search?q=%23NXTGAB) | — |
+| 🔟 | [Juliet](https://twitter.com/search?q=Juliet) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-06-28 10:30 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-06-29 10:30 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-06-28 10:30 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-06-29 10:30 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) | 13903 | `Haskell` | SimpleX - the first messaging network operating without user identifiers… |
-| 🥈 | [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | 4213 | `Python` | AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent… |
-| 🥉 | [commaai/openpilot](https://github.com/commaai/openpilot) | 62085 | `Python` | openpilot is an operating system for robotics. Currently, it upgrades th… |
-| 4️⃣ | [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) | 35810 | `Go` | CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud syste… |
-| 5️⃣ | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 124199 | `HTML` | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest… |
-| 6️⃣ | [google-labs-code/design.md](https://github.com/google-labs-code/design.md) | 22381 | `TypeScript` | A format specification for describing a visual identity to coding agents… |
-| 7️⃣ | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 135719 | `C` | Microsoft PowerToys is a collection of utilities that supercharge produc… |
-| 8️⃣ | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 33131 | `Python` | AI generates a real, editable PowerPoint from any document — native shap… |
-| 9️⃣ | [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | 22166 | `TypeScript` | Clone any website with one command using AI coding agents |
-| 🔟 | [garrytan/gstack](https://github.com/garrytan/gstack) | 117282 | `TypeScript` | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve… |
+| 🥇 | [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) | 15159 | `Haskell` | SimpleX - the first messaging network operating without user identifiers… |
+| 🥈 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 125387 | `HTML` | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest… |
+| 🥉 | [commaai/openpilot](https://github.com/commaai/openpilot) | 62438 | `Python` | openpilot is an operating system for robotics. Currently, it upgrades th… |
+| 4️⃣ | [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | 5475 | `Python` | AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent… |
+| 5️⃣ | [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | 8270 | `Python` | A feed-forward 3D foundation model for reconstructing scenes from stream… |
+| 6️⃣ | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 19868 | `C` | High-performance code intelligence MCP server. Indexes codebases into a … |
+| 7️⃣ | [cupy/cupy](https://github.com/cupy/cupy) | 11551 | `Python` | NumPy & SciPy for GPU |
+| 8️⃣ | [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | 3795 | `Swift` | FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully L… |
+| 9️⃣ | [opendatalab/MinerU](https://github.com/opendatalab/MinerU) | 71679 | `Python` | Transforms complex documents like PDFs and Office docs into LLM-ready ma… |
+| 🔟 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 14402 | `Python` | "Vibe-Trading: Your Personal Trading Agent" |
 
 </details>
 
-<sub>🕐 更新于 2026-06-28 10:30 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-06-29 10:30 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
