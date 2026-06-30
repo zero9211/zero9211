@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#BETAwards](https://twitter.com/search?q=%23BETAwards) | — |
-| 🥈 | [Cardi](https://twitter.com/search?q=Cardi) | — |
-| 🥉 | [#ForbiddenDoor](https://twitter.com/search?q=%23ForbiddenDoor) | — |
-| 4️⃣ | [Sonny Gray](https://twitter.com/search?q=Sonny%20Gray) | — |
-| 5️⃣ | [Teyana](https://twitter.com/search?q=Teyana) | — |
-| 6️⃣ | [Kehlani](https://twitter.com/search?q=Kehlani) | — |
-| 7️⃣ | [Druski](https://twitter.com/search?q=Druski) | — |
-| 8️⃣ | [Janet](https://twitter.com/search?q=Janet) | — |
-| 9️⃣ | [#NXTGAB](https://twitter.com/search?q=%23NXTGAB) | — |
-| 🔟 | [Juliet](https://twitter.com/search?q=Juliet) | — |
+| 🥇 | [Paraguay](https://twitter.com/search?q=Paraguay) | — |
+| 🥈 | [Paraguay](https://twitter.com/search?q=Paraguay) | — |
+| 🥉 | [#WWERaw](https://twitter.com/search?q=%23WWERaw) | — |
+| 4️⃣ | [Freddy](https://twitter.com/search?q=Freddy) | — |
+| 5️⃣ | [Morocco](https://twitter.com/search?q=Morocco) | — |
+| 6️⃣ | [#STAKE](https://twitter.com/search?q=%23STAKE) | — |
+| 7️⃣ | [Duren](https://twitter.com/search?q=Duren) | — |
+| 8️⃣ | [Van Hecke](https://twitter.com/search?q=Van%20Hecke) | — |
+| 9️⃣ | [Alemania](https://twitter.com/search?q=Alemania) | — |
+| 🔟 | [Parmida](https://twitter.com/search?q=Parmida) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-06-29 10:30 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-06-30 10:14 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-06-29 10:30 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-06-30 10:14 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) | 15159 | `Haskell` | SimpleX - the first messaging network operating without user identifiers… |
-| 🥈 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 125387 | `HTML` | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest… |
-| 🥉 | [commaai/openpilot](https://github.com/commaai/openpilot) | 62438 | `Python` | openpilot is an operating system for robotics. Currently, it upgrades th… |
-| 4️⃣ | [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | 5475 | `Python` | AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent… |
-| 5️⃣ | [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | 8270 | `Python` | A feed-forward 3D foundation model for reconstructing scenes from stream… |
-| 6️⃣ | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 19868 | `C` | High-performance code intelligence MCP server. Indexes codebases into a … |
-| 7️⃣ | [cupy/cupy](https://github.com/cupy/cupy) | 11551 | `Python` | NumPy & SciPy for GPU |
-| 8️⃣ | [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | 3795 | `Swift` | FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully L… |
-| 9️⃣ | [opendatalab/MinerU](https://github.com/opendatalab/MinerU) | 71679 | `Python` | Transforms complex documents like PDFs and Office docs into LLM-ready ma… |
-| 🔟 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 14402 | `Python` | "Vibe-Trading: Your Personal Trading Agent" |
+| 🥇 | [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) | 16666 | `Haskell` | SimpleX - the first messaging network operating without user identifiers… |
+| 🥈 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 118992 | `Shell` | A complete AI agency at your fingertips - From frontend wizards to Reddi… |
+| 🥉 | [cupy/cupy](https://github.com/cupy/cupy) | 11847 | `Python` | NumPy & SciPy for GPU |
+| 4️⃣ | [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | 4426 | `Swift` | FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully L… |
+| 5️⃣ | [soxoj/maigret](https://github.com/soxoj/maigret) | 34417 | `Python` | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
+| 6️⃣ | [commaai/openpilot](https://github.com/commaai/openpilot) | 62788 | `Python` | openpilot is an operating system for robotics. Currently, it upgrades th… |
+| 7️⃣ | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 126764 | `HTML` | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest… |
+| 8️⃣ | [logto-io/logto](https://github.com/logto-io/logto) | 12704 | `TypeScript` | 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps… |
+| 9️⃣ | [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | 6703 | `Python` | AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent… |
+| 🔟 | [browser-use/video-use](https://github.com/browser-use/video-use) | 11979 | `Python` | Edit videos with coding agents |
 
 </details>
 
-<sub>🕐 更新于 2026-06-29 10:30 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-06-30 10:14 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
