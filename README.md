@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Paraguay](https://twitter.com/search?q=Paraguay) | — |
-| 🥈 | [Paraguay](https://twitter.com/search?q=Paraguay) | — |
-| 🥉 | [#WWERaw](https://twitter.com/search?q=%23WWERaw) | — |
-| 4️⃣ | [Freddy](https://twitter.com/search?q=Freddy) | — |
-| 5️⃣ | [Morocco](https://twitter.com/search?q=Morocco) | — |
-| 6️⃣ | [#STAKE](https://twitter.com/search?q=%23STAKE) | — |
-| 7️⃣ | [Duren](https://twitter.com/search?q=Duren) | — |
-| 8️⃣ | [Van Hecke](https://twitter.com/search?q=Van%20Hecke) | — |
-| 9️⃣ | [Alemania](https://twitter.com/search?q=Alemania) | — |
-| 🔟 | [Parmida](https://twitter.com/search?q=Parmida) | — |
+| 🥇 | [Dylan](https://twitter.com/search?q=Dylan) | — |
+| 🥈 | [Kenzie](https://twitter.com/search?q=Kenzie) | — |
+| 🥉 | [#loveiandusa](https://twitter.com/search?q=%23loveiandusa) | — |
+| 4️⃣ | [Ecuador](https://twitter.com/search?q=Ecuador) | — |
+| 5️⃣ | [Contreras](https://twitter.com/search?q=Contreras) | — |
+| 6️⃣ | [#WWENXT](https://twitter.com/search?q=%23WWENXT) | — |
+| 7️⃣ | [Cavalli](https://twitter.com/search?q=Cavalli) | — |
+| 8️⃣ | [#AriZonaGolfWang](https://twitter.com/search?q=%23AriZonaGolfWang) | — |
+| 9️⃣ | [LeBron](https://twitter.com/search?q=LeBron) | — |
+| 🔟 | [Mbappe](https://twitter.com/search?q=Mbappe) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-06-30 10:14 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-07-01 10:31 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-06-30 10:14 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-07-01 10:31 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) | 16666 | `Haskell` | SimpleX - the first messaging network operating without user identifiers… |
-| 🥈 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 118992 | `Shell` | A complete AI agency at your fingertips - From frontend wizards to Reddi… |
-| 🥉 | [cupy/cupy](https://github.com/cupy/cupy) | 11847 | `Python` | NumPy & SciPy for GPU |
-| 4️⃣ | [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | 4426 | `Swift` | FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully L… |
-| 5️⃣ | [soxoj/maigret](https://github.com/soxoj/maigret) | 34417 | `Python` | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
-| 6️⃣ | [commaai/openpilot](https://github.com/commaai/openpilot) | 62788 | `Python` | openpilot is an operating system for robotics. Currently, it upgrades th… |
-| 7️⃣ | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 126764 | `HTML` | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest… |
-| 8️⃣ | [logto-io/logto](https://github.com/logto-io/logto) | 12704 | `TypeScript` | 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps… |
-| 9️⃣ | [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | 6703 | `Python` | AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent… |
-| 🔟 | [browser-use/video-use](https://github.com/browser-use/video-use) | 11979 | `Python` | Edit videos with coding agents |
+| 🥇 | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | 6829 | `HTML` | A comprehensive dataset of 433 fitness exercises. Each entry includes na… |
+| 🥈 | [usestrix/strix](https://github.com/usestrix/strix) | 28194 | `Python` | Open-source AI penetration testing tool to find and fix your app’s vulne… |
+| 🥉 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 121052 | `Shell` | A complete AI agency at your fingertips - From frontend wizards to Reddi… |
+| 4️⃣ | [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | 4952 | `Swift` | Fastest and only macOS Dictation app with on-device STT and custom train… |
+| 5️⃣ | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 8612 | `TypeScript` | Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ fr… |
+| 6️⃣ | [browser-use/video-use](https://github.com/browser-use/video-use) | 12653 | `Python` | Edit videos with coding agents |
+| 7️⃣ | [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | 7563 | `Python` | AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent… |
+| 8️⃣ | [Mebus/cupp](https://github.com/Mebus/cupp) | 6113 | `Python` | Common User Passwords Profiler (CUPP) |
+| 9️⃣ | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 127352 | `HTML` | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest… |
+| 🔟 | [google/agents-cli](https://github.com/google/agents-cli) | 4241 | `Python` | The CLI and skills that turn any coding assistant into an expert at crea… |
 
 </details>
 
-<sub>🕐 更新于 2026-06-30 10:14 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-07-01 10:31 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
