@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Dylan](https://twitter.com/search?q=Dylan) | — |
-| 🥈 | [Kenzie](https://twitter.com/search?q=Kenzie) | — |
-| 🥉 | [#loveiandusa](https://twitter.com/search?q=%23loveiandusa) | — |
-| 4️⃣ | [Ecuador](https://twitter.com/search?q=Ecuador) | — |
-| 5️⃣ | [Contreras](https://twitter.com/search?q=Contreras) | — |
-| 6️⃣ | [#WWENXT](https://twitter.com/search?q=%23WWENXT) | — |
-| 7️⃣ | [Cavalli](https://twitter.com/search?q=Cavalli) | — |
-| 8️⃣ | [#AriZonaGolfWang](https://twitter.com/search?q=%23AriZonaGolfWang) | — |
-| 9️⃣ | [LeBron](https://twitter.com/search?q=LeBron) | — |
-| 🔟 | [Mbappe](https://twitter.com/search?q=Mbappe) | — |
+| 🥇 | [Balogun](https://twitter.com/search?q=Balogun) | — |
+| 🥈 | [Celtics](https://twitter.com/search?q=Celtics) | — |
+| 🥉 | [Paul George](https://twitter.com/search?q=Paul%20George) | — |
+| 4️⃣ | [Bosnia](https://twitter.com/search?q=Bosnia) | — |
+| 5️⃣ | [Sixers](https://twitter.com/search?q=Sixers) | — |
+| 6️⃣ | [#USMNT](https://twitter.com/search?q=%23USMNT) | — |
+| 7️⃣ | [Brad Stevens](https://twitter.com/search?q=Brad%20Stevens) | — |
+| 8️⃣ | [Senegal](https://twitter.com/search?q=Senegal) | — |
+| 9️⃣ | [76ers](https://twitter.com/search?q=76ers) | — |
+| 🔟 | [Philly](https://twitter.com/search?q=Philly) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-07-01 10:31 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-07-02 10:11 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-07-01 10:31 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-07-02 10:11 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | 6829 | `HTML` | A comprehensive dataset of 433 fitness exercises. Each entry includes na… |
-| 🥈 | [usestrix/strix](https://github.com/usestrix/strix) | 28194 | `Python` | Open-source AI penetration testing tool to find and fix your app’s vulne… |
-| 🥉 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 121052 | `Shell` | A complete AI agency at your fingertips - From frontend wizards to Reddi… |
-| 4️⃣ | [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | 4952 | `Swift` | Fastest and only macOS Dictation app with on-device STT and custom train… |
-| 5️⃣ | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 8612 | `TypeScript` | Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ fr… |
-| 6️⃣ | [browser-use/video-use](https://github.com/browser-use/video-use) | 12653 | `Python` | Edit videos with coding agents |
-| 7️⃣ | [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | 7563 | `Python` | AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent… |
-| 8️⃣ | [Mebus/cupp](https://github.com/Mebus/cupp) | 6113 | `Python` | Common User Passwords Profiler (CUPP) |
-| 9️⃣ | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 127352 | `HTML` | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest… |
-| 🔟 | [google/agents-cli](https://github.com/google/agents-cli) | 4241 | `Python` | The CLI and skills that turn any coding assistant into an expert at crea… |
+| 🥇 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 123574 | `Shell` | A complete AI agency at your fingertips - From frontend wizards to Reddi… |
+| 🥈 | [usestrix/strix](https://github.com/usestrix/strix) | 29805 | `Python` | Open-source AI penetration testing tool to find and fix your app’s vulne… |
+| 🥉 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 16595 | `Python` | "Vibe-Trading: Your Personal Trading Agent" |
+| 4️⃣ | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | 8474 | `HTML` | A comprehensive dataset of 433 fitness exercises. Each entry includes na… |
+| 5️⃣ | [facebook/astryx](https://github.com/facebook/astryx) | 2699 | `TypeScript` | An open source design system that's fully customizable and agent ready |
+| 6️⃣ | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 9580 | `TypeScript` | Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ fr… |
+| 7️⃣ | [allenai/olmocr](https://github.com/allenai/olmocr) | 18297 | `Python` | Toolkit for linearizing PDFs for LLM datasets/training |
+| 8️⃣ | [logto-io/logto](https://github.com/logto-io/logto) | 13288 | `TypeScript` | 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps… |
+| 9️⃣ | [togatoga/karukan](https://github.com/togatoga/karukan) | 589 | `Rust` | Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Convers… |
+| 🔟 | [Mebus/cupp](https://github.com/Mebus/cupp) | 6251 | `Python` | Common User Passwords Profiler (CUPP) |
 
 </details>
 
-<sub>🕐 更新于 2026-07-01 10:31 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-07-02 10:11 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
