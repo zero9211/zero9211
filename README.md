@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Croatia](https://twitter.com/search?q=Croatia) | — |
-| 🥈 | [Croatia](https://twitter.com/search?q=Croatia) | — |
-| 🥉 | [Modric](https://twitter.com/search?q=Modric) | — |
-| 4️⃣ | [Leao](https://twitter.com/search?q=Leao) | — |
-| 5️⃣ | [Ramos](https://twitter.com/search?q=Ramos) | — |
-| 6️⃣ | [Roberto Martinez](https://twitter.com/search?q=Roberto%20Martinez) | — |
-| 7️⃣ | [#PORCRO](https://twitter.com/search?q=%23PORCRO) | — |
-| 8️⃣ | [Offsides](https://twitter.com/search?q=Offsides) | — |
-| 9️⃣ | [Perisic](https://twitter.com/search?q=Perisic) | — |
-| 🔟 | [Kovacic](https://twitter.com/search?q=Kovacic) | — |
+| 🥇 | [Cape Verde](https://twitter.com/search?q=Cape%20Verde) | — |
+| 🥈 | [Cape Verde](https://twitter.com/search?q=Cape%20Verde) | — |
+| 🥉 | [Vozinha](https://twitter.com/search?q=Vozinha) | — |
+| 4️⃣ | [Taylor](https://twitter.com/search?q=Taylor) | — |
+| 5️⃣ | [#ARGCPV](https://twitter.com/search?q=%23ARGCPV) | — |
+| 6️⃣ | [Adam Sandler](https://twitter.com/search?q=Adam%20Sandler) | — |
+| 7️⃣ | [#SmackDown](https://twitter.com/search?q=%23SmackDown) | — |
+| 8️⃣ | [Jaiden](https://twitter.com/search?q=Jaiden) | — |
+| 9️⃣ | [Cabral](https://twitter.com/search?q=Cabral) | — |
+| 🔟 | [Egypt](https://twitter.com/search?q=Egypt) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-07-03 09:55 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-07-04 09:54 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-07-03 09:55 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-07-04 09:54 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [usestrix/strix](https://github.com/usestrix/strix) | 32327 | `Python` | Open-source AI penetration testing tool to find and fix your app’s vulne… |
-| 🥈 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 81047 | `JavaScript` | 🪨 why use many token when few token do trick — Claude Code skill that cu… |
-| 🥉 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 125558 | `Shell` | A complete AI agency at your fingertips - From frontend wizards to Reddi… |
-| 4️⃣ | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | 9293 | `HTML` | A comprehensive dataset of 433 fitness exercises. Each entry includes na… |
-| 5️⃣ | [santifer/career-ops](https://github.com/santifer/career-ops) | 57871 | `JavaScript` | AI-powered job search system built on Claude Code. 14 skill modes, Go da… |
-| 6️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 244484 | `Shell` | An agentic skills framework & software development methodology that work… |
-| 7️⃣ | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 45103 | `TypeScript` | Chrome DevTools for coding agents |
-| 8️⃣ | [browser-use/video-use](https://github.com/browser-use/video-use) | 13825 | `Python` | Edit videos with coding agents |
-| 9️⃣ | [actions/checkout](https://github.com/actions/checkout) | 8167 | `TypeScript` | Action for checking out a repo |
-| 🔟 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 225217 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, me… |
+| 🥇 | [usestrix/strix](https://github.com/usestrix/strix) | 34698 | `Python` | Open-source AI penetration testing tool to find and fix your app’s vulne… |
+| 🥈 | [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | 23241 | `JavaScript` | Use Codex from Claude Code to review code or delegate tasks. |
+| 🥉 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 82967 | `JavaScript` | 🪨 why use many token when few token do trick — Claude Code skill that cu… |
+| 4️⃣ | [elastic/elasticsearch](https://github.com/elastic/elasticsearch) | 77344 | `Java` | Free and Open Source, Distributed, RESTful Search Engine |
+| 5️⃣ | [actions/checkout](https://github.com/actions/checkout) | 8267 | `TypeScript` | Action for checking out a repo |
+| 6️⃣ | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 45503 | `TypeScript` | Chrome DevTools for coding agents |
+| 7️⃣ | [ansible/ansible](https://github.com/ansible/ansible) | 69211 | `Python` | Ansible is a radically simple IT automation platform that makes your app… |
+| 8️⃣ | [facebook/astryx](https://github.com/facebook/astryx) | 4684 | `TypeScript` | An open source design system that's fully customizable and agent ready |
+| 9️⃣ | [rommapp/romm](https://github.com/rommapp/romm) | 9821 | `Python` | A beautiful, powerful, self-hosted rom manager and player. |
+| 🔟 | [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | 26183 | `Python` | Machine Learning Systems |
 
 </details>
 
-<sub>🕐 更新于 2026-07-03 09:55 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-07-04 09:54 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
