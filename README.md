@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Paraguay](https://twitter.com/search?q=Paraguay) | — |
-| 🥈 | [SPLC](https://twitter.com/search?q=SPLC) | — |
-| 🥉 | [Happy 4th](https://twitter.com/search?q=Happy%204th) | — |
-| 4️⃣ | [Mbappe](https://twitter.com/search?q=Mbappe) | — |
-| 5️⃣ | [Patriot Front](https://twitter.com/search?q=Patriot%20Front) | — |
-| 6️⃣ | [Antifa](https://twitter.com/search?q=Antifa) | — |
-| 7️⃣ | [Feds](https://twitter.com/search?q=Feds) | — |
-| 8️⃣ | [#250YearsStrong](https://twitter.com/search?q=%23250YearsStrong) | — |
-| 9️⃣ | [Pennies](https://twitter.com/search?q=Pennies) | — |
-| 🔟 | [All-Star](https://twitter.com/search?q=All-Star) | — |
+| 🥇 | [Brazil](https://twitter.com/search?q=Brazil) | — |
+| 🥈 | [Neymar](https://twitter.com/search?q=Neymar) | — |
+| 🥉 | [Norway](https://twitter.com/search?q=Norway) | — |
+| 4️⃣ | [FIFA](https://twitter.com/search?q=FIFA) | — |
+| 5️⃣ | [Haaland](https://twitter.com/search?q=Haaland) | — |
+| 6️⃣ | [Belgium](https://twitter.com/search?q=Belgium) | — |
+| 7️⃣ | [England](https://twitter.com/search?q=England) | — |
+| 8️⃣ | [Balogun](https://twitter.com/search?q=Balogun) | — |
+| 9️⃣ | [#MEXENG](https://twitter.com/search?q=%23MEXENG) | — |
+| 🔟 | [Vini](https://twitter.com/search?q=Vini) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-07-05 10:01 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-07-06 10:07 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-07-05 10:01 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-07-06 10:07 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | 24499 | `JavaScript` | Use Codex from Claude Code to review code or delegate tasks. |
-| 🥈 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 84014 | `JavaScript` | 🪨 why use many token when few token do trick — Claude Code skill that cu… |
-| 🥉 | [alibaba/page-agent](https://github.com/alibaba/page-agent) | 23143 | `TypeScript` | JavaScript in-page GUI agent. Control web interfaces with natural langua… |
-| 4️⃣ | [usestrix/strix](https://github.com/usestrix/strix) | 36106 | `Python` | Open-source AI penetration testing tool to find and fix your app’s vulne… |
-| 5️⃣ | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 45789 | `TypeScript` | Chrome DevTools for coding agents |
-| 6️⃣ | [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) | 15325 | `Rust` | Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live… |
-| 7️⃣ | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 48962 | `JavaScript` | Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Clau… |
-| 8️⃣ | [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | 26584 | `Python` | Machine Learning Systems |
-| 9️⃣ | [rommapp/romm](https://github.com/rommapp/romm) | 10219 | `Python` | A beautiful, powerful, self-hosted rom manager and player. |
-| 🔟 | [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) | 11479 | `Rust` | agent multiplexer that lives in your terminal. |
+| 🥇 | [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) | 17161 | `Rust` | Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live… |
+| 🥈 | [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | 25526 | `JavaScript` | Use Codex from Claude Code to review code or delegate tasks. |
+| 🥉 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 50047 | `JavaScript` | Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Clau… |
+| 4️⃣ | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 57594 | `JavaScript` | Taste-Skill - gives your AI good taste. stops the AI from generating bor… |
+| 5️⃣ | [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 20610 | `Python` | 337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom … |
+| 6️⃣ | [rommapp/romm](https://github.com/rommapp/romm) | 10564 | `Python` | A beautiful, powerful, self-hosted rom manager and player. |
+| 7️⃣ | [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) | 12112 | `Rust` | agent multiplexer that lives in your terminal. |
+| 8️⃣ | [alibaba/page-agent](https://github.com/alibaba/page-agent) | 23950 | `TypeScript` | JavaScript in-page GUI agent. Control web interfaces with natural langua… |
+| 9️⃣ | [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | 26864 | `Python` | Machine Learning Systems |
+| 🔟 | [usestrix/strix](https://github.com/usestrix/strix) | 37183 | `Python` | Open-source AI penetration testing tool to find and fix your app’s vulne… |
 
 </details>
 
-<sub>🕐 更新于 2026-07-05 10:01 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-07-06 10:07 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
