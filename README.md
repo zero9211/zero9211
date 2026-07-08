@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Pulisic](https://twitter.com/search?q=Pulisic) | — |
-| 🥈 | [Pulisic](https://twitter.com/search?q=Pulisic) | — |
-| 🥉 | [Belgium](https://twitter.com/search?q=Belgium) | — |
-| 4️⃣ | [Tim Ream](https://twitter.com/search?q=Tim%20Ream) | — |
-| 5️⃣ | [#USMNT](https://twitter.com/search?q=%23USMNT) | — |
-| 6️⃣ | [Tillman](https://twitter.com/search?q=Tillman) | — |
-| 7️⃣ | [Platner](https://twitter.com/search?q=Platner) | — |
-| 8️⃣ | [#WWERaw](https://twitter.com/search?q=%23WWERaw) | — |
-| 9️⃣ | [Team USA](https://twitter.com/search?q=Team%20USA) | — |
-| 🔟 | [Lukaku](https://twitter.com/search?q=Lukaku) | — |
+| 🥇 | [Colombia](https://twitter.com/search?q=Colombia) | — |
+| 🥈 | [Switzerland](https://twitter.com/search?q=Switzerland) | — |
+| 🥉 | [Ryan O'Hearn](https://twitter.com/search?q=Ryan%20O'Hearn) | — |
+| 4️⃣ | [Argentina](https://twitter.com/search?q=Argentina) | — |
+| 5️⃣ | [Mitch](https://twitter.com/search?q=Mitch) | — |
+| 6️⃣ | [#WWENXT](https://twitter.com/search?q=%23WWENXT) | — |
+| 7️⃣ | [Scott Jennings](https://twitter.com/search?q=Scott%20Jennings) | — |
+| 8️⃣ | [Will Warren](https://twitter.com/search?q=Will%20Warren) | — |
+| 9️⃣ | [Melanie and Sincere](https://twitter.com/search?q=Melanie%20and%20Sincere) | — |
+| 🔟 | [Egypt](https://twitter.com/search?q=Egypt) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-07-07 10:02 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-07-08 09:43 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-07-07 10:02 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-07-08 09:43 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 51621 | `JavaScript` | Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Clau… |
-| 🥈 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 70891 | `JavaScript` | Production-grade engineering skills for AI coding agents. |
-| 🥉 | [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) | 19464 | `Rust` | Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live… |
-| 4️⃣ | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 77557 | `Rust` | π RuView turns commodity WiFi signals into real-time spatial intelligenc… |
-| 5️⃣ | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 59014 | `JavaScript` | Taste-Skill - gives your AI good taste. stops the AI from generating bor… |
-| 6️⃣ | [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 21184 | `Python` | 345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom … |
-| 7️⃣ | [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | 26304 | `JavaScript` | Use Codex from Claude Code to review code or delegate tasks. |
-| 8️⃣ | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 49797 | `Python` | AI agent skill that researches any topic across Reddit, X, YouTube, HN, … |
-| 9️⃣ | [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) | 12910 | `Rust` | agent multiplexer that lives in your terminal. |
-| 🔟 | [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | 4282 | `Python` | Give Claude the ability to watch any video. /watch downloads, extracts f… |
+| 🥇 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 11057 | `TypeScript` | AI-powered job application framework built on Claude Code. Fork it, fill… |
+| 🥈 | [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) | 20779 | `Rust` | Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live… |
+| 🥉 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 72190 | `JavaScript` | Production-grade engineering skills for AI coding agents. |
+| 4️⃣ | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 78527 | `Rust` | π RuView turns commodity WiFi signals into real-time spatial intelligenc… |
+| 5️⃣ | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 53042 | `JavaScript` | Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Clau… |
+| 6️⃣ | [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) | 8482 | `Rust` | Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents. |
+| 7️⃣ | [AhmadIbrahiim/Website-downloader](https://github.com/AhmadIbrahiim/Website-downloader) | 4032 | `HTML` | 💡 Download the complete source code of any website (including all assets… |
+| 8️⃣ | [steipete/CodexBar](https://github.com/steipete/CodexBar) | 17046 | `Swift` | Show usage stats for OpenAI Codex and Claude Code, without having to log… |
+| 9️⃣ | [dotnet/skills](https://github.com/dotnet/skills) | 4313 | `C#` | Repository for skills to assist AI coding agents with .NET and C# |
+| 🔟 | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | 10038 | `C#` | OfficeCLI is the first and best Office suite purpose-built for AI agents… |
 
 </details>
 
-<sub>🕐 更新于 2026-07-07 10:02 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-07-08 09:43 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
