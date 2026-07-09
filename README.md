@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Colombia](https://twitter.com/search?q=Colombia) | — |
-| 🥈 | [Switzerland](https://twitter.com/search?q=Switzerland) | — |
-| 🥉 | [Ryan O'Hearn](https://twitter.com/search?q=Ryan%20O'Hearn) | — |
-| 4️⃣ | [Argentina](https://twitter.com/search?q=Argentina) | — |
-| 5️⃣ | [Mitch](https://twitter.com/search?q=Mitch) | — |
-| 6️⃣ | [#WWENXT](https://twitter.com/search?q=%23WWENXT) | — |
-| 7️⃣ | [Scott Jennings](https://twitter.com/search?q=Scott%20Jennings) | — |
-| 8️⃣ | [Will Warren](https://twitter.com/search?q=Will%20Warren) | — |
-| 9️⃣ | [Melanie and Sincere](https://twitter.com/search?q=Melanie%20and%20Sincere) | — |
-| 🔟 | [Egypt](https://twitter.com/search?q=Egypt) | — |
+| 🥇 | [#AEWDynamite](https://twitter.com/search?q=%23AEWDynamite) | — |
+| 🥈 | [Tanner Banks](https://twitter.com/search?q=Tanner%20Banks) | — |
+| 🥉 | [Ciampa](https://twitter.com/search?q=Ciampa) | — |
+| 4️⃣ | [Joey Bart](https://twitter.com/search?q=Joey%20Bart) | — |
+| 5️⃣ | [Jared Jones](https://twitter.com/search?q=Jared%20Jones) | — |
+| 6️⃣ | [Jericho](https://twitter.com/search?q=Jericho) | — |
+| 7️⃣ | [#AEWBeachBreak](https://twitter.com/search?q=%23AEWBeachBreak) | — |
+| 8️⃣ | [Fallout](https://twitter.com/search?q=Fallout) | — |
+| 9️⃣ | [Grok 4.5](https://twitter.com/search?q=Grok%204.5) | — |
+| 🔟 | [Obsidian](https://twitter.com/search?q=Obsidian) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-07-08 09:43 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-07-09 09:55 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-07-08 09:43 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-07-09 09:55 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 11057 | `TypeScript` | AI-powered job application framework built on Claude Code. Fork it, fill… |
-| 🥈 | [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) | 20779 | `Rust` | Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live… |
-| 🥉 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 72190 | `JavaScript` | Production-grade engineering skills for AI coding agents. |
-| 4️⃣ | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 78527 | `Rust` | π RuView turns commodity WiFi signals into real-time spatial intelligenc… |
-| 5️⃣ | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 53042 | `JavaScript` | Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Clau… |
-| 6️⃣ | [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) | 8482 | `Rust` | Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents. |
-| 7️⃣ | [AhmadIbrahiim/Website-downloader](https://github.com/AhmadIbrahiim/Website-downloader) | 4032 | `HTML` | 💡 Download the complete source code of any website (including all assets… |
-| 8️⃣ | [steipete/CodexBar](https://github.com/steipete/CodexBar) | 17046 | `Swift` | Show usage stats for OpenAI Codex and Claude Code, without having to log… |
-| 9️⃣ | [dotnet/skills](https://github.com/dotnet/skills) | 4313 | `C#` | Repository for skills to assist AI coding agents with .NET and C# |
-| 🔟 | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | 10038 | `C#` | OfficeCLI is the first and best Office suite purpose-built for AI agents… |
+| 🥇 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 74199 | `JavaScript` | Production-grade engineering skills for AI coding agents. |
+| 🥈 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 79163 | `Rust` | π RuView turns commodity WiFi signals into real-time spatial intelligenc… |
+| 🥉 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 7683 | `TypeScript` | TencentDB Agent Memory delivers fully local long-term memory for AI Agen… |
+| 4️⃣ | [prisma/prisma](https://github.com/prisma/prisma) | 46578 | `TypeScript` | Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaD… |
+| 5️⃣ | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 50779 | `Python` | AI agent skill that researches any topic across Reddit, X, YouTube, HN, … |
+| 6️⃣ | [argoproj/argo-cd](https://github.com/argoproj/argo-cd) | 23439 | `Go` | Declarative Continuous Deployment for Kubernetes |
+| 7️⃣ | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | 11941 | `C#` | OfficeCLI is the first and best Office suite purpose-built for AI agents… |
+| 8️⃣ | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 54242 | `JavaScript` | Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Clau… |
+| 9️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 249865 | `Shell` | An agentic skills framework & software development methodology that work… |
+| 🔟 | [alibaba/zvec](https://github.com/alibaba/zvec) | 14430 | `C++` | A lightweight, lightning-fast, in-process vector database |
 
 </details>
 
-<sub>🕐 更新于 2026-07-08 09:43 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-07-09 09:55 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
