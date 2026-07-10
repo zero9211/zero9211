@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#AEWDynamite](https://twitter.com/search?q=%23AEWDynamite) | — |
-| 🥈 | [Tanner Banks](https://twitter.com/search?q=Tanner%20Banks) | — |
-| 🥉 | [Ciampa](https://twitter.com/search?q=Ciampa) | — |
-| 4️⃣ | [Joey Bart](https://twitter.com/search?q=Joey%20Bart) | — |
-| 5️⃣ | [Jared Jones](https://twitter.com/search?q=Jared%20Jones) | — |
-| 6️⃣ | [Jericho](https://twitter.com/search?q=Jericho) | — |
-| 7️⃣ | [#AEWBeachBreak](https://twitter.com/search?q=%23AEWBeachBreak) | — |
-| 8️⃣ | [Fallout](https://twitter.com/search?q=Fallout) | — |
-| 9️⃣ | [Grok 4.5](https://twitter.com/search?q=Grok%204.5) | — |
-| 🔟 | [Obsidian](https://twitter.com/search?q=Obsidian) | — |
+| 🥇 | [#bb28](https://twitter.com/search?q=%23bb28) | — |
+| 🥈 | [Mbappe](https://twitter.com/search?q=Mbappe) | — |
+| 🥉 | [Morocco](https://twitter.com/search?q=Morocco) | — |
+| 4️⃣ | [#BigBrother](https://twitter.com/search?q=%23BigBrother) | — |
+| 5️⃣ | [Philon](https://twitter.com/search?q=Philon) | — |
+| 6️⃣ | [Ashley](https://twitter.com/search?q=Ashley) | — |
+| 7️⃣ | [#RHOC](https://twitter.com/search?q=%23RHOC) | — |
+| 8️⃣ | [Melody](https://twitter.com/search?q=Melody) | — |
+| 9️⃣ | [Mallory](https://twitter.com/search?q=Mallory) | — |
+| 🔟 | [Morez](https://twitter.com/search?q=Morez) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-07-09 09:55 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-07-10 09:52 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-07-09 09:55 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-07-10 09:52 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 74199 | `JavaScript` | Production-grade engineering skills for AI coding agents. |
-| 🥈 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 79163 | `Rust` | π RuView turns commodity WiFi signals into real-time spatial intelligenc… |
-| 🥉 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 7683 | `TypeScript` | TencentDB Agent Memory delivers fully local long-term memory for AI Agen… |
-| 4️⃣ | [prisma/prisma](https://github.com/prisma/prisma) | 46578 | `TypeScript` | Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaD… |
-| 5️⃣ | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 50779 | `Python` | AI agent skill that researches any topic across Reddit, X, YouTube, HN, … |
-| 6️⃣ | [argoproj/argo-cd](https://github.com/argoproj/argo-cd) | 23439 | `Go` | Declarative Continuous Deployment for Kubernetes |
-| 7️⃣ | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | 11941 | `C#` | OfficeCLI is the first and best Office suite purpose-built for AI agents… |
-| 8️⃣ | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 54242 | `JavaScript` | Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Clau… |
-| 9️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 249865 | `Shell` | An agentic skills framework & software development methodology that work… |
-| 🔟 | [alibaba/zvec](https://github.com/alibaba/zvec) | 14430 | `C++` | A lightweight, lightning-fast, in-process vector database |
+| 🥇 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 19141 | `TypeScript` | AI-powered job application framework built on Claude Code. Fork it, fill… |
+| 🥈 | [SmartlyDressedGames/U3-SDK](https://github.com/SmartlyDressedGames/U3-SDK) | 2056 | `C#` | Source code for Unturned, a free open-world zombie survival sandbox game… |
+| 🥉 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 75925 | `JavaScript` | Production-grade engineering skills for AI coding agents. |
+| 4️⃣ | [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | 99760 | — | A collection of DESIGN.md files analysis by popular brand design systems… |
+| 5️⃣ | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | 13508 | `C#` | OfficeCLI is the first and best Office suite purpose-built for AI agents… |
+| 6️⃣ | [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | 6586 | `TypeScript` | This is MCP server for Claude that gives it terminal control, file syste… |
+| 7️⃣ | [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 47181 | `Jupyter Notebook` | A collection of notebooks/recipes showcasing some fun and effective ways… |
+| 8️⃣ | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 19432 | `Go` | Fully autonomous AI Agents system capable of performing complex penetrat… |
+| 9️⃣ | [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | 71855 | `Python` | 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be sh… |
+| 🔟 | [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) | 29105 | — | An evolving how-to guide for securing a Linux server. |
 
 </details>
 
-<sub>🕐 更新于 2026-07-09 09:55 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-07-10 09:52 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
