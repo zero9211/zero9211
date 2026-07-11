@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#bb28](https://twitter.com/search?q=%23bb28) | — |
-| 🥈 | [Mbappe](https://twitter.com/search?q=Mbappe) | — |
-| 🥉 | [Morocco](https://twitter.com/search?q=Morocco) | — |
-| 4️⃣ | [#BigBrother](https://twitter.com/search?q=%23BigBrother) | — |
-| 5️⃣ | [Philon](https://twitter.com/search?q=Philon) | — |
-| 6️⃣ | [Ashley](https://twitter.com/search?q=Ashley) | — |
-| 7️⃣ | [#RHOC](https://twitter.com/search?q=%23RHOC) | — |
-| 8️⃣ | [Melody](https://twitter.com/search?q=Melody) | — |
-| 9️⃣ | [Mallory](https://twitter.com/search?q=Mallory) | — |
-| 🔟 | [Morez](https://twitter.com/search?q=Morez) | — |
+| 🥇 | [#SmackDown](https://twitter.com/search?q=%23SmackDown) | — |
+| 🥈 | [Herro](https://twitter.com/search?q=Herro) | — |
+| 🥉 | [$VEX](https://twitter.com/search?q=%24VEX) | — |
+| 4️⃣ | [Caleb Wilson](https://twitter.com/search?q=Caleb%20Wilson) | — |
+| 5️⃣ | [Spain](https://twitter.com/search?q=Spain) | — |
+| 6️⃣ | [Marina](https://twitter.com/search?q=Marina) | — |
+| 7️⃣ | [#loveafterlockup](https://twitter.com/search?q=%23loveafterlockup) | — |
+| 8️⃣ | [Randolph Mantooth](https://twitter.com/search?q=Randolph%20Mantooth) | — |
+| 9️⃣ | [Emergency](https://twitter.com/search?q=Emergency) | — |
+| 🔟 | [Merino](https://twitter.com/search?q=Merino) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-07-10 09:52 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-07-11 09:42 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-07-10 09:52 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-07-11 09:42 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 19141 | `TypeScript` | AI-powered job application framework built on Claude Code. Fork it, fill… |
-| 🥈 | [SmartlyDressedGames/U3-SDK](https://github.com/SmartlyDressedGames/U3-SDK) | 2056 | `C#` | Source code for Unturned, a free open-world zombie survival sandbox game… |
-| 🥉 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 75925 | `JavaScript` | Production-grade engineering skills for AI coding agents. |
-| 4️⃣ | [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | 99760 | — | A collection of DESIGN.md files analysis by popular brand design systems… |
-| 5️⃣ | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | 13508 | `C#` | OfficeCLI is the first and best Office suite purpose-built for AI agents… |
-| 6️⃣ | [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | 6586 | `TypeScript` | This is MCP server for Claude that gives it terminal control, file syste… |
-| 7️⃣ | [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 47181 | `Jupyter Notebook` | A collection of notebooks/recipes showcasing some fun and effective ways… |
-| 8️⃣ | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 19432 | `Go` | Fully autonomous AI Agents system capable of performing complex penetrat… |
-| 9️⃣ | [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | 71855 | `Python` | 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be sh… |
-| 🔟 | [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) | 29105 | — | An evolving how-to guide for securing a Linux server. |
+| 🥇 | [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | 7315 | `TypeScript` | This is MCP server for Claude that gives it terminal control, file syste… |
+| 🥈 | [oven-sh/bun](https://github.com/oven-sh/bun) | 94247 | `Rust` | Incredibly fast JavaScript runtime, bundler, test runner, and package ma… |
+| 🥉 | [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) | 17523 | `C++` | Abseil Common Libraries (C++) |
+| 4️⃣ | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 76835 | `JavaScript` | Production-grade engineering skills for AI coding agents. |
+| 5️⃣ | [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp) | 6082 | `C++` | A YAML parser and emitter in C++ |
+| 6️⃣ | [mattpocock/skills](https://github.com/mattpocock/skills) | 164674 | `Shell` | Skills for Real Engineers. Straight from my .claude directory. |
+| 7️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 251798 | `Shell` | An agentic skills framework & software development methodology that work… |
+| 8️⃣ | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | 109781 | `TypeScript` | TypeScript is a superset of JavaScript that compiles to clean JavaScript… |
+| 9️⃣ | [catchorg/Catch2](https://github.com/catchorg/Catch2) | 20616 | `C++` | A modern, C++-native, test framework for unit-tests, TDD and BDD - using… |
+| 🔟 | [chriskohlhoff/asio](https://github.com/chriskohlhoff/asio) | 6073 | `C++` | Asio C++ Library |
 
 </details>
 
-<sub>🕐 更新于 2026-07-10 09:52 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-07-11 09:42 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
