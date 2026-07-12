@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#SmackDown](https://twitter.com/search?q=%23SmackDown) | — |
-| 🥈 | [Herro](https://twitter.com/search?q=Herro) | — |
-| 🥉 | [$VEX](https://twitter.com/search?q=%24VEX) | — |
-| 4️⃣ | [Caleb Wilson](https://twitter.com/search?q=Caleb%20Wilson) | — |
-| 5️⃣ | [Spain](https://twitter.com/search?q=Spain) | — |
-| 6️⃣ | [Marina](https://twitter.com/search?q=Marina) | — |
-| 7️⃣ | [#loveafterlockup](https://twitter.com/search?q=%23loveafterlockup) | — |
-| 8️⃣ | [Randolph Mantooth](https://twitter.com/search?q=Randolph%20Mantooth) | — |
-| 9️⃣ | [Emergency](https://twitter.com/search?q=Emergency) | — |
-| 🔟 | [Merino](https://twitter.com/search?q=Merino) | — |
+| 🥇 | [Norway](https://twitter.com/search?q=Norway) | — |
+| 🥈 | [Norway](https://twitter.com/search?q=Norway) | — |
+| 🥉 | [Haaland](https://twitter.com/search?q=Haaland) | — |
+| 4️⃣ | [#UFC329](https://twitter.com/search?q=%23UFC329) | — |
+| 5️⃣ | [Bellingham](https://twitter.com/search?q=Bellingham) | — |
+| 6️⃣ | [Gable Steveson](https://twitter.com/search?q=Gable%20Steveson) | — |
+| 7️⃣ | [Sorloth](https://twitter.com/search?q=Sorloth) | — |
+| 8️⃣ | [Whittaker](https://twitter.com/search?q=Whittaker) | — |
+| 9️⃣ | [Switzerland](https://twitter.com/search?q=Switzerland) | — |
+| 🔟 | [Kane](https://twitter.com/search?q=Kane) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-07-11 09:42 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-07-12 09:44 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-07-11 09:42 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-07-12 09:44 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | 7315 | `TypeScript` | This is MCP server for Claude that gives it terminal control, file syste… |
-| 🥈 | [oven-sh/bun](https://github.com/oven-sh/bun) | 94247 | `Rust` | Incredibly fast JavaScript runtime, bundler, test runner, and package ma… |
-| 🥉 | [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) | 17523 | `C++` | Abseil Common Libraries (C++) |
-| 4️⃣ | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 76835 | `JavaScript` | Production-grade engineering skills for AI coding agents. |
-| 5️⃣ | [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp) | 6082 | `C++` | A YAML parser and emitter in C++ |
-| 6️⃣ | [mattpocock/skills](https://github.com/mattpocock/skills) | 164674 | `Shell` | Skills for Real Engineers. Straight from my .claude directory. |
-| 7️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 251798 | `Shell` | An agentic skills framework & software development methodology that work… |
-| 8️⃣ | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | 109781 | `TypeScript` | TypeScript is a superset of JavaScript that compiles to clean JavaScript… |
-| 9️⃣ | [catchorg/Catch2](https://github.com/catchorg/Catch2) | 20616 | `C++` | A modern, C++-native, test framework for unit-tests, TDD and BDD - using… |
-| 🔟 | [chriskohlhoff/asio](https://github.com/chriskohlhoff/asio) | 6073 | `C++` | Asio C++ Library |
+| 🥇 | [catchorg/Catch2](https://github.com/catchorg/Catch2) | 21053 | `C++` | A modern, C++-native, test framework for unit-tests, TDD and BDD - using… |
+| 🥈 | [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) | 17807 | `C++` | Abseil Common Libraries (C++) |
+| 🥉 | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 29025 | `Python` | CLI tool for configuring and monitoring Claude Code |
+| 4️⃣ | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | 7071 | `TypeScript` | A library of Agent Skills designed to work with the Stitch MCP server. E… |
+| 5️⃣ | [hashicorp/terraform](https://github.com/hashicorp/terraform) | 49374 | `Go` | Terraform enables you to safely and predictably create, change, and impr… |
+| 6️⃣ | [zeux/meshoptimizer](https://github.com/zeux/meshoptimizer) | 8142 | `C++` | Mesh optimization library that makes meshes smaller and faster to render |
+| 7️⃣ | [openai/plugins](https://github.com/openai/plugins) | 4419 | `JavaScript` | OpenAI Plugins |
+| 8️⃣ | [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | 7780 | `TypeScript` | This is MCP server for Claude that gives it terminal control, file syste… |
+| 9️⃣ | [chriskohlhoff/asio](https://github.com/chriskohlhoff/asio) | 6139 | `C++` | Asio C++ Library |
+| 🔟 | [oven-sh/bun](https://github.com/oven-sh/bun) | 94572 | `Rust` | Incredibly fast JavaScript runtime, bundler, test runner, and package ma… |
 
 </details>
 
-<sub>🕐 更新于 2026-07-11 09:42 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-07-12 09:44 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
