@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Norway](https://twitter.com/search?q=Norway) | — |
-| 🥈 | [Norway](https://twitter.com/search?q=Norway) | — |
-| 🥉 | [Haaland](https://twitter.com/search?q=Haaland) | — |
-| 4️⃣ | [#UFC329](https://twitter.com/search?q=%23UFC329) | — |
-| 5️⃣ | [Bellingham](https://twitter.com/search?q=Bellingham) | — |
-| 6️⃣ | [Gable Steveson](https://twitter.com/search?q=Gable%20Steveson) | — |
-| 7️⃣ | [Sorloth](https://twitter.com/search?q=Sorloth) | — |
-| 8️⃣ | [Whittaker](https://twitter.com/search?q=Whittaker) | — |
-| 9️⃣ | [Switzerland](https://twitter.com/search?q=Switzerland) | — |
-| 🔟 | [Kane](https://twitter.com/search?q=Kane) | — |
+| 🥇 | [#RHOA](https://twitter.com/search?q=%23RHOA) | — |
+| 🥈 | [Shamea](https://twitter.com/search?q=Shamea) | — |
+| 🥉 | [Lindsey Graham](https://twitter.com/search?q=Lindsey%20Graham) | — |
+| 4️⃣ | [CNBC](https://twitter.com/search?q=CNBC) | — |
+| 5️⃣ | [Porsha](https://twitter.com/search?q=Porsha) | — |
+| 6️⃣ | [#BaddiesUSA](https://twitter.com/search?q=%23BaddiesUSA) | — |
+| 7️⃣ | [#90DayFiance](https://twitter.com/search?q=%2390DayFiance) | — |
+| 8️⃣ | [Tennessee](https://twitter.com/search?q=Tennessee) | — |
+| 9️⃣ | [Kelli](https://twitter.com/search?q=Kelli) | — |
+| 🔟 | [Garth](https://twitter.com/search?q=Garth) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-07-12 09:44 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-07-13 09:47 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-07-12 09:44 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-07-13 09:47 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [catchorg/Catch2](https://github.com/catchorg/Catch2) | 21053 | `C++` | A modern, C++-native, test framework for unit-tests, TDD and BDD - using… |
-| 🥈 | [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) | 17807 | `C++` | Abseil Common Libraries (C++) |
-| 🥉 | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 29025 | `Python` | CLI tool for configuring and monitoring Claude Code |
-| 4️⃣ | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | 7071 | `TypeScript` | A library of Agent Skills designed to work with the Stitch MCP server. E… |
-| 5️⃣ | [hashicorp/terraform](https://github.com/hashicorp/terraform) | 49374 | `Go` | Terraform enables you to safely and predictably create, change, and impr… |
-| 6️⃣ | [zeux/meshoptimizer](https://github.com/zeux/meshoptimizer) | 8142 | `C++` | Mesh optimization library that makes meshes smaller and faster to render |
-| 7️⃣ | [openai/plugins](https://github.com/openai/plugins) | 4419 | `JavaScript` | OpenAI Plugins |
-| 8️⃣ | [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | 7780 | `TypeScript` | This is MCP server for Claude that gives it terminal control, file syste… |
-| 9️⃣ | [chriskohlhoff/asio](https://github.com/chriskohlhoff/asio) | 6139 | `C++` | Asio C++ Library |
-| 🔟 | [oven-sh/bun](https://github.com/oven-sh/bun) | 94572 | `Rust` | Incredibly fast JavaScript runtime, bundler, test runner, and package ma… |
+| 🥇 | [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | 2953 | `Rust` | The Destructive Command Guard (dcg) is for blocking dangerous git and sh… |
+| 🥈 | [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | 8003 | `TypeScript` | This is MCP server for Claude that gives it terminal control, file syste… |
+| 🥉 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 20605 | `Python` | "Vibe-Trading: Your Personal Trading Agent" |
+| 4️⃣ | [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) | 23160 | `Python` | Prefect is a workflow orchestration framework for building resilient dat… |
+| 5️⃣ | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 118595 | `Python` | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
+| 6️⃣ | [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 48441 | `Jupyter Notebook` | A collection of notebooks/recipes showcasing some fun and effective ways… |
+| 7️⃣ | [home-assistant/core](https://github.com/home-assistant/core) | 89084 | `Python` | 🏡 Open source home automation that puts local control and privacy first. |
+| 8️⃣ | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 33818 | `TypeScript` | Project N.O.M.A.D, is a self-contained, offline survival computer packed… |
+| 9️⃣ | [ColeMurray/background-agents](https://github.com/ColeMurray/background-agents) | 2266 | `TypeScript` | An open-source background agents coding system |
+| 🔟 | [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) | 6973 | `C#` | Advanced UX and interoperability extension for Wand (WeMod) app |
 
 </details>
 
-<sub>🕐 更新于 2026-07-12 09:44 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-07-13 09:47 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
