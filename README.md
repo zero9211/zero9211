@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#RHOA](https://twitter.com/search?q=%23RHOA) | — |
-| 🥈 | [Shamea](https://twitter.com/search?q=Shamea) | — |
-| 🥉 | [Lindsey Graham](https://twitter.com/search?q=Lindsey%20Graham) | — |
-| 4️⃣ | [CNBC](https://twitter.com/search?q=CNBC) | — |
-| 5️⃣ | [Porsha](https://twitter.com/search?q=Porsha) | — |
-| 6️⃣ | [#BaddiesUSA](https://twitter.com/search?q=%23BaddiesUSA) | — |
-| 7️⃣ | [#90DayFiance](https://twitter.com/search?q=%2390DayFiance) | — |
-| 8️⃣ | [Tennessee](https://twitter.com/search?q=Tennessee) | — |
-| 9️⃣ | [Kelli](https://twitter.com/search?q=Kelli) | — |
-| 🔟 | [Garth](https://twitter.com/search?q=Garth) | — |
+| 🥇 | [#WWERaw](https://twitter.com/search?q=%23WWERaw) | — |
+| 🥈 | [#HRDerby](https://twitter.com/search?q=%23HRDerby) | — |
+| 🥉 | [Will Ferrell](https://twitter.com/search?q=Will%20Ferrell) | — |
+| 4️⃣ | [Otis](https://twitter.com/search?q=Otis) | — |
+| 5️⃣ | [Jordan Walker](https://twitter.com/search?q=Jordan%20Walker) | — |
+| 6️⃣ | [Willson Contreras](https://twitter.com/search?q=Willson%20Contreras) | — |
+| 7️⃣ | [Ben Rice](https://twitter.com/search?q=Ben%20Rice) | — |
+| 8️⃣ | [Chris Berman](https://twitter.com/search?q=Chris%20Berman) | — |
+| 9️⃣ | [The Vision](https://twitter.com/search?q=The%20Vision) | — |
+| 🔟 | [Maxxine](https://twitter.com/search?q=Maxxine) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-07-13 09:47 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-07-14 09:24 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-07-13 09:47 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-07-14 09:24 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | 2953 | `Rust` | The Destructive Command Guard (dcg) is for blocking dangerous git and sh… |
-| 🥈 | [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | 8003 | `TypeScript` | This is MCP server for Claude that gives it terminal control, file syste… |
-| 🥉 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 20605 | `Python` | "Vibe-Trading: Your Personal Trading Agent" |
-| 4️⃣ | [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) | 23160 | `Python` | Prefect is a workflow orchestration framework for building resilient dat… |
-| 5️⃣ | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 118595 | `Python` | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
-| 6️⃣ | [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 48441 | `Jupyter Notebook` | A collection of notebooks/recipes showcasing some fun and effective ways… |
-| 7️⃣ | [home-assistant/core](https://github.com/home-assistant/core) | 89084 | `Python` | 🏡 Open source home automation that puts local control and privacy first. |
-| 8️⃣ | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 33818 | `TypeScript` | Project N.O.M.A.D, is a self-contained, offline survival computer packed… |
-| 9️⃣ | [ColeMurray/background-agents](https://github.com/ColeMurray/background-agents) | 2266 | `TypeScript` | An open-source background agents coding system |
-| 🔟 | [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) | 6973 | `C#` | Advanced UX and interoperability extension for Wand (WeMod) app |
+| 🥇 | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | 66423 | `TypeScript` | The open-source CapCut alternative |
+| 🥈 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 21771 | `Python` | "Vibe-Trading: Your Personal Trading Agent" |
+| 🥉 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | 41888 | `TypeScript` | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu,… |
+| 4️⃣ | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 119640 | `Python` | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
+| 5️⃣ | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 5162 | `CSS` | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
+| 6️⃣ | [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) | 50883 | `PowerShell` | A simple, lightweight PowerShell script that allows you to remove pre-in… |
+| 7️⃣ | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 84747 | `Python` | AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini … |
+| 8️⃣ | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | 12631 | `HTML` | 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, mus… |
+| 9️⃣ | [github/spec-kit](https://github.com/github/spec-kit) | 120608 | `Python` | 💫 Toolkit to help you get started with Spec-Driven Development |
+| 🔟 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 38585 | `JavaScript` | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, a… |
 
 </details>
 
-<sub>🕐 更新于 2026-07-13 09:47 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-07-14 09:24 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
