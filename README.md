@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#AllStarGame](https://twitter.com/search?q=%23AllStarGame) | — |
-| 🥈 | [Spain](https://twitter.com/search?q=Spain) | — |
-| 🥉 | [Sanchez](https://twitter.com/search?q=Sanchez) | — |
-| 4️⃣ | [#WWENXT](https://twitter.com/search?q=%23WWENXT) | — |
-| 5️⃣ | [Standard Time](https://twitter.com/search?q=Standard%20Time) | — |
-| 6️⃣ | [NDAA](https://twitter.com/search?q=NDAA) | — |
-| 7️⃣ | [Dylan Cease](https://twitter.com/search?q=Dylan%20Cease) | — |
-| 8️⃣ | [Yamal](https://twitter.com/search?q=Yamal) | — |
-| 9️⃣ | [Sonia Citron](https://twitter.com/search?q=Sonia%20Citron) | — |
-| 🔟 | [Mbappe](https://twitter.com/search?q=Mbappe) | — |
+| 🥇 | [Argentina](https://twitter.com/search?q=Argentina) | — |
+| 🥈 | [Argentina](https://twitter.com/search?q=Argentina) | — |
+| 🥉 | [England](https://twitter.com/search?q=England) | — |
+| 4️⃣ | [#AEWDynamite](https://twitter.com/search?q=%23AEWDynamite) | — |
+| 5️⃣ | [Tuchel](https://twitter.com/search?q=Tuchel) | — |
+| 6️⃣ | [ESPYs](https://twitter.com/search?q=ESPYs) | — |
+| 7️⃣ | [Andrade](https://twitter.com/search?q=Andrade) | — |
+| 8️⃣ | [Vance](https://twitter.com/search?q=Vance) | — |
+| 9️⃣ | [Bellingham](https://twitter.com/search?q=Bellingham) | — |
+| 🔟 | [Jim Abbott](https://twitter.com/search?q=Jim%20Abbott) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-07-15 09:21 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-07-16 09:41 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-07-15 09:21 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-07-16 09:41 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 120813 | `Python` | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
-| 🥈 | [mattpocock/skills](https://github.com/mattpocock/skills) | 170271 | `Shell` | Skills for Real Engineers. Straight from my .claude directory. |
-| 🥉 | [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | 4414 | `Rust` | The Destructive Command Guard (dcg) is for blocking dangerous git and sh… |
-| 4️⃣ | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | 69218 | `TypeScript` | The open-source CapCut alternative |
-| 5️⃣ | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 61883 | `Python` | An AI Hedge Fund Team |
-| 6️⃣ | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 6159 | `CSS` | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
-| 7️⃣ | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 22869 | `Python` | "Vibe-Trading: Your Personal Trading Agent" |
-| 8️⃣ | [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) | 51707 | `PowerShell` | A simple, lightweight PowerShell script that allows you to remove pre-in… |
-| 9️⃣ | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | 13534 | `HTML` | 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, mus… |
-| 🔟 | [penpot/penpot](https://github.com/penpot/penpot) | 56165 | `Clojure` | Penpot: The open-source design platform for Product teams that need scal… |
+| 🥇 | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | 71844 | `TypeScript` | The open-source CapCut alternative |
+| 🥈 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 8603 | `CSS` | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
+| 🥉 | [mattpocock/skills](https://github.com/mattpocock/skills) | 172330 | `Shell` | Skills for Real Engineers. Straight from my .claude directory. |
+| 4️⃣ | [moeru-ai/airi](https://github.com/moeru-ai/airi) | 42518 | `TypeScript` | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu,… |
+| 5️⃣ | [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | 4779 | `Rust` | The Destructive Command Guard (dcg) is for blocking dangerous git and sh… |
+| 6️⃣ | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 23728 | `Python` | "Vibe-Trading: Your Personal Trading Agent" |
+| 7️⃣ | [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) | 65503 | `Rust` | A coding agent for low-cost models |
+| 8️⃣ | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 26291 | `Python` | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. |
+| 9️⃣ | [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) | 5922 | `TypeScript` | Become a cracked AI/ML Research Engineer |
+| 🔟 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 121938 | `Python` | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
 
 </details>
 
-<sub>🕐 更新于 2026-07-15 09:21 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-07-16 09:41 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
