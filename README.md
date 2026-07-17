@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Argentina](https://twitter.com/search?q=Argentina) | — |
-| 🥈 | [Argentina](https://twitter.com/search?q=Argentina) | — |
-| 🥉 | [England](https://twitter.com/search?q=England) | — |
-| 4️⃣ | [#AEWDynamite](https://twitter.com/search?q=%23AEWDynamite) | — |
-| 5️⃣ | [Tuchel](https://twitter.com/search?q=Tuchel) | — |
-| 6️⃣ | [ESPYs](https://twitter.com/search?q=ESPYs) | — |
-| 7️⃣ | [Andrade](https://twitter.com/search?q=Andrade) | — |
-| 8️⃣ | [Vance](https://twitter.com/search?q=Vance) | — |
-| 9️⃣ | [Bellingham](https://twitter.com/search?q=Bellingham) | — |
-| 🔟 | [Jim Abbott](https://twitter.com/search?q=Jim%20Abbott) | — |
+| 🥇 | [ABC and NBC](https://twitter.com/search?q=ABC%20and%20NBC) | — |
+| 🥈 | [NBC and ABC](https://twitter.com/search?q=NBC%20and%20ABC) | — |
+| 🥉 | [Ashley](https://twitter.com/search?q=Ashley) | — |
+| 4️⃣ | [Taylor Farms](https://twitter.com/search?q=Taylor%20Farms) | — |
+| 5️⃣ | [#LoserTrumpsElectionLies](https://twitter.com/search?q=%23LoserTrumpsElectionLies) | — |
+| 6️⃣ | [#ZenMux](https://twitter.com/search?q=%23ZenMux) | — |
+| 7️⃣ | [TokenEconomics](https://twitter.com/search?q=TokenEconomics) | — |
+| 8️⃣ | [The Odyssey](https://twitter.com/search?q=The%20Odyssey) | — |
+| 9️⃣ | [#TrumpSpeech](https://twitter.com/search?q=%23TrumpSpeech) | — |
+| 🔟 | [ABC & NBC](https://twitter.com/search?q=ABC%20%26%20NBC) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-07-16 09:41 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-07-17 09:44 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-07-16 09:41 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-07-17 09:44 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | 71844 | `TypeScript` | The open-source CapCut alternative |
-| 🥈 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 8603 | `CSS` | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
-| 🥉 | [mattpocock/skills](https://github.com/mattpocock/skills) | 172330 | `Shell` | Skills for Real Engineers. Straight from my .claude directory. |
-| 4️⃣ | [moeru-ai/airi](https://github.com/moeru-ai/airi) | 42518 | `TypeScript` | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu,… |
-| 5️⃣ | [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | 4779 | `Rust` | The Destructive Command Guard (dcg) is for blocking dangerous git and sh… |
-| 6️⃣ | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 23728 | `Python` | "Vibe-Trading: Your Personal Trading Agent" |
-| 7️⃣ | [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) | 65503 | `Rust` | A coding agent for low-cost models |
-| 8️⃣ | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 26291 | `Python` | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. |
-| 9️⃣ | [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) | 5922 | `TypeScript` | Become a cracked AI/ML Research Engineer |
-| 🔟 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 121938 | `Python` | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
+| 🥇 | [apache/ossie](https://github.com/apache/ossie) | 914 | `Python` | Apache Ossie, industry wide specification effort to standardize how we e… |
+| 🥈 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 10946 | `CSS` | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
+| 🥉 | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | 74046 | `TypeScript` | The open-source CapCut alternative |
+| 4️⃣ | [PostHog/posthog](https://github.com/PostHog/posthog) | 35852 | `Python` | 🦔 PostHog is the leading platform for building self-driving products. Ou… |
+| 5️⃣ | [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) | 65989 | `Rust` | A coding agent for open models like Kimi K3 |
+| 6️⃣ | [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) | 1522 | `Shell` | Bonsai Demo |
+| 7️⃣ | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | 15052 | `HTML` | 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, mus… |
+| 8️⃣ | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 122914 | `Python` | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
+| 9️⃣ | [lobehub/lobehub](https://github.com/lobehub/lobehub) | 80171 | `TypeScript` | 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24… |
+| 🔟 | [YimMenu/YimMenuV2](https://github.com/YimMenu/YimMenuV2) | 1506 | `C++` | Experimental menu for GTA 5: Enhanced |
 
 </details>
 
-<sub>🕐 更新于 2026-07-16 09:41 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-07-17 09:44 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
