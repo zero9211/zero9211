@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [ABC and NBC](https://twitter.com/search?q=ABC%20and%20NBC) | — |
-| 🥈 | [NBC and ABC](https://twitter.com/search?q=NBC%20and%20ABC) | — |
-| 🥉 | [Ashley](https://twitter.com/search?q=Ashley) | — |
-| 4️⃣ | [Taylor Farms](https://twitter.com/search?q=Taylor%20Farms) | — |
-| 5️⃣ | [#LoserTrumpsElectionLies](https://twitter.com/search?q=%23LoserTrumpsElectionLies) | — |
-| 6️⃣ | [#ZenMux](https://twitter.com/search?q=%23ZenMux) | — |
-| 7️⃣ | [TokenEconomics](https://twitter.com/search?q=TokenEconomics) | — |
-| 8️⃣ | [The Odyssey](https://twitter.com/search?q=The%20Odyssey) | — |
-| 9️⃣ | [#TrumpSpeech](https://twitter.com/search?q=%23TrumpSpeech) | — |
-| 🔟 | [ABC & NBC](https://twitter.com/search?q=ABC%20%26%20NBC) | — |
+| 🥇 | [Bryson](https://twitter.com/search?q=Bryson) | — |
+| 🥈 | [#SmackDown](https://twitter.com/search?q=%23SmackDown) | — |
+| 🥉 | [Logan Paul](https://twitter.com/search?q=Logan%20Paul) | — |
+| 4️⃣ | [Rhea](https://twitter.com/search?q=Rhea) | — |
+| 5️⃣ | [Tom Brady](https://twitter.com/search?q=Tom%20Brady) | — |
+| 6️⃣ | [Brandel](https://twitter.com/search?q=Brandel) | — |
+| 7️⃣ | [Olive Garden](https://twitter.com/search?q=Olive%20Garden) | — |
+| 8️⃣ | [Jimothy](https://twitter.com/search?q=Jimothy) | — |
+| 9️⃣ | [Rory](https://twitter.com/search?q=Rory) | — |
+| 🔟 | [Tiana](https://twitter.com/search?q=Tiana) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-07-17 09:44 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-07-18 09:25 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-07-17 09:44 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-07-18 09:25 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [apache/ossie](https://github.com/apache/ossie) | 914 | `Python` | Apache Ossie, industry wide specification effort to standardize how we e… |
-| 🥈 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 10946 | `CSS` | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
-| 🥉 | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | 74046 | `TypeScript` | The open-source CapCut alternative |
-| 4️⃣ | [PostHog/posthog](https://github.com/PostHog/posthog) | 35852 | `Python` | 🦔 PostHog is the leading platform for building self-driving products. Ou… |
-| 5️⃣ | [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) | 65989 | `Rust` | A coding agent for open models like Kimi K3 |
-| 6️⃣ | [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) | 1522 | `Shell` | Bonsai Demo |
-| 7️⃣ | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | 15052 | `HTML` | 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, mus… |
-| 8️⃣ | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 122914 | `Python` | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
-| 9️⃣ | [lobehub/lobehub](https://github.com/lobehub/lobehub) | 80171 | `TypeScript` | 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24… |
-| 🔟 | [YimMenu/YimMenuV2](https://github.com/YimMenu/YimMenuV2) | 1506 | `C++` | Experimental menu for GTA 5: Enhanced |
+| 🥇 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 527382 | `Markdown` | Master programming by recreating your favorite technologies from scratch… |
+| 🥈 | [PostHog/posthog](https://github.com/PostHog/posthog) | 36196 | `Python` | 🦔 PostHog is the leading platform for building self-driving products. Ou… |
+| 🥉 | [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) | 6630 | `TypeScript` | Become a cracked AI/ML Research Engineer |
+| 4️⃣ | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 12042 | `CSS` | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
+| 5️⃣ | [github/copilot-sdk](https://github.com/github/copilot-sdk) | 9798 | `Java` | Multi-platform SDK for integrating GitHub Copilot Agent into apps and se… |
+| 6️⃣ | [anthropics/cwc-workshops](https://github.com/anthropics/cwc-workshops) | 1589 | `TypeScript` | — |
+| 7️⃣ | [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) | 1713 | `Shell` | Bonsai Demo |
+| 8️⃣ | [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 71540 | `C++` | Protocol Buffers - Google's data interchange format |
+| 9️⃣ | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 19759 | `Python` | Local-first code intelligence graph for MCP and CLI. Builds a persistent… |
+| 🔟 | [docusealco/docuseal](https://github.com/docusealco/docuseal) | 17848 | `Ruby` | Open source DocuSign alternative. Create, fill, and sign digital documen… |
 
 </details>
 
-<sub>🕐 更新于 2026-07-17 09:44 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-07-18 09:25 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
