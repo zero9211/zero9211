@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#SNME](https://twitter.com/search?q=%23SNME) | — |
-| 🥈 | [#UFCOKC](https://twitter.com/search?q=%23UFCOKC) | — |
-| 🥉 | [Saka](https://twitter.com/search?q=Saka) | — |
-| 4️⃣ | [Olise](https://twitter.com/search?q=Olise) | — |
-| 5️⃣ | [Mbappe](https://twitter.com/search?q=Mbappe) | — |
-| 6️⃣ | [#FRAENG](https://twitter.com/search?q=%23FRAENG) | — |
-| 7️⃣ | [Fatal Influence](https://twitter.com/search?q=Fatal%20Influence) | — |
-| 8️⃣ | [Tristan Tate](https://twitter.com/search?q=Tristan%20Tate) | — |
-| 9️⃣ | [Delgado](https://twitter.com/search?q=Delgado) | — |
-| 🔟 | [McMillen](https://twitter.com/search?q=McMillen) | — |
+| 🥇 | [Spain](https://twitter.com/search?q=Spain) | — |
+| 🥈 | [Spain](https://twitter.com/search?q=Spain) | — |
+| 🥉 | [Argentina](https://twitter.com/search?q=Argentina) | — |
+| 4️⃣ | [Messi](https://twitter.com/search?q=Messi) | — |
+| 5️⃣ | [Rodri](https://twitter.com/search?q=Rodri) | — |
+| 6️⃣ | [Ferran Torres](https://twitter.com/search?q=Ferran%20Torres) | — |
+| 7️⃣ | [Enzo](https://twitter.com/search?q=Enzo) | — |
+| 8️⃣ | [Paredes](https://twitter.com/search?q=Paredes) | — |
+| 9️⃣ | [Lamine](https://twitter.com/search?q=Lamine) | — |
+| 🔟 | [Shakira](https://twitter.com/search?q=Shakira) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-07-19 09:42 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-07-20 09:58 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-07-19 09:42 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-07-20 09:58 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | 12968 | `Python` | A feed-forward 3D foundation model for reconstructing scenes from stream… |
-| 🥈 | [apache/ossie](https://github.com/apache/ossie) | 1281 | `Python` | Apache Ossie, industry wide specification effort to standardize how we e… |
-| 🥉 | [PostHog/posthog](https://github.com/PostHog/posthog) | 36602 | `Python` | 🦔 PostHog is the leading platform for building self-driving products. Ou… |
-| 4️⃣ | [ibelick/ui-skills](https://github.com/ibelick/ui-skills) | 5038 | `TypeScript` | Skills for Design Engineers |
-| 5️⃣ | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 39114 | `Python` | Learn it. Build it. Ship it for others. |
-| 6️⃣ | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 20184 | `Python` | Local-first code intelligence graph for MCP and CLI. Builds a persistent… |
-| 7️⃣ | [elder-plinius/G0DM0D3](https://github.com/elder-plinius/G0DM0D3) | 9515 | `TypeScript` | LIBERATED AI CHAT |
-| 8️⃣ | [lyogavin/airllm](https://github.com/lyogavin/airllm) | 23338 | `Jupyter Notebook` | AirLLM 70B inference with single 4GB GPU |
-| 9️⃣ | [KnockOutEZ/wigolo](https://github.com/KnockOutEZ/wigolo) | 1250 | `TypeScript` | The go-to web for your AI coding agent — local-first search, fetch, craw… |
-| 🔟 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 528289 | `Markdown` | Master programming by recreating your favorite technologies from scratch… |
+| 🥇 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 21312 | `Python` | Local-first code intelligence graph for MCP and CLI. Builds a persistent… |
+| 🥈 | [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) | 18392 | `Python` | A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-t… |
+| 🥉 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 39707 | `Python` | Learn it. Build it. Ship it for others. |
+| 4️⃣ | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 43393 | `TypeScript` | The open-source AI voice studio. Clone, dictate, create. |
+| 5️⃣ | [KnockOutEZ/wigolo](https://github.com/KnockOutEZ/wigolo) | 1870 | `TypeScript` | The go-to web for your AI coding agent — local-first search, fetch, craw… |
+| 6️⃣ | [andrewrabert/jellium-desktop](https://github.com/andrewrabert/jellium-desktop) | 1297 | `Rust` | An unofficial desktop client for Jellyfin |
+| 7️⃣ | [github/copilot-sdk](https://github.com/github/copilot-sdk) | 9967 | `Java` | Multi-platform SDK for integrating GitHub Copilot Agent into apps and se… |
+| 8️⃣ | [PostHog/posthog](https://github.com/PostHog/posthog) | 36948 | `Python` | 🦔 PostHog is the leading platform for building self-driving products. Ou… |
+| 9️⃣ | [microsoft/terminal](https://github.com/microsoft/terminal) | 104189 | `C++` | The new Windows Terminal and the original Windows console host, all in t… |
+| 🔟 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | 36712 | `Python` | AI Agent Assistant & development framework that integrates lots of IM pl… |
 
 </details>
 
-<sub>🕐 更新于 2026-07-19 09:42 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-07-20 09:58 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
