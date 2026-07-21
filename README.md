@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Spain](https://twitter.com/search?q=Spain) | — |
-| 🥈 | [Spain](https://twitter.com/search?q=Spain) | — |
-| 🥉 | [Argentina](https://twitter.com/search?q=Argentina) | — |
-| 4️⃣ | [Messi](https://twitter.com/search?q=Messi) | — |
-| 5️⃣ | [Rodri](https://twitter.com/search?q=Rodri) | — |
-| 6️⃣ | [Ferran Torres](https://twitter.com/search?q=Ferran%20Torres) | — |
-| 7️⃣ | [Enzo](https://twitter.com/search?q=Enzo) | — |
-| 8️⃣ | [Paredes](https://twitter.com/search?q=Paredes) | — |
-| 9️⃣ | [Lamine](https://twitter.com/search?q=Lamine) | — |
-| 🔟 | [Shakira](https://twitter.com/search?q=Shakira) | — |
+| 🥇 | [#WWERaw](https://twitter.com/search?q=%23WWERaw) | — |
+| 🥈 | [Ryan Clark](https://twitter.com/search?q=Ryan%20Clark) | — |
+| 🥉 | [ESPN](https://twitter.com/search?q=ESPN) | — |
+| 4️⃣ | [Trea Turner](https://twitter.com/search?q=Trea%20Turner) | — |
+| 5️⃣ | [Joe Ryan](https://twitter.com/search?q=Joe%20Ryan) | — |
+| 6️⃣ | [CALEB DURBIN](https://twitter.com/search?q=CALEB%20DURBIN) | — |
+| 7️⃣ | [#raindelayquestions](https://twitter.com/search?q=%23raindelayquestions) | — |
+| 8️⃣ | [Freddy Peralta](https://twitter.com/search?q=Freddy%20Peralta) | — |
+| 9️⃣ | [Taillon](https://twitter.com/search?q=Taillon) | — |
+| 🔟 | [Weathers](https://twitter.com/search?q=Weathers) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-07-20 09:58 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-07-21 09:42 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-07-20 09:58 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-07-21 09:42 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 21312 | `Python` | Local-first code intelligence graph for MCP and CLI. Builds a persistent… |
-| 🥈 | [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) | 18392 | `Python` | A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-t… |
-| 🥉 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 39707 | `Python` | Learn it. Build it. Ship it for others. |
-| 4️⃣ | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 43393 | `TypeScript` | The open-source AI voice studio. Clone, dictate, create. |
-| 5️⃣ | [KnockOutEZ/wigolo](https://github.com/KnockOutEZ/wigolo) | 1870 | `TypeScript` | The go-to web for your AI coding agent — local-first search, fetch, craw… |
-| 6️⃣ | [andrewrabert/jellium-desktop](https://github.com/andrewrabert/jellium-desktop) | 1297 | `Rust` | An unofficial desktop client for Jellyfin |
-| 7️⃣ | [github/copilot-sdk](https://github.com/github/copilot-sdk) | 9967 | `Java` | Multi-platform SDK for integrating GitHub Copilot Agent into apps and se… |
-| 8️⃣ | [PostHog/posthog](https://github.com/PostHog/posthog) | 36948 | `Python` | 🦔 PostHog is the leading platform for building self-driving products. Ou… |
-| 9️⃣ | [microsoft/terminal](https://github.com/microsoft/terminal) | 104189 | `C++` | The new Windows Terminal and the original Windows console host, all in t… |
-| 🔟 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | 36712 | `Python` | AI Agent Assistant & development framework that integrates lots of IM pl… |
+| 🥇 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 23264 | `Python` | Local-first code intelligence graph for MCP and CLI. Builds a persistent… |
+| 🥈 | [1jehuang/jcode](https://github.com/1jehuang/jcode) | 9661 | `Rust` | The most intelligent agent harness for code |
+| 🥉 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 21916 | `TypeScript` | Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50… |
+| 4️⃣ | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 40572 | `Python` | Learn it. Build it. Ship it for others. |
+| 5️⃣ | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 134744 | `Shell` | A complete AI agency at your fingertips - From frontend wizards to Reddi… |
+| 6️⃣ | [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) | 18750 | `Python` | A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-t… |
+| 7️⃣ | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 44204 | `TypeScript` | The open-source AI voice studio. Clone, dictate, create. |
+| 8️⃣ | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 28807 | `Python` | Cognee is the open-source AI memory platform for agents. Give your AI ag… |
+| 9️⃣ | [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | 14261 | `Python` | A feed-forward 3D foundation model for reconstructing scenes from stream… |
+| 🔟 | [every-app/open-seo](https://github.com/every-app/open-seo) | 5882 | `TypeScript` | Open source alternative to Semrush and Ahrefs |
 
 </details>
 
-<sub>🕐 更新于 2026-07-20 09:58 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-07-21 09:42 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
