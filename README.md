@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#WWERaw](https://twitter.com/search?q=%23WWERaw) | — |
-| 🥈 | [Ryan Clark](https://twitter.com/search?q=Ryan%20Clark) | — |
-| 🥉 | [ESPN](https://twitter.com/search?q=ESPN) | — |
-| 4️⃣ | [Trea Turner](https://twitter.com/search?q=Trea%20Turner) | — |
-| 5️⃣ | [Joe Ryan](https://twitter.com/search?q=Joe%20Ryan) | — |
-| 6️⃣ | [CALEB DURBIN](https://twitter.com/search?q=CALEB%20DURBIN) | — |
-| 7️⃣ | [#raindelayquestions](https://twitter.com/search?q=%23raindelayquestions) | — |
-| 8️⃣ | [Freddy Peralta](https://twitter.com/search?q=Freddy%20Peralta) | — |
-| 9️⃣ | [Taillon](https://twitter.com/search?q=Taillon) | — |
-| 🔟 | [Weathers](https://twitter.com/search?q=Weathers) | — |
+| 🥇 | [#WWENXT](https://twitter.com/search?q=%23WWENXT) | — |
+| 🥈 | [Framber Valdez](https://twitter.com/search?q=Framber%20Valdez) | — |
+| 🥉 | [Hegseth](https://twitter.com/search?q=Hegseth) | — |
+| 4️⃣ | [Publix](https://twitter.com/search?q=Publix) | — |
+| 5️⃣ | [ESPN](https://twitter.com/search?q=ESPN) | — |
+| 6️⃣ | [Smithfield](https://twitter.com/search?q=Smithfield) | — |
+| 7️⃣ | [Cornyn](https://twitter.com/search?q=Cornyn) | — |
+| 8️⃣ | [Smithsonian](https://twitter.com/search?q=Smithsonian) | — |
+| 9️⃣ | [Kendal](https://twitter.com/search?q=Kendal) | — |
+| 🔟 | [Jason Robertson](https://twitter.com/search?q=Jason%20Robertson) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-07-21 09:42 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-07-22 09:30 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-07-21 09:42 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-07-22 09:30 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 23264 | `Python` | Local-first code intelligence graph for MCP and CLI. Builds a persistent… |
-| 🥈 | [1jehuang/jcode](https://github.com/1jehuang/jcode) | 9661 | `Rust` | The most intelligent agent harness for code |
-| 🥉 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 21916 | `TypeScript` | Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50… |
-| 4️⃣ | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 40572 | `Python` | Learn it. Build it. Ship it for others. |
-| 5️⃣ | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 134744 | `Shell` | A complete AI agency at your fingertips - From frontend wizards to Reddi… |
-| 6️⃣ | [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) | 18750 | `Python` | A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-t… |
-| 7️⃣ | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 44204 | `TypeScript` | The open-source AI voice studio. Clone, dictate, create. |
-| 8️⃣ | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 28807 | `Python` | Cognee is the open-source AI memory platform for agents. Give your AI ag… |
-| 9️⃣ | [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | 14261 | `Python` | A feed-forward 3D foundation model for reconstructing scenes from stream… |
-| 🔟 | [every-app/open-seo](https://github.com/every-app/open-seo) | 5882 | `TypeScript` | Open source alternative to Semrush and Ahrefs |
+| 🥇 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 65524 | `TypeScript` | Real-time global intelligence dashboard. AI-powered news aggregation, ge… |
+| 🥈 | [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | 14609 | `Python` | 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 |
+| 🥉 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 24575 | `Python` | Local-first code intelligence graph for MCP and CLI. Builds a persistent… |
+| 4️⃣ | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 6888 | — | A skill for your coding agent to stop it from burying the answer. ADHD-f… |
+| 5️⃣ | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | 9143 | `JavaScript` | A collection of agent skills for CAD, robotics and hardware design |
+| 6️⃣ | [1jehuang/jcode](https://github.com/1jehuang/jcode) | 10329 | `Rust` | The most intelligent agent harness for code |
+| 7️⃣ | [oblien/openship](https://github.com/oblien/openship) | 6239 | `TypeScript` | Self-hosted deployment platform |
+| 8️⃣ | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | 37473 | `Python` | AI Agent Assistant & development framework that integrates lots of IM pl… |
+| 9️⃣ | [every-app/open-seo](https://github.com/every-app/open-seo) | 6607 | `TypeScript` | Open source alternative to Semrush and Ahrefs |
+| 🔟 | [tradesdontlie/tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp) | 4846 | `JavaScript` | AI-assisted TradingView chart analysis — connect Claude Code to your Tra… |
 
 </details>
 
-<sub>🕐 更新于 2026-07-21 09:42 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-07-22 09:30 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
