@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#WWENXT](https://twitter.com/search?q=%23WWENXT) | — |
-| 🥈 | [Framber Valdez](https://twitter.com/search?q=Framber%20Valdez) | — |
-| 🥉 | [Hegseth](https://twitter.com/search?q=Hegseth) | — |
-| 4️⃣ | [Publix](https://twitter.com/search?q=Publix) | — |
-| 5️⃣ | [ESPN](https://twitter.com/search?q=ESPN) | — |
-| 6️⃣ | [Smithfield](https://twitter.com/search?q=Smithfield) | — |
-| 7️⃣ | [Cornyn](https://twitter.com/search?q=Cornyn) | — |
-| 8️⃣ | [Smithsonian](https://twitter.com/search?q=Smithsonian) | — |
-| 9️⃣ | [Kendal](https://twitter.com/search?q=Kendal) | — |
-| 🔟 | [Jason Robertson](https://twitter.com/search?q=Jason%20Robertson) | — |
+| 🥇 | [#AEWDynamite](https://twitter.com/search?q=%23AEWDynamite) | — |
+| 🥈 | [Don Kelly](https://twitter.com/search?q=Don%20Kelly) | — |
+| 🥉 | [Eisert](https://twitter.com/search?q=Eisert) | — |
+| 4️⃣ | [Sydney Taylor](https://twitter.com/search?q=Sydney%20Taylor) | — |
+| 5️⃣ | [Jay White](https://twitter.com/search?q=Jay%20White) | — |
+| 6️⃣ | [Thekla](https://twitter.com/search?q=Thekla) | — |
+| 7️⃣ | [Nola](https://twitter.com/search?q=Nola) | — |
+| 8️⃣ | [Paul Blackburn](https://twitter.com/search?q=Paul%20Blackburn) | — |
+| 9️⃣ | [NDAA](https://twitter.com/search?q=NDAA) | — |
+| 🔟 | [Will Warren](https://twitter.com/search?q=Will%20Warren) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-07-22 09:30 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-07-23 09:49 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-07-22 09:30 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-07-23 09:49 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 65524 | `TypeScript` | Real-time global intelligence dashboard. AI-powered news aggregation, ge… |
-| 🥈 | [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | 14609 | `Python` | 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 |
-| 🥉 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 24575 | `Python` | Local-first code intelligence graph for MCP and CLI. Builds a persistent… |
-| 4️⃣ | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 6888 | — | A skill for your coding agent to stop it from burying the answer. ADHD-f… |
-| 5️⃣ | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | 9143 | `JavaScript` | A collection of agent skills for CAD, robotics and hardware design |
-| 6️⃣ | [1jehuang/jcode](https://github.com/1jehuang/jcode) | 10329 | `Rust` | The most intelligent agent harness for code |
-| 7️⃣ | [oblien/openship](https://github.com/oblien/openship) | 6239 | `TypeScript` | Self-hosted deployment platform |
-| 8️⃣ | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | 37473 | `Python` | AI Agent Assistant & development framework that integrates lots of IM pl… |
-| 9️⃣ | [every-app/open-seo](https://github.com/every-app/open-seo) | 6607 | `TypeScript` | Open source alternative to Semrush and Ahrefs |
-| 🔟 | [tradesdontlie/tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp) | 4846 | `JavaScript` | AI-assisted TradingView chart analysis — connect Claude Code to your Tra… |
+| 🥇 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 69074 | `TypeScript` | Real-time global intelligence dashboard. AI-powered news aggregation, ge… |
+| 🥈 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 83861 | `Rust` | π RuView turns commodity WiFi signals into real-time spatial intelligenc… |
+| 🥉 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 8330 | `Python` | A skill for your coding agent to stop it from burying the answer. ADHD-f… |
+| 4️⃣ | [schollz/croc](https://github.com/schollz/croc) | 37628 | `Go` | Easily and securely send things from one computer to another 🐊 📦 |
+| 5️⃣ | [likec4/likec4](https://github.com/likec4/likec4) | 4295 | `TypeScript` | Visualize, collaborate, and evolve the software architecture with always… |
+| 6️⃣ | [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | 70629 | `Assembly` | Original Apollo 11 Guidance Computer (AGC) source code for the command a… |
+| 7️⃣ | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 45798 | `TypeScript` | The open-source AI voice studio. Clone, dictate, create. |
+| 8️⃣ | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 25371 | `TypeScript` | Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50… |
+| 9️⃣ | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 32619 | `Python` | Kronos: A Foundation Model for the Language of Financial Markets |
+| 🔟 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 68803 | `Python` | A curated list of awesome Claude Skills, resources, and tools for custom… |
 
 </details>
 
-<sub>🕐 更新于 2026-07-22 09:30 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-07-23 09:49 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
