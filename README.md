@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Korra](https://twitter.com/search?q=Korra) | — |
-| 🥈 | [Allahu Akbar](https://twitter.com/search?q=Allahu%20Akbar) | — |
-| 🥉 | [Bye Rome](https://twitter.com/search?q=Bye%20Rome) | — |
-| 4️⃣ | [Johnny Depp](https://twitter.com/search?q=Johnny%20Depp) | — |
-| 5️⃣ | [Raul Morales](https://twitter.com/search?q=Raul%20Morales) | — |
-| 6️⃣ | [The Economist](https://twitter.com/search?q=The%20Economist) | — |
-| 7️⃣ | [Diego Pavia](https://twitter.com/search?q=Diego%20Pavia) | — |
-| 8️⃣ | [Seven Havens](https://twitter.com/search?q=Seven%20Havens) | — |
-| 9️⃣ | [Aang](https://twitter.com/search?q=Aang) | — |
-| 🔟 | [Neto](https://twitter.com/search?q=Neto) | — |
+| 🥇 | [#SmackDown](https://twitter.com/search?q=%23SmackDown) | — |
+| 🥈 | [LeBron](https://twitter.com/search?q=LeBron) | — |
+| 🥉 | [Starship](https://twitter.com/search?q=Starship) | — |
+| 4️⃣ | [Philly](https://twitter.com/search?q=Philly) | — |
+| 5️⃣ | [Bridget Carleton](https://twitter.com/search?q=Bridget%20Carleton) | — |
+| 6️⃣ | [GG Banks](https://twitter.com/search?q=GG%20Banks) | — |
+| 7️⃣ | [Nikki Bella](https://twitter.com/search?q=Nikki%20Bella) | — |
+| 8️⃣ | [Team Washington](https://twitter.com/search?q=Team%20Washington) | — |
+| 9️⃣ | [#loveafterlockup](https://twitter.com/search?q=%23loveafterlockup) | — |
+| 🔟 | [Sixers](https://twitter.com/search?q=Sixers) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-07-24 09:45 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-07-25 09:45 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-07-24 09:45 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-07-25 09:45 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [block/buzz](https://github.com/block/buzz) | 7014 | `Rust` | A hive mind communication platform |
-| 🥈 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 71684 | `TypeScript` | Real-time global intelligence dashboard. AI-powered news aggregation, ge… |
-| 🥉 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 33082 | `Python` | Kronos: A Foundation Model for the Language of Financial Markets |
-| 4️⃣ | [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) | 8942 | `Rust` | Empowering everyone to host fast and efficient Minecraft servers. |
-| 5️⃣ | [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | 1693 | `JavaScript` | The best browser for both you and your AI agents work in parallel. |
-| 6️⃣ | [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | 71121 | `Assembly` | Original Apollo 11 Guidance Computer (AGC) source code for the command a… |
-| 7️⃣ | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 27262 | `TypeScript` | Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90… |
-| 8️⃣ | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 69456 | `Python` | A curated list of awesome Claude Skills, resources, and tools for custom… |
-| 9️⃣ | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | 10014 | `JavaScript` | A collection of agent skills for CAD, robotics and hardware design |
-| 🔟 | [agegr/pi-web](https://github.com/agegr/pi-web) | 2378 | `TypeScript` | Web UI for the pi coding agent |
+| 🥇 | [block/buzz](https://github.com/block/buzz) | 10045 | `Rust` | A hive mind communication platform |
+| 🥈 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 73308 | `TypeScript` | Real-time global intelligence dashboard. AI-powered news aggregation, ge… |
+| 🥉 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 70078 | `Python` | A curated list of awesome Claude Skills, resources, and tools for custom… |
+| 4️⃣ | [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) | 9348 | `Rust` | Empowering everyone to host fast and efficient Minecraft servers. |
+| 5️⃣ | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 33499 | `Python` | Kronos: A Foundation Model for the Language of Financial Markets |
+| 6️⃣ | [Automattic/harper](https://github.com/Automattic/harper) | 13055 | `Rust` | Offline, privacy-first grammar checker. Fast, open-source, Rust-powered |
+| 7️⃣ | [likec4/likec4](https://github.com/likec4/likec4) | 5032 | `TypeScript` | Visualize, collaborate, and evolve the software architecture with always… |
+| 8️⃣ | [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | 2603 | `JavaScript` | The fastest browser for AI agents to run web automation, built for shari… |
+| 9️⃣ | [yorukot/superfile](https://github.com/yorukot/superfile) | 19599 | `Go` | Pretty fancy and modern terminal file manager |
+| 🔟 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 85959 | `Rust` | π RuView turns commodity WiFi signals into real-time spatial intelligenc… |
 
 </details>
 
-<sub>🕐 更新于 2026-07-24 09:45 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-07-25 09:45 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
