@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#SmackDown](https://twitter.com/search?q=%23SmackDown) | — |
-| 🥈 | [LeBron](https://twitter.com/search?q=LeBron) | — |
-| 🥉 | [Starship](https://twitter.com/search?q=Starship) | — |
-| 4️⃣ | [Philly](https://twitter.com/search?q=Philly) | — |
-| 5️⃣ | [Bridget Carleton](https://twitter.com/search?q=Bridget%20Carleton) | — |
-| 6️⃣ | [GG Banks](https://twitter.com/search?q=GG%20Banks) | — |
-| 7️⃣ | [Nikki Bella](https://twitter.com/search?q=Nikki%20Bella) | — |
-| 8️⃣ | [Team Washington](https://twitter.com/search?q=Team%20Washington) | — |
-| 9️⃣ | [#loveafterlockup](https://twitter.com/search?q=%23loveafterlockup) | — |
-| 🔟 | [Sixers](https://twitter.com/search?q=Sixers) | — |
+| 🥇 | [#AEWCollision](https://twitter.com/search?q=%23AEWCollision) | — |
+| 🥈 | [Skenes](https://twitter.com/search?q=Skenes) | — |
+| 🥉 | [Anthony Joshua](https://twitter.com/search?q=Anthony%20Joshua) | — |
+| 4️⃣ | [#Svengoolie](https://twitter.com/search?q=%23Svengoolie) | — |
+| 5️⃣ | [Team Coop](https://twitter.com/search?q=Team%20Coop) | — |
+| 6️⃣ | [#LaVeladaDelAÃ±oVI](https://twitter.com/search?q=%23LaVeladaDelA%C3%B1oVI) | — |
+| 7️⃣ | [Hall H](https://twitter.com/search?q=Hall%20H) | — |
+| 8️⃣ | [#MostRequestedLive](https://twitter.com/search?q=%23MostRequestedLive) | — |
+| 9️⃣ | [#SDCC](https://twitter.com/search?q=%23SDCC) | — |
+| 🔟 | [Ghost Rider](https://twitter.com/search?q=Ghost%20Rider) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-07-25 09:45 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-07-26 09:47 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-07-25 09:45 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-07-26 09:47 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [block/buzz](https://github.com/block/buzz) | 10045 | `Rust` | A hive mind communication platform |
-| 🥈 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 73308 | `TypeScript` | Real-time global intelligence dashboard. AI-powered news aggregation, ge… |
-| 🥉 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 70078 | `Python` | A curated list of awesome Claude Skills, resources, and tools for custom… |
-| 4️⃣ | [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) | 9348 | `Rust` | Empowering everyone to host fast and efficient Minecraft servers. |
-| 5️⃣ | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 33499 | `Python` | Kronos: A Foundation Model for the Language of Financial Markets |
-| 6️⃣ | [Automattic/harper](https://github.com/Automattic/harper) | 13055 | `Rust` | Offline, privacy-first grammar checker. Fast, open-source, Rust-powered |
-| 7️⃣ | [likec4/likec4](https://github.com/likec4/likec4) | 5032 | `TypeScript` | Visualize, collaborate, and evolve the software architecture with always… |
-| 8️⃣ | [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | 2603 | `JavaScript` | The fastest browser for AI agents to run web automation, built for shari… |
-| 9️⃣ | [yorukot/superfile](https://github.com/yorukot/superfile) | 19599 | `Go` | Pretty fancy and modern terminal file manager |
-| 🔟 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 85959 | `Rust` | π RuView turns commodity WiFi signals into real-time spatial intelligenc… |
+| 🥇 | [block/buzz](https://github.com/block/buzz) | 11976 | `Rust` | A hive mind communication platform |
+| 🥈 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 12989 | `Go` | Open-source & free — Battle-tested at Alibaba's scale. Hybrid architectu… |
+| 🥉 | [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | 3616 | `JavaScript` | The fastest browser for AI agents to run web automation, built for shari… |
+| 4️⃣ | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 70597 | `Python` | A curated list of awesome Claude Skills, resources, and tools for custom… |
+| 5️⃣ | [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 49900 | `Jupyter Notebook` | A collection of notebooks/recipes showcasing some fun and effective ways… |
+| 6️⃣ | [Automattic/harper](https://github.com/Automattic/harper) | 13428 | `Rust` | Offline, privacy-first grammar checker. Fast, open-source, Rust-powered |
+| 7️⃣ | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 33807 | `Python` | Kronos: A Foundation Model for the Language of Financial Markets |
+| 8️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 261115 | `Shell` | An agentic skills framework & software development methodology that work… |
+| 9️⃣ | [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) | 9720 | `Rust` | Empowering everyone to host fast and efficient Minecraft servers. |
+| 🔟 | [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | 28741 | `Swift` | bluetooth mesh chat, IRC vibes |
 
 </details>
 
-<sub>🕐 更新于 2026-07-25 09:45 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-07-26 09:47 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
