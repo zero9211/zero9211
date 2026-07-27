@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#AEWCollision](https://twitter.com/search?q=%23AEWCollision) | — |
-| 🥈 | [Skenes](https://twitter.com/search?q=Skenes) | — |
-| 🥉 | [Anthony Joshua](https://twitter.com/search?q=Anthony%20Joshua) | — |
-| 4️⃣ | [#Svengoolie](https://twitter.com/search?q=%23Svengoolie) | — |
-| 5️⃣ | [Team Coop](https://twitter.com/search?q=Team%20Coop) | — |
-| 6️⃣ | [#LaVeladaDelAÃ±oVI](https://twitter.com/search?q=%23LaVeladaDelA%C3%B1oVI) | — |
-| 7️⃣ | [Hall H](https://twitter.com/search?q=Hall%20H) | — |
-| 8️⃣ | [#MostRequestedLive](https://twitter.com/search?q=%23MostRequestedLive) | — |
-| 9️⃣ | [#SDCC](https://twitter.com/search?q=%23SDCC) | — |
-| 🔟 | [Ghost Rider](https://twitter.com/search?q=Ghost%20Rider) | — |
+| 🥇 | [#AEWRedemption](https://twitter.com/search?q=%23AEWRedemption) | — |
+| 🥈 | [#AngelaNikolau](https://twitter.com/search?q=%23AngelaNikolau) | — |
+| 🥉 | [#RHOA](https://twitter.com/search?q=%23RHOA) | — |
+| 4️⃣ | [Will Warren](https://twitter.com/search?q=Will%20Warren) | — |
+| 5️⃣ | [Bandido](https://twitter.com/search?q=Bandido) | — |
+| 6️⃣ | [Ospreay](https://twitter.com/search?q=Ospreay) | — |
+| 7️⃣ | [#BaddiesGoneWild](https://twitter.com/search?q=%23BaddiesGoneWild) | — |
+| 8️⃣ | [#JohnClearMyList](https://twitter.com/search?q=%23JohnClearMyList) | — |
+| 9️⃣ | [Heim](https://twitter.com/search?q=Heim) | — |
+| 🔟 | [Jay White](https://twitter.com/search?q=Jay%20White) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-07-26 09:47 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-07-27 09:55 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-07-26 09:47 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-07-27 09:55 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [block/buzz](https://github.com/block/buzz) | 11976 | `Rust` | A hive mind communication platform |
-| 🥈 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 12989 | `Go` | Open-source & free — Battle-tested at Alibaba's scale. Hybrid architectu… |
-| 🥉 | [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | 3616 | `JavaScript` | The fastest browser for AI agents to run web automation, built for shari… |
-| 4️⃣ | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 70597 | `Python` | A curated list of awesome Claude Skills, resources, and tools for custom… |
-| 5️⃣ | [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 49900 | `Jupyter Notebook` | A collection of notebooks/recipes showcasing some fun and effective ways… |
-| 6️⃣ | [Automattic/harper](https://github.com/Automattic/harper) | 13428 | `Rust` | Offline, privacy-first grammar checker. Fast, open-source, Rust-powered |
-| 7️⃣ | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 33807 | `Python` | Kronos: A Foundation Model for the Language of Financial Markets |
-| 8️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 261115 | `Shell` | An agentic skills framework & software development methodology that work… |
-| 9️⃣ | [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) | 9720 | `Rust` | Empowering everyone to host fast and efficient Minecraft servers. |
-| 🔟 | [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | 28741 | `Swift` | bluetooth mesh chat, IRC vibes |
+| 🥇 | [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | 30433 | `Swift` | bluetooth mesh chat, IRC vibes |
+| 🥈 | [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | 4607 | `JavaScript` | The fastest browser for AI agents to run web automation, built for shari… |
+| 🥉 | [block/buzz](https://github.com/block/buzz) | 13345 | `Rust` | A hive mind communication platform |
+| 4️⃣ | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 15068 | `TypeScript` | — |
+| 5️⃣ | [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) | 5698 | `TypeScript` | The open-source alternative to Webflow, Framer and WordPress. Agentic se… |
+| 6️⃣ | [yorukot/superfile](https://github.com/yorukot/superfile) | 20264 | `Go` | Pretty fancy and modern terminal file manager |
+| 7️⃣ | [nodejs/node](https://github.com/nodejs/node) | 118478 | `JavaScript` | Node.js JavaScript runtime ✨🐢🚀✨ |
+| 8️⃣ | [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) | 27142 | `Java` | 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supp… |
+| 9️⃣ | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 50712 | `JavaScript` | The design language that makes your AI harness better at design. |
+| 🔟 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 34186 | `Python` | Kronos: A Foundation Model for the Language of Financial Markets |
 
 </details>
 
-<sub>🕐 更新于 2026-07-26 09:47 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-07-27 09:55 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
