@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#AEWRedemption](https://twitter.com/search?q=%23AEWRedemption) | — |
-| 🥈 | [#AngelaNikolau](https://twitter.com/search?q=%23AngelaNikolau) | — |
-| 🥉 | [#RHOA](https://twitter.com/search?q=%23RHOA) | — |
-| 4️⃣ | [Will Warren](https://twitter.com/search?q=Will%20Warren) | — |
-| 5️⃣ | [Bandido](https://twitter.com/search?q=Bandido) | — |
-| 6️⃣ | [Ospreay](https://twitter.com/search?q=Ospreay) | — |
-| 7️⃣ | [#BaddiesGoneWild](https://twitter.com/search?q=%23BaddiesGoneWild) | — |
-| 8️⃣ | [#JohnClearMyList](https://twitter.com/search?q=%23JohnClearMyList) | — |
-| 9️⃣ | [Heim](https://twitter.com/search?q=Heim) | — |
-| 🔟 | [Jay White](https://twitter.com/search?q=Jay%20White) | — |
+| 🥇 | [#WWERaw](https://twitter.com/search?q=%23WWERaw) | — |
+| 🥈 | [Fauci](https://twitter.com/search?q=Fauci) | — |
+| 🥉 | [T-Mobile](https://twitter.com/search?q=T-Mobile) | — |
+| 4️⃣ | [Vita Vea](https://twitter.com/search?q=Vita%20Vea) | — |
+| 5️⃣ | [Wheeler](https://twitter.com/search?q=Wheeler) | — |
+| 6️⃣ | [X Money](https://twitter.com/search?q=X%20Money) | — |
+| 7️⃣ | [Tractor Supply](https://twitter.com/search?q=Tractor%20Supply) | — |
+| 8️⃣ | [Bucs](https://twitter.com/search?q=Bucs) | — |
+| 9️⃣ | [Oba Femi](https://twitter.com/search?q=Oba%20Femi) | — |
+| 🔟 | [Brock](https://twitter.com/search?q=Brock) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-07-27 09:55 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-07-28 09:29 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-07-27 09:55 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-07-28 09:29 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | 30433 | `Swift` | bluetooth mesh chat, IRC vibes |
-| 🥈 | [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | 4607 | `JavaScript` | The fastest browser for AI agents to run web automation, built for shari… |
-| 🥉 | [block/buzz](https://github.com/block/buzz) | 13345 | `Rust` | A hive mind communication platform |
-| 4️⃣ | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 15068 | `TypeScript` | — |
-| 5️⃣ | [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) | 5698 | `TypeScript` | The open-source alternative to Webflow, Framer and WordPress. Agentic se… |
-| 6️⃣ | [yorukot/superfile](https://github.com/yorukot/superfile) | 20264 | `Go` | Pretty fancy and modern terminal file manager |
-| 7️⃣ | [nodejs/node](https://github.com/nodejs/node) | 118478 | `JavaScript` | Node.js JavaScript runtime ✨🐢🚀✨ |
-| 8️⃣ | [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) | 27142 | `Java` | 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supp… |
-| 9️⃣ | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 50712 | `JavaScript` | The design language that makes your AI harness better at design. |
-| 🔟 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 34186 | `Python` | Kronos: A Foundation Model for the Language of Financial Markets |
+| 🥇 | [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | 32294 | `Swift` | bluetooth mesh chat, IRC vibes |
+| 🥈 | [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) | 13833 | `C++` | Amnezia VPN Client (Desktop+Mobile) |
+| 🥉 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | 44056 | `TypeScript` | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu,… |
+| 4️⃣ | [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) | 2705 | `TypeScript` | A lightweight, cloud-native GIS platform for visualizing, exploring, and… |
+| 5️⃣ | [yorukot/superfile](https://github.com/yorukot/superfile) | 20906 | `Go` | Pretty fancy and modern terminal file manager |
+| 6️⃣ | [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 58208 | `Python` | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百… |
+| 7️⃣ | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 51571 | `JavaScript` | The design language that makes your AI harness better at design. |
+| 8️⃣ | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 34570 | `Python` | Kronos: A Foundation Model for the Language of Financial Markets |
+| 9️⃣ | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 14835 | `Go` | Open-source & free — Battle-tested at Alibaba's scale. Hybrid architectu… |
+| 🔟 | [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) | 25890 | `Java` | Jenkins automation server |
 
 </details>
 
-<sub>🕐 更新于 2026-07-27 09:55 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-07-28 09:29 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
