@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#WWERaw](https://twitter.com/search?q=%23WWERaw) | — |
-| 🥈 | [Fauci](https://twitter.com/search?q=Fauci) | — |
-| 🥉 | [T-Mobile](https://twitter.com/search?q=T-Mobile) | — |
-| 4️⃣ | [Vita Vea](https://twitter.com/search?q=Vita%20Vea) | — |
-| 5️⃣ | [Wheeler](https://twitter.com/search?q=Wheeler) | — |
-| 6️⃣ | [X Money](https://twitter.com/search?q=X%20Money) | — |
-| 7️⃣ | [Tractor Supply](https://twitter.com/search?q=Tractor%20Supply) | — |
-| 8️⃣ | [Bucs](https://twitter.com/search?q=Bucs) | — |
-| 9️⃣ | [Oba Femi](https://twitter.com/search?q=Oba%20Femi) | — |
-| 🔟 | [Brock](https://twitter.com/search?q=Brock) | — |
+| 🥇 | [#WWENXT](https://twitter.com/search?q=%23WWENXT) | — |
+| 🥈 | [Grayson Waller](https://twitter.com/search?q=Grayson%20Waller) | — |
+| 🥉 | [American Airlines](https://twitter.com/search?q=American%20Airlines) | — |
+| 4️⃣ | [Weights](https://twitter.com/search?q=Weights) | — |
+| 5️⃣ | [Lindsey](https://twitter.com/search?q=Lindsey) | — |
+| 6️⃣ | [Jay Clayton](https://twitter.com/search?q=Jay%20Clayton) | — |
+| 7️⃣ | [Dean Kremer](https://twitter.com/search?q=Dean%20Kremer) | — |
+| 8️⃣ | [Shane Bieber](https://twitter.com/search?q=Shane%20Bieber) | — |
+| 9️⃣ | [Lyanna](https://twitter.com/search?q=Lyanna) | — |
+| 🔟 | [Rhaegar](https://twitter.com/search?q=Rhaegar) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-07-28 09:29 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-07-29 09:29 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-07-28 09:29 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-07-29 09:29 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | 32294 | `Swift` | bluetooth mesh chat, IRC vibes |
-| 🥈 | [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) | 13833 | `C++` | Amnezia VPN Client (Desktop+Mobile) |
-| 🥉 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | 44056 | `TypeScript` | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu,… |
-| 4️⃣ | [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) | 2705 | `TypeScript` | A lightweight, cloud-native GIS platform for visualizing, exploring, and… |
-| 5️⃣ | [yorukot/superfile](https://github.com/yorukot/superfile) | 20906 | `Go` | Pretty fancy and modern terminal file manager |
-| 6️⃣ | [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 58208 | `Python` | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百… |
-| 7️⃣ | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 51571 | `JavaScript` | The design language that makes your AI harness better at design. |
-| 8️⃣ | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 34570 | `Python` | Kronos: A Foundation Model for the Language of Financial Markets |
-| 9️⃣ | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 14835 | `Go` | Open-source & free — Battle-tested at Alibaba's scale. Hybrid architectu… |
-| 🔟 | [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) | 25890 | `Java` | Jenkins automation server |
+| 🥇 | [pascalorg/editor](https://github.com/pascalorg/editor) | 18727 | `TypeScript` | Create and share 3D architectural projects. |
+| 🥈 | [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) | 26075 | `Java` | Jenkins automation server |
+| 🥉 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | 44776 | `TypeScript` | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu,… |
+| 4️⃣ | [andrewyng/aisuite](https://github.com/andrewyng/aisuite) | 15691 | `Python` | Simple, unified interface to multiple Generative AI providers |
+| 5️⃣ | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 234829 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, me… |
+| 6️⃣ | [hello245m/free-stockdb](https://github.com/hello245m/free-stockdb) | 1294 | `HTML` | 面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。 |
+| 7️⃣ | [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) | 7255 | `Python` | Build local voice agents with open-source models |
+| 8️⃣ | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | 11420 | `Python` | Turn any technical book PDF into a Claude Code skill — ready to study, r… |
+| 9️⃣ | [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) | 3410 | `TypeScript` | A lightweight, cloud-native GIS platform for visualizing, exploring, and… |
+| 🔟 | [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | 9629 | `Python` | A curated list of awesome libraries, packages, strategies, books, blogs,… |
 
 </details>
 
-<sub>🕐 更新于 2026-07-28 09:29 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-07-29 09:29 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
