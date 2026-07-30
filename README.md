@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#WWENXT](https://twitter.com/search?q=%23WWENXT) | — |
-| 🥈 | [Grayson Waller](https://twitter.com/search?q=Grayson%20Waller) | — |
-| 🥉 | [American Airlines](https://twitter.com/search?q=American%20Airlines) | — |
-| 4️⃣ | [Weights](https://twitter.com/search?q=Weights) | — |
-| 5️⃣ | [Lindsey](https://twitter.com/search?q=Lindsey) | — |
-| 6️⃣ | [Jay Clayton](https://twitter.com/search?q=Jay%20Clayton) | — |
-| 7️⃣ | [Dean Kremer](https://twitter.com/search?q=Dean%20Kremer) | — |
-| 8️⃣ | [Shane Bieber](https://twitter.com/search?q=Shane%20Bieber) | — |
-| 9️⃣ | [Lyanna](https://twitter.com/search?q=Lyanna) | — |
-| 🔟 | [Rhaegar](https://twitter.com/search?q=Rhaegar) | — |
+| 🥇 | [Fauci](https://twitter.com/search?q=Fauci) | — |
+| 🥈 | [#AEWDynamite](https://twitter.com/search?q=%23AEWDynamite) | — |
+| 🥉 | [Covid](https://twitter.com/search?q=Covid) | — |
+| 4️⃣ | [Harvey](https://twitter.com/search?q=Harvey) | — |
+| 5️⃣ | [Andrade](https://twitter.com/search?q=Andrade) | — |
+| 6️⃣ | [Taysom Hill](https://twitter.com/search?q=Taysom%20Hill) | — |
+| 7️⃣ | [#NINGNINGxGucci](https://twitter.com/search?q=%23NINGNINGxGucci) | — |
+| 8️⃣ | [Texas State Fair](https://twitter.com/search?q=Texas%20State%20Fair) | — |
+| 9️⃣ | [Davis Martin](https://twitter.com/search?q=Davis%20Martin) | — |
+| 🔟 | [Nick Wayne](https://twitter.com/search?q=Nick%20Wayne) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-07-29 09:29 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-07-30 09:22 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-07-29 09:29 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-07-30 09:22 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [pascalorg/editor](https://github.com/pascalorg/editor) | 18727 | `TypeScript` | Create and share 3D architectural projects. |
-| 🥈 | [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) | 26075 | `Java` | Jenkins automation server |
-| 🥉 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | 44776 | `TypeScript` | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu,… |
-| 4️⃣ | [andrewyng/aisuite](https://github.com/andrewyng/aisuite) | 15691 | `Python` | Simple, unified interface to multiple Generative AI providers |
-| 5️⃣ | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 234829 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, me… |
-| 6️⃣ | [hello245m/free-stockdb](https://github.com/hello245m/free-stockdb) | 1294 | `HTML` | 面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。 |
-| 7️⃣ | [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) | 7255 | `Python` | Build local voice agents with open-source models |
-| 8️⃣ | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | 11420 | `Python` | Turn any technical book PDF into a Claude Code skill — ready to study, r… |
-| 9️⃣ | [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) | 3410 | `TypeScript` | A lightweight, cloud-native GIS platform for visualizing, exploring, and… |
-| 🔟 | [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | 9629 | `Python` | A curated list of awesome libraries, packages, strategies, books, blogs,… |
+| 🥇 | [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) | 4056 | `TypeScript` | A lightweight, cloud-native GIS platform for visualizing, exploring, and… |
+| 🥈 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | 45386 | `TypeScript` | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu,… |
+| 🥉 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 235586 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, me… |
+| 4️⃣ | [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) | 7871 | `Python` | Build local voice agents with open-source models |
+| 5️⃣ | [1jehuang/jcode](https://github.com/1jehuang/jcode) | 13470 | `Rust` | The most RAM efficient harness |
+| 6️⃣ | [grokability/snipe-it](https://github.com/grokability/snipe-it) | 14448 | `PHP` | A free open source IT asset/license management system |
+| 7️⃣ | [deepfakes/faceswap](https://github.com/deepfakes/faceswap) | 56285 | `Python` | Deepfakes Software For All |
+| 8️⃣ | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 51298 | `Python` | Open-Source Frontier Voice AI |
+| 9️⃣ | [different-ai/openwork](https://github.com/different-ai/openwork) | 17922 | `TypeScript` | The open-source alternative to Claude Cowork (powered by opencode) |
+| 🔟 | [obra/superpowers](https://github.com/obra/superpowers) | 263295 | `Shell` | An agentic skills framework & software development methodology that work… |
 
 </details>
 
-<sub>🕐 更新于 2026-07-29 09:29 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-07-30 09:22 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
