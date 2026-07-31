@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Fauci](https://twitter.com/search?q=Fauci) | — |
-| 🥈 | [#AEWDynamite](https://twitter.com/search?q=%23AEWDynamite) | — |
-| 🥉 | [Covid](https://twitter.com/search?q=Covid) | — |
-| 4️⃣ | [Harvey](https://twitter.com/search?q=Harvey) | — |
-| 5️⃣ | [Andrade](https://twitter.com/search?q=Andrade) | — |
-| 6️⃣ | [Taysom Hill](https://twitter.com/search?q=Taysom%20Hill) | — |
-| 7️⃣ | [#NINGNINGxGucci](https://twitter.com/search?q=%23NINGNINGxGucci) | — |
-| 8️⃣ | [Texas State Fair](https://twitter.com/search?q=Texas%20State%20Fair) | — |
-| 9️⃣ | [Davis Martin](https://twitter.com/search?q=Davis%20Martin) | — |
-| 🔟 | [Nick Wayne](https://twitter.com/search?q=Nick%20Wayne) | — |
+| 🥇 | [Spain](https://twitter.com/search?q=Spain) | — |
+| 🥈 | [#AEWCollision](https://twitter.com/search?q=%23AEWCollision) | — |
+| 🥉 | [Morocco](https://twitter.com/search?q=Morocco) | — |
+| 4️⃣ | [Ceuta](https://twitter.com/search?q=Ceuta) | — |
+| 5️⃣ | [#OlandriaxTime100](https://twitter.com/search?q=%23OlandriaxTime100) | — |
+| 6️⃣ | [Mallory](https://twitter.com/search?q=Mallory) | — |
+| 7️⃣ | [Julie](https://twitter.com/search?q=Julie) | — |
+| 8️⃣ | [Moroccan](https://twitter.com/search?q=Moroccan) | — |
+| 9️⃣ | [Spider-Man](https://twitter.com/search?q=Spider-Man) | — |
+| 🔟 | [Spaniards](https://twitter.com/search?q=Spaniards) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-07-30 09:22 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-07-31 09:49 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-07-30 09:22 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-07-31 09:49 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) | 4056 | `TypeScript` | A lightweight, cloud-native GIS platform for visualizing, exploring, and… |
-| 🥈 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | 45386 | `TypeScript` | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu,… |
-| 🥉 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 235586 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, me… |
-| 4️⃣ | [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) | 7871 | `Python` | Build local voice agents with open-source models |
-| 5️⃣ | [1jehuang/jcode](https://github.com/1jehuang/jcode) | 13470 | `Rust` | The most RAM efficient harness |
-| 6️⃣ | [grokability/snipe-it](https://github.com/grokability/snipe-it) | 14448 | `PHP` | A free open source IT asset/license management system |
-| 7️⃣ | [deepfakes/faceswap](https://github.com/deepfakes/faceswap) | 56285 | `Python` | Deepfakes Software For All |
-| 8️⃣ | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 51298 | `Python` | Open-Source Frontier Voice AI |
-| 9️⃣ | [different-ai/openwork](https://github.com/different-ai/openwork) | 17922 | `TypeScript` | The open-source alternative to Claude Cowork (powered by opencode) |
-| 🔟 | [obra/superpowers](https://github.com/obra/superpowers) | 263295 | `Shell` | An agentic skills framework & software development methodology that work… |
+| 🥇 | [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) | 8922 | `Python` | Build local voice agents with open-source models |
+| 🥈 | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 54038 | `Jupyter Notebook` | 12 Weeks, 24 Lessons, AI for All! |
+| 🥉 | [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | 11086 | `Python` | A curated list of awesome libraries, packages, strategies, books, blogs,… |
+| 4️⃣ | [different-ai/openwork](https://github.com/different-ai/openwork) | 18768 | `TypeScript` | The open-source alternative to Claude Cowork (powered by opencode) |
+| 5️⃣ | [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys) | 10443 | `JavaScript` | Socket-based TS/JavaScript API for WhatsApp Web |
+| 6️⃣ | [pascalorg/editor](https://github.com/pascalorg/editor) | 20138 | `TypeScript` | Create and share 3D architectural projects. |
+| 7️⃣ | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 55578 | `Python` | AI agent skill that researches any topic across Reddit, X, YouTube, HN, … |
+| 8️⃣ | [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) | 38298 | `C#` | ASP.NET Core is a cross-platform .NET framework for building modern clou… |
+| 9️⃣ | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 137141 | `C` | Microsoft PowerToys is a collection of utilities that supercharge produc… |
+| 🔟 | [ansible/ansible](https://github.com/ansible/ansible) | 69894 | `Python` | Ansible is a radically simple IT automation platform that makes your app… |
 
 </details>
 
-<sub>🕐 更新于 2026-07-30 09:22 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-07-31 09:49 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
