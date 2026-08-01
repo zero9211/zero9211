@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Spain](https://twitter.com/search?q=Spain) | — |
-| 🥈 | [#AEWCollision](https://twitter.com/search?q=%23AEWCollision) | — |
-| 🥉 | [Morocco](https://twitter.com/search?q=Morocco) | — |
-| 4️⃣ | [Ceuta](https://twitter.com/search?q=Ceuta) | — |
-| 5️⃣ | [#OlandriaxTime100](https://twitter.com/search?q=%23OlandriaxTime100) | — |
-| 6️⃣ | [Mallory](https://twitter.com/search?q=Mallory) | — |
-| 7️⃣ | [Julie](https://twitter.com/search?q=Julie) | — |
-| 8️⃣ | [Moroccan](https://twitter.com/search?q=Moroccan) | — |
-| 9️⃣ | [Spider-Man](https://twitter.com/search?q=Spider-Man) | — |
-| 🔟 | [Spaniards](https://twitter.com/search?q=Spaniards) | — |
+| 🥇 | [#SmackDown](https://twitter.com/search?q=%23SmackDown) | — |
+| 🥈 | [#OPLive](https://twitter.com/search?q=%23OPLive) | — |
+| 🥉 | [Pirro](https://twitter.com/search?q=Pirro) | — |
+| 4️⃣ | [MySpace](https://twitter.com/search?q=MySpace) | — |
+| 5️⃣ | [Skenes](https://twitter.com/search?q=Skenes) | — |
+| 6️⃣ | [Reflecting Pool](https://twitter.com/search?q=Reflecting%20Pool) | — |
+| 7️⃣ | [David Hearn](https://twitter.com/search?q=David%20Hearn) | — |
+| 8️⃣ | [#LoveAfterLockup](https://twitter.com/search?q=%23LoveAfterLockup) | — |
+| 9️⃣ | [Haku](https://twitter.com/search?q=Haku) | — |
+| 🔟 | [Gunnar](https://twitter.com/search?q=Gunnar) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-07-31 09:49 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-08-01 09:50 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-07-31 09:49 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-08-01 09:50 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) | 8922 | `Python` | Build local voice agents with open-source models |
-| 🥈 | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 54038 | `Jupyter Notebook` | 12 Weeks, 24 Lessons, AI for All! |
-| 🥉 | [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | 11086 | `Python` | A curated list of awesome libraries, packages, strategies, books, blogs,… |
-| 4️⃣ | [different-ai/openwork](https://github.com/different-ai/openwork) | 18768 | `TypeScript` | The open-source alternative to Claude Cowork (powered by opencode) |
-| 5️⃣ | [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys) | 10443 | `JavaScript` | Socket-based TS/JavaScript API for WhatsApp Web |
-| 6️⃣ | [pascalorg/editor](https://github.com/pascalorg/editor) | 20138 | `TypeScript` | Create and share 3D architectural projects. |
-| 7️⃣ | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 55578 | `Python` | AI agent skill that researches any topic across Reddit, X, YouTube, HN, … |
-| 8️⃣ | [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) | 38298 | `C#` | ASP.NET Core is a cross-platform .NET framework for building modern clou… |
-| 9️⃣ | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 137141 | `C` | Microsoft PowerToys is a collection of utilities that supercharge produc… |
-| 🔟 | [ansible/ansible](https://github.com/ansible/ansible) | 69894 | `Python` | Ansible is a radically simple IT automation platform that makes your app… |
+| 🥇 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 10772 | `PowerShell` | Reverse Engineering / Authorized Penetration Testing / Security Research… |
+| 🥈 | [different-ai/openwork](https://github.com/different-ai/openwork) | 19530 | `TypeScript` | The open-source alternative to Claude Cowork (powered by opencode) |
+| 🥉 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 56244 | `Python` | AI agent skill that researches any topic across Reddit, X, YouTube, HN, … |
+| 4️⃣ | [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | 11775 | `Python` | A curated list of awesome libraries, packages, strategies, books, blogs,… |
+| 5️⃣ | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 55354 | `Jupyter Notebook` | 12 Weeks, 24 Lessons, AI for All! |
+| 6️⃣ | [github/copilot-sdk](https://github.com/github/copilot-sdk) | 10141 | `Java` | Multi-platform SDK for integrating GitHub Copilot Agent into apps and se… |
+| 7️⃣ | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | 35136 | `Ruby` | Open-source live-chat, email support, omni-channel desk. An alternative … |
+| 8️⃣ | [agavra/tuicr](https://github.com/agavra/tuicr) | 2161 | `Rust` | a code review TUI with vim keybindings |
+| 9️⃣ | [usekaneo/kaneo](https://github.com/usekaneo/kaneo) | 5112 | `TypeScript` | 🎯 All you need. Nothing you don't. Open source project management that w… |
+| 🔟 | [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) | 5026 | `C++` | A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol |
 
 </details>
 
-<sub>🕐 更新于 2026-07-31 09:49 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-08-01 09:50 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
