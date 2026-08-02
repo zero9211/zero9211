@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#SmackDown](https://twitter.com/search?q=%23SmackDown) | — |
-| 🥈 | [#OPLive](https://twitter.com/search?q=%23OPLive) | — |
-| 🥉 | [Pirro](https://twitter.com/search?q=Pirro) | — |
-| 4️⃣ | [MySpace](https://twitter.com/search?q=MySpace) | — |
-| 5️⃣ | [Skenes](https://twitter.com/search?q=Skenes) | — |
-| 6️⃣ | [Reflecting Pool](https://twitter.com/search?q=Reflecting%20Pool) | — |
-| 7️⃣ | [David Hearn](https://twitter.com/search?q=David%20Hearn) | — |
-| 8️⃣ | [#LoveAfterLockup](https://twitter.com/search?q=%23LoveAfterLockup) | — |
-| 9️⃣ | [Haku](https://twitter.com/search?q=Haku) | — |
-| 🔟 | [Gunnar](https://twitter.com/search?q=Gunnar) | — |
+| 🥇 | [#SummerSlam](https://twitter.com/search?q=%23SummerSlam) | — |
+| 🥈 | [Nick Aldis](https://twitter.com/search?q=Nick%20Aldis) | — |
+| 🥉 | [CM Punk](https://twitter.com/search?q=CM%20Punk) | — |
+| 4️⃣ | [Randy Orton](https://twitter.com/search?q=Randy%20Orton) | — |
+| 5️⃣ | [Twin Falls](https://twitter.com/search?q=Twin%20Falls) | — |
+| 6️⃣ | [Brie](https://twitter.com/search?q=Brie) | — |
+| 7️⃣ | [Brie](https://twitter.com/search?q=Brie) | — |
+| 8️⃣ | [Fatal Influence](https://twitter.com/search?q=Fatal%20Influence) | — |
+| 9️⃣ | [Paige](https://twitter.com/search?q=Paige) | — |
+| 🔟 | [Mickie James](https://twitter.com/search?q=Mickie%20James) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-08-01 09:50 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-08-02 09:47 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-08-01 09:50 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-08-02 09:47 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 10772 | `PowerShell` | Reverse Engineering / Authorized Penetration Testing / Security Research… |
-| 🥈 | [different-ai/openwork](https://github.com/different-ai/openwork) | 19530 | `TypeScript` | The open-source alternative to Claude Cowork (powered by opencode) |
-| 🥉 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 56244 | `Python` | AI agent skill that researches any topic across Reddit, X, YouTube, HN, … |
-| 4️⃣ | [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | 11775 | `Python` | A curated list of awesome libraries, packages, strategies, books, blogs,… |
-| 5️⃣ | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 55354 | `Jupyter Notebook` | 12 Weeks, 24 Lessons, AI for All! |
-| 6️⃣ | [github/copilot-sdk](https://github.com/github/copilot-sdk) | 10141 | `Java` | Multi-platform SDK for integrating GitHub Copilot Agent into apps and se… |
-| 7️⃣ | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | 35136 | `Ruby` | Open-source live-chat, email support, omni-channel desk. An alternative … |
-| 8️⃣ | [agavra/tuicr](https://github.com/agavra/tuicr) | 2161 | `Rust` | a code review TUI with vim keybindings |
-| 9️⃣ | [usekaneo/kaneo](https://github.com/usekaneo/kaneo) | 5112 | `TypeScript` | 🎯 All you need. Nothing you don't. Open source project management that w… |
-| 🔟 | [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) | 5026 | `C++` | A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol |
+| 🥇 | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 57283 | `Jupyter Notebook` | 12 Weeks, 24 Lessons, AI for All! |
+| 🥈 | [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | 12253 | `Python` | A curated list of awesome libraries, packages, strategies, books, blogs,… |
+| 🥉 | [usekaneo/kaneo](https://github.com/usekaneo/kaneo) | 5701 | `TypeScript` | 🎯 All you need. Nothing you don't. Open source project management that w… |
+| 4️⃣ | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 11939 | `PowerShell` | Reverse Engineering / Authorized Penetration Testing / Security Research… |
+| 5️⃣ | [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 114223 | `Jupyter Notebook` | 21 Lessons, Get Started Building with Generative AI |
+| 6️⃣ | [github/copilot-sdk](https://github.com/github/copilot-sdk) | 10281 | `Java` | Multi-platform SDK for integrating GitHub Copilot Agent into apps and se… |
+| 7️⃣ | [github/gh-stack](https://github.com/github/gh-stack) | 822 | `Go` | GitHub Stacked PRs |
+| 8️⃣ | [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) | 10222 | `Python` | Build local voice agents with open-source models |
+| 9️⃣ | [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) | 11763 | `Python` | Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, k… |
+| 🔟 | [iv-org/invidious](https://github.com/iv-org/invidious) | 21627 | `Crystal` | Invidious is an alternative front-end to YouTube |
 
 </details>
 
-<sub>🕐 更新于 2026-08-01 09:50 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-08-02 09:47 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
