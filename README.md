@@ -58,19 +58,19 @@
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
 | 🥇 | [#SummerSlam](https://twitter.com/search?q=%23SummerSlam) | — |
-| 🥈 | [Nick Aldis](https://twitter.com/search?q=Nick%20Aldis) | — |
-| 🥉 | [CM Punk](https://twitter.com/search?q=CM%20Punk) | — |
-| 4️⃣ | [Randy Orton](https://twitter.com/search?q=Randy%20Orton) | — |
-| 5️⃣ | [Twin Falls](https://twitter.com/search?q=Twin%20Falls) | — |
-| 6️⃣ | [Brie](https://twitter.com/search?q=Brie) | — |
-| 7️⃣ | [Brie](https://twitter.com/search?q=Brie) | — |
-| 8️⃣ | [Fatal Influence](https://twitter.com/search?q=Fatal%20Influence) | — |
-| 9️⃣ | [Paige](https://twitter.com/search?q=Paige) | — |
-| 🔟 | [Mickie James](https://twitter.com/search?q=Mickie%20James) | — |
+| 🥈 | [Gable](https://twitter.com/search?q=Gable) | — |
+| 🥉 | [Seth](https://twitter.com/search?q=Seth) | — |
+| 4️⃣ | [Chelsea](https://twitter.com/search?q=Chelsea) | — |
+| 5️⃣ | [Kevin Owens](https://twitter.com/search?q=Kevin%20Owens) | — |
+| 6️⃣ | [Baron Corbin](https://twitter.com/search?q=Baron%20Corbin) | — |
+| 7️⃣ | [#NINGNINGatLollapalooza](https://twitter.com/search?q=%23NINGNINGatLollapalooza) | — |
+| 8️⃣ | [Trick](https://twitter.com/search?q=Trick) | — |
+| 9️⃣ | [Rhea](https://twitter.com/search?q=Rhea) | — |
+| 🔟 | [#weloveyouariana](https://twitter.com/search?q=%23weloveyouariana) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-08-02 09:47 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-08-03 09:49 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-08-02 09:47 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-08-03 09:49 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 57283 | `Jupyter Notebook` | 12 Weeks, 24 Lessons, AI for All! |
-| 🥈 | [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | 12253 | `Python` | A curated list of awesome libraries, packages, strategies, books, blogs,… |
-| 🥉 | [usekaneo/kaneo](https://github.com/usekaneo/kaneo) | 5701 | `TypeScript` | 🎯 All you need. Nothing you don't. Open source project management that w… |
-| 4️⃣ | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 11939 | `PowerShell` | Reverse Engineering / Authorized Penetration Testing / Security Research… |
-| 5️⃣ | [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 114223 | `Jupyter Notebook` | 21 Lessons, Get Started Building with Generative AI |
-| 6️⃣ | [github/copilot-sdk](https://github.com/github/copilot-sdk) | 10281 | `Java` | Multi-platform SDK for integrating GitHub Copilot Agent into apps and se… |
-| 7️⃣ | [github/gh-stack](https://github.com/github/gh-stack) | 822 | `Go` | GitHub Stacked PRs |
-| 8️⃣ | [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) | 10222 | `Python` | Build local voice agents with open-source models |
-| 9️⃣ | [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) | 11763 | `Python` | Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, k… |
-| 🔟 | [iv-org/invidious](https://github.com/iv-org/invidious) | 21627 | `Crystal` | Invidious is an alternative front-end to YouTube |
+| 🥇 | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 59128 | `Jupyter Notebook` | 12 Weeks, 24 Lessons, AI for All! |
+| 🥈 | [usekaneo/kaneo](https://github.com/usekaneo/kaneo) | 6191 | `TypeScript` | 🎯 All you need. Nothing you don't. Open source project management that w… |
+| 🥉 | [lyogavin/airllm](https://github.com/lyogavin/airllm) | 25712 | `Jupyter Notebook` | AirLLM 70B inference with single 4GB GPU |
+| 4️⃣ | [iv-org/invidious](https://github.com/iv-org/invidious) | 21989 | `Crystal` | Invidious is an alternative front-end to YouTube |
+| 5️⃣ | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 534916 | `Markdown` | Master programming by recreating your favorite technologies from scratch… |
+| 6️⃣ | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 13595 | `PowerShell` | Reverse Engineering / Authorized Penetration Testing / Security Research… |
+| 7️⃣ | [different-ai/openwork](https://github.com/different-ai/openwork) | 20345 | `TypeScript` | The open-source alternative to Claude Cowork (powered by opencode) |
+| 8️⃣ | [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 114813 | `Jupyter Notebook` | 21 Lessons, Get Started Building with Generative AI |
+| 9️⃣ | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 64751 | `Python` | Give your AI agent eyes to see the entire internet. Read & search Twitte… |
+| 🔟 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 11106 | `TypeScript` | TencentDB Agent Memory is a team-level memory hub for AI Agents — turnin… |
 
 </details>
 
-<sub>🕐 更新于 2026-08-02 09:47 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-08-03 09:49 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
