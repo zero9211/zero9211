@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#WWERaw](https://twitter.com/search?q=%23WWERaw) | — |
-| 🥈 | [Big Cass](https://twitter.com/search?q=Big%20Cass) | — |
-| 🥉 | [Derek Hill](https://twitter.com/search?q=Derek%20Hill) | — |
-| 4️⃣ | [LA Knight](https://twitter.com/search?q=LA%20Knight) | — |
-| 5️⃣ | [Red Cross](https://twitter.com/search?q=Red%20Cross) | — |
-| 6️⃣ | [Aaron Rodgers](https://twitter.com/search?q=Aaron%20Rodgers) | — |
-| 7️⃣ | [Cashman](https://twitter.com/search?q=Cashman) | — |
-| 8️⃣ | [Je'Von Evans](https://twitter.com/search?q=Je'Von%20Evans) | — |
-| 9️⃣ | [Mayer](https://twitter.com/search?q=Mayer) | — |
-| 🔟 | [Ramos](https://twitter.com/search?q=Ramos) | — |
+| 🥇 | [#WWENXT](https://twitter.com/search?q=%23WWENXT) | — |
+| 🥈 | [Lombard](https://twitter.com/search?q=Lombard) | — |
+| 🥉 | [Merrick Garland](https://twitter.com/search?q=Merrick%20Garland) | — |
+| 4️⃣ | [Davis Martin](https://twitter.com/search?q=Davis%20Martin) | — |
+| 5️⃣ | [Cori Bush](https://twitter.com/search?q=Cori%20Bush) | — |
+| 6️⃣ | [Volpe](https://twitter.com/search?q=Volpe) | — |
+| 7️⃣ | [Perez Hilton](https://twitter.com/search?q=Perez%20Hilton) | — |
+| 8️⃣ | [Blazing Saddles](https://twitter.com/search?q=Blazing%20Saddles) | — |
+| 9️⃣ | [Susan Collins](https://twitter.com/search?q=Susan%20Collins) | — |
+| 🔟 | [Myles Borne](https://twitter.com/search?q=Myles%20Borne) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-08-04 09:25 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-08-05 09:38 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-08-04 09:25 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-08-05 09:38 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [lyogavin/airllm](https://github.com/lyogavin/airllm) | 27148 | `Jupyter Notebook` | AirLLM 70B inference with single 4GB GPU |
-| 🥈 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 15830 | `PowerShell` | Reverse Engineering / Authorized Penetration Testing / Security Research… |
-| 🥉 | [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | 8296 | `Rust` | Fast Rust library for PDF inspection, classification, and text extractio… |
-| 4️⃣ | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 29953 | `Go` | DeepSeek-native AI coding agent for your terminal. Engineered around pre… |
-| 5️⃣ | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 12119 | `TypeScript` | TencentDB Agent Memory is a team-level memory hub for AI Agents — turnin… |
-| 6️⃣ | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 60773 | `Jupyter Notebook` | 12 Weeks, 24 Lessons, AI for All! |
-| 7️⃣ | [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 115570 | `Jupyter Notebook` | 21 Lessons, Get Started Building with Generative AI |
-| 8️⃣ | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 360542 | `Python` | Learn how to design large-scale systems. Prep for the system design inte… |
-| 9️⃣ | [antirez/ds4](https://github.com/antirez/ds4) | 20368 | `C` | DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm |
-| 🔟 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 35827 | `Python` | Kronos: A Foundation Model for the Language of Financial Markets |
+| 🥇 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 13675 | `TypeScript` | TencentDB Agent Memory is a team-level memory hub for AI Agents — turnin… |
+| 🥈 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 17942 | `PowerShell` | Reverse Engineering / Authorized Penetration Testing / Security Research… |
+| 🥉 | [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | 10071 | `Rust` | Fast Rust library for PDF inspection, classification, and text extractio… |
+| 4️⃣ | [uber/ADR](https://github.com/uber/ADR) | 693 | `Python` | ADR secures enterprise AI agents through observability, security benchma… |
+| 5️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 266502 | `Shell` | An agentic skills framework & software development methodology that work… |
+| 6️⃣ | [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 116283 | `Jupyter Notebook` | 21 Lessons, Get Started Building with Generative AI |
+| 7️⃣ | [cypress-io/cypress](https://github.com/cypress-io/cypress) | 50799 | `TypeScript` | Fast, easy and reliable testing for anything that runs in a browser. |
+| 8️⃣ | [lyogavin/airllm](https://github.com/lyogavin/airllm) | 28406 | `Jupyter Notebook` | AirLLM 70B inference with single 4GB GPU |
+| 9️⃣ | [webpack/webpack](https://github.com/webpack/webpack) | 65940 | `JavaScript` | A bundler for javascript and friends. Packs many modules into a few bund… |
+| 🔟 | [gabime/spdlog](https://github.com/gabime/spdlog) | 29380 | `C++` | Fast C++ logging library. |
 
 </details>
 
-<sub>🕐 更新于 2026-08-04 09:25 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-08-05 09:38 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
