@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#AEWDynamite](https://twitter.com/search?q=%23AEWDynamite) | — |
-| 🥈 | [Billy the Kid](https://twitter.com/search?q=Billy%20the%20Kid) | — |
-| 🥉 | [#GrandSlamMÃ©xico](https://twitter.com/search?q=%23GrandSlamM%C3%A9xico) | — |
-| 4️⃣ | [Arena Mexico](https://twitter.com/search?q=Arena%20Mexico) | — |
-| 5️⃣ | [Ruffy](https://twitter.com/search?q=Ruffy) | — |
-| 6️⃣ | [Nikita](https://twitter.com/search?q=Nikita) | — |
-| 7️⃣ | [Aaron Donald](https://twitter.com/search?q=Aaron%20Donald) | — |
-| 8️⃣ | [William Bonney](https://twitter.com/search?q=William%20Bonney) | — |
-| 9️⃣ | [Wash](https://twitter.com/search?q=Wash) | — |
-| 🔟 | [Jesus is King](https://twitter.com/search?q=Jesus%20is%20King) | — |
+| 🥇 | [Carson Beck](https://twitter.com/search?q=Carson%20Beck) | — |
+| 🥈 | [Chelsea Gray](https://twitter.com/search?q=Chelsea%20Gray) | — |
+| 🥉 | [Panthers](https://twitter.com/search?q=Panthers) | — |
+| 4️⃣ | [Kenny Pickett](https://twitter.com/search?q=Kenny%20Pickett) | — |
+| 5️⃣ | [Jackie Young](https://twitter.com/search?q=Jackie%20Young) | — |
+| 6️⃣ | [Aces](https://twitter.com/search?q=Aces) | — |
+| 7️⃣ | [Melody](https://twitter.com/search?q=Melody) | — |
+| 8️⃣ | [Point Gawd](https://twitter.com/search?q=Point%20Gawd) | — |
+| 9️⃣ | [AJ Dillon](https://twitter.com/search?q=AJ%20Dillon) | — |
+| 🔟 | [Cardinals](https://twitter.com/search?q=Cardinals) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-08-06 09:27 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-08-07 10:05 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-08-06 09:27 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-08-07 10:05 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [cloudflare/computer](https://github.com/cloudflare/computer) | 3011 | `TypeScript` | Give your agent a computer 👾 |
-| 🥈 | [huangruiteng/loopx](https://github.com/huangruiteng/loopx) | 2142 | `Python` | Lightweight loop engineering state kernel for long-running AI agent team… |
-| 🥉 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 15090 | `TypeScript` | TencentDB Agent Memory is a team-level memory hub for AI Agents — turnin… |
-| 4️⃣ | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 361555 | `Python` | Learn how to design large-scale systems. Prep for the system design inte… |
-| 5️⃣ | [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | 11487 | `Rust` | Fast Rust library for PDF inspection, classification, and text extractio… |
-| 6️⃣ | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 31641 | `Go` | DeepSeek-native AI coding agent for your terminal. Engineered around pre… |
-| 7️⃣ | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 81997 | `JavaScript` | Production-grade engineering skills for AI coding agents. |
-| 8️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 267323 | `Shell` | An agentic skills framework & software development methodology that work… |
-| 9️⃣ | [roboflow/supervision](https://github.com/roboflow/supervision) | 48930 | `Python` | We write your reusable computer vision tools. 💜 |
-| 🔟 | [vercel/next.js](https://github.com/vercel/next.js) | 141557 | `JavaScript` | The React Framework |
+| 🥇 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 16469 | `TypeScript` | TencentDB Agent Memory is a team-level memory hub for AI Agents — turnin… |
+| 🥈 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 82982 | `JavaScript` | Production-grade engineering skills for AI coding agents. |
+| 🥉 | [cloudflare/computer](https://github.com/cloudflare/computer) | 4851 | `TypeScript` | Give your agent a computer 👾 |
+| 4️⃣ | [mattpocock/skills](https://github.com/mattpocock/skills) | 207164 | `Shell` | Skills for Real Engineers. Straight from my .agents directory. |
+| 5️⃣ | [goauthentik/authentik](https://github.com/goauthentik/authentik) | 23143 | `Python` | The authentication glue you need. |
+| 6️⃣ | [huangruiteng/loopx](https://github.com/huangruiteng/loopx) | 2903 | `Python` | Lightweight loop engineering state kernel for long-running AI agent team… |
+| 7️⃣ | [google/guava](https://github.com/google/guava) | 51645 | `Java` | Google core libraries for Java |
+| 8️⃣ | [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 77148 | `Roff` | 所有小初高、大学PDF教材。 |
+| 9️⃣ | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 186033 | `Python` | AutoGPT is the vision of accessible AI for everyone, to use and to build… |
+| 🔟 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 29050 | `Python` | Local-first code intelligence graph for MCP and CLI. Builds a persistent… |
 
 </details>
 
-<sub>🕐 更新于 2026-08-06 09:27 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-08-07 10:05 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
