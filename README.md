@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Carson Beck](https://twitter.com/search?q=Carson%20Beck) | — |
-| 🥈 | [Chelsea Gray](https://twitter.com/search?q=Chelsea%20Gray) | — |
-| 🥉 | [Panthers](https://twitter.com/search?q=Panthers) | — |
-| 4️⃣ | [Kenny Pickett](https://twitter.com/search?q=Kenny%20Pickett) | — |
-| 5️⃣ | [Jackie Young](https://twitter.com/search?q=Jackie%20Young) | — |
-| 6️⃣ | [Aces](https://twitter.com/search?q=Aces) | — |
-| 7️⃣ | [Melody](https://twitter.com/search?q=Melody) | — |
-| 8️⃣ | [Point Gawd](https://twitter.com/search?q=Point%20Gawd) | — |
-| 9️⃣ | [AJ Dillon](https://twitter.com/search?q=AJ%20Dillon) | — |
-| 🔟 | [Cardinals](https://twitter.com/search?q=Cardinals) | — |
+| 🥇 | [Enes](https://twitter.com/search?q=Enes) | — |
+| 🥈 | [Araujo](https://twitter.com/search?q=Araujo) | — |
+| 🥉 | [Mackinac](https://twitter.com/search?q=Mackinac) | — |
+| 4️⃣ | [Noah Schultz](https://twitter.com/search?q=Noah%20Schultz) | — |
+| 5️⃣ | [Kamu](https://twitter.com/search?q=Kamu) | — |
+| 6️⃣ | [Liverpool](https://twitter.com/search?q=Liverpool) | — |
+| 7️⃣ | [Original Content Rewards](https://twitter.com/search?q=Original%20Content%20Rewards) | — |
+| 8️⃣ | [Bigot](https://twitter.com/search?q=Bigot) | — |
+| 9️⃣ | [Barrett](https://twitter.com/search?q=Barrett) | — |
+| 🔟 | [Chuk](https://twitter.com/search?q=Chuk) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-08-07 10:05 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-08-08 08:50 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-08-07 10:05 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-08-08 08:50 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 16469 | `TypeScript` | TencentDB Agent Memory is a team-level memory hub for AI Agents — turnin… |
-| 🥈 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 82982 | `JavaScript` | Production-grade engineering skills for AI coding agents. |
-| 🥉 | [cloudflare/computer](https://github.com/cloudflare/computer) | 4851 | `TypeScript` | Give your agent a computer 👾 |
-| 4️⃣ | [mattpocock/skills](https://github.com/mattpocock/skills) | 207164 | `Shell` | Skills for Real Engineers. Straight from my .agents directory. |
-| 5️⃣ | [goauthentik/authentik](https://github.com/goauthentik/authentik) | 23143 | `Python` | The authentication glue you need. |
-| 6️⃣ | [huangruiteng/loopx](https://github.com/huangruiteng/loopx) | 2903 | `Python` | Lightweight loop engineering state kernel for long-running AI agent team… |
-| 7️⃣ | [google/guava](https://github.com/google/guava) | 51645 | `Java` | Google core libraries for Java |
-| 8️⃣ | [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 77148 | `Roff` | 所有小初高、大学PDF教材。 |
-| 9️⃣ | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 186033 | `Python` | AutoGPT is the vision of accessible AI for everyone, to use and to build… |
-| 🔟 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 29050 | `Python` | Local-first code intelligence graph for MCP and CLI. Builds a persistent… |
+| 🥇 | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | 6526 | `TypeScript` | A self-improving RLM agent for coding workflows and long-running autonom… |
+| 🥈 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 83900 | `JavaScript` | Production-grade engineering skills for AI coding agents. |
+| 🥉 | [cloudflare/computer](https://github.com/cloudflare/computer) | 5714 | `TypeScript` | Give your agent a computer 👾 |
+| 4️⃣ | [mattpocock/skills](https://github.com/mattpocock/skills) | 208814 | `Shell` | Skills for Real Engineers. Straight from my .agents directory. |
+| 5️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 268745 | `Shell` | An agentic skills framework & software development methodology that work… |
+| 6️⃣ | [goauthentik/authentik](https://github.com/goauthentik/authentik) | 23596 | `Python` | The authentication glue you need. |
+| 7️⃣ | [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | 2347 | `Python` | Graph-Native Infrastructure for Context and Accountable AI Systems |
+| 8️⃣ | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 70509 | `Python` | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简… |
+| 9️⃣ | [chenyme/grok2api](https://github.com/chenyme/grok2api) | 7141 | `Go` | Multi-account API gateway for Grok Build, Grok Web, and Grok Console |
+| 🔟 | [jdx/mise](https://github.com/jdx/mise) | 32069 | `Rust` | dev tools, env vars, task runner |
 
 </details>
 
-<sub>🕐 更新于 2026-08-07 10:05 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-08-08 08:50 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
