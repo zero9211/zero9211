@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Sophie](https://twitter.com/search?q=Sophie) | — |
-| 🥈 | [WNBA](https://twitter.com/search?q=WNBA) | — |
-| 🥉 | [#UFCVegas120](https://twitter.com/search?q=%23UFCVegas120) | — |
-| 4️⃣ | [Carrington](https://twitter.com/search?q=Carrington) | — |
-| 5️⃣ | [White Privilege](https://twitter.com/search?q=White%20Privilege) | — |
-| 6️⃣ | [#AEWCollision](https://twitter.com/search?q=%23AEWCollision) | — |
-| 7️⃣ | [Cunningham](https://twitter.com/search?q=Cunningham) | — |
-| 8️⃣ | [Asplund](https://twitter.com/search?q=Asplund) | — |
-| 9️⃣ | [Opie](https://twitter.com/search?q=Opie) | — |
-| 🔟 | [#MostRequestedLive](https://twitter.com/search?q=%23MostRequestedLive) | — |
+| 🥇 | [Haiti](https://twitter.com/search?q=Haiti) | — |
+| 🥈 | [#RHOAReunion](https://twitter.com/search?q=%23RHOAReunion) | — |
+| 🥉 | [Ty Gibbs](https://twitter.com/search?q=Ty%20Gibbs) | — |
+| 4️⃣ | [Kayla McBride](https://twitter.com/search?q=Kayla%20McBride) | — |
+| 5️⃣ | [Woke 1](https://twitter.com/search?q=Woke%201) | — |
+| 6️⃣ | [#BaddiesUSAChapterTwo](https://twitter.com/search?q=%23BaddiesUSAChapterTwo) | — |
+| 7️⃣ | [Ben Jones](https://twitter.com/search?q=Ben%20Jones) | — |
+| 8️⃣ | [Christopher Bell](https://twitter.com/search?q=Christopher%20Bell) | — |
+| 9️⃣ | [Blakk](https://twitter.com/search?q=Blakk) | — |
+| 🔟 | [Fonseca](https://twitter.com/search?q=Fonseca) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-08-09 08:53 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-08-10 08:55 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-08-09 08:53 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-08-10 08:55 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | 8944 | `TypeScript` | A self-improving RLM agent for coding workflows and long-running autonom… |
-| 🥈 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 84568 | `JavaScript` | Production-grade engineering skills for AI coding agents. |
-| 🥉 | [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 77934 | `Roff` | 所有小初高、大学PDF教材。 |
-| 4️⃣ | [google/skills](https://github.com/google/skills) | 16736 | `Python` | Agent Skills for Google products and technologies |
-| 5️⃣ | [mattpocock/skills](https://github.com/mattpocock/skills) | 210018 | `Shell` | Skills for Real Engineers. Straight from my .agents directory. |
-| 6️⃣ | [goauthentik/authentik](https://github.com/goauthentik/authentik) | 23976 | `Python` | The authentication glue you need. |
-| 7️⃣ | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 96476 | `Python` | TradingAgents: Multi-Agents LLM Financial Trading Framework |
-| 8️⃣ | [google/guava](https://github.com/google/guava) | 51851 | `Java` | Google core libraries for Java |
-| 9️⃣ | [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 64988 | `C++` | Truly independent web browser |
-| 🔟 | [denoland/celld](https://github.com/denoland/celld) | 2569 | `Rust` | self-hosted, distributed Durable Objects |
+| 🥇 | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | 11089 | `TypeScript` | A self-improving RLM agent for coding workflows and long-running autonom… |
+| 🥈 | [vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag) | 2984 | `Python` | The ultimate RAG for your monorepo. Query, understand, and edit multi-la… |
+| 🥉 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 140676 | `Shell` | A complete AI agency at your fingertips - From frontend wizards to Reddi… |
+| 4️⃣ | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 20659 | `Go` | Why is this running? Trace any process, port, container, or file back to… |
+| 5️⃣ | [google-deepmind/weathernext](https://github.com/google-deepmind/weathernext) | 7087 | `Python` | — |
+| 6️⃣ | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 85139 | `JavaScript` | Production-grade engineering skills for AI coding agents. |
+| 7️⃣ | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 61191 | `Python` | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-mark… |
+| 8️⃣ | [goauthentik/authentik](https://github.com/goauthentik/authentik) | 24273 | `Python` | The authentication glue you need. |
+| 9️⃣ | [google/skills](https://github.com/google/skills) | 17222 | `Python` | Agent Skills for Google products and technologies |
+| 🔟 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | 125520 | `Python` | The most powerful and modular diffusion model GUI, api and backend with … |
 
 </details>
 
-<sub>🕐 更新于 2026-08-09 08:53 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-08-10 08:55 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
