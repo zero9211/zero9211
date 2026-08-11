@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Haiti](https://twitter.com/search?q=Haiti) | — |
-| 🥈 | [#RHOAReunion](https://twitter.com/search?q=%23RHOAReunion) | — |
-| 🥉 | [Ty Gibbs](https://twitter.com/search?q=Ty%20Gibbs) | — |
-| 4️⃣ | [Kayla McBride](https://twitter.com/search?q=Kayla%20McBride) | — |
-| 5️⃣ | [Woke 1](https://twitter.com/search?q=Woke%201) | — |
-| 6️⃣ | [#BaddiesUSAChapterTwo](https://twitter.com/search?q=%23BaddiesUSAChapterTwo) | — |
-| 7️⃣ | [Ben Jones](https://twitter.com/search?q=Ben%20Jones) | — |
-| 8️⃣ | [Christopher Bell](https://twitter.com/search?q=Christopher%20Bell) | — |
-| 9️⃣ | [Blakk](https://twitter.com/search?q=Blakk) | — |
-| 🔟 | [Fonseca](https://twitter.com/search?q=Fonseca) | — |
+| 🥇 | [Bryce Elder](https://twitter.com/search?q=Bryce%20Elder) | — |
+| 🥈 | [#Madden27](https://twitter.com/search?q=%23Madden27) | — |
+| 🥉 | [#MCS27](https://twitter.com/search?q=%23MCS27) | — |
+| 4️⃣ | [Brett Baty](https://twitter.com/search?q=Brett%20Baty) | — |
+| 5️⃣ | [Colombia](https://twitter.com/search?q=Colombia) | — |
+| 6️⃣ | [Stanford](https://twitter.com/search?q=Stanford) | — |
+| 7️⃣ | [Sean Murphy](https://twitter.com/search?q=Sean%20Murphy) | — |
+| 8️⃣ | [Introducing](https://twitter.com/search?q=Introducing) | — |
+| 9️⃣ | [RIP Jackie](https://twitter.com/search?q=RIP%20Jackie) | — |
+| 🔟 | [Pharma](https://twitter.com/search?q=Pharma) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-08-10 08:55 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-08-11 08:55 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-08-10 08:55 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-08-11 08:55 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | 11089 | `TypeScript` | A self-improving RLM agent for coding workflows and long-running autonom… |
-| 🥈 | [vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag) | 2984 | `Python` | The ultimate RAG for your monorepo. Query, understand, and edit multi-la… |
-| 🥉 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 140676 | `Shell` | A complete AI agency at your fingertips - From frontend wizards to Reddi… |
-| 4️⃣ | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 20659 | `Go` | Why is this running? Trace any process, port, container, or file back to… |
-| 5️⃣ | [google-deepmind/weathernext](https://github.com/google-deepmind/weathernext) | 7087 | `Python` | — |
-| 6️⃣ | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 85139 | `JavaScript` | Production-grade engineering skills for AI coding agents. |
-| 7️⃣ | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 61191 | `Python` | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-mark… |
-| 8️⃣ | [goauthentik/authentik](https://github.com/goauthentik/authentik) | 24273 | `Python` | The authentication glue you need. |
-| 9️⃣ | [google/skills](https://github.com/google/skills) | 17222 | `Python` | Agent Skills for Google products and technologies |
-| 🔟 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | 125520 | `Python` | The most powerful and modular diffusion model GUI, api and backend with … |
+| 🥇 | [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | 4098 | `Python` | Graph-Native Infrastructure for Context and Accountable AI Systems |
+| 🥈 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 141826 | `Shell` | A complete AI agency at your fingertips - From frontend wizards to Reddi… |
+| 🥉 | [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 61010 | `Python` | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百… |
+| 4️⃣ | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 85740 | `JavaScript` | Production-grade engineering skills for AI coding agents. |
+| 5️⃣ | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 76481 | `TypeScript` | The open-source app everyone uses to manage agents at work |
+| 6️⃣ | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | 13063 | `TypeScript` | A self-improving RLM agent for coding workflows and long-running autonom… |
+| 7️⃣ | [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 65254 | `C++` | Truly independent web browser |
+| 8️⃣ | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 89368 | `Rust` | π RuView turns commodity WiFi signals into real-time spatial intelligenc… |
+| 9️⃣ | [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) | 17907 | `TypeScript` | ⛰️A General Hill-climbing AI harness that helps you move from Current St… |
+| 🔟 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 165073 | `TypeScript` | The context API to search, scrape, and interact with the web at scale. 🔥 |
 
 </details>
 
-<sub>🕐 更新于 2026-08-10 08:55 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-08-11 08:55 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
