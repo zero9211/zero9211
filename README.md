@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Bryce Elder](https://twitter.com/search?q=Bryce%20Elder) | — |
-| 🥈 | [#Madden27](https://twitter.com/search?q=%23Madden27) | — |
-| 🥉 | [#MCS27](https://twitter.com/search?q=%23MCS27) | — |
-| 4️⃣ | [Brett Baty](https://twitter.com/search?q=Brett%20Baty) | — |
-| 5️⃣ | [Colombia](https://twitter.com/search?q=Colombia) | — |
-| 6️⃣ | [Stanford](https://twitter.com/search?q=Stanford) | — |
-| 7️⃣ | [Sean Murphy](https://twitter.com/search?q=Sean%20Murphy) | — |
-| 8️⃣ | [Introducing](https://twitter.com/search?q=Introducing) | — |
-| 9️⃣ | [RIP Jackie](https://twitter.com/search?q=RIP%20Jackie) | — |
-| 🔟 | [Pharma](https://twitter.com/search?q=Pharma) | — |
+| 🥇 | [#DWCS](https://twitter.com/search?q=%23DWCS) | — |
+| 🥈 | [Riley Roberts](https://twitter.com/search?q=Riley%20Roberts) | — |
+| 🥉 | [Nicholas Hoult](https://twitter.com/search?q=Nicholas%20Hoult) | — |
+| 4️⃣ | [Honduras](https://twitter.com/search?q=Honduras) | — |
+| 5️⃣ | [#TopChefVIP5](https://twitter.com/search?q=%23TopChefVIP5) | — |
+| 6️⃣ | [Bibee](https://twitter.com/search?q=Bibee) | — |
+| 7️⃣ | [Shota](https://twitter.com/search?q=Shota) | — |
+| 8️⃣ | [Kunneman](https://twitter.com/search?q=Kunneman) | — |
+| 9️⃣ | [Paul Skenes](https://twitter.com/search?q=Paul%20Skenes) | — |
+| 🔟 | [Secret Service](https://twitter.com/search?q=Secret%20Service) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-08-11 08:55 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-08-12 09:01 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-08-11 08:55 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-08-12 09:01 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | 4098 | `Python` | Graph-Native Infrastructure for Context and Accountable AI Systems |
-| 🥈 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 141826 | `Shell` | A complete AI agency at your fingertips - From frontend wizards to Reddi… |
-| 🥉 | [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 61010 | `Python` | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百… |
-| 4️⃣ | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 85740 | `JavaScript` | Production-grade engineering skills for AI coding agents. |
-| 5️⃣ | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 76481 | `TypeScript` | The open-source app everyone uses to manage agents at work |
-| 6️⃣ | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | 13063 | `TypeScript` | A self-improving RLM agent for coding workflows and long-running autonom… |
-| 7️⃣ | [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 65254 | `C++` | Truly independent web browser |
-| 8️⃣ | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 89368 | `Rust` | π RuView turns commodity WiFi signals into real-time spatial intelligenc… |
-| 9️⃣ | [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) | 17907 | `TypeScript` | ⛰️A General Hill-climbing AI harness that helps you move from Current St… |
-| 🔟 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 165073 | `TypeScript` | The context API to search, scrape, and interact with the web at scale. 🔥 |
+| 🥇 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 143228 | `Shell` | A complete AI agency at your fingertips - From frontend wizards to Reddi… |
+| 🥈 | [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | 4892 | `Python` | Graph-Native Infrastructure for Context and Accountable AI Systems |
+| 🥉 | [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 94488 | `Shell` | Node Version Manager - POSIX-compliant bash script to manage multiple ac… |
+| 4️⃣ | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 86223 | `JavaScript` | Production-grade engineering skills for AI coding agents. |
+| 5️⃣ | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 62131 | `Python` | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-mark… |
+| 6️⃣ | [vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag) | 3818 | `Python` | The ultimate RAG for your monorepo. Query, understand, and edit multi-la… |
+| 7️⃣ | [anthropics/skills](https://github.com/anthropics/skills) | 168131 | `Python` | Public repository for Agent Skills |
+| 8️⃣ | [3b1b/manim](https://github.com/3b1b/manim) | 90175 | `Python` | Animation engine for explanatory math videos |
+| 9️⃣ | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 34719 | `Python` | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. |
+| 🔟 | [stablyai/orca](https://github.com/stablyai/orca) | 42782 | `TypeScript` | Orca is the ADE for working with a fleet of parallel agents. Run any cod… |
 
 </details>
 
-<sub>🕐 更新于 2026-08-11 08:55 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-08-12 09:01 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
