@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#DWCS](https://twitter.com/search?q=%23DWCS) | — |
-| 🥈 | [Riley Roberts](https://twitter.com/search?q=Riley%20Roberts) | — |
-| 🥉 | [Nicholas Hoult](https://twitter.com/search?q=Nicholas%20Hoult) | — |
-| 4️⃣ | [Honduras](https://twitter.com/search?q=Honduras) | — |
-| 5️⃣ | [#TopChefVIP5](https://twitter.com/search?q=%23TopChefVIP5) | — |
-| 6️⃣ | [Bibee](https://twitter.com/search?q=Bibee) | — |
-| 7️⃣ | [Shota](https://twitter.com/search?q=Shota) | — |
-| 8️⃣ | [Kunneman](https://twitter.com/search?q=Kunneman) | — |
-| 9️⃣ | [Paul Skenes](https://twitter.com/search?q=Paul%20Skenes) | — |
-| 🔟 | [Secret Service](https://twitter.com/search?q=Secret%20Service) | — |
+| 🥇 | [Karoline](https://twitter.com/search?q=Karoline) | — |
+| 🥈 | [Russ](https://twitter.com/search?q=Russ) | — |
+| 🥉 | [#AEWDynamite](https://twitter.com/search?q=%23AEWDynamite) | — |
+| 4️⃣ | [Will Warren](https://twitter.com/search?q=Will%20Warren) | — |
+| 5️⃣ | [#JarvixOS](https://twitter.com/search?q=%23JarvixOS) | — |
+| 6️⃣ | [Press Secretary](https://twitter.com/search?q=Press%20Secretary) | — |
+| 7️⃣ | [Indiana Bears](https://twitter.com/search?q=Indiana%20Bears) | — |
+| 8️⃣ | [SPLC](https://twitter.com/search?q=SPLC) | — |
+| 9️⃣ | [Golf](https://twitter.com/search?q=Golf) | — |
+| 🔟 | [Brodie](https://twitter.com/search?q=Brodie) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-08-12 09:01 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-08-13 09:03 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-08-12 09:01 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-08-13 09:03 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 143228 | `Shell` | A complete AI agency at your fingertips - From frontend wizards to Reddi… |
-| 🥈 | [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | 4892 | `Python` | Graph-Native Infrastructure for Context and Accountable AI Systems |
-| 🥉 | [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 94488 | `Shell` | Node Version Manager - POSIX-compliant bash script to manage multiple ac… |
-| 4️⃣ | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 86223 | `JavaScript` | Production-grade engineering skills for AI coding agents. |
-| 5️⃣ | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 62131 | `Python` | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-mark… |
-| 6️⃣ | [vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag) | 3818 | `Python` | The ultimate RAG for your monorepo. Query, understand, and edit multi-la… |
-| 7️⃣ | [anthropics/skills](https://github.com/anthropics/skills) | 168131 | `Python` | Public repository for Agent Skills |
-| 8️⃣ | [3b1b/manim](https://github.com/3b1b/manim) | 90175 | `Python` | Animation engine for explanatory math videos |
-| 9️⃣ | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 34719 | `Python` | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. |
-| 🔟 | [stablyai/orca](https://github.com/stablyai/orca) | 42782 | `TypeScript` | Orca is the ADE for working with a fleet of parallel agents. Run any cod… |
+| 🥇 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 10431 | `HTML` | 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. N… |
+| 🥈 | [macro-inc/macro](https://github.com/macro-inc/macro) | 1812 | `Rust` | Macro is a unified workspace for teams: email, chat, docs, tasks, agents… |
+| 🥉 | [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | 5718 | `Python` | Graph-Native Infrastructure for Context and Accountable AI Systems |
+| 4️⃣ | [stablyai/orca](https://github.com/stablyai/orca) | 43888 | `TypeScript` | Orca is the ADE for working with a fleet of parallel agents. Run any cod… |
+| 5️⃣ | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 144567 | `Shell` | A complete AI agency at your fingertips - From frontend wizards to Reddi… |
+| 6️⃣ | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 36943 | `Python` | Kronos: A Foundation Model for the Language of Financial Markets |
+| 7️⃣ | [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 61973 | `Python` | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百… |
+| 8️⃣ | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 45582 | `Python` | AI turns documents or topics into real, native PowerPoint decks—with nat… |
+| 9️⃣ | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | 87550 | `Go` | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) en… |
+| 🔟 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 77738 | `TypeScript` | The open-source app everyone uses to manage agents at work |
 
 </details>
 
-<sub>🕐 更新于 2026-08-12 09:01 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-08-13 09:03 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
