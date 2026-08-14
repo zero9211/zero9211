@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Karoline](https://twitter.com/search?q=Karoline) | — |
-| 🥈 | [Russ](https://twitter.com/search?q=Russ) | — |
-| 🥉 | [#AEWDynamite](https://twitter.com/search?q=%23AEWDynamite) | — |
-| 4️⃣ | [Will Warren](https://twitter.com/search?q=Will%20Warren) | — |
-| 5️⃣ | [#JarvixOS](https://twitter.com/search?q=%23JarvixOS) | — |
-| 6️⃣ | [Press Secretary](https://twitter.com/search?q=Press%20Secretary) | — |
-| 7️⃣ | [Indiana Bears](https://twitter.com/search?q=Indiana%20Bears) | — |
-| 8️⃣ | [SPLC](https://twitter.com/search?q=SPLC) | — |
-| 9️⃣ | [Golf](https://twitter.com/search?q=Golf) | — |
-| 🔟 | [Brodie](https://twitter.com/search?q=Brodie) | — |
+| 🥇 | [Howard](https://twitter.com/search?q=Howard) | — |
+| 🥈 | [Anthony Richardson](https://twitter.com/search?q=Anthony%20Richardson) | — |
+| 🥉 | [Field of Dreams](https://twitter.com/search?q=Field%20of%20Dreams) | — |
+| 4️⃣ | [Steelers](https://twitter.com/search?q=Steelers) | — |
+| 5️⃣ | [Bengals](https://twitter.com/search?q=Bengals) | — |
+| 6️⃣ | [Germie Bernard](https://twitter.com/search?q=Germie%20Bernard) | — |
+| 7️⃣ | [Mason Rudolph](https://twitter.com/search?q=Mason%20Rudolph) | — |
+| 8️⃣ | [#HereWeGo](https://twitter.com/search?q=%23HereWeGo) | — |
+| 9️⃣ | [#Madden27Sweepstakes](https://twitter.com/search?q=%23Madden27Sweepstakes) | — |
+| 🔟 | [Raiders](https://twitter.com/search?q=Raiders) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-08-13 09:03 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-08-14 09:02 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-08-13 09:03 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-08-14 09:02 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 10431 | `HTML` | 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. N… |
-| 🥈 | [macro-inc/macro](https://github.com/macro-inc/macro) | 1812 | `Rust` | Macro is a unified workspace for teams: email, chat, docs, tasks, agents… |
-| 🥉 | [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | 5718 | `Python` | Graph-Native Infrastructure for Context and Accountable AI Systems |
-| 4️⃣ | [stablyai/orca](https://github.com/stablyai/orca) | 43888 | `TypeScript` | Orca is the ADE for working with a fleet of parallel agents. Run any cod… |
-| 5️⃣ | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 144567 | `Shell` | A complete AI agency at your fingertips - From frontend wizards to Reddi… |
-| 6️⃣ | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 36943 | `Python` | Kronos: A Foundation Model for the Language of Financial Markets |
-| 7️⃣ | [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 61973 | `Python` | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百… |
-| 8️⃣ | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 45582 | `Python` | AI turns documents or topics into real, native PowerPoint decks—with nat… |
-| 9️⃣ | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | 87550 | `Go` | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) en… |
-| 🔟 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 77738 | `TypeScript` | The open-source app everyone uses to manage agents at work |
+| 🥇 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 14549 | `HTML` | 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. N… |
+| 🥈 | [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | 6673 | `Python` | Graph-Native Infrastructure for Context and Accountable AI Systems |
+| 🥉 | [anthropics/skills](https://github.com/anthropics/skills) | 169025 | `Python` | Public repository for Agent Skills |
+| 4️⃣ | [cactus-compute/needle](https://github.com/cactus-compute/needle) | 4955 | `Python` | 14MB foundation model for tiny devices; phones, wearables, smart home, a… |
+| 5️⃣ | [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | 9854 | `Swift` | Fastest and only macOS Dictation app with on-device STT and custom train… |
+| 6️⃣ | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 71060 | `Python` | Local UI to run and train LLMs and diffusion models, including Qwen3.8, … |
+| 7️⃣ | [macro-inc/macro](https://github.com/macro-inc/macro) | 2604 | `Rust` | Macro is a unified workspace for teams: email, chat, docs, tasks, agents… |
+| 8️⃣ | [megadose/holehe](https://github.com/megadose/holehe) | 12425 | `Python` | holehe allows you to check if the mail is used on different sites like t… |
+| 9️⃣ | [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) | 20675 | `Python` | SpiderFoot automates OSINT for threat intelligence and mapping your atta… |
+| 🔟 | [NVIDIA-NeMo/Switchyard](https://github.com/NVIDIA-NeMo/Switchyard) | 1217 | `Rust` | Switchyard lets LLM applications route traffic across models and provide… |
 
 </details>
 
-<sub>🕐 更新于 2026-08-13 09:03 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-08-14 09:02 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
