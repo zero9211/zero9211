@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Howard](https://twitter.com/search?q=Howard) | — |
-| 🥈 | [Anthony Richardson](https://twitter.com/search?q=Anthony%20Richardson) | — |
-| 🥉 | [Field of Dreams](https://twitter.com/search?q=Field%20of%20Dreams) | — |
-| 4️⃣ | [Steelers](https://twitter.com/search?q=Steelers) | — |
-| 5️⃣ | [Bengals](https://twitter.com/search?q=Bengals) | — |
-| 6️⃣ | [Germie Bernard](https://twitter.com/search?q=Germie%20Bernard) | — |
-| 7️⃣ | [Mason Rudolph](https://twitter.com/search?q=Mason%20Rudolph) | — |
-| 8️⃣ | [#HereWeGo](https://twitter.com/search?q=%23HereWeGo) | — |
-| 9️⃣ | [#Madden27Sweepstakes](https://twitter.com/search?q=%23Madden27Sweepstakes) | — |
-| 🔟 | [Raiders](https://twitter.com/search?q=Raiders) | — |
+| 🥇 | [Candace](https://twitter.com/search?q=Candace) | — |
+| 🥈 | [Andrew](https://twitter.com/search?q=Andrew) | — |
+| 🥉 | [Cambridge](https://twitter.com/search?q=Cambridge) | — |
+| 4️⃣ | [Caleb Douglas](https://twitter.com/search?q=Caleb%20Douglas) | — |
+| 5️⃣ | [Jason Arday](https://twitter.com/search?q=Jason%20Arday) | — |
+| 6️⃣ | [Falcons](https://twitter.com/search?q=Falcons) | — |
+| 7️⃣ | [Braelon Allen](https://twitter.com/search?q=Braelon%20Allen) | — |
+| 8️⃣ | [#Halle60](https://twitter.com/search?q=%23Halle60) | — |
+| 9️⃣ | [Mike Hughes](https://twitter.com/search?q=Mike%20Hughes) | — |
+| 🔟 | [Courtland Sutton](https://twitter.com/search?q=Courtland%20Sutton) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-08-14 09:02 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-08-15 08:37 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-08-14 09:02 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-08-15 08:37 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 14549 | `HTML` | 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. N… |
-| 🥈 | [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | 6673 | `Python` | Graph-Native Infrastructure for Context and Accountable AI Systems |
-| 🥉 | [anthropics/skills](https://github.com/anthropics/skills) | 169025 | `Python` | Public repository for Agent Skills |
-| 4️⃣ | [cactus-compute/needle](https://github.com/cactus-compute/needle) | 4955 | `Python` | 14MB foundation model for tiny devices; phones, wearables, smart home, a… |
-| 5️⃣ | [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | 9854 | `Swift` | Fastest and only macOS Dictation app with on-device STT and custom train… |
-| 6️⃣ | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 71060 | `Python` | Local UI to run and train LLMs and diffusion models, including Qwen3.8, … |
-| 7️⃣ | [macro-inc/macro](https://github.com/macro-inc/macro) | 2604 | `Rust` | Macro is a unified workspace for teams: email, chat, docs, tasks, agents… |
-| 8️⃣ | [megadose/holehe](https://github.com/megadose/holehe) | 12425 | `Python` | holehe allows you to check if the mail is used on different sites like t… |
-| 9️⃣ | [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) | 20675 | `Python` | SpiderFoot automates OSINT for threat intelligence and mapping your atta… |
-| 🔟 | [NVIDIA-NeMo/Switchyard](https://github.com/NVIDIA-NeMo/Switchyard) | 1217 | `Rust` | Switchyard lets LLM applications route traffic across models and provide… |
+| 🥇 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 17231 | `HTML` | 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. N… |
+| 🥈 | [cactus-compute/needle](https://github.com/cactus-compute/needle) | 5601 | `Python` | 14MB foundation model for tiny devices; phones, wearables, smart home, a… |
+| 🥉 | [megadose/holehe](https://github.com/megadose/holehe) | 12845 | `Python` | holehe allows you to check if the mail is used on different sites like t… |
+| 4️⃣ | [macro-inc/macro](https://github.com/macro-inc/macro) | 3030 | `Rust` | Macro is a unified workspace for teams: email, chat, docs, tasks, agents… |
+| 5️⃣ | [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) | 20944 | `Python` | SpiderFoot automates OSINT for threat intelligence and mapping your atta… |
+| 6️⃣ | [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | 10358 | `JavaScript` | The fastest browser for AI agents to run browser automation, built for s… |
+| 7️⃣ | [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) | 7284 | `TypeScript` | Open-source All in One AI agent workspace. Run any agent — Claude Code, … |
+| 8️⃣ | [github/spec-kit](https://github.com/github/spec-kit) | 128510 | `Python` | 💫 Toolkit to help you get started with Spec-Driven Development |
+| 9️⃣ | [lightningpixel/modly](https://github.com/lightningpixel/modly) | 5931 | `TypeScript` | Desktop app to generate 3D models from images or prompt using local AI —… |
+| 🔟 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | 88380 | `Go` | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) en… |
 
 </details>
 
-<sub>🕐 更新于 2026-08-14 09:02 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-08-15 08:37 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
