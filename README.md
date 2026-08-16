@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Candace](https://twitter.com/search?q=Candace) | — |
-| 🥈 | [Andrew](https://twitter.com/search?q=Andrew) | — |
-| 🥉 | [Cambridge](https://twitter.com/search?q=Cambridge) | — |
-| 4️⃣ | [Caleb Douglas](https://twitter.com/search?q=Caleb%20Douglas) | — |
-| 5️⃣ | [Jason Arday](https://twitter.com/search?q=Jason%20Arday) | — |
-| 6️⃣ | [Falcons](https://twitter.com/search?q=Falcons) | — |
-| 7️⃣ | [Braelon Allen](https://twitter.com/search?q=Braelon%20Allen) | — |
-| 8️⃣ | [#Halle60](https://twitter.com/search?q=%23Halle60) | — |
-| 9️⃣ | [Mike Hughes](https://twitter.com/search?q=Mike%20Hughes) | — |
-| 🔟 | [Courtland Sutton](https://twitter.com/search?q=Courtland%20Sutton) | — |
+| 🥇 | [#UFC330](https://twitter.com/search?q=%23UFC330) | — |
+| 🥈 | [Massie](https://twitter.com/search?q=Massie) | — |
+| 🥉 | [Ty Simpson](https://twitter.com/search?q=Ty%20Simpson) | — |
+| 4️⃣ | [#zeus](https://twitter.com/search?q=%23zeus) | — |
+| 5️⃣ | [Tyler Loop](https://twitter.com/search?q=Tyler%20Loop) | — |
+| 6️⃣ | [Donte Johnson](https://twitter.com/search?q=Donte%20Johnson) | — |
+| 7️⃣ | [Luque](https://twitter.com/search?q=Luque) | — |
+| 8️⃣ | [Lucas Fernando](https://twitter.com/search?q=Lucas%20Fernando) | — |
+| 9️⃣ | [Grant Holmes](https://twitter.com/search?q=Grant%20Holmes) | — |
+| 🔟 | [Tresean Gore](https://twitter.com/search?q=Tresean%20Gore) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-08-15 08:37 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-08-16 08:39 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-08-15 08:37 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-08-16 08:39 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 17231 | `HTML` | 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. N… |
-| 🥈 | [cactus-compute/needle](https://github.com/cactus-compute/needle) | 5601 | `Python` | 14MB foundation model for tiny devices; phones, wearables, smart home, a… |
-| 🥉 | [megadose/holehe](https://github.com/megadose/holehe) | 12845 | `Python` | holehe allows you to check if the mail is used on different sites like t… |
-| 4️⃣ | [macro-inc/macro](https://github.com/macro-inc/macro) | 3030 | `Rust` | Macro is a unified workspace for teams: email, chat, docs, tasks, agents… |
-| 5️⃣ | [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) | 20944 | `Python` | SpiderFoot automates OSINT for threat intelligence and mapping your atta… |
-| 6️⃣ | [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | 10358 | `JavaScript` | The fastest browser for AI agents to run browser automation, built for s… |
-| 7️⃣ | [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) | 7284 | `TypeScript` | Open-source All in One AI agent workspace. Run any agent — Claude Code, … |
-| 8️⃣ | [github/spec-kit](https://github.com/github/spec-kit) | 128510 | `Python` | 💫 Toolkit to help you get started with Spec-Driven Development |
-| 9️⃣ | [lightningpixel/modly](https://github.com/lightningpixel/modly) | 5931 | `TypeScript` | Desktop app to generate 3D models from images or prompt using local AI —… |
-| 🔟 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | 88380 | `Go` | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) en… |
+| 🥇 | [cordiverse/cordis](https://github.com/cordiverse/cordis) | 4065 | `TypeScript` | Meta-Framework of Spatiotemporal Composability |
+| 🥈 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 18609 | `HTML` | 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. N… |
+| 🥉 | [cursor/plugins](https://github.com/cursor/plugins) | 2950 | `TypeScript` | Cursor plugin specification and official plugins |
+| 4️⃣ | [cactus-compute/needle](https://github.com/cactus-compute/needle) | 6062 | `Python` | 14MB foundation model for tiny devices; phones, wearables, smart home, a… |
+| 5️⃣ | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 72047 | `Python` | Local UI to run and train LLMs and diffusion models, including Qwen3.8, … |
+| 6️⃣ | [public-apis/public-apis](https://github.com/public-apis/public-apis) | 460167 | `Python` | A collective list of free APIs |
+| 7️⃣ | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 1659 | `Python` | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 … |
+| 8️⃣ | [github/spec-kit](https://github.com/github/spec-kit) | 129195 | `Python` | 💫 Toolkit to help you get started with Spec-Driven Development |
+| 9️⃣ | [megadose/holehe](https://github.com/megadose/holehe) | 13115 | `Python` | holehe allows you to check if the mail is used on different sites like t… |
+| 🔟 | [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | 10326 | `Swift` | Fastest and only macOS Dictation app with on-device STT and custom train… |
 
 </details>
 
-<sub>🕐 更新于 2026-08-15 08:37 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-08-16 08:39 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
