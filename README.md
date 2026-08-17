@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#UFC330](https://twitter.com/search?q=%23UFC330) | — |
-| 🥈 | [Massie](https://twitter.com/search?q=Massie) | — |
-| 🥉 | [Ty Simpson](https://twitter.com/search?q=Ty%20Simpson) | — |
-| 4️⃣ | [#zeus](https://twitter.com/search?q=%23zeus) | — |
-| 5️⃣ | [Tyler Loop](https://twitter.com/search?q=Tyler%20Loop) | — |
-| 6️⃣ | [Donte Johnson](https://twitter.com/search?q=Donte%20Johnson) | — |
-| 7️⃣ | [Luque](https://twitter.com/search?q=Luque) | — |
-| 8️⃣ | [Lucas Fernando](https://twitter.com/search?q=Lucas%20Fernando) | — |
-| 9️⃣ | [Grant Holmes](https://twitter.com/search?q=Grant%20Holmes) | — |
-| 🔟 | [Tresean Gore](https://twitter.com/search?q=Tresean%20Gore) | — |
+| 🥇 | [Angel Reese](https://twitter.com/search?q=Angel%20Reese) | — |
+| 🥈 | [South Korea](https://twitter.com/search?q=South%20Korea) | — |
+| 🥉 | [Kelsey Mitchell](https://twitter.com/search?q=Kelsey%20Mitchell) | — |
+| 4️⃣ | [Rhyne](https://twitter.com/search?q=Rhyne) | — |
+| 5️⃣ | [Allisha Gray](https://twitter.com/search?q=Allisha%20Gray) | — |
+| 6️⃣ | [Noah Cameron](https://twitter.com/search?q=Noah%20Cameron) | — |
+| 7️⃣ | [Logan Henderson](https://twitter.com/search?q=Logan%20Henderson) | — |
+| 8️⃣ | [Jordyn](https://twitter.com/search?q=Jordyn) | — |
+| 9️⃣ | [Tommy John](https://twitter.com/search?q=Tommy%20John) | — |
+| 🔟 | [Cabrera](https://twitter.com/search?q=Cabrera) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-08-16 08:39 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-08-17 08:37 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-08-16 08:39 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-08-17 08:37 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,17 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [cordiverse/cordis](https://github.com/cordiverse/cordis) | 4065 | `TypeScript` | Meta-Framework of Spatiotemporal Composability |
-| 🥈 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 18609 | `HTML` | 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. N… |
-| 🥉 | [cursor/plugins](https://github.com/cursor/plugins) | 2950 | `TypeScript` | Cursor plugin specification and official plugins |
-| 4️⃣ | [cactus-compute/needle](https://github.com/cactus-compute/needle) | 6062 | `Python` | 14MB foundation model for tiny devices; phones, wearables, smart home, a… |
-| 5️⃣ | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 72047 | `Python` | Local UI to run and train LLMs and diffusion models, including Qwen3.8, … |
-| 6️⃣ | [public-apis/public-apis](https://github.com/public-apis/public-apis) | 460167 | `Python` | A collective list of free APIs |
-| 7️⃣ | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 1659 | `Python` | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 … |
-| 8️⃣ | [github/spec-kit](https://github.com/github/spec-kit) | 129195 | `Python` | 💫 Toolkit to help you get started with Spec-Driven Development |
-| 9️⃣ | [megadose/holehe](https://github.com/megadose/holehe) | 13115 | `Python` | holehe allows you to check if the mail is used on different sites like t… |
-| 🔟 | [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | 10326 | `Swift` | Fastest and only macOS Dictation app with on-device STT and custom train… |
+| 🥇 | [cordiverse/cordis](https://github.com/cordiverse/cordis) | 4715 | `TypeScript` | Meta-Framework of Spatiotemporal Composability |
+| 🥈 | [basecamp/omarchy](https://github.com/basecamp/omarchy) | 25373 | `Shell` | Beautiful, Modern & Opinionated Linux |
+| 🥉 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 72571 | `Python` | Local UI to run and train LLMs and diffusion models, including Qwen3.8, … |
+| 4️⃣ | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | 83884 | `TypeScript` | The open-source CapCut alternative |
+| 5️⃣ | [public-apis/public-apis](https://github.com/public-apis/public-apis) | 461738 | `Python` | A collective list of free APIs |
+| 6️⃣ | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 40022 | `JavaScript` | ToolJet is the open-source foundation of ToolJet AI - the enterprise app… |
+| 7️⃣ | [cactus-compute/needle](https://github.com/cactus-compute/needle) | 6563 | `Python` | 14MB foundation model for tiny devices; phones, wearables, smart home, a… |
 
 </details>
 
-<sub>🕐 更新于 2026-08-16 08:39 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-08-17 08:37 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
