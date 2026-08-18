@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Angel Reese](https://twitter.com/search?q=Angel%20Reese) | — |
-| 🥈 | [South Korea](https://twitter.com/search?q=South%20Korea) | — |
-| 🥉 | [Kelsey Mitchell](https://twitter.com/search?q=Kelsey%20Mitchell) | — |
-| 4️⃣ | [Rhyne](https://twitter.com/search?q=Rhyne) | — |
-| 5️⃣ | [Allisha Gray](https://twitter.com/search?q=Allisha%20Gray) | — |
-| 6️⃣ | [Noah Cameron](https://twitter.com/search?q=Noah%20Cameron) | — |
-| 7️⃣ | [Logan Henderson](https://twitter.com/search?q=Logan%20Henderson) | — |
-| 8️⃣ | [Jordyn](https://twitter.com/search?q=Jordyn) | — |
-| 9️⃣ | [Tommy John](https://twitter.com/search?q=Tommy%20John) | — |
-| 🔟 | [Cabrera](https://twitter.com/search?q=Cabrera) | — |
+| 🥇 | [Jeanie](https://twitter.com/search?q=Jeanie) | — |
+| 🥈 | [#RTXPowersPlay](https://twitter.com/search?q=%23RTXPowersPlay) | — |
+| 🥉 | [Carson Benge](https://twitter.com/search?q=Carson%20Benge) | — |
+| 4️⃣ | [Ossoff](https://twitter.com/search?q=Ossoff) | — |
+| 5️⃣ | [Jordyn Tyson](https://twitter.com/search?q=Jordyn%20Tyson) | — |
+| 6️⃣ | [Ketel Marte](https://twitter.com/search?q=Ketel%20Marte) | — |
+| 7️⃣ | [Jorge Mateo](https://twitter.com/search?q=Jorge%20Mateo) | — |
+| 8️⃣ | [#monarch](https://twitter.com/search?q=%23monarch) | — |
+| 9️⃣ | [Coby Mayo](https://twitter.com/search?q=Coby%20Mayo) | — |
+| 🔟 | [Kristen Holmes](https://twitter.com/search?q=Kristen%20Holmes) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-08-17 08:37 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-08-18 08:36 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-08-17 08:37 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-08-18 08:36 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,17 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [cordiverse/cordis](https://github.com/cordiverse/cordis) | 4715 | `TypeScript` | Meta-Framework of Spatiotemporal Composability |
-| 🥈 | [basecamp/omarchy](https://github.com/basecamp/omarchy) | 25373 | `Shell` | Beautiful, Modern & Opinionated Linux |
-| 🥉 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 72571 | `Python` | Local UI to run and train LLMs and diffusion models, including Qwen3.8, … |
-| 4️⃣ | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | 83884 | `TypeScript` | The open-source CapCut alternative |
-| 5️⃣ | [public-apis/public-apis](https://github.com/public-apis/public-apis) | 461738 | `Python` | A collective list of free APIs |
-| 6️⃣ | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 40022 | `JavaScript` | ToolJet is the open-source foundation of ToolJet AI - the enterprise app… |
-| 7️⃣ | [cactus-compute/needle](https://github.com/cactus-compute/needle) | 6563 | `Python` | 14MB foundation model for tiny devices; phones, wearables, smart home, a… |
+| 🥇 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 106001 | `Python` | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic… |
+| 🥈 | [usestrix/strix](https://github.com/usestrix/strix) | 54159 | `Python` | Open-source AI penetration testing tool to find and fix your app’s vulne… |
+| 🥉 | [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | 25910 | `Rust` | Production-grade Rust-native trading engine with deterministic event-dri… |
+| 4️⃣ | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | 2047 | `Rust` | Solution for long term memory for agent coding CLIs and to facilitate ha… |
+| 5️⃣ | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 28419 | `Python` | 817 structured cybersecurity skills for AI agents · Mapped to 6 framewor… |
+| 6️⃣ | [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | 32262 | `Rust` | Hundreds of models & providers. One command to find what runs on your ha… |
+| 7️⃣ | [santifer/career-ops](https://github.com/santifer/career-ops) | 64634 | `JavaScript` | Open-source AI job search: scan job portals, evaluate listings with a st… |
+| 8️⃣ | [jundot/omlx](https://github.com/jundot/omlx) | 18986 | `Python` | LLM inference server with continuous batching & SSD caching for Apple Si… |
+| 9️⃣ | [immich-app/immich](https://github.com/immich-app/immich) | 111151 | `TypeScript` | High performance self-hosted photo and video management solution. |
+| 🔟 | [cordiverse/cordis](https://github.com/cordiverse/cordis) | 5578 | `TypeScript` | Meta-Framework of Spatiotemporal Composability |
 
 </details>
 
-<sub>🕐 更新于 2026-08-17 08:37 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-08-18 08:36 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
