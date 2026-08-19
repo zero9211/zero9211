@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Jeanie](https://twitter.com/search?q=Jeanie) | — |
-| 🥈 | [#RTXPowersPlay](https://twitter.com/search?q=%23RTXPowersPlay) | — |
-| 🥉 | [Carson Benge](https://twitter.com/search?q=Carson%20Benge) | — |
-| 4️⃣ | [Ossoff](https://twitter.com/search?q=Ossoff) | — |
-| 5️⃣ | [Jordyn Tyson](https://twitter.com/search?q=Jordyn%20Tyson) | — |
-| 6️⃣ | [Ketel Marte](https://twitter.com/search?q=Ketel%20Marte) | — |
-| 7️⃣ | [Jorge Mateo](https://twitter.com/search?q=Jorge%20Mateo) | — |
-| 8️⃣ | [#monarch](https://twitter.com/search?q=%23monarch) | — |
-| 9️⃣ | [Coby Mayo](https://twitter.com/search?q=Coby%20Mayo) | — |
-| 🔟 | [Kristen Holmes](https://twitter.com/search?q=Kristen%20Holmes) | — |
+| 🥇 | [#DWCS](https://twitter.com/search?q=%23DWCS) | — |
+| 🥈 | [ZZ Top](https://twitter.com/search?q=ZZ%20Top) | — |
+| 🥉 | [Frank Beard](https://twitter.com/search?q=Frank%20Beard) | — |
+| 4️⃣ | [Puga](https://twitter.com/search?q=Puga) | — |
+| 5️⃣ | [Trembley](https://twitter.com/search?q=Trembley) | — |
+| 6️⃣ | [Jo Adell](https://twitter.com/search?q=Jo%20Adell) | — |
+| 7️⃣ | [Senate Republicans](https://twitter.com/search?q=Senate%20Republicans) | — |
+| 8️⃣ | [Vindman](https://twitter.com/search?q=Vindman) | — |
+| 9️⃣ | [GTA 6](https://twitter.com/search?q=GTA%206) | — |
+| 🔟 | [Fishback](https://twitter.com/search?q=Fishback) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-08-18 08:36 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-08-19 08:37 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-08-18 08:36 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-08-19 08:37 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 106001 | `Python` | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic… |
-| 🥈 | [usestrix/strix](https://github.com/usestrix/strix) | 54159 | `Python` | Open-source AI penetration testing tool to find and fix your app’s vulne… |
-| 🥉 | [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | 25910 | `Rust` | Production-grade Rust-native trading engine with deterministic event-dri… |
-| 4️⃣ | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | 2047 | `Rust` | Solution for long term memory for agent coding CLIs and to facilitate ha… |
-| 5️⃣ | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 28419 | `Python` | 817 structured cybersecurity skills for AI agents · Mapped to 6 framewor… |
-| 6️⃣ | [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | 32262 | `Rust` | Hundreds of models & providers. One command to find what runs on your ha… |
-| 7️⃣ | [santifer/career-ops](https://github.com/santifer/career-ops) | 64634 | `JavaScript` | Open-source AI job search: scan job portals, evaluate listings with a st… |
-| 8️⃣ | [jundot/omlx](https://github.com/jundot/omlx) | 18986 | `Python` | LLM inference server with continuous batching & SSD caching for Apple Si… |
-| 9️⃣ | [immich-app/immich](https://github.com/immich-app/immich) | 111151 | `TypeScript` | High performance self-hosted photo and video management solution. |
-| 🔟 | [cordiverse/cordis](https://github.com/cordiverse/cordis) | 5578 | `TypeScript` | Meta-Framework of Spatiotemporal Composability |
+| 🥇 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 108520 | `Python` | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic… |
+| 🥈 | [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin) | 2026 | `TypeScript` | local multi-agent harness |
+| 🥉 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | 2719 | `Rust` | Solution for long term memory for agent coding CLIs and to facilitate ha… |
+| 4️⃣ | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 29370 | `Python` | Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowle… |
+| 5️⃣ | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 29184 | `Python` | 817 structured cybersecurity skills for AI agents · Mapped to 6 framewor… |
+| 6️⃣ | [public-apis/public-apis](https://github.com/public-apis/public-apis) | 464539 | `Python` | A collective list of free APIs |
+| 7️⃣ | [basecamp/omarchy](https://github.com/basecamp/omarchy) | 26422 | `Shell` | Beautiful, Modern & Opinionated Linux |
+| 8️⃣ | [agalwood/Motrix](https://github.com/agalwood/Motrix) | 53654 | `TypeScript` | A full-featured download manager. |
+| 9️⃣ | [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR) | 24296 | `PLSQL` | Open-source, low-cost 10.5 GHz PLFM phased array RADAR system |
+| 🔟 | [jundot/omlx](https://github.com/jundot/omlx) | 19392 | `Python` | LLM inference server with continuous batching & SSD caching for Apple Si… |
 
 </details>
 
-<sub>🕐 更新于 2026-08-18 08:36 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-08-19 08:37 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
