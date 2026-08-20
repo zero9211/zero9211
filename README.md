@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#DWCS](https://twitter.com/search?q=%23DWCS) | — |
-| 🥈 | [ZZ Top](https://twitter.com/search?q=ZZ%20Top) | — |
-| 🥉 | [Frank Beard](https://twitter.com/search?q=Frank%20Beard) | — |
-| 4️⃣ | [Puga](https://twitter.com/search?q=Puga) | — |
-| 5️⃣ | [Trembley](https://twitter.com/search?q=Trembley) | — |
-| 6️⃣ | [Jo Adell](https://twitter.com/search?q=Jo%20Adell) | — |
-| 7️⃣ | [Senate Republicans](https://twitter.com/search?q=Senate%20Republicans) | — |
-| 8️⃣ | [Vindman](https://twitter.com/search?q=Vindman) | — |
-| 9️⃣ | [GTA 6](https://twitter.com/search?q=GTA%206) | — |
-| 🔟 | [Fishback](https://twitter.com/search?q=Fishback) | — |
+| 🥇 | [Meghan](https://twitter.com/search?q=Meghan) | — |
+| 🥈 | [Moran](https://twitter.com/search?q=Moran) | — |
+| 🥉 | [ECONOMIC D-DAY](https://twitter.com/search?q=ECONOMIC%20D-DAY) | — |
+| 4️⃣ | [Chauvin](https://twitter.com/search?q=Chauvin) | — |
+| 5️⃣ | [$40 Trillion](https://twitter.com/search?q=%2440%20Trillion) | — |
+| 6️⃣ | [Mickey Gasper](https://twitter.com/search?q=Mickey%20Gasper) | — |
+| 7️⃣ | [Rory](https://twitter.com/search?q=Rory) | — |
+| 8️⃣ | [#OlandriaxCharlotteTilbury](https://twitter.com/search?q=%23OlandriaxCharlotteTilbury) | — |
+| 9️⃣ | [Weissert](https://twitter.com/search?q=Weissert) | — |
+| 🔟 | [Will Warren](https://twitter.com/search?q=Will%20Warren) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-08-19 08:37 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-08-20 08:37 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-08-19 08:37 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-08-20 08:37 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 108520 | `Python` | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic… |
-| 🥈 | [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin) | 2026 | `TypeScript` | local multi-agent harness |
-| 🥉 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | 2719 | `Rust` | Solution for long term memory for agent coding CLIs and to facilitate ha… |
-| 4️⃣ | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 29370 | `Python` | Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowle… |
-| 5️⃣ | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 29184 | `Python` | 817 structured cybersecurity skills for AI agents · Mapped to 6 framewor… |
-| 6️⃣ | [public-apis/public-apis](https://github.com/public-apis/public-apis) | 464539 | `Python` | A collective list of free APIs |
-| 7️⃣ | [basecamp/omarchy](https://github.com/basecamp/omarchy) | 26422 | `Shell` | Beautiful, Modern & Opinionated Linux |
-| 8️⃣ | [agalwood/Motrix](https://github.com/agalwood/Motrix) | 53654 | `TypeScript` | A full-featured download manager. |
-| 9️⃣ | [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR) | 24296 | `PLSQL` | Open-source, low-cost 10.5 GHz PLFM phased array RADAR system |
-| 🔟 | [jundot/omlx](https://github.com/jundot/omlx) | 19392 | `Python` | LLM inference server with continuous batching & SSD caching for Apple Si… |
+| 🥇 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 110627 | `Python` | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic… |
+| 🥈 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 30175 | `Python` | Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowle… |
+| 🥉 | [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin) | 2684 | `TypeScript` | local multi-agent harness |
+| 4️⃣ | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 29835 | `Python` | 817 structured cybersecurity skills for AI agents · Mapped to 6 framewor… |
+| 5️⃣ | [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | 26441 | `Rust` | Production-grade Rust-native trading engine with deterministic event-dri… |
+| 6️⃣ | [mattpocock/skills](https://github.com/mattpocock/skills) | 223792 | `Shell` | Skills for Real Engineers. Straight from my .agents directory. |
+| 7️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 274262 | `Shell` | An agentic skills framework & software development methodology that work… |
+| 8️⃣ | [jundot/omlx](https://github.com/jundot/omlx) | 19833 | `Python` | LLM inference server with continuous batching & SSD caching for Apple Si… |
+| 9️⃣ | [santifer/career-ops](https://github.com/santifer/career-ops) | 65782 | `JavaScript` | Open-source AI job search: scan job portals, evaluate listings with a st… |
+| 🔟 | [immich-app/immich](https://github.com/immich-app/immich) | 111869 | `TypeScript` | High performance self-hosted photo and video management solution. |
 
 </details>
 
-<sub>🕐 更新于 2026-08-19 08:37 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-08-20 08:37 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
