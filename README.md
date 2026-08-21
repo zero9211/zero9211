@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Meghan](https://twitter.com/search?q=Meghan) | — |
-| 🥈 | [Moran](https://twitter.com/search?q=Moran) | — |
-| 🥉 | [ECONOMIC D-DAY](https://twitter.com/search?q=ECONOMIC%20D-DAY) | — |
-| 4️⃣ | [Chauvin](https://twitter.com/search?q=Chauvin) | — |
-| 5️⃣ | [$40 Trillion](https://twitter.com/search?q=%2440%20Trillion) | — |
-| 6️⃣ | [Mickey Gasper](https://twitter.com/search?q=Mickey%20Gasper) | — |
-| 7️⃣ | [Rory](https://twitter.com/search?q=Rory) | — |
-| 8️⃣ | [#OlandriaxCharlotteTilbury](https://twitter.com/search?q=%23OlandriaxCharlotteTilbury) | — |
-| 9️⃣ | [Weissert](https://twitter.com/search?q=Weissert) | — |
-| 🔟 | [Will Warren](https://twitter.com/search?q=Will%20Warren) | — |
+| 🥇 | [Kratos](https://twitter.com/search?q=Kratos) | — |
+| 🥈 | [2xko](https://twitter.com/search?q=2xko) | — |
+| 🥉 | [Kade Anderson](https://twitter.com/search?q=Kade%20Anderson) | — |
+| 4️⃣ | [Riot](https://twitter.com/search?q=Riot) | — |
+| 5️⃣ | [Bautista](https://twitter.com/search?q=Bautista) | — |
+| 6️⃣ | [Ryan Hurst](https://twitter.com/search?q=Ryan%20Hurst) | — |
+| 7️⃣ | [Karmelo](https://twitter.com/search?q=Karmelo) | — |
+| 8️⃣ | [Doris Miller](https://twitter.com/search?q=Doris%20Miller) | — |
+| 9️⃣ | [Dover](https://twitter.com/search?q=Dover) | — |
+| 🔟 | [Verzuz](https://twitter.com/search?q=Verzuz) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-08-20 08:37 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-08-21 08:39 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-08-20 08:37 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-08-21 08:39 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 110627 | `Python` | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic… |
-| 🥈 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 30175 | `Python` | Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowle… |
-| 🥉 | [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin) | 2684 | `TypeScript` | local multi-agent harness |
-| 4️⃣ | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 29835 | `Python` | 817 structured cybersecurity skills for AI agents · Mapped to 6 framewor… |
-| 5️⃣ | [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | 26441 | `Rust` | Production-grade Rust-native trading engine with deterministic event-dri… |
-| 6️⃣ | [mattpocock/skills](https://github.com/mattpocock/skills) | 223792 | `Shell` | Skills for Real Engineers. Straight from my .agents directory. |
-| 7️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 274262 | `Shell` | An agentic skills framework & software development methodology that work… |
-| 8️⃣ | [jundot/omlx](https://github.com/jundot/omlx) | 19833 | `Python` | LLM inference server with continuous batching & SSD caching for Apple Si… |
-| 9️⃣ | [santifer/career-ops](https://github.com/santifer/career-ops) | 65782 | `JavaScript` | Open-source AI job search: scan job portals, evaluate listings with a st… |
-| 🔟 | [immich-app/immich](https://github.com/immich-app/immich) | 111869 | `TypeScript` | High performance self-hosted photo and video management solution. |
+| 🥇 | [modular/modular](https://github.com/modular/modular) | 27933 | `Mojo` | The Modular Platform (includes MAX & Mojo) |
+| 🥈 | [mattpocock/skills](https://github.com/mattpocock/skills) | 226459 | `Shell` | Skills for Real Engineers. Straight from my .agents directory. |
+| 🥉 | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | 11859 | `Rust` | ⚡️A native, local-first alternative to Logitech Options+, written in Rus… |
+| 4️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 274943 | `Shell` | An agentic skills framework & software development methodology that work… |
+| 5️⃣ | [cursor/plugins](https://github.com/cursor/plugins) | 4082 | `TypeScript` | Cursor plugin specification and official plugins |
+| 6️⃣ | [santifer/career-ops](https://github.com/santifer/career-ops) | 66675 | `JavaScript` | Open-source AI job search: scan job portals, evaluate listings with a st… |
+| 7️⃣ | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | 3597 | `Rust` | Solution for long term memory for agent coding CLIs and to facilitate ha… |
+| 8️⃣ | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 112928 | `Python` | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic… |
+| 9️⃣ | [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | 1391 | `Go` | Agent Substrate: the core system |
+| 🔟 | [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin) | 3127 | `TypeScript` | local multi-agent harness |
 
 </details>
 
-<sub>🕐 更新于 2026-08-20 08:37 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-08-21 08:39 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
