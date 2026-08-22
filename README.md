@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Kratos](https://twitter.com/search?q=Kratos) | — |
-| 🥈 | [2xko](https://twitter.com/search?q=2xko) | — |
-| 🥉 | [Kade Anderson](https://twitter.com/search?q=Kade%20Anderson) | — |
-| 4️⃣ | [Riot](https://twitter.com/search?q=Riot) | — |
-| 5️⃣ | [Bautista](https://twitter.com/search?q=Bautista) | — |
-| 6️⃣ | [Ryan Hurst](https://twitter.com/search?q=Ryan%20Hurst) | — |
-| 7️⃣ | [Karmelo](https://twitter.com/search?q=Karmelo) | — |
-| 8️⃣ | [Doris Miller](https://twitter.com/search?q=Doris%20Miller) | — |
-| 9️⃣ | [Dover](https://twitter.com/search?q=Dover) | — |
-| 🔟 | [Verzuz](https://twitter.com/search?q=Verzuz) | — |
+| 🥇 | [Klay](https://twitter.com/search?q=Klay) | — |
+| 🥈 | [David Bailey](https://twitter.com/search?q=David%20Bailey) | — |
+| 🥉 | [Geno Smith](https://twitter.com/search?q=Geno%20Smith) | — |
+| 4️⃣ | [Broderick Jones](https://twitter.com/search?q=Broderick%20Jones) | — |
+| 5️⃣ | [#ROHDBD](https://twitter.com/search?q=%23ROHDBD) | — |
+| 6️⃣ | [Stars and Stripes](https://twitter.com/search?q=Stars%20and%20Stripes) | — |
+| 7️⃣ | [Mully](https://twitter.com/search?q=Mully) | — |
+| 8️⃣ | [Demar](https://twitter.com/search?q=Demar) | — |
+| 9️⃣ | [Devers](https://twitter.com/search?q=Devers) | — |
+| 🔟 | [Spencer Jones](https://twitter.com/search?q=Spencer%20Jones) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-08-21 08:39 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-08-22 08:36 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-08-21 08:39 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-08-22 08:36 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [modular/modular](https://github.com/modular/modular) | 27933 | `Mojo` | The Modular Platform (includes MAX & Mojo) |
-| 🥈 | [mattpocock/skills](https://github.com/mattpocock/skills) | 226459 | `Shell` | Skills for Real Engineers. Straight from my .agents directory. |
-| 🥉 | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | 11859 | `Rust` | ⚡️A native, local-first alternative to Logitech Options+, written in Rus… |
-| 4️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 274943 | `Shell` | An agentic skills framework & software development methodology that work… |
-| 5️⃣ | [cursor/plugins](https://github.com/cursor/plugins) | 4082 | `TypeScript` | Cursor plugin specification and official plugins |
-| 6️⃣ | [santifer/career-ops](https://github.com/santifer/career-ops) | 66675 | `JavaScript` | Open-source AI job search: scan job portals, evaluate listings with a st… |
-| 7️⃣ | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | 3597 | `Rust` | Solution for long term memory for agent coding CLIs and to facilitate ha… |
-| 8️⃣ | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 112928 | `Python` | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic… |
-| 9️⃣ | [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | 1391 | `Go` | Agent Substrate: the core system |
-| 🔟 | [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin) | 3127 | `TypeScript` | local multi-agent harness |
+| 🥇 | [mattpocock/skills](https://github.com/mattpocock/skills) | 229483 | `Shell` | Skills for Real Engineers. Straight from my .agents directory. |
+| 🥈 | [mahlernim/google-timeline-visualizer](https://github.com/mahlernim/google-timeline-visualizer) | 2217 | `Kotlin` | Visualize your year in travel using your Google Location History (Timeli… |
+| 🥉 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 113904 | `Python` | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic… |
+| 4️⃣ | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | 12929 | `Rust` | ⚡️A native, local-first alternative to Logitech Options+, written in Rus… |
+| 5️⃣ | [PostHog/posthog](https://github.com/PostHog/posthog) | 38289 | `Python` | 🦔 PostHog is the leading platform for building self-driving products. Ou… |
+| 6️⃣ | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | 110374 | `Go` | TypeScript is a superset of JavaScript that compiles to clean JavaScript… |
+| 7️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 275656 | `Shell` | An agentic skills framework & software development methodology that work… |
+| 8️⃣ | [santifer/career-ops](https://github.com/santifer/career-ops) | 67441 | `JavaScript` | Open-source AI job search: scan job portals, evaluate listings with a st… |
+| 9️⃣ | [cursor/plugins](https://github.com/cursor/plugins) | 4396 | `TypeScript` | Cursor plugin specification and official plugins |
+| 🔟 | [modular/modular](https://github.com/modular/modular) | 28684 | `Mojo` | The Modular Platform (includes MAX & Mojo) |
 
 </details>
 
-<sub>🕐 更新于 2026-08-21 08:39 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-08-22 08:36 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
