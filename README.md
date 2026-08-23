@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Klay](https://twitter.com/search?q=Klay) | — |
-| 🥈 | [David Bailey](https://twitter.com/search?q=David%20Bailey) | — |
-| 🥉 | [Geno Smith](https://twitter.com/search?q=Geno%20Smith) | — |
-| 4️⃣ | [Broderick Jones](https://twitter.com/search?q=Broderick%20Jones) | — |
-| 5️⃣ | [#ROHDBD](https://twitter.com/search?q=%23ROHDBD) | — |
-| 6️⃣ | [Stars and Stripes](https://twitter.com/search?q=Stars%20and%20Stripes) | — |
-| 7️⃣ | [Mully](https://twitter.com/search?q=Mully) | — |
-| 8️⃣ | [Demar](https://twitter.com/search?q=Demar) | — |
-| 9️⃣ | [Devers](https://twitter.com/search?q=Devers) | — |
-| 🔟 | [Spencer Jones](https://twitter.com/search?q=Spencer%20Jones) | — |
+| 🥇 | [#UFCSacramento](https://twitter.com/search?q=%23UFCSacramento) | — |
+| 🥈 | [Canada](https://twitter.com/search?q=Canada) | — |
+| 🥉 | [Andy Dalton](https://twitter.com/search?q=Andy%20Dalton) | — |
+| 4️⃣ | [Watson](https://twitter.com/search?q=Watson) | — |
+| 5️⃣ | [Shipley](https://twitter.com/search?q=Shipley) | — |
+| 6️⃣ | [Get Smart](https://twitter.com/search?q=Get%20Smart) | — |
+| 7️⃣ | [Browns](https://twitter.com/search?q=Browns) | — |
+| 8️⃣ | [Maxwell Smart](https://twitter.com/search?q=Maxwell%20Smart) | — |
+| 9️⃣ | [Lerryan Douglas](https://twitter.com/search?q=Lerryan%20Douglas) | — |
+| 🔟 | [Jake Lang](https://twitter.com/search?q=Jake%20Lang) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-08-22 08:36 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-08-23 08:39 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-08-22 08:36 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-08-23 08:39 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [mattpocock/skills](https://github.com/mattpocock/skills) | 229483 | `Shell` | Skills for Real Engineers. Straight from my .agents directory. |
-| 🥈 | [mahlernim/google-timeline-visualizer](https://github.com/mahlernim/google-timeline-visualizer) | 2217 | `Kotlin` | Visualize your year in travel using your Google Location History (Timeli… |
-| 🥉 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 113904 | `Python` | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic… |
-| 4️⃣ | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | 12929 | `Rust` | ⚡️A native, local-first alternative to Logitech Options+, written in Rus… |
-| 5️⃣ | [PostHog/posthog](https://github.com/PostHog/posthog) | 38289 | `Python` | 🦔 PostHog is the leading platform for building self-driving products. Ou… |
-| 6️⃣ | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | 110374 | `Go` | TypeScript is a superset of JavaScript that compiles to clean JavaScript… |
-| 7️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 275656 | `Shell` | An agentic skills framework & software development methodology that work… |
-| 8️⃣ | [santifer/career-ops](https://github.com/santifer/career-ops) | 67441 | `JavaScript` | Open-source AI job search: scan job portals, evaluate listings with a st… |
-| 9️⃣ | [cursor/plugins](https://github.com/cursor/plugins) | 4396 | `TypeScript` | Cursor plugin specification and official plugins |
-| 🔟 | [modular/modular](https://github.com/modular/modular) | 28684 | `Mojo` | The Modular Platform (includes MAX & Mojo) |
+| 🥇 | [openai/codex](https://github.com/openai/codex) | 113360 | `Rust` | Lightweight coding agent that runs in your terminal |
+| 🥈 | [mattpocock/skills](https://github.com/mattpocock/skills) | 232039 | `Shell` | Skills for Real Engineers. Straight from my .agents directory. |
+| 🥉 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 242173 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, me… |
+| 4️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 276190 | `Shell` | An agentic skills framework & software development methodology that work… |
+| 5️⃣ | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 38783 | `Go` | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具… |
+| 6️⃣ | [makeplane/plane](https://github.com/makeplane/plane) | 57221 | `TypeScript` | 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is … |
+| 7️⃣ | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 201812 | `TypeScript` | Fair-code workflow automation platform with native AI capabilities. Comb… |
+| 8️⃣ | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 142535 | `Python` | Claude Code is an agentic coding tool that lives in your terminal, under… |
+| 9️⃣ | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | 13937 | `Rust` | ⚡️A native, local-first alternative to Logitech Options+, written in Rus… |
+| 🔟 | [modular/modular](https://github.com/modular/modular) | 28841 | `Mojo` | The Modular Platform (includes MAX & Mojo) |
 
 </details>
 
-<sub>🕐 更新于 2026-08-22 08:36 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-08-23 08:39 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
