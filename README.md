@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#UFCSacramento](https://twitter.com/search?q=%23UFCSacramento) | — |
-| 🥈 | [Canada](https://twitter.com/search?q=Canada) | — |
-| 🥉 | [Andy Dalton](https://twitter.com/search?q=Andy%20Dalton) | — |
-| 4️⃣ | [Watson](https://twitter.com/search?q=Watson) | — |
-| 5️⃣ | [Shipley](https://twitter.com/search?q=Shipley) | — |
-| 6️⃣ | [Get Smart](https://twitter.com/search?q=Get%20Smart) | — |
-| 7️⃣ | [Browns](https://twitter.com/search?q=Browns) | — |
-| 8️⃣ | [Maxwell Smart](https://twitter.com/search?q=Maxwell%20Smart) | — |
-| 9️⃣ | [Lerryan Douglas](https://twitter.com/search?q=Lerryan%20Douglas) | — |
-| 🔟 | [Jake Lang](https://twitter.com/search?q=Jake%20Lang) | — |
+| 🥇 | [#TNALockdown](https://twitter.com/search?q=%23TNALockdown) | — |
+| 🥈 | [Bud Clark](https://twitter.com/search?q=Bud%20Clark) | — |
+| 🥉 | [Jeanty](https://twitter.com/search?q=Jeanty) | — |
+| 4️⃣ | [Kushner](https://twitter.com/search?q=Kushner) | — |
+| 5️⃣ | [Jeffries](https://twitter.com/search?q=Jeffries) | — |
+| 6️⃣ | [Mike Washington](https://twitter.com/search?q=Mike%20Washington) | — |
+| 7️⃣ | [Drew Lock](https://twitter.com/search?q=Drew%20Lock) | — |
+| 8️⃣ | [Avery Styles](https://twitter.com/search?q=Avery%20Styles) | — |
+| 9️⃣ | [Elijah Arroyo](https://twitter.com/search?q=Elijah%20Arroyo) | — |
+| 🔟 | [#BaddiesUSA](https://twitter.com/search?q=%23BaddiesUSA) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-08-23 08:39 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-08-24 08:38 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-08-23 08:39 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-08-24 08:38 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [openai/codex](https://github.com/openai/codex) | 113360 | `Rust` | Lightweight coding agent that runs in your terminal |
-| 🥈 | [mattpocock/skills](https://github.com/mattpocock/skills) | 232039 | `Shell` | Skills for Real Engineers. Straight from my .agents directory. |
-| 🥉 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 242173 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, me… |
-| 4️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 276190 | `Shell` | An agentic skills framework & software development methodology that work… |
-| 5️⃣ | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 38783 | `Go` | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具… |
-| 6️⃣ | [makeplane/plane](https://github.com/makeplane/plane) | 57221 | `TypeScript` | 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is … |
-| 7️⃣ | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 201812 | `TypeScript` | Fair-code workflow automation platform with native AI capabilities. Comb… |
-| 8️⃣ | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 142535 | `Python` | Claude Code is an agentic coding tool that lives in your terminal, under… |
-| 9️⃣ | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | 13937 | `Rust` | ⚡️A native, local-first alternative to Logitech Options+, written in Rus… |
-| 🔟 | [modular/modular](https://github.com/modular/modular) | 28841 | `Mojo` | The Modular Platform (includes MAX & Mojo) |
+| 🥇 | [openai/codex](https://github.com/openai/codex) | 115152 | `Rust` | Lightweight coding agent that runs in your terminal |
+| 🥈 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | 12700 | `JavaScript` | Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Ski… |
+| 🥉 | [mattpocock/skills](https://github.com/mattpocock/skills) | 233840 | `Shell` | Skills for Real Engineers. Straight from my .agents directory. |
+| 4️⃣ | [basecamp/omarchy](https://github.com/basecamp/omarchy) | 29124 | `Shell` | Beautiful, Modern & Opinionated Linux |
+| 5️⃣ | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | 14934 | `Rust` | ⚡️A native, local-first alternative to Logitech Options+, written in Rus… |
+| 6️⃣ | [block/buzz](https://github.com/block/buzz) | 30099 | `Rust` | A hive mind communication platform |
+| 7️⃣ | [apache/maka](https://github.com/apache/maka) | 2349 | `TypeScript` | Apache Maka (Incubating) is a local-first AI agent workspace. Model mess… |
+| 8️⃣ | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 47960 | `Python` | Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) fr… |
+| 9️⃣ | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 36740 | `Rust` | Your Personal AI super intelligence. A brain that builds a local-first m… |
+| 🔟 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 242553 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, me… |
 
 </details>
 
-<sub>🕐 更新于 2026-08-23 08:39 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-08-24 08:38 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
