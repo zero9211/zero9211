@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#TNALockdown](https://twitter.com/search?q=%23TNALockdown) | — |
-| 🥈 | [Bud Clark](https://twitter.com/search?q=Bud%20Clark) | — |
-| 🥉 | [Jeanty](https://twitter.com/search?q=Jeanty) | — |
-| 4️⃣ | [Kushner](https://twitter.com/search?q=Kushner) | — |
-| 5️⃣ | [Jeffries](https://twitter.com/search?q=Jeffries) | — |
-| 6️⃣ | [Mike Washington](https://twitter.com/search?q=Mike%20Washington) | — |
-| 7️⃣ | [Drew Lock](https://twitter.com/search?q=Drew%20Lock) | — |
-| 8️⃣ | [Avery Styles](https://twitter.com/search?q=Avery%20Styles) | — |
-| 9️⃣ | [Elijah Arroyo](https://twitter.com/search?q=Elijah%20Arroyo) | — |
-| 🔟 | [#BaddiesUSA](https://twitter.com/search?q=%23BaddiesUSA) | — |
+| 🥇 | [#WWERaw](https://twitter.com/search?q=%23WWERaw) | — |
+| 🥈 | [Dragon Lee](https://twitter.com/search?q=Dragon%20Lee) | — |
+| 🥉 | [Big Cass](https://twitter.com/search?q=Big%20Cass) | — |
+| 4️⃣ | [The Supreme Court](https://twitter.com/search?q=The%20Supreme%20Court) | — |
+| 5️⃣ | [SCOTUS](https://twitter.com/search?q=SCOTUS) | — |
+| 6️⃣ | [USPS](https://twitter.com/search?q=USPS) | — |
+| 7️⃣ | [Durk](https://twitter.com/search?q=Durk) | — |
+| 8️⃣ | [Lola Vice](https://twitter.com/search?q=Lola%20Vice) | — |
+| 9️⃣ | [Girl Scouts](https://twitter.com/search?q=Girl%20Scouts) | — |
+| 🔟 | [Boutte](https://twitter.com/search?q=Boutte) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-08-24 08:38 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-08-25 08:38 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-08-24 08:38 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-08-25 08:38 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [openai/codex](https://github.com/openai/codex) | 115152 | `Rust` | Lightweight coding agent that runs in your terminal |
-| 🥈 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | 12700 | `JavaScript` | Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Ski… |
-| 🥉 | [mattpocock/skills](https://github.com/mattpocock/skills) | 233840 | `Shell` | Skills for Real Engineers. Straight from my .agents directory. |
-| 4️⃣ | [basecamp/omarchy](https://github.com/basecamp/omarchy) | 29124 | `Shell` | Beautiful, Modern & Opinionated Linux |
-| 5️⃣ | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | 14934 | `Rust` | ⚡️A native, local-first alternative to Logitech Options+, written in Rus… |
-| 6️⃣ | [block/buzz](https://github.com/block/buzz) | 30099 | `Rust` | A hive mind communication platform |
-| 7️⃣ | [apache/maka](https://github.com/apache/maka) | 2349 | `TypeScript` | Apache Maka (Incubating) is a local-first AI agent workspace. Model mess… |
-| 8️⃣ | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 47960 | `Python` | Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) fr… |
-| 9️⃣ | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 36740 | `Rust` | Your Personal AI super intelligence. A brain that builds a local-first m… |
-| 🔟 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 242553 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, me… |
+| 🥇 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 48961 | `Python` | Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) fr… |
+| 🥈 | [openai/codex](https://github.com/openai/codex) | 117032 | `Rust` | Lightweight coding agent that runs in your terminal |
+| 🥉 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 34063 | `Python` | The job search that runs on your machine. AI job application framework b… |
+| 4️⃣ | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 206503 | — | A single CLAUDE.md file to improve Claude Code behavior, derived from An… |
+| 5️⃣ | [makeplane/plane](https://github.com/makeplane/plane) | 57924 | `TypeScript` | 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is … |
+| 6️⃣ | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 235792 | `Python` | The agent that grows with you |
+| 7️⃣ | [anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community) | 1350 | `Python` | Community plugin marketplace for Claude Cowork and Claude Code. Read-onl… |
+| 8️⃣ | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | 15857 | `Rust` | ⚡️A native, local-first alternative to Logitech Options+, written in Rus… |
+| 9️⃣ | [apache/maka](https://github.com/apache/maka) | 2900 | `TypeScript` | Apache Maka (Incubating) is a local-first AI agent workspace. Model mess… |
+| 🔟 | [PostHog/posthog](https://github.com/PostHog/posthog) | 38991 | `Python` | 🦔 PostHog is the leading platform for building self-driving products. Ou… |
 
 </details>
 
-<sub>🕐 更新于 2026-08-24 08:38 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-08-25 08:38 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
