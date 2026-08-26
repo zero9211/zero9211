@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#WWERaw](https://twitter.com/search?q=%23WWERaw) | — |
-| 🥈 | [Dragon Lee](https://twitter.com/search?q=Dragon%20Lee) | — |
-| 🥉 | [Big Cass](https://twitter.com/search?q=Big%20Cass) | — |
-| 4️⃣ | [The Supreme Court](https://twitter.com/search?q=The%20Supreme%20Court) | — |
-| 5️⃣ | [SCOTUS](https://twitter.com/search?q=SCOTUS) | — |
-| 6️⃣ | [USPS](https://twitter.com/search?q=USPS) | — |
-| 7️⃣ | [Durk](https://twitter.com/search?q=Durk) | — |
-| 8️⃣ | [Lola Vice](https://twitter.com/search?q=Lola%20Vice) | — |
-| 9️⃣ | [Girl Scouts](https://twitter.com/search?q=Girl%20Scouts) | — |
-| 🔟 | [Boutte](https://twitter.com/search?q=Boutte) | — |
+| 🥇 | [Dolly](https://twitter.com/search?q=Dolly) | — |
+| 🥈 | [Jolene](https://twitter.com/search?q=Jolene) | — |
+| 🥉 | [#DWCS](https://twitter.com/search?q=%23DWCS) | — |
+| 4️⃣ | [Jelly Roll](https://twitter.com/search?q=Jelly%20Roll) | — |
+| 5️⃣ | [Ronald Humphrey](https://twitter.com/search?q=Ronald%20Humphrey) | — |
+| 6️⃣ | [Imagination Library](https://twitter.com/search?q=Imagination%20Library) | — |
+| 7️⃣ | [I Will Always Love You](https://twitter.com/search?q=I%20Will%20Always%20Love%20You) | — |
+| 8️⃣ | [Tennessee](https://twitter.com/search?q=Tennessee) | — |
+| 9️⃣ | [Kennedy Center](https://twitter.com/search?q=Kennedy%20Center) | — |
+| 🔟 | [Will Warren](https://twitter.com/search?q=Will%20Warren) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-08-25 08:38 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-08-26 08:38 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-08-25 08:38 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-08-26 08:38 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 48961 | `Python` | Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) fr… |
-| 🥈 | [openai/codex](https://github.com/openai/codex) | 117032 | `Rust` | Lightweight coding agent that runs in your terminal |
-| 🥉 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 34063 | `Python` | The job search that runs on your machine. AI job application framework b… |
-| 4️⃣ | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 206503 | — | A single CLAUDE.md file to improve Claude Code behavior, derived from An… |
-| 5️⃣ | [makeplane/plane](https://github.com/makeplane/plane) | 57924 | `TypeScript` | 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is … |
-| 6️⃣ | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 235792 | `Python` | The agent that grows with you |
-| 7️⃣ | [anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community) | 1350 | `Python` | Community plugin marketplace for Claude Cowork and Claude Code. Read-onl… |
-| 8️⃣ | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | 15857 | `Rust` | ⚡️A native, local-first alternative to Logitech Options+, written in Rus… |
-| 9️⃣ | [apache/maka](https://github.com/apache/maka) | 2900 | `TypeScript` | Apache Maka (Incubating) is a local-first AI agent workspace. Model mess… |
-| 🔟 | [PostHog/posthog](https://github.com/PostHog/posthog) | 38991 | `Python` | 🦔 PostHog is the leading platform for building self-driving products. Ou… |
+| 🥇 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | 17718 | `JavaScript` | Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Ski… |
+| 🥈 | [anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community) | 1743 | `Python` | Community plugin marketplace for Claude Cowork and Claude Code. Read-onl… |
+| 🥉 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 35261 | `Python` | The job search that runs on your machine. AI job application framework b… |
+| 4️⃣ | [apache/maka](https://github.com/apache/maka) | 3328 | `TypeScript` | Apache Maka (Incubating) is a local-first AI agent workspace. Model mess… |
+| 5️⃣ | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 100241 | `Python` | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| 6️⃣ | [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) | 12711 | `Python` | Self-organizing AI second brain for Obsidian + Claude Code. Drop any sou… |
+| 7️⃣ | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 48960 | `Python` | Learn it. Build it. Ship it for others. |
+| 8️⃣ | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 37766 | `Rust` | Your Personal AI super intelligence. A brain that builds a local-first m… |
+| 9️⃣ | [basecamp/omarchy](https://github.com/basecamp/omarchy) | 31253 | `Shell` | Beautiful, Modern & Opinionated Linux |
+| 🔟 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 134225 | `Python` | 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. |
 
 </details>
 
-<sub>🕐 更新于 2026-08-25 08:38 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-08-26 08:38 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
