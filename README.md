@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Dolly](https://twitter.com/search?q=Dolly) | — |
-| 🥈 | [Jolene](https://twitter.com/search?q=Jolene) | — |
-| 🥉 | [#DWCS](https://twitter.com/search?q=%23DWCS) | — |
-| 4️⃣ | [Jelly Roll](https://twitter.com/search?q=Jelly%20Roll) | — |
-| 5️⃣ | [Ronald Humphrey](https://twitter.com/search?q=Ronald%20Humphrey) | — |
-| 6️⃣ | [Imagination Library](https://twitter.com/search?q=Imagination%20Library) | — |
-| 7️⃣ | [I Will Always Love You](https://twitter.com/search?q=I%20Will%20Always%20Love%20You) | — |
-| 8️⃣ | [Tennessee](https://twitter.com/search?q=Tennessee) | — |
-| 9️⃣ | [Kennedy Center](https://twitter.com/search?q=Kennedy%20Center) | — |
-| 🔟 | [Will Warren](https://twitter.com/search?q=Will%20Warren) | — |
+| 🥇 | [Barrett](https://twitter.com/search?q=Barrett) | — |
+| 🥈 | [Yayoi Kusama](https://twitter.com/search?q=Yayoi%20Kusama) | — |
+| 🥉 | [Ken Carson](https://twitter.com/search?q=Ken%20Carson) | — |
+| 4️⃣ | [#AEWDynamite](https://twitter.com/search?q=%23AEWDynamite) | — |
+| 5️⃣ | [Ha-Seong Kim](https://twitter.com/search?q=Ha-Seong%20Kim) | — |
+| 6️⃣ | [Nepal](https://twitter.com/search?q=Nepal) | — |
+| 7️⃣ | [Kuminga](https://twitter.com/search?q=Kuminga) | — |
+| 8️⃣ | [roxy reynolds](https://twitter.com/search?q=roxy%20reynolds) | — |
+| 9️⃣ | [Hugging Face](https://twitter.com/search?q=Hugging%20Face) | — |
+| 🔟 | [Amish](https://twitter.com/search?q=Amish) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-08-26 08:38 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-08-27 13:41 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-08-26 08:38 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-08-27 13:41 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | 17718 | `JavaScript` | Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Ski… |
-| 🥈 | [anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community) | 1743 | `Python` | Community plugin marketplace for Claude Cowork and Claude Code. Read-onl… |
-| 🥉 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 35261 | `Python` | The job search that runs on your machine. AI job application framework b… |
-| 4️⃣ | [apache/maka](https://github.com/apache/maka) | 3328 | `TypeScript` | Apache Maka (Incubating) is a local-first AI agent workspace. Model mess… |
-| 5️⃣ | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 100241 | `Python` | TradingAgents: Multi-Agents LLM Financial Trading Framework |
-| 6️⃣ | [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) | 12711 | `Python` | Self-organizing AI second brain for Obsidian + Claude Code. Drop any sou… |
-| 7️⃣ | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 48960 | `Python` | Learn it. Build it. Ship it for others. |
-| 8️⃣ | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 37766 | `Rust` | Your Personal AI super intelligence. A brain that builds a local-first m… |
-| 9️⃣ | [basecamp/omarchy](https://github.com/basecamp/omarchy) | 31253 | `Shell` | Beautiful, Modern & Opinionated Linux |
-| 🔟 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 134225 | `Python` | 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. |
+| 🥇 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 18967 | `HTML` | Agent skill for beautiful, verifiable architecture, workflow, sequence, … |
+| 🥈 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | 21891 | `JavaScript` | Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Ski… |
+| 🥉 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 34424 | `Python` | Official, Anthropic-managed directory of high quality Claude Code Plugin… |
+| 4️⃣ | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 50523 | `Python` | Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) fr… |
+| 5️⃣ | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 36689 | `Python` | The job search that runs on your machine. AI job application framework b… |
+| 6️⃣ | [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) | 13556 | `Python` | Self-organizing AI second brain for Obsidian + Claude Code. Drop any sou… |
+| 7️⃣ | [basecamp/omarchy](https://github.com/basecamp/omarchy) | 32161 | `Shell` | Beautiful, Modern & Opinionated Linux |
+| 8️⃣ | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 49706 | `Python` | Learn it. Build it. Ship it for others. |
+| 9️⃣ | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 38315 | `Rust` | Your Personal AI super intelligence. A brain that builds a local-first m… |
+| 🔟 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 112934 | `JavaScript` | Makes your AI agent think like the laziest senior dev in the room. The b… |
 
 </details>
 
-<sub>🕐 更新于 2026-08-26 08:38 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-08-27 13:41 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
