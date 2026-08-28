@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Barrett](https://twitter.com/search?q=Barrett) | — |
-| 🥈 | [Yayoi Kusama](https://twitter.com/search?q=Yayoi%20Kusama) | — |
-| 🥉 | [Ken Carson](https://twitter.com/search?q=Ken%20Carson) | — |
-| 4️⃣ | [#AEWDynamite](https://twitter.com/search?q=%23AEWDynamite) | — |
-| 5️⃣ | [Ha-Seong Kim](https://twitter.com/search?q=Ha-Seong%20Kim) | — |
-| 6️⃣ | [Nepal](https://twitter.com/search?q=Nepal) | — |
-| 7️⃣ | [Kuminga](https://twitter.com/search?q=Kuminga) | — |
-| 8️⃣ | [roxy reynolds](https://twitter.com/search?q=roxy%20reynolds) | — |
-| 9️⃣ | [Hugging Face](https://twitter.com/search?q=Hugging%20Face) | — |
-| 🔟 | [Amish](https://twitter.com/search?q=Amish) | — |
+| 🥇 | [#lunareclipse](https://twitter.com/search?q=%23lunareclipse) | — |
+| 🥈 | [#adultsfx](https://twitter.com/search?q=%23adultsfx) | — |
+| 🥉 | [paul baker](https://twitter.com/search?q=paul%20baker) | — |
+| 4️⃣ | [HIP HOP PHILE](https://twitter.com/search?q=HIP%20HOP%20PHILE) | — |
+| 5️⃣ | [Mapquest](https://twitter.com/search?q=Mapquest) | — |
+| 6️⃣ | [Lake America](https://twitter.com/search?q=Lake%20America) | — |
+| 7️⃣ | [anton](https://twitter.com/search?q=anton) | — |
+| 8️⃣ | [samir](https://twitter.com/search?q=samir) | — |
+| 9️⃣ | [#BTS_WORLDTOUR_ARIRANG_CHICAGO](https://twitter.com/search?q=%23BTS_WORLDTOUR_ARIRANG_CHICAGO) | — |
+| 🔟 | [Rod Wave](https://twitter.com/search?q=Rod%20Wave) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-08-27 13:41 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-08-28 15:49 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-08-27 13:41 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-08-28 15:49 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 18967 | `HTML` | Agent skill for beautiful, verifiable architecture, workflow, sequence, … |
-| 🥈 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | 21891 | `JavaScript` | Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Ski… |
-| 🥉 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 34424 | `Python` | Official, Anthropic-managed directory of high quality Claude Code Plugin… |
-| 4️⃣ | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 50523 | `Python` | Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) fr… |
-| 5️⃣ | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 36689 | `Python` | The job search that runs on your machine. AI job application framework b… |
-| 6️⃣ | [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) | 13556 | `Python` | Self-organizing AI second brain for Obsidian + Claude Code. Drop any sou… |
-| 7️⃣ | [basecamp/omarchy](https://github.com/basecamp/omarchy) | 32161 | `Shell` | Beautiful, Modern & Opinionated Linux |
-| 8️⃣ | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 49706 | `Python` | Learn it. Build it. Ship it for others. |
-| 9️⃣ | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 38315 | `Rust` | Your Personal AI super intelligence. A brain that builds a local-first m… |
-| 🔟 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 112934 | `JavaScript` | Makes your AI agent think like the laziest senior dev in the room. The b… |
+| 🥇 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 9244 | `JavaScript` | A spy satellite simulator in your browser, except the data is real. Live… |
+| 🥈 | [zedeus/nitter](https://github.com/zedeus/nitter) | 13995 | `Nim` | Alternative Twitter front-end |
+| 🥉 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | 23640 | `JavaScript` | Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Ski… |
+| 4️⃣ | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 24760 | `JavaScript` | Agent skill for beautiful, verifiable architecture, workflow, sequence, … |
+| 5️⃣ | [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) | 2320 | `Go` | Help AI coding agents write modern Go |
+| 6️⃣ | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 34785 | `Python` | Official, Anthropic-managed directory of high quality Claude Code Plugin… |
+| 7️⃣ | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 35543 | `Python` | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for … |
+| 8️⃣ | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 114501 | `JavaScript` | Makes your AI agent think like the laziest senior dev in the room. The b… |
+| 9️⃣ | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 52709 | `Python` | World's first open-source, agentic video production system. 12 productio… |
+| 🔟 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 50350 | `Python` | Learn it. Build it. Ship it for others. |
 
 </details>
 
-<sub>🕐 更新于 2026-08-27 13:41 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-08-28 15:49 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
