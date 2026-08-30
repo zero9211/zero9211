@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Milo](https://twitter.com/search?q=Milo) | — |
-| 🥈 | [Venezuela](https://twitter.com/search?q=Venezuela) | — |
-| 🥉 | [#SmackDown](https://twitter.com/search?q=%23SmackDown) | — |
-| 4️⃣ | [Jason Myers](https://twitter.com/search?q=Jason%20Myers) | — |
-| 5️⃣ | [#OPLive](https://twitter.com/search?q=%23OPLive) | — |
-| 6️⃣ | [Kyle McCord](https://twitter.com/search?q=Kyle%20McCord) | — |
-| 7️⃣ | [#POPSTAR](https://twitter.com/search?q=%23POPSTAR) | — |
-| 8️⃣ | [Elissa](https://twitter.com/search?q=Elissa) | — |
-| 9️⃣ | [Ryan Sieg](https://twitter.com/search?q=Ryan%20Sieg) | — |
-| 🔟 | [Romulus](https://twitter.com/search?q=Romulus) | — |
+| 🥇 | [New Mexico State](https://twitter.com/search?q=New%20Mexico%20State) | — |
+| 🥈 | [Florida State](https://twitter.com/search?q=Florida%20State) | — |
+| 🥉 | [Mike Norvell](https://twitter.com/search?q=Mike%20Norvell) | — |
+| 4️⃣ | [GemRadar](https://twitter.com/search?q=GemRadar) | — |
+| 5️⃣ | [#AEWCollision](https://twitter.com/search?q=%23AEWCollision) | — |
+| 6️⃣ | [Messi](https://twitter.com/search?q=Messi) | — |
+| 7️⃣ | [#thecopycatkiller](https://twitter.com/search?q=%23thecopycatkiller) | — |
+| 8️⃣ | [#Svengoolie](https://twitter.com/search?q=%23Svengoolie) | — |
+| 9️⃣ | [#NASCAR](https://twitter.com/search?q=%23NASCAR) | — |
+| 🔟 | [Stanford](https://twitter.com/search?q=Stanford) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-08-29 12:44 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-08-30 10:20 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-08-29 12:44 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-08-30 10:20 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 28051 | `JavaScript` | Agent skill for beautiful, verifiable architecture, workflow, sequence, … |
-| 🥈 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 36828 | `Python` | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for … |
-| 🥉 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 35091 | `Python` | Official, Anthropic-managed directory of high quality Claude Code Plugin… |
-| 4️⃣ | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 11299 | `JavaScript` | A spy satellite simulator in your browser, except the data is real. Live… |
-| 5️⃣ | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 46193 | `TypeScript` | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a clien… |
-| 6️⃣ | [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) | 2643 | `Go` | Help AI coding agents write modern Go |
-| 7️⃣ | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 53430 | `Python` | World's first open-source, agentic video production system. 12 productio… |
-| 8️⃣ | [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) | 75644 | `Python` | Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/V… |
-| 9️⃣ | [cursor/plugins](https://github.com/cursor/plugins) | 6005 | `TypeScript` | Cursor plugin specification and official plugins |
-| 🔟 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | 24408 | `JavaScript` | Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Ski… |
+| 🥇 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 31280 | `JavaScript` | Agent skill for beautiful, verifiable architecture, workflow, sequence, … |
+| 🥈 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 12689 | `JavaScript` | A spy satellite simulator in your browser, except the data is real. Live… |
+| 🥉 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 37995 | `Python` | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for … |
+| 4️⃣ | [tailscale/tailcat](https://github.com/tailscale/tailcat) | 3544 | `Go` | like netcat, but over Tailscale's data plane, without Tailscale's contro… |
+| 5️⃣ | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 22352 | `TypeScript` | Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent l… |
+| 6️⃣ | [p-e-w/heretic](https://github.com/p-e-w/heretic) | 28726 | `Python` | Fully automatic censorship removal for language models |
+| 7️⃣ | [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) | 49129 | `JavaScript` | </> htmx - high power tools for HTML |
+| 8️⃣ | [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) | 2877 | `Go` | Help AI coding agents write modern Go |
+| 9️⃣ | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 73942 | `Python` | A curated list of awesome Claude Skills, resources, and tools for custom… |
+| 🔟 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 54112 | `Python` | World's first open-source, agentic video production system. 12 productio… |
 
 </details>
 
-<sub>🕐 更新于 2026-08-29 12:44 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-08-30 10:20 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
