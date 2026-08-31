@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [New Mexico State](https://twitter.com/search?q=New%20Mexico%20State) | — |
-| 🥈 | [Florida State](https://twitter.com/search?q=Florida%20State) | — |
-| 🥉 | [Mike Norvell](https://twitter.com/search?q=Mike%20Norvell) | — |
-| 4️⃣ | [GemRadar](https://twitter.com/search?q=GemRadar) | — |
-| 5️⃣ | [#AEWCollision](https://twitter.com/search?q=%23AEWCollision) | — |
-| 6️⃣ | [Messi](https://twitter.com/search?q=Messi) | — |
-| 7️⃣ | [#thecopycatkiller](https://twitter.com/search?q=%23thecopycatkiller) | — |
-| 8️⃣ | [#Svengoolie](https://twitter.com/search?q=%23Svengoolie) | — |
-| 9️⃣ | [#NASCAR](https://twitter.com/search?q=%23NASCAR) | — |
-| 🔟 | [Stanford](https://twitter.com/search?q=Stanford) | — |
+| 🥇 | [Shota](https://twitter.com/search?q=Shota) | — |
+| 🥈 | [Rams](https://twitter.com/search?q=Rams) | — |
+| 🥉 | [#RHUGT](https://twitter.com/search?q=%23RHUGT) | — |
+| 4️⃣ | [Aaron Donald](https://twitter.com/search?q=Aaron%20Donald) | — |
+| 5️⃣ | [#90DayFiance](https://twitter.com/search?q=%2390DayFiance) | — |
+| 6️⃣ | [#TeamRedBill](https://twitter.com/search?q=%23TeamRedBill) | — |
+| 7️⃣ | [#DICEGOAT](https://twitter.com/search?q=%23DICEGOAT) | — |
+| 8️⃣ | [#BaddiesUSA](https://twitter.com/search?q=%23BaddiesUSA) | — |
+| 9️⃣ | [4 QBs](https://twitter.com/search?q=4%20QBs) | — |
+| 🔟 | [Djokovic](https://twitter.com/search?q=Djokovic) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-08-30 10:20 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-08-31 10:15 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-08-30 10:20 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-08-31 10:15 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 31280 | `JavaScript` | Agent skill for beautiful, verifiable architecture, workflow, sequence, … |
-| 🥈 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 12689 | `JavaScript` | A spy satellite simulator in your browser, except the data is real. Live… |
-| 🥉 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 37995 | `Python` | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for … |
-| 4️⃣ | [tailscale/tailcat](https://github.com/tailscale/tailcat) | 3544 | `Go` | like netcat, but over Tailscale's data plane, without Tailscale's contro… |
-| 5️⃣ | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 22352 | `TypeScript` | Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent l… |
-| 6️⃣ | [p-e-w/heretic](https://github.com/p-e-w/heretic) | 28726 | `Python` | Fully automatic censorship removal for language models |
-| 7️⃣ | [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) | 49129 | `JavaScript` | </> htmx - high power tools for HTML |
-| 8️⃣ | [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) | 2877 | `Go` | Help AI coding agents write modern Go |
-| 9️⃣ | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 73942 | `Python` | A curated list of awesome Claude Skills, resources, and tools for custom… |
-| 🔟 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 54112 | `Python` | World's first open-source, agentic video production system. 12 productio… |
+| 🥇 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 24258 | `TypeScript` | Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent l… |
+| 🥈 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 39379 | `Python` | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for … |
+| 🥉 | [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) | 9675 | `Swift` | — |
+| 4️⃣ | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 34928 | `JavaScript` | Agent skill for beautiful, verifiable architecture, workflow, sequence, … |
+| 5️⃣ | [p-e-w/heretic](https://github.com/p-e-w/heretic) | 29211 | `Python` | Fully automatic censorship removal for language models |
+| 6️⃣ | [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | 80271 | `Python` | 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be sh… |
+| 7️⃣ | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 60531 | `Python` | AI agent skill that researches any topic across Reddit, X, YouTube, HN, … |
+| 8️⃣ | [majd/ipatool](https://github.com/majd/ipatool) | 10239 | `Go` | Command-line tool that allows searching and downloading app packages (kn… |
+| 9️⃣ | [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | 93358 | — | A collection of MCP servers. |
+| 🔟 | [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle) | 9219 | `Java` | Checkstyle is a development tool to help programmers write Java code tha… |
 
 </details>
 
-<sub>🕐 更新于 2026-08-30 10:20 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-08-31 10:15 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
