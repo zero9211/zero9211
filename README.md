@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Shota](https://twitter.com/search?q=Shota) | — |
-| 🥈 | [Rams](https://twitter.com/search?q=Rams) | — |
-| 🥉 | [#RHUGT](https://twitter.com/search?q=%23RHUGT) | — |
-| 4️⃣ | [Aaron Donald](https://twitter.com/search?q=Aaron%20Donald) | — |
-| 5️⃣ | [#90DayFiance](https://twitter.com/search?q=%2390DayFiance) | — |
-| 6️⃣ | [#TeamRedBill](https://twitter.com/search?q=%23TeamRedBill) | — |
-| 7️⃣ | [#DICEGOAT](https://twitter.com/search?q=%23DICEGOAT) | — |
-| 8️⃣ | [#BaddiesUSA](https://twitter.com/search?q=%23BaddiesUSA) | — |
-| 9️⃣ | [4 QBs](https://twitter.com/search?q=4%20QBs) | — |
-| 🔟 | [Djokovic](https://twitter.com/search?q=Djokovic) | — |
+| 🥇 | [#loveislandusa](https://twitter.com/search?q=%23loveislandusa) | — |
+| 🥈 | [#WWERaw](https://twitter.com/search?q=%23WWERaw) | — |
+| 🥉 | [Melanie](https://twitter.com/search?q=Melanie) | — |
+| 4️⃣ | [Kenzie](https://twitter.com/search?q=Kenzie) | — |
+| 5️⃣ | [Tupac](https://twitter.com/search?q=Tupac) | — |
+| 6️⃣ | [Keffe D](https://twitter.com/search?q=Keffe%20D) | — |
+| 7️⃣ | [Titi](https://twitter.com/search?q=Titi) | — |
+| 8️⃣ | [Kyle Harrison](https://twitter.com/search?q=Kyle%20Harrison) | — |
+| 9️⃣ | [Roberts](https://twitter.com/search?q=Roberts) | — |
+| 🔟 | [Chewy](https://twitter.com/search?q=Chewy) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-08-31 10:15 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-09-01 10:33 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-08-31 10:15 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-09-01 10:33 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 24258 | `TypeScript` | Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent l… |
-| 🥈 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 39379 | `Python` | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for … |
-| 🥉 | [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) | 9675 | `Swift` | — |
-| 4️⃣ | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 34928 | `JavaScript` | Agent skill for beautiful, verifiable architecture, workflow, sequence, … |
-| 5️⃣ | [p-e-w/heretic](https://github.com/p-e-w/heretic) | 29211 | `Python` | Fully automatic censorship removal for language models |
-| 6️⃣ | [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | 80271 | `Python` | 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be sh… |
-| 7️⃣ | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 60531 | `Python` | AI agent skill that researches any topic across Reddit, X, YouTube, HN, … |
-| 8️⃣ | [majd/ipatool](https://github.com/majd/ipatool) | 10239 | `Go` | Command-line tool that allows searching and downloading app packages (kn… |
-| 9️⃣ | [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | 93358 | — | A collection of MCP servers. |
-| 🔟 | [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle) | 9219 | `Java` | Checkstyle is a development tool to help programmers write Java code tha… |
+| 🥇 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 27370 | `TypeScript` | Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent l… |
+| 🥈 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 39058 | `JavaScript` | Agent skill for beautiful, verifiable architecture, workflow, sequence, … |
+| 🥉 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 40807 | `Python` | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for … |
+| 4️⃣ | [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) | 23411 | `C#` | Advanced UX and interoperability extension for Wand (WeMod) app |
+| 5️⃣ | [majd/ipatool](https://github.com/majd/ipatool) | 10570 | `Go` | Command-line tool that allows searching and downloading app packages (kn… |
+| 6️⃣ | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 56233 | `Python` | 🧠 Train a 64M-parameter LLM from scratch in just 2h! |
+| 7️⃣ | [Osmantic/ODS](https://github.com/Osmantic/ODS) | 5548 | `Python` | Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat U… |
+| 8️⃣ | [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle) | 9425 | `Java` | Checkstyle is a development tool to help programmers write Java code tha… |
+| 9️⃣ | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 33231 | `PowerShell` | Reverse Engineering / Authorized Penetration Testing / Security Research… |
+| 🔟 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 245285 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, me… |
 
 </details>
 
-<sub>🕐 更新于 2026-08-31 10:15 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-09-01 10:33 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
