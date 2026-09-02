@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#loveislandusa](https://twitter.com/search?q=%23loveislandusa) | — |
-| 🥈 | [#WWERaw](https://twitter.com/search?q=%23WWERaw) | — |
-| 🥉 | [Melanie](https://twitter.com/search?q=Melanie) | — |
-| 4️⃣ | [Kenzie](https://twitter.com/search?q=Kenzie) | — |
-| 5️⃣ | [Tupac](https://twitter.com/search?q=Tupac) | — |
-| 6️⃣ | [Keffe D](https://twitter.com/search?q=Keffe%20D) | — |
-| 7️⃣ | [Titi](https://twitter.com/search?q=Titi) | — |
-| 8️⃣ | [Kyle Harrison](https://twitter.com/search?q=Kyle%20Harrison) | — |
-| 9️⃣ | [Roberts](https://twitter.com/search?q=Roberts) | — |
-| 🔟 | [Chewy](https://twitter.com/search?q=Chewy) | — |
+| 🥇 | [#DWCS](https://twitter.com/search?q=%23DWCS) | — |
+| 🥈 | [Monaco](https://twitter.com/search?q=Monaco) | — |
+| 🥉 | [Tyler Robinson](https://twitter.com/search?q=Tyler%20Robinson) | — |
+| 4️⃣ | [Paul Skenes](https://twitter.com/search?q=Paul%20Skenes) | — |
+| 5️⃣ | [#WWENXT](https://twitter.com/search?q=%23WWENXT) | — |
+| 6️⃣ | [Logan Webb](https://twitter.com/search?q=Logan%20Webb) | — |
+| 7️⃣ | [Gavin Williams](https://twitter.com/search?q=Gavin%20Williams) | — |
+| 8️⃣ | [Fable 5.1](https://twitter.com/search?q=Fable%205.1) | — |
+| 9️⃣ | [Hung Cao](https://twitter.com/search?q=Hung%20Cao) | — |
+| 🔟 | [Lazaro Montes](https://twitter.com/search?q=Lazaro%20Montes) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-09-01 10:33 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-09-02 09:54 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-09-01 10:33 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-09-02 09:54 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 27370 | `TypeScript` | Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent l… |
-| 🥈 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 39058 | `JavaScript` | Agent skill for beautiful, verifiable architecture, workflow, sequence, … |
-| 🥉 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 40807 | `Python` | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for … |
-| 4️⃣ | [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) | 23411 | `C#` | Advanced UX and interoperability extension for Wand (WeMod) app |
-| 5️⃣ | [majd/ipatool](https://github.com/majd/ipatool) | 10570 | `Go` | Command-line tool that allows searching and downloading app packages (kn… |
-| 6️⃣ | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 56233 | `Python` | 🧠 Train a 64M-parameter LLM from scratch in just 2h! |
-| 7️⃣ | [Osmantic/ODS](https://github.com/Osmantic/ODS) | 5548 | `Python` | Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat U… |
-| 8️⃣ | [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle) | 9425 | `Java` | Checkstyle is a development tool to help programmers write Java code tha… |
-| 9️⃣ | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 33231 | `PowerShell` | Reverse Engineering / Authorized Penetration Testing / Security Research… |
-| 🔟 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 245285 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, me… |
+| 🥇 | [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) | 31345 | `TypeScript` | runs anywhere. uses anything |
+| 🥈 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 44935 | `Python` | Academic Research Skills for Claude Code: research → write → review → re… |
+| 🥉 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 29562 | `TypeScript` | Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent l… |
+| 4️⃣ | [iv-org/invidious](https://github.com/iv-org/invidious) | 23777 | `Crystal` | Invidious is an alternative front-end to YouTube |
+| 5️⃣ | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 57130 | `Python` | 🧠 Train a 64M-parameter LLM from scratch in just 2h! |
+| 6️⃣ | [3b1b/manim](https://github.com/3b1b/manim) | 92580 | `Python` | Animation engine for explanatory math videos |
+| 7️⃣ | [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | 17961 | `Rust` | Fast Rust library for PDF inspection, classification, and text extractio… |
+| 8️⃣ | [browser-use/video-use](https://github.com/browser-use/video-use) | 22977 | `Python` | Edit videos with coding agents |
+| 9️⃣ | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 41569 | `Python` | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for … |
+| 🔟 | [handsomestWei/patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill) | 6747 | `Python` | 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。 |
 
 </details>
 
-<sub>🕐 更新于 2026-09-01 10:33 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-09-02 09:54 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
