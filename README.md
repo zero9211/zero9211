@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#DWCS](https://twitter.com/search?q=%23DWCS) | — |
-| 🥈 | [Monaco](https://twitter.com/search?q=Monaco) | — |
-| 🥉 | [Tyler Robinson](https://twitter.com/search?q=Tyler%20Robinson) | — |
-| 4️⃣ | [Paul Skenes](https://twitter.com/search?q=Paul%20Skenes) | — |
-| 5️⃣ | [#WWENXT](https://twitter.com/search?q=%23WWENXT) | — |
-| 6️⃣ | [Logan Webb](https://twitter.com/search?q=Logan%20Webb) | — |
-| 7️⃣ | [Gavin Williams](https://twitter.com/search?q=Gavin%20Williams) | — |
-| 8️⃣ | [Fable 5.1](https://twitter.com/search?q=Fable%205.1) | — |
-| 9️⃣ | [Hung Cao](https://twitter.com/search?q=Hung%20Cao) | — |
-| 🔟 | [Lazaro Montes](https://twitter.com/search?q=Lazaro%20Montes) | — |
+| 🥇 | [#AEWDynamite](https://twitter.com/search?q=%23AEWDynamite) | — |
+| 🥈 | [Clippers](https://twitter.com/search?q=Clippers) | — |
+| 🥉 | [Kawhi](https://twitter.com/search?q=Kawhi) | — |
+| 4️⃣ | [Minneapolis](https://twitter.com/search?q=Minneapolis) | — |
+| 5️⃣ | [Pablo](https://twitter.com/search?q=Pablo) | — |
+| 6️⃣ | [Ballmer](https://twitter.com/search?q=Ballmer) | — |
+| 7️⃣ | [Josh Alexander](https://twitter.com/search?q=Josh%20Alexander) | — |
+| 8️⃣ | [Kofi](https://twitter.com/search?q=Kofi) | — |
+| 9️⃣ | [So Anxious](https://twitter.com/search?q=So%20Anxious) | — |
+| 🔟 | [Mark Davis](https://twitter.com/search?q=Mark%20Davis) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-09-02 09:54 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-09-03 10:00 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-09-02 09:54 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-09-03 10:00 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) | 31345 | `TypeScript` | runs anywhere. uses anything |
-| 🥈 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 44935 | `Python` | Academic Research Skills for Claude Code: research → write → review → re… |
-| 🥉 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 29562 | `TypeScript` | Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent l… |
-| 4️⃣ | [iv-org/invidious](https://github.com/iv-org/invidious) | 23777 | `Crystal` | Invidious is an alternative front-end to YouTube |
-| 5️⃣ | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 57130 | `Python` | 🧠 Train a 64M-parameter LLM from scratch in just 2h! |
-| 6️⃣ | [3b1b/manim](https://github.com/3b1b/manim) | 92580 | `Python` | Animation engine for explanatory math videos |
-| 7️⃣ | [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | 17961 | `Rust` | Fast Rust library for PDF inspection, classification, and text extractio… |
-| 8️⃣ | [browser-use/video-use](https://github.com/browser-use/video-use) | 22977 | `Python` | Edit videos with coding agents |
-| 9️⃣ | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 41569 | `Python` | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for … |
-| 🔟 | [handsomestWei/patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill) | 6747 | `Python` | 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。 |
+| 🥇 | [fmtlib/fmt](https://github.com/fmtlib/fmt) | 24297 | `C++` | A modern formatting library |
+| 🥈 | [google-research/timesfm](https://github.com/google-research/timesfm) | 29876 | `Python` | TimesFM (Time Series Foundation Model) is a pretrained time-series found… |
+| 🥉 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 121679 | `JavaScript` | Makes your AI agent think like the laziest senior dev in the room. The b… |
+| 4️⃣ | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 14831 | `Python` | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voi… |
+| 5️⃣ | [sngyai/Sequoia-X](https://github.com/sngyai/Sequoia-X) | 6116 | `Python` | A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书 |
+| 6️⃣ | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 50663 | `TypeScript` | Chrome DevTools for coding agents |
+| 7️⃣ | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 240154 | `Python` | The agent that grows with you |
+| 8️⃣ | [superlinked/sie](https://github.com/superlinked/sie) | 3080 | `Python` | Open-source inference server and production cluster for all the models y… |
+| 9️⃣ | [pacifio/atlas](https://github.com/pacifio/atlas) | 2911 | `Rust` | Source control for agents. Use multiple coding agents, track their chang… |
+| 🔟 | [zyronon/TypeWords](https://github.com/zyronon/TypeWords) | 9337 | `Vue` | Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步； |
 
 </details>
 
-<sub>🕐 更新于 2026-09-02 09:54 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-09-03 10:00 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
