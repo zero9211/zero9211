@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#AEWDynamite](https://twitter.com/search?q=%23AEWDynamite) | — |
-| 🥈 | [Clippers](https://twitter.com/search?q=Clippers) | — |
-| 🥉 | [Kawhi](https://twitter.com/search?q=Kawhi) | — |
-| 4️⃣ | [Minneapolis](https://twitter.com/search?q=Minneapolis) | — |
-| 5️⃣ | [Pablo](https://twitter.com/search?q=Pablo) | — |
-| 6️⃣ | [Ballmer](https://twitter.com/search?q=Ballmer) | — |
-| 7️⃣ | [Josh Alexander](https://twitter.com/search?q=Josh%20Alexander) | — |
-| 8️⃣ | [Kofi](https://twitter.com/search?q=Kofi) | — |
-| 9️⃣ | [So Anxious](https://twitter.com/search?q=So%20Anxious) | — |
-| 🔟 | [Mark Davis](https://twitter.com/search?q=Mark%20Davis) | — |
+| 🥇 | [Rutgers](https://twitter.com/search?q=Rutgers) | — |
+| 🥈 | [UMass](https://twitter.com/search?q=UMass) | — |
+| 🥉 | [Colorado](https://twitter.com/search?q=Colorado) | — |
+| 4️⃣ | [Georgia Tech](https://twitter.com/search?q=Georgia%20Tech) | — |
+| 5️⃣ | [Schiano](https://twitter.com/search?q=Schiano) | — |
+| 6️⃣ | [Maria](https://twitter.com/search?q=Maria) | — |
+| 7️⃣ | [Pop Watson](https://twitter.com/search?q=Pop%20Watson) | — |
+| 8️⃣ | [Tucker](https://twitter.com/search?q=Tucker) | — |
+| 9️⃣ | [KJ Duff](https://twitter.com/search?q=KJ%20Duff) | — |
+| 🔟 | [Big Ten](https://twitter.com/search?q=Big%20Ten) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-09-03 10:00 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-09-04 09:55 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-09-03 10:00 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-09-04 09:55 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [fmtlib/fmt](https://github.com/fmtlib/fmt) | 24297 | `C++` | A modern formatting library |
-| 🥈 | [google-research/timesfm](https://github.com/google-research/timesfm) | 29876 | `Python` | TimesFM (Time Series Foundation Model) is a pretrained time-series found… |
-| 🥉 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 121679 | `JavaScript` | Makes your AI agent think like the laziest senior dev in the room. The b… |
-| 4️⃣ | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 14831 | `Python` | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voi… |
-| 5️⃣ | [sngyai/Sequoia-X](https://github.com/sngyai/Sequoia-X) | 6116 | `Python` | A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书 |
-| 6️⃣ | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 50663 | `TypeScript` | Chrome DevTools for coding agents |
-| 7️⃣ | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 240154 | `Python` | The agent that grows with you |
-| 8️⃣ | [superlinked/sie](https://github.com/superlinked/sie) | 3080 | `Python` | Open-source inference server and production cluster for all the models y… |
-| 9️⃣ | [pacifio/atlas](https://github.com/pacifio/atlas) | 2911 | `Rust` | Source control for agents. Use multiple coding agents, track their chang… |
-| 🔟 | [zyronon/TypeWords](https://github.com/zyronon/TypeWords) | 9337 | `Vue` | Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步； |
+| 🥇 | [fmtlib/fmt](https://github.com/fmtlib/fmt) | 25112 | `C++` | A modern formatting library |
+| 🥈 | [mattpocock/skills](https://github.com/mattpocock/skills) | 247516 | `Shell` | Skills for Real Engineers. Straight from my .agents directory. |
+| 🥉 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 240872 | `Python` | The agent that grows with you |
+| 4️⃣ | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 123506 | `JavaScript` | Makes your AI agent think like the laziest senior dev in the room. The b… |
+| 5️⃣ | [anthropics/skills](https://github.com/anthropics/skills) | 173681 | `Python` | Public repository for Agent Skills |
+| 6️⃣ | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 247238 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, me… |
+| 7️⃣ | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 103132 | `Go` | 🪨 why use many token when few token do trick — Claude Code skill that cu… |
+| 8️⃣ | [blader/humanizer](https://github.com/blader/humanizer) | 41542 | `Python` | Agent skill that removes signs of AI-generated writing from text |
+| 9️⃣ | [google-research/timesfm](https://github.com/google-research/timesfm) | 30716 | `Python` | TimesFM (Time Series Foundation Model) is a pretrained time-series found… |
+| 🔟 | [averygan/reclip](https://github.com/averygan/reclip) | 8401 | `HTML` | Download videos from almost any website. Lightweight, self-hosted media … |
 
 </details>
 
-<sub>🕐 更新于 2026-09-03 10:00 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-09-04 09:55 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
