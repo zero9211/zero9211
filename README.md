@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Malachi Toney](https://twitter.com/search?q=Malachi%20Toney) | — |
-| 🥈 | [#SmackDown](https://twitter.com/search?q=%23SmackDown) | — |
-| 🥉 | [Serena](https://twitter.com/search?q=Serena) | — |
-| 4️⃣ | [Rocky Beers](https://twitter.com/search?q=Rocky%20Beers) | — |
-| 5️⃣ | [Kerkering](https://twitter.com/search?q=Kerkering) | — |
-| 6️⃣ | [Stanford](https://twitter.com/search?q=Stanford) | — |
-| 7️⃣ | [UTEP](https://twitter.com/search?q=UTEP) | — |
-| 8️⃣ | [Mali](https://twitter.com/search?q=Mali) | — |
-| 9️⃣ | [Blaze Alexander](https://twitter.com/search?q=Blaze%20Alexander) | — |
-| 🔟 | [Yash](https://twitter.com/search?q=Yash) | — |
+| 🥇 | [Baylor](https://twitter.com/search?q=Baylor) | — |
+| 🥈 | [Oregon](https://twitter.com/search?q=Oregon) | — |
+| 🥉 | [Boise State](https://twitter.com/search?q=Boise%20State) | — |
+| 4️⃣ | [Bryce Underwood](https://twitter.com/search?q=Bryce%20Underwood) | — |
+| 5️⃣ | [Michigan](https://twitter.com/search?q=Michigan) | — |
+| 6️⃣ | [#AEWCollision](https://twitter.com/search?q=%23AEWCollision) | — |
+| 7️⃣ | [Oklahoma State](https://twitter.com/search?q=Oklahoma%20State) | — |
+| 8️⃣ | [DJ Lagway](https://twitter.com/search?q=DJ%20Lagway) | — |
+| 9️⃣ | [Tulsa](https://twitter.com/search?q=Tulsa) | — |
+| 🔟 | [Nike](https://twitter.com/search?q=Nike) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-09-05 09:56 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-09-06 09:51 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-09-05 09:56 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-09-06 09:51 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [mattpocock/skills](https://github.com/mattpocock/skills) | 250467 | `Shell` | Skills for Real Engineers. Straight from my .agents directory. |
-| 🥈 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 126112 | `JavaScript` | Makes your AI agent think like the laziest senior dev in the room. The b… |
-| 🥉 | [fmtlib/fmt](https://github.com/fmtlib/fmt) | 25473 | `C++` | A modern formatting library |
-| 4️⃣ | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 248543 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, me… |
-| 5️⃣ | [anthropics/skills](https://github.com/anthropics/skills) | 174143 | `Python` | Public repository for Agent Skills |
-| 6️⃣ | [blader/humanizer](https://github.com/blader/humanizer) | 42739 | `Python` | Agent skill that removes signs of AI-generated writing from text |
-| 7️⃣ | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 241505 | `Python` | The agent that grows with you |
-| 8️⃣ | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 103588 | `Go` | 🪨 why use many token when few token do trick — Claude Code skill that cu… |
-| 9️⃣ | [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) | 2510 | `TypeScript` | Open source inference server that runs the best local models for your ha… |
-| 🔟 | [bikini/exploitarium](https://github.com/bikini/exploitarium) | 4520 | `Python` | A single archive of public exploit PoCs and vulnerability research write… |
+| 🥇 | [mattpocock/skills](https://github.com/mattpocock/skills) | 252701 | `Shell` | Skills for Real Engineers. Straight from my .agents directory. |
+| 🥈 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 249947 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, me… |
+| 🥉 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 127993 | `JavaScript` | Makes your AI agent think like the laziest senior dev in the room. The b… |
+| 4️⃣ | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 242035 | `Python` | The agent that grows with you |
+| 5️⃣ | [fmtlib/fmt](https://github.com/fmtlib/fmt) | 25574 | `C++` | A modern formatting library |
+| 6️⃣ | [anthropics/skills](https://github.com/anthropics/skills) | 174577 | `Python` | Public repository for Agent Skills |
+| 7️⃣ | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 31711 | `HTML` | 38 editorial diagram types for Claude Code, Codex, and Pi. Self-containe… |
+| 8️⃣ | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 204694 | `TypeScript` | The open source coding agent. |
+| 9️⃣ | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 70706 | `TypeScript` | 🌊 The original agent meta-harness. Deploy intelligent multi-player swarm… |
+| 🔟 | [humanlayer/skills](https://github.com/humanlayer/skills) | 2723 | `TypeScript` | — |
 
 </details>
 
-<sub>🕐 更新于 2026-09-05 09:56 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-09-06 09:51 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
