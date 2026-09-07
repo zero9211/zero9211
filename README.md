@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Baylor](https://twitter.com/search?q=Baylor) | — |
-| 🥈 | [Oregon](https://twitter.com/search?q=Oregon) | — |
-| 🥉 | [Boise State](https://twitter.com/search?q=Boise%20State) | — |
-| 4️⃣ | [Bryce Underwood](https://twitter.com/search?q=Bryce%20Underwood) | — |
-| 5️⃣ | [Michigan](https://twitter.com/search?q=Michigan) | — |
-| 6️⃣ | [#AEWCollision](https://twitter.com/search?q=%23AEWCollision) | — |
-| 7️⃣ | [Oklahoma State](https://twitter.com/search?q=Oklahoma%20State) | — |
-| 8️⃣ | [DJ Lagway](https://twitter.com/search?q=DJ%20Lagway) | — |
-| 9️⃣ | [Tulsa](https://twitter.com/search?q=Tulsa) | — |
-| 🔟 | [Nike](https://twitter.com/search?q=Nike) | — |
+| 🥇 | [#SNME](https://twitter.com/search?q=%23SNME) | — |
+| 🥈 | [Notre Dame](https://twitter.com/search?q=Notre%20Dame) | — |
+| 🥉 | [Louisville](https://twitter.com/search?q=Louisville) | — |
+| 4️⃣ | [Bronson Reed](https://twitter.com/search?q=Bronson%20Reed) | — |
+| 5️⃣ | [Ciara](https://twitter.com/search?q=Ciara) | — |
+| 6️⃣ | [Ole Miss](https://twitter.com/search?q=Ole%20Miss) | — |
+| 7️⃣ | [New America](https://twitter.com/search?q=New%20America) | — |
+| 8️⃣ | [Yachty](https://twitter.com/search?q=Yachty) | — |
+| 9️⃣ | [Badgers](https://twitter.com/search?q=Badgers) | — |
+| 🔟 | [Trick Williams](https://twitter.com/search?q=Trick%20Williams) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-09-06 09:51 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-09-07 09:48 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-09-06 09:51 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-09-07 09:48 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [mattpocock/skills](https://github.com/mattpocock/skills) | 252701 | `Shell` | Skills for Real Engineers. Straight from my .agents directory. |
-| 🥈 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 249947 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, me… |
-| 🥉 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 127993 | `JavaScript` | Makes your AI agent think like the laziest senior dev in the room. The b… |
-| 4️⃣ | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 242035 | `Python` | The agent that grows with you |
-| 5️⃣ | [fmtlib/fmt](https://github.com/fmtlib/fmt) | 25574 | `C++` | A modern formatting library |
-| 6️⃣ | [anthropics/skills](https://github.com/anthropics/skills) | 174577 | `Python` | Public repository for Agent Skills |
-| 7️⃣ | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 31711 | `HTML` | 38 editorial diagram types for Claude Code, Codex, and Pi. Self-containe… |
-| 8️⃣ | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 204694 | `TypeScript` | The open source coding agent. |
-| 9️⃣ | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 70706 | `TypeScript` | 🌊 The original agent meta-harness. Deploy intelligent multi-player swarm… |
-| 🔟 | [humanlayer/skills](https://github.com/humanlayer/skills) | 2723 | `TypeScript` | — |
+| 🥇 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 251409 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, me… |
+| 🥈 | [mattpocock/skills](https://github.com/mattpocock/skills) | 254654 | `Shell` | Skills for Real Engineers. Straight from my .agents directory. |
+| 🥉 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 32429 | `HTML` | 38 editorial diagram types for Claude Code, Codex, and Pi. Self-containe… |
+| 4️⃣ | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 242575 | `Python` | The agent that grows with you |
+| 5️⃣ | [openai/skills](https://github.com/openai/skills) | 25634 | `Python` | Skills Catalog for Codex |
+| 6️⃣ | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 205283 | `TypeScript` | The open source coding agent. |
+| 7️⃣ | [blader/humanizer](https://github.com/blader/humanizer) | 44296 | `Python` | Agent skill that removes signs of AI-generated writing from text |
+| 8️⃣ | [llvm/llvm-project](https://github.com/llvm/llvm-project) | 40221 | `LLVM` | The LLVM Project is a collection of modular and reusable compiler and to… |
+| 9️⃣ | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 129449 | `JavaScript` | Makes your AI agent think like the laziest senior dev in the room. The b… |
+| 🔟 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 70998 | `TypeScript` | 🌊 The original agent meta-harness. Deploy intelligent multi-player swarm… |
 
 </details>
 
-<sub>🕐 更新于 2026-09-06 09:51 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-09-07 09:48 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
