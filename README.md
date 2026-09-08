@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#SNME](https://twitter.com/search?q=%23SNME) | — |
-| 🥈 | [Notre Dame](https://twitter.com/search?q=Notre%20Dame) | — |
-| 🥉 | [Louisville](https://twitter.com/search?q=Louisville) | — |
-| 4️⃣ | [Bronson Reed](https://twitter.com/search?q=Bronson%20Reed) | — |
-| 5️⃣ | [Ciara](https://twitter.com/search?q=Ciara) | — |
-| 6️⃣ | [Ole Miss](https://twitter.com/search?q=Ole%20Miss) | — |
-| 7️⃣ | [New America](https://twitter.com/search?q=New%20America) | — |
-| 8️⃣ | [Yachty](https://twitter.com/search?q=Yachty) | — |
-| 9️⃣ | [Badgers](https://twitter.com/search?q=Badgers) | — |
-| 🔟 | [Trick Williams](https://twitter.com/search?q=Trick%20Williams) | — |
+| 🥇 | [#WWERaw](https://twitter.com/search?q=%23WWERaw) | — |
+| 🥈 | [Florida State](https://twitter.com/search?q=Florida%20State) | — |
+| 🥉 | [Tallahassee](https://twitter.com/search?q=Tallahassee) | — |
+| 4️⃣ | [Coco](https://twitter.com/search?q=Coco) | — |
+| 5️⃣ | [Doak](https://twitter.com/search?q=Doak) | — |
+| 6️⃣ | [Mike Norvell](https://twitter.com/search?q=Mike%20Norvell) | — |
+| 7️⃣ | [#fsuvssmu](https://twitter.com/search?q=%23fsuvssmu) | — |
+| 8️⃣ | [Jimbo Fisher](https://twitter.com/search?q=Jimbo%20Fisher) | — |
+| 9️⃣ | [Otis](https://twitter.com/search?q=Otis) | — |
+| 🔟 | [The Vision](https://twitter.com/search?q=The%20Vision) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-09-07 09:48 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-09-08 09:59 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-09-07 09:48 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-09-08 09:59 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 251409 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, me… |
-| 🥈 | [mattpocock/skills](https://github.com/mattpocock/skills) | 254654 | `Shell` | Skills for Real Engineers. Straight from my .agents directory. |
-| 🥉 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 32429 | `HTML` | 38 editorial diagram types for Claude Code, Codex, and Pi. Self-containe… |
-| 4️⃣ | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 242575 | `Python` | The agent that grows with you |
-| 5️⃣ | [openai/skills](https://github.com/openai/skills) | 25634 | `Python` | Skills Catalog for Codex |
-| 6️⃣ | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 205283 | `TypeScript` | The open source coding agent. |
-| 7️⃣ | [blader/humanizer](https://github.com/blader/humanizer) | 44296 | `Python` | Agent skill that removes signs of AI-generated writing from text |
-| 8️⃣ | [llvm/llvm-project](https://github.com/llvm/llvm-project) | 40221 | `LLVM` | The LLVM Project is a collection of modular and reusable compiler and to… |
-| 9️⃣ | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 129449 | `JavaScript` | Makes your AI agent think like the laziest senior dev in the room. The b… |
-| 🔟 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 70998 | `TypeScript` | 🌊 The original agent meta-harness. Deploy intelligent multi-player swarm… |
+| 🥇 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 46065 | `TypeScript` | Write HTML. Render video. Built for agents. |
+| 🥈 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 180348 | `Python` | Python tool for converting files and office documents to Markdown. |
+| 🥉 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | 20880 | `TypeScript` | Context window optimization for AI coding agents. Sandboxes tool output … |
+| 4️⃣ | [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) | 9760 | `JavaScript` | Stealth headless browser for AI agents — bypass Cloudflare, bot detectio… |
+| 5️⃣ | [MoonTechLab/LunaTV](https://github.com/MoonTechLab/LunaTV) | 9766 | `TypeScript` | 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源 |
+| 6️⃣ | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 252900 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, me… |
+| 7️⃣ | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 48171 | `JavaScript` | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, a… |
+| 8️⃣ | [The-Swarm-Corporation/AutoHedge](https://github.com/The-Swarm-Corporation/AutoHedge) | 5280 | `Python` | Build your autonomous hedge fund in minutes. AutoHedge harnesses the pow… |
+| 9️⃣ | [BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups) | 3849 | `TypeScript` | A list of tools that are open-source, in-browser, and require no-signups… |
+| 🔟 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 81869 | `Python` | An open-source long-horizon SuperAgent harness that researches, codes, a… |
 
 </details>
 
-<sub>🕐 更新于 2026-09-07 09:48 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-09-08 09:59 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
