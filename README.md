@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#WWERaw](https://twitter.com/search?q=%23WWERaw) | — |
-| 🥈 | [Florida State](https://twitter.com/search?q=Florida%20State) | — |
-| 🥉 | [Tallahassee](https://twitter.com/search?q=Tallahassee) | — |
-| 4️⃣ | [Coco](https://twitter.com/search?q=Coco) | — |
-| 5️⃣ | [Doak](https://twitter.com/search?q=Doak) | — |
-| 6️⃣ | [Mike Norvell](https://twitter.com/search?q=Mike%20Norvell) | — |
-| 7️⃣ | [#fsuvssmu](https://twitter.com/search?q=%23fsuvssmu) | — |
-| 8️⃣ | [Jimbo Fisher](https://twitter.com/search?q=Jimbo%20Fisher) | — |
-| 9️⃣ | [Otis](https://twitter.com/search?q=Otis) | — |
-| 🔟 | [The Vision](https://twitter.com/search?q=The%20Vision) | — |
+| 🥇 | [#DWCS](https://twitter.com/search?q=%23DWCS) | — |
+| 🥈 | [#WWENXT](https://twitter.com/search?q=%23WWENXT) | — |
+| 🥉 | [Big Foe](https://twitter.com/search?q=Big%20Foe) | — |
+| 4️⃣ | [Tiafoe](https://twitter.com/search?q=Tiafoe) | — |
+| 5️⃣ | [#RHONY](https://twitter.com/search?q=%23RHONY) | — |
+| 6️⃣ | [Zelda](https://twitter.com/search?q=Zelda) | — |
+| 7️⃣ | [Baker](https://twitter.com/search?q=Baker) | — |
+| 8️⃣ | [Sean Burke](https://twitter.com/search?q=Sean%20Burke) | — |
+| 9️⃣ | [Michelsen](https://twitter.com/search?q=Michelsen) | — |
+| 🔟 | [Moreno](https://twitter.com/search?q=Moreno) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-09-08 09:59 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-09-09 10:04 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-09-08 09:59 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-09-09 10:04 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 46065 | `TypeScript` | Write HTML. Render video. Built for agents. |
-| 🥈 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 180348 | `Python` | Python tool for converting files and office documents to Markdown. |
-| 🥉 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | 20880 | `TypeScript` | Context window optimization for AI coding agents. Sandboxes tool output … |
-| 4️⃣ | [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) | 9760 | `JavaScript` | Stealth headless browser for AI agents — bypass Cloudflare, bot detectio… |
-| 5️⃣ | [MoonTechLab/LunaTV](https://github.com/MoonTechLab/LunaTV) | 9766 | `TypeScript` | 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源 |
-| 6️⃣ | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 252900 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, me… |
-| 7️⃣ | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 48171 | `JavaScript` | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, a… |
-| 8️⃣ | [The-Swarm-Corporation/AutoHedge](https://github.com/The-Swarm-Corporation/AutoHedge) | 5280 | `Python` | Build your autonomous hedge fund in minutes. AutoHedge harnesses the pow… |
-| 9️⃣ | [BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups) | 3849 | `TypeScript` | A list of tools that are open-source, in-browser, and require no-signups… |
-| 🔟 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 81869 | `Python` | An open-source long-horizon SuperAgent harness that researches, codes, a… |
+| 🥇 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 30684 | `Python` | A skill to stop your coding agent from burying the answer. ADHD-friendly… |
+| 🥈 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 34932 | `HTML` | 38 editorial diagram types for Claude Code, Codex, and Pi. Self-containe… |
+| 🥉 | [openai/skills](https://github.com/openai/skills) | 26538 | `Python` | Skills Catalog for Codex |
+| 4️⃣ | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 254347 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, me… |
+| 5️⃣ | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 47802 | `TypeScript` | Write HTML. Render video. Built for agents. |
+| 6️⃣ | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 48854 | `JavaScript` | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, a… |
+| 7️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 283398 | `Shell` | An agentic skills framework & software development methodology that work… |
+| 8️⃣ | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 211487 | — | A single CLAUDE.md file to improve Claude Code behavior, derived from An… |
+| 9️⃣ | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 181737 | `Python` | Python tool for converting files and office documents to Markdown. |
+| 🔟 | [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) | 10537 | `JavaScript` | Stealth headless browser for AI agents — bypass Cloudflare, bot detectio… |
 
 </details>
 
-<sub>🕐 更新于 2026-09-08 09:59 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-09-09 10:04 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
