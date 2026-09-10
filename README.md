@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#DWCS](https://twitter.com/search?q=%23DWCS) | — |
-| 🥈 | [#WWENXT](https://twitter.com/search?q=%23WWENXT) | — |
-| 🥉 | [Big Foe](https://twitter.com/search?q=Big%20Foe) | — |
-| 4️⃣ | [Tiafoe](https://twitter.com/search?q=Tiafoe) | — |
-| 5️⃣ | [#RHONY](https://twitter.com/search?q=%23RHONY) | — |
-| 6️⃣ | [Zelda](https://twitter.com/search?q=Zelda) | — |
-| 7️⃣ | [Baker](https://twitter.com/search?q=Baker) | — |
-| 8️⃣ | [Sean Burke](https://twitter.com/search?q=Sean%20Burke) | — |
-| 9️⃣ | [Michelsen](https://twitter.com/search?q=Michelsen) | — |
-| 🔟 | [Moreno](https://twitter.com/search?q=Moreno) | — |
+| 🥇 | [Drew Lock](https://twitter.com/search?q=Drew%20Lock) | — |
+| 🥈 | [Sam Darnold](https://twitter.com/search?q=Sam%20Darnold) | — |
+| 🥉 | [Seahawks](https://twitter.com/search?q=Seahawks) | — |
+| 4️⃣ | [Patriots](https://twitter.com/search?q=Patriots) | — |
+| 5️⃣ | [Eli Raridon](https://twitter.com/search?q=Eli%20Raridon) | — |
+| 6️⃣ | [#AEWDynamite](https://twitter.com/search?q=%23AEWDynamite) | — |
+| 7️⃣ | [Drake Maye](https://twitter.com/search?q=Drake%20Maye) | — |
+| 8️⃣ | [AJ Brown](https://twitter.com/search?q=AJ%20Brown) | — |
+| 9️⃣ | [Barry Melrose](https://twitter.com/search?q=Barry%20Melrose) | — |
+| 🔟 | [Josh McDaniels](https://twitter.com/search?q=Josh%20McDaniels) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-09-09 10:04 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-09-10 10:01 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-09-09 10:04 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-09-10 10:01 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 30684 | `Python` | A skill to stop your coding agent from burying the answer. ADHD-friendly… |
-| 🥈 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 34932 | `HTML` | 38 editorial diagram types for Claude Code, Codex, and Pi. Self-containe… |
-| 🥉 | [openai/skills](https://github.com/openai/skills) | 26538 | `Python` | Skills Catalog for Codex |
-| 4️⃣ | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 254347 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, me… |
-| 5️⃣ | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 47802 | `TypeScript` | Write HTML. Render video. Built for agents. |
-| 6️⃣ | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 48854 | `JavaScript` | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, a… |
-| 7️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 283398 | `Shell` | An agentic skills framework & software development methodology that work… |
-| 8️⃣ | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 211487 | — | A single CLAUDE.md file to improve Claude Code behavior, derived from An… |
-| 9️⃣ | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 181737 | `Python` | Python tool for converting files and office documents to Markdown. |
-| 🔟 | [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) | 10537 | `JavaScript` | Stealth headless browser for AI agents — bypass Cloudflare, bot detectio… |
+| 🥇 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 34781 | `Python` | A skill to stop your coding agent from burying the answer. ADHD-friendly… |
+| 🥈 | [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) | 3042 | `TypeScript` | Make Every Team AI Native |
+| 🥉 | [obra/superpowers](https://github.com/obra/superpowers) | 284061 | `Shell` | An agentic skills framework & software development methodology that work… |
+| 4️⃣ | [pascalorg/editor](https://github.com/pascalorg/editor) | 22960 | `TypeScript` | Open-source 3D architectural editor with a local CLI, MCP tools, and pra… |
+| 5️⃣ | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | 15052 | `Python` | A library of agent skills for CAD, CAE and CAM |
+| 6️⃣ | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 36659 | `HTML` | 38 editorial diagram types for Claude Code, Codex, and Pi. Self-containe… |
+| 7️⃣ | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 103988 | `Python` | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| 8️⃣ | [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) | 18033 | — | Notes of the book System Desgin Interview - An Insider's Guide |
+| 9️⃣ | [openai/plugins](https://github.com/openai/plugins) | 6215 | `JavaScript` | OpenAI Plugins |
+| 🔟 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | 30094 | `JavaScript` | Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Ski… |
 
 </details>
 
-<sub>🕐 更新于 2026-09-09 10:04 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-09-10 10:01 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
