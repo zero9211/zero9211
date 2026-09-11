@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Drew Lock](https://twitter.com/search?q=Drew%20Lock) | — |
-| 🥈 | [Sam Darnold](https://twitter.com/search?q=Sam%20Darnold) | — |
-| 🥉 | [Seahawks](https://twitter.com/search?q=Seahawks) | — |
-| 4️⃣ | [Patriots](https://twitter.com/search?q=Patriots) | — |
-| 5️⃣ | [Eli Raridon](https://twitter.com/search?q=Eli%20Raridon) | — |
-| 6️⃣ | [#AEWDynamite](https://twitter.com/search?q=%23AEWDynamite) | — |
-| 7️⃣ | [Drake Maye](https://twitter.com/search?q=Drake%20Maye) | — |
-| 8️⃣ | [AJ Brown](https://twitter.com/search?q=AJ%20Brown) | — |
-| 9️⃣ | [Barry Melrose](https://twitter.com/search?q=Barry%20Melrose) | — |
-| 🔟 | [Josh McDaniels](https://twitter.com/search?q=Josh%20McDaniels) | — |
+| 🥇 | [Rams](https://twitter.com/search?q=Rams) | — |
+| 🥈 | [Mike Evans](https://twitter.com/search?q=Mike%20Evans) | — |
+| 🥉 | [Stafford](https://twitter.com/search?q=Stafford) | — |
+| 4️⃣ | [Niners](https://twitter.com/search?q=Niners) | — |
+| 5️⃣ | [Puka](https://twitter.com/search?q=Puka) | — |
+| 6️⃣ | [Australia](https://twitter.com/search?q=Australia) | — |
+| 7️⃣ | [#SFvsLAR](https://twitter.com/search?q=%23SFvsLAR) | — |
+| 8️⃣ | [Angela](https://twitter.com/search?q=Angela) | — |
+| 9️⃣ | [Charlie](https://twitter.com/search?q=Charlie) | — |
+| 🔟 | [Deebo](https://twitter.com/search?q=Deebo) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-09-10 10:01 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-09-11 09:59 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-09-10 10:01 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-09-11 09:59 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 34781 | `Python` | A skill to stop your coding agent from burying the answer. ADHD-friendly… |
-| 🥈 | [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) | 3042 | `TypeScript` | Make Every Team AI Native |
-| 🥉 | [obra/superpowers](https://github.com/obra/superpowers) | 284061 | `Shell` | An agentic skills framework & software development methodology that work… |
-| 4️⃣ | [pascalorg/editor](https://github.com/pascalorg/editor) | 22960 | `TypeScript` | Open-source 3D architectural editor with a local CLI, MCP tools, and pra… |
-| 5️⃣ | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | 15052 | `Python` | A library of agent skills for CAD, CAE and CAM |
-| 6️⃣ | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 36659 | `HTML` | 38 editorial diagram types for Claude Code, Codex, and Pi. Self-containe… |
-| 7️⃣ | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 103988 | `Python` | TradingAgents: Multi-Agents LLM Financial Trading Framework |
-| 8️⃣ | [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) | 18033 | — | Notes of the book System Desgin Interview - An Insider's Guide |
-| 9️⃣ | [openai/plugins](https://github.com/openai/plugins) | 6215 | `JavaScript` | OpenAI Plugins |
-| 🔟 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | 30094 | `JavaScript` | Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Ski… |
+| 🥇 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 38466 | `Python` | A skill to stop your coding agent from burying the answer. ADHD-friendly… |
+| 🥈 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 24427 | `JavaScript` | A spy satellite simulator in your browser, except the data is real. Live… |
+| 🥉 | [obra/superpowers](https://github.com/obra/superpowers) | 284727 | `Shell` | An agentic skills framework & software development methodology that work… |
+| 4️⃣ | [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) | 1685 | `TypeScript` | Open Source AI trading agent that operates autonomously across 1000+ mar… |
+| 5️⃣ | [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) | 3829 | `TypeScript` | Make Every Team AI Native |
+| 6️⃣ | [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | 35766 | `Rust` | Hundreds of models & providers. One command to find what runs on your ha… |
+| 7️⃣ | [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) | 18824 | — | Notes of the book System Desgin Interview - An Insider's Guide |
+| 8️⃣ | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 37800 | `HTML` | 38 editorial diagram types for Claude Code, Codex, and Pi. Self-containe… |
+| 9️⃣ | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | 30882 | `JavaScript` | Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skill… |
+| 🔟 | [armory3d/armorpaint](https://github.com/armory3d/armorpaint) | 4431 | `C` | Graphics Creation Tools |
 
 </details>
 
-<sub>🕐 更新于 2026-09-10 10:01 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-09-11 09:59 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
