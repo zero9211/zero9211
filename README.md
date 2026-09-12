@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Rams](https://twitter.com/search?q=Rams) | — |
-| 🥈 | [Mike Evans](https://twitter.com/search?q=Mike%20Evans) | — |
-| 🥉 | [Stafford](https://twitter.com/search?q=Stafford) | — |
-| 4️⃣ | [Niners](https://twitter.com/search?q=Niners) | — |
-| 5️⃣ | [Puka](https://twitter.com/search?q=Puka) | — |
-| 6️⃣ | [Australia](https://twitter.com/search?q=Australia) | — |
-| 7️⃣ | [#SFvsLAR](https://twitter.com/search?q=%23SFvsLAR) | — |
-| 8️⃣ | [Angela](https://twitter.com/search?q=Angela) | — |
-| 9️⃣ | [Charlie](https://twitter.com/search?q=Charlie) | — |
-| 🔟 | [Deebo](https://twitter.com/search?q=Deebo) | — |
+| 🥇 | [Durk](https://twitter.com/search?q=Durk) | — |
+| 🥈 | [Brian Steele](https://twitter.com/search?q=Brian%20Steele) | — |
+| 🥉 | [#SmackDown](https://twitter.com/search?q=%23SmackDown) | — |
+| 4️⃣ | [Kansas](https://twitter.com/search?q=Kansas) | — |
+| 5️⃣ | [Mizzou](https://twitter.com/search?q=Mizzou) | — |
+| 6️⃣ | [gaga](https://twitter.com/search?q=gaga) | — |
+| 7️⃣ | [Kyle Tucker](https://twitter.com/search?q=Kyle%20Tucker) | — |
+| 8️⃣ | [Vonnie](https://twitter.com/search?q=Vonnie) | — |
+| 9️⃣ | [hoshi](https://twitter.com/search?q=hoshi) | — |
+| 🔟 | [Missouri](https://twitter.com/search?q=Missouri) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-09-11 09:59 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-09-12 10:04 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-09-11 09:59 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-09-12 10:04 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 38466 | `Python` | A skill to stop your coding agent from burying the answer. ADHD-friendly… |
-| 🥈 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 24427 | `JavaScript` | A spy satellite simulator in your browser, except the data is real. Live… |
-| 🥉 | [obra/superpowers](https://github.com/obra/superpowers) | 284727 | `Shell` | An agentic skills framework & software development methodology that work… |
-| 4️⃣ | [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) | 1685 | `TypeScript` | Open Source AI trading agent that operates autonomously across 1000+ mar… |
-| 5️⃣ | [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) | 3829 | `TypeScript` | Make Every Team AI Native |
-| 6️⃣ | [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | 35766 | `Rust` | Hundreds of models & providers. One command to find what runs on your ha… |
-| 7️⃣ | [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) | 18824 | — | Notes of the book System Desgin Interview - An Insider's Guide |
-| 8️⃣ | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 37800 | `HTML` | 38 editorial diagram types for Claude Code, Codex, and Pi. Self-containe… |
-| 9️⃣ | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | 30882 | `JavaScript` | Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skill… |
-| 🔟 | [armory3d/armorpaint](https://github.com/armory3d/armorpaint) | 4431 | `C` | Graphics Creation Tools |
+| 🥇 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 41931 | `Python` | A skill to stop your coding agent from burying the answer. ADHD-friendly… |
+| 🥈 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 27195 | `JavaScript` | A spy satellite simulator in your browser, except the data is real. Live… |
+| 🥉 | [nab138/iloader](https://github.com/nab138/iloader) | 2918 | `TypeScript` | User friendly sideloader |
+| 4️⃣ | [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | 1371 | `TypeScript` | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsA… |
+| 5️⃣ | [vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop) | 2792 | `TypeScript` | Local-first AI coding agent desktop: Electron + Rust host core + pi Agen… |
+| 6️⃣ | [armory3d/armorpaint](https://github.com/armory3d/armorpaint) | 4734 | `C` | Graphics Creation Tools |
+| 7️⃣ | [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) | 2162 | `TypeScript` | Open Source AI trading agent that operates autonomously across 1000+ mar… |
+| 8️⃣ | [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki) | 18759 | `TypeScript` | LLM Wiki is a cross-platform desktop application that turns your documen… |
+| 9️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 285390 | `Shell` | An agentic skills framework & software development methodology that work… |
+| 🔟 | [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) | 15745 | `C#` | Smart PVR for newsgroup and bittorrent users. |
 
 </details>
 
-<sub>🕐 更新于 2026-09-11 09:59 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-09-12 10:04 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
