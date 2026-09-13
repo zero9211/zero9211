@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Durk](https://twitter.com/search?q=Durk) | — |
-| 🥈 | [Brian Steele](https://twitter.com/search?q=Brian%20Steele) | — |
-| 🥉 | [#SmackDown](https://twitter.com/search?q=%23SmackDown) | — |
-| 4️⃣ | [Kansas](https://twitter.com/search?q=Kansas) | — |
-| 5️⃣ | [Mizzou](https://twitter.com/search?q=Mizzou) | — |
-| 6️⃣ | [gaga](https://twitter.com/search?q=gaga) | — |
-| 7️⃣ | [Kyle Tucker](https://twitter.com/search?q=Kyle%20Tucker) | — |
-| 8️⃣ | [Vonnie](https://twitter.com/search?q=Vonnie) | — |
-| 9️⃣ | [hoshi](https://twitter.com/search?q=hoshi) | — |
-| 🔟 | [Missouri](https://twitter.com/search?q=Missouri) | — |
+| 🥇 | [Jeremiah Smith](https://twitter.com/search?q=Jeremiah%20Smith) | — |
+| 🥈 | [Texas](https://twitter.com/search?q=Texas) | — |
+| 🥉 | [Arch Manning](https://twitter.com/search?q=Arch%20Manning) | — |
+| 4️⃣ | [Sark](https://twitter.com/search?q=Sark) | — |
+| 5️⃣ | [Ohio State](https://twitter.com/search?q=Ohio%20State) | — |
+| 6️⃣ | [Cam Coleman](https://twitter.com/search?q=Cam%20Coleman) | — |
+| 7️⃣ | [Oregon](https://twitter.com/search?q=Oregon) | — |
+| 8️⃣ | [#AEWCollision](https://twitter.com/search?q=%23AEWCollision) | — |
+| 9️⃣ | [Buckeyes](https://twitter.com/search?q=Buckeyes) | — |
+| 🔟 | [Sam Leavitt](https://twitter.com/search?q=Sam%20Leavitt) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-09-12 10:04 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-09-13 09:59 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-09-12 10:04 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-09-13 09:59 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 41931 | `Python` | A skill to stop your coding agent from burying the answer. ADHD-friendly… |
-| 🥈 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 27195 | `JavaScript` | A spy satellite simulator in your browser, except the data is real. Live… |
-| 🥉 | [nab138/iloader](https://github.com/nab138/iloader) | 2918 | `TypeScript` | User friendly sideloader |
-| 4️⃣ | [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | 1371 | `TypeScript` | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsA… |
-| 5️⃣ | [vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop) | 2792 | `TypeScript` | Local-first AI coding agent desktop: Electron + Rust host core + pi Agen… |
-| 6️⃣ | [armory3d/armorpaint](https://github.com/armory3d/armorpaint) | 4734 | `C` | Graphics Creation Tools |
-| 7️⃣ | [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) | 2162 | `TypeScript` | Open Source AI trading agent that operates autonomously across 1000+ mar… |
-| 8️⃣ | [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki) | 18759 | `TypeScript` | LLM Wiki is a cross-platform desktop application that turns your documen… |
-| 9️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 285390 | `Shell` | An agentic skills framework & software development methodology that work… |
-| 🔟 | [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) | 15745 | `C#` | Smart PVR for newsgroup and bittorrent users. |
+| 🥇 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 29995 | `JavaScript` | A spy satellite simulator in your browser, except the data is real. Live… |
+| 🥈 | [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | 1821 | `TypeScript` | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsA… |
+| 🥉 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 65438 | `JavaScript` | Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Clau… |
+| 4️⃣ | [nab138/iloader](https://github.com/nab138/iloader) | 3092 | `TypeScript` | User friendly sideloader |
+| 5️⃣ | [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) | 33211 | `Batchfile` | — |
+| 6️⃣ | [jihe520/MathModelAgent](https://github.com/jihe520/MathModelAgent) | 5138 | `Python` | 🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed… |
+| 7️⃣ | [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) | 15932 | `C#` | Smart PVR for newsgroup and bittorrent users. |
+| 8️⃣ | [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) | 2519 | `TypeScript` | Open Source AI trading agent that operates autonomously across 1000+ mar… |
+| 9️⃣ | [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) | 33225 | `Java` | Browse media content with your own rules on Android TV |
+| 🔟 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 137643 | `Python` | 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. |
 
 </details>
 
-<sub>🕐 更新于 2026-09-12 10:04 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-09-13 09:59 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
