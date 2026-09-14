@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Jeremiah Smith](https://twitter.com/search?q=Jeremiah%20Smith) | — |
-| 🥈 | [Texas](https://twitter.com/search?q=Texas) | — |
-| 🥉 | [Arch Manning](https://twitter.com/search?q=Arch%20Manning) | — |
-| 4️⃣ | [Sark](https://twitter.com/search?q=Sark) | — |
-| 5️⃣ | [Ohio State](https://twitter.com/search?q=Ohio%20State) | — |
-| 6️⃣ | [Cam Coleman](https://twitter.com/search?q=Cam%20Coleman) | — |
-| 7️⃣ | [Oregon](https://twitter.com/search?q=Oregon) | — |
-| 8️⃣ | [#AEWCollision](https://twitter.com/search?q=%23AEWCollision) | — |
-| 9️⃣ | [Buckeyes](https://twitter.com/search?q=Buckeyes) | — |
-| 🔟 | [Sam Leavitt](https://twitter.com/search?q=Sam%20Leavitt) | — |
+| 🥇 | [Packers](https://twitter.com/search?q=Packers) | — |
+| 🥈 | [Cowboys](https://twitter.com/search?q=Cowboys) | — |
+| 🥉 | [Giants](https://twitter.com/search?q=Giants) | — |
+| 4️⃣ | [Chargers](https://twitter.com/search?q=Chargers) | — |
+| 5️⃣ | [Vikings](https://twitter.com/search?q=Vikings) | — |
+| 6️⃣ | [Tyrone Tracy](https://twitter.com/search?q=Tyrone%20Tracy) | — |
+| 7️⃣ | [Caleb Downs](https://twitter.com/search?q=Caleb%20Downs) | — |
+| 8️⃣ | [Herbert](https://twitter.com/search?q=Herbert) | — |
+| 9️⃣ | [Carson Wentz](https://twitter.com/search?q=Carson%20Wentz) | — |
+| 🔟 | [Dart](https://twitter.com/search?q=Dart) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-09-13 09:59 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-09-14 10:17 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-09-13 09:59 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-09-14 10:17 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 29995 | `JavaScript` | A spy satellite simulator in your browser, except the data is real. Live… |
-| 🥈 | [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | 1821 | `TypeScript` | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsA… |
-| 🥉 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 65438 | `JavaScript` | Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Clau… |
-| 4️⃣ | [nab138/iloader](https://github.com/nab138/iloader) | 3092 | `TypeScript` | User friendly sideloader |
-| 5️⃣ | [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) | 33211 | `Batchfile` | — |
-| 6️⃣ | [jihe520/MathModelAgent](https://github.com/jihe520/MathModelAgent) | 5138 | `Python` | 🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed… |
-| 7️⃣ | [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) | 15932 | `C#` | Smart PVR for newsgroup and bittorrent users. |
-| 8️⃣ | [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) | 2519 | `TypeScript` | Open Source AI trading agent that operates autonomously across 1000+ mar… |
-| 9️⃣ | [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) | 33225 | `Java` | Browse media content with your own rules on Android TV |
-| 🔟 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 137643 | `Python` | 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. |
+| 🥇 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 29964 | `C` | Run frontier MoE models on hardware you already own — pure C, zero deps,… |
+| 🥈 | [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) | 5161 | `TypeScript` | Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - … |
+| 🥉 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 32013 | `JavaScript` | A spy satellite simulator in your browser, except the data is real. Live… |
+| 4️⃣ | [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) | 5682 | `TypeScript` | The secure, validated skill registry for professional AI coding agents. … |
+| 5️⃣ | [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | 2224 | `TypeScript` | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsA… |
+| 6️⃣ | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 58501 | `Python` | World's first open-source, agentic video production system. 12 productio… |
+| 7️⃣ | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 66091 | `JavaScript` | Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Clau… |
+| 8️⃣ | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 24015 | `Go` | Fully autonomous AI Agents system capable of performing complex penetrat… |
+| 9️⃣ | [multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE) | 7794 | `Python` | YuE2: frontier music generation with symbolic planning, zero-shot covers… |
+| 🔟 | [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) | 33466 | `Java` | Browse media content with your own rules on Android TV |
 
 </details>
 
-<sub>🕐 更新于 2026-09-13 09:59 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-09-14 10:17 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
