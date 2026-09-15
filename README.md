@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Packers](https://twitter.com/search?q=Packers) | — |
-| 🥈 | [Cowboys](https://twitter.com/search?q=Cowboys) | — |
-| 🥉 | [Giants](https://twitter.com/search?q=Giants) | — |
-| 4️⃣ | [Chargers](https://twitter.com/search?q=Chargers) | — |
-| 5️⃣ | [Vikings](https://twitter.com/search?q=Vikings) | — |
-| 6️⃣ | [Tyrone Tracy](https://twitter.com/search?q=Tyrone%20Tracy) | — |
-| 7️⃣ | [Caleb Downs](https://twitter.com/search?q=Caleb%20Downs) | — |
-| 8️⃣ | [Herbert](https://twitter.com/search?q=Herbert) | — |
-| 9️⃣ | [Carson Wentz](https://twitter.com/search?q=Carson%20Wentz) | — |
-| 🔟 | [Dart](https://twitter.com/search?q=Dart) | — |
+| 🥇 | [Mahomes](https://twitter.com/search?q=Mahomes) | — |
+| 🥈 | [Chiefs](https://twitter.com/search?q=Chiefs) | — |
+| 🥉 | [#Emmys](https://twitter.com/search?q=%23Emmys) | — |
+| 4️⃣ | [#WWERaw](https://twitter.com/search?q=%23WWERaw) | — |
+| 5️⃣ | [Broncos](https://twitter.com/search?q=Broncos) | — |
+| 6️⃣ | [Kenneth Walker](https://twitter.com/search?q=Kenneth%20Walker) | — |
+| 7️⃣ | [Bo Nix](https://twitter.com/search?q=Bo%20Nix) | — |
+| 8️⃣ | [Dragon Lee](https://twitter.com/search?q=Dragon%20Lee) | — |
+| 9️⃣ | [Zendaya](https://twitter.com/search?q=Zendaya) | — |
+| 🔟 | [Kelce](https://twitter.com/search?q=Kelce) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-09-14 10:17 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-09-15 10:23 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-09-14 10:17 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-09-15 10:23 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 29964 | `C` | Run frontier MoE models on hardware you already own — pure C, zero deps,… |
-| 🥈 | [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) | 5161 | `TypeScript` | Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - … |
-| 🥉 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 32013 | `JavaScript` | A spy satellite simulator in your browser, except the data is real. Live… |
-| 4️⃣ | [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) | 5682 | `TypeScript` | The secure, validated skill registry for professional AI coding agents. … |
-| 5️⃣ | [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | 2224 | `TypeScript` | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsA… |
-| 6️⃣ | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 58501 | `Python` | World's first open-source, agentic video production system. 12 productio… |
-| 7️⃣ | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 66091 | `JavaScript` | Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Clau… |
-| 8️⃣ | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 24015 | `Go` | Fully autonomous AI Agents system capable of performing complex penetrat… |
-| 9️⃣ | [multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE) | 7794 | `Python` | YuE2: frontier music generation with symbolic planning, zero-shot covers… |
-| 🔟 | [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) | 33466 | `Java` | Browse media content with your own rules on Android TV |
+| 🥇 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 32187 | `C` | Run frontier MoE models on hardware you already own — pure C, zero deps,… |
+| 🥈 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 25936 | `Go` | Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture c… |
+| 🥉 | [multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE) | 8399 | `Python` | YuE2: frontier music generation with symbolic planning, zero-shot covers… |
+| 4️⃣ | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 29333 | `Python` | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voi… |
+| 5️⃣ | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 73208 | `Python` | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简… |
+| 6️⃣ | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 81357 | `Python` | Give your AI agent eyes to see the entire internet. Read & search Twitte… |
+| 7️⃣ | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 66815 | `JavaScript` | Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Clau… |
+| 8️⃣ | [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes) | 2084 | `Python` | All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-ter… |
+| 9️⃣ | [localsend/localsend](https://github.com/localsend/localsend) | 91367 | `Dart` | An open-source cross-platform alternative to AirDrop |
+| 🔟 | [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | 67537 | `Rust` | Unofficial Bitwarden compatible server written in Rust, formerly known a… |
 
 </details>
 
-<sub>🕐 更新于 2026-09-14 10:17 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-09-15 10:23 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
