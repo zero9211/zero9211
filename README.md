@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Mahomes](https://twitter.com/search?q=Mahomes) | — |
-| 🥈 | [Chiefs](https://twitter.com/search?q=Chiefs) | — |
-| 🥉 | [#Emmys](https://twitter.com/search?q=%23Emmys) | — |
-| 4️⃣ | [#WWERaw](https://twitter.com/search?q=%23WWERaw) | — |
-| 5️⃣ | [Broncos](https://twitter.com/search?q=Broncos) | — |
-| 6️⃣ | [Kenneth Walker](https://twitter.com/search?q=Kenneth%20Walker) | — |
-| 7️⃣ | [Bo Nix](https://twitter.com/search?q=Bo%20Nix) | — |
-| 8️⃣ | [Dragon Lee](https://twitter.com/search?q=Dragon%20Lee) | — |
-| 9️⃣ | [Zendaya](https://twitter.com/search?q=Zendaya) | — |
-| 🔟 | [Kelce](https://twitter.com/search?q=Kelce) | — |
+| 🥇 | [#dwts](https://twitter.com/search?q=%23dwts) | — |
+| 🥈 | [Ezra](https://twitter.com/search?q=Ezra) | — |
+| 🥉 | [Guillermo](https://twitter.com/search?q=Guillermo) | — |
+| 4️⃣ | [#WWENXT](https://twitter.com/search?q=%23WWENXT) | — |
+| 5️⃣ | [#DWCS](https://twitter.com/search?q=%23DWCS) | — |
+| 6️⃣ | [Jacob Webb](https://twitter.com/search?q=Jacob%20Webb) | — |
+| 7️⃣ | [Massie](https://twitter.com/search?q=Massie) | — |
+| 8️⃣ | [Britt](https://twitter.com/search?q=Britt) | — |
+| 9️⃣ | [Rocchio](https://twitter.com/search?q=Rocchio) | — |
+| 🔟 | [Ed Sheeran](https://twitter.com/search?q=Ed%20Sheeran) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-09-15 10:23 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-09-16 10:16 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-09-15 10:23 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-09-16 10:16 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 32187 | `C` | Run frontier MoE models on hardware you already own — pure C, zero deps,… |
-| 🥈 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 25936 | `Go` | Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture c… |
-| 🥉 | [multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE) | 8399 | `Python` | YuE2: frontier music generation with symbolic planning, zero-shot covers… |
-| 4️⃣ | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 29333 | `Python` | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voi… |
-| 5️⃣ | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 73208 | `Python` | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简… |
-| 6️⃣ | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 81357 | `Python` | Give your AI agent eyes to see the entire internet. Read & search Twitte… |
-| 7️⃣ | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 66815 | `JavaScript` | Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Clau… |
-| 8️⃣ | [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes) | 2084 | `Python` | All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-ter… |
-| 9️⃣ | [localsend/localsend](https://github.com/localsend/localsend) | 91367 | `Dart` | An open-source cross-platform alternative to AirDrop |
-| 🔟 | [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | 67537 | `Rust` | Unofficial Bitwarden compatible server written in Rust, formerly known a… |
+| 🥇 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 28785 | `Go` | Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture c… |
+| 🥈 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 33930 | `C` | Run frontier MoE models on hardware you already own — pure C, zero deps,… |
+| 🥉 | [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) | 6704 | `TypeScript` | Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - … |
+| 4️⃣ | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 31072 | `Python` | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voi… |
+| 5️⃣ | [Homebrew/BrewUI](https://github.com/Homebrew/BrewUI) | 1411 | `Swift` | 📺 Homebrew's official macOS GUI |
+| 6️⃣ | [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | 2869 | `TypeScript` | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsA… |
+| 7️⃣ | [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch) | 3421 | `Rust` | Turn your coding agents into research agents |
+| 8️⃣ | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | 76759 | `Java` | Ghidra is a software reverse engineering (SRE) framework |
+| 9️⃣ | [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) | 43869 | `TypeScript` | Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropi… |
+| 🔟 | [pacifio/atlas](https://github.com/pacifio/atlas) | 4655 | `Rust` | Source control for agents. Use multiple coding agents, track their chang… |
 
 </details>
 
-<sub>🕐 更新于 2026-09-15 10:23 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-09-16 10:16 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
