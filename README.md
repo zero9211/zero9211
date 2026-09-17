@@ -58,19 +58,19 @@
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
 | 🥇 | [#dwts](https://twitter.com/search?q=%23dwts) | — |
-| 🥈 | [Ezra](https://twitter.com/search?q=Ezra) | — |
-| 🥉 | [Guillermo](https://twitter.com/search?q=Guillermo) | — |
-| 4️⃣ | [#WWENXT](https://twitter.com/search?q=%23WWENXT) | — |
-| 5️⃣ | [#DWCS](https://twitter.com/search?q=%23DWCS) | — |
-| 6️⃣ | [Jacob Webb](https://twitter.com/search?q=Jacob%20Webb) | — |
-| 7️⃣ | [Massie](https://twitter.com/search?q=Massie) | — |
-| 8️⃣ | [Britt](https://twitter.com/search?q=Britt) | — |
-| 9️⃣ | [Rocchio](https://twitter.com/search?q=Rocchio) | — |
-| 🔟 | [Ed Sheeran](https://twitter.com/search?q=Ed%20Sheeran) | — |
+| 🥈 | [#AEWDynamite](https://twitter.com/search?q=%23AEWDynamite) | — |
+| 🥉 | [Maura](https://twitter.com/search?q=Maura) | — |
+| 4️⃣ | [Tatyana](https://twitter.com/search?q=Tatyana) | — |
+| 5️⃣ | [#RHOSLC](https://twitter.com/search?q=%23RHOSLC) | — |
+| 6️⃣ | [Julia](https://twitter.com/search?q=Julia) | — |
+| 7️⃣ | [Amber](https://twitter.com/search?q=Amber) | — |
+| 8️⃣ | [Ciara](https://twitter.com/search?q=Ciara) | — |
+| 9️⃣ | [Jenna](https://twitter.com/search?q=Jenna) | — |
+| 🔟 | [Sarah Jane](https://twitter.com/search?q=Sarah%20Jane) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-09-16 10:16 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-09-17 10:21 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-09-16 10:16 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-09-17 10:21 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 28785 | `Go` | Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture c… |
-| 🥈 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 33930 | `C` | Run frontier MoE models on hardware you already own — pure C, zero deps,… |
-| 🥉 | [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) | 6704 | `TypeScript` | Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - … |
-| 4️⃣ | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 31072 | `Python` | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voi… |
-| 5️⃣ | [Homebrew/BrewUI](https://github.com/Homebrew/BrewUI) | 1411 | `Swift` | 📺 Homebrew's official macOS GUI |
-| 6️⃣ | [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | 2869 | `TypeScript` | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsA… |
-| 7️⃣ | [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch) | 3421 | `Rust` | Turn your coding agents into research agents |
-| 8️⃣ | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | 76759 | `Java` | Ghidra is a software reverse engineering (SRE) framework |
-| 9️⃣ | [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) | 43869 | `TypeScript` | Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropi… |
-| 🔟 | [pacifio/atlas](https://github.com/pacifio/atlas) | 4655 | `Rust` | Source control for agents. Use multiple coding agents, track their chang… |
+| 🥇 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 32124 | `Go` | Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture c… |
+| 🥈 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 7424 | `JavaScript` | A coding-agent skill for multi-phase security audits with independently … |
+| 🥉 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 35084 | `C` | Run frontier MoE models on hardware you already own — pure C, zero deps,… |
+| 4️⃣ | [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) | 5642 | `Swift` | Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard h… |
+| 5️⃣ | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 54424 | `TypeScript` | The open-source AI voice studio. Clone, dictate, create. |
+| 6️⃣ | [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) | 13378 | `Swift` | — |
+| 7️⃣ | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 24309 | `Python` | Open source repository of plugins primarily intended for knowledge worke… |
+| 8️⃣ | [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) | 7352 | `TypeScript` | Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - … |
+| 9️⃣ | [ankitects/anki](https://github.com/ankitects/anki) | 30892 | `Rust` | Anki is a smart spaced repetition flashcard program |
+| 🔟 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | 77869 | `Java` | Ghidra is a software reverse engineering (SRE) framework |
 
 </details>
 
-<sub>🕐 更新于 2026-09-16 10:16 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-09-17 10:21 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
