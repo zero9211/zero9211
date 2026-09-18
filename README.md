@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#dwts](https://twitter.com/search?q=%23dwts) | — |
-| 🥈 | [#AEWDynamite](https://twitter.com/search?q=%23AEWDynamite) | — |
-| 🥉 | [Maura](https://twitter.com/search?q=Maura) | — |
-| 4️⃣ | [Tatyana](https://twitter.com/search?q=Tatyana) | — |
-| 5️⃣ | [#RHOSLC](https://twitter.com/search?q=%23RHOSLC) | — |
-| 6️⃣ | [Julia](https://twitter.com/search?q=Julia) | — |
-| 7️⃣ | [Amber](https://twitter.com/search?q=Amber) | — |
-| 8️⃣ | [Ciara](https://twitter.com/search?q=Ciara) | — |
-| 9️⃣ | [Jenna](https://twitter.com/search?q=Jenna) | — |
-| 🔟 | [Sarah Jane](https://twitter.com/search?q=Sarah%20Jane) | — |
+| 🥇 | [Lions](https://twitter.com/search?q=Lions) | — |
+| 🥈 | [Josh Allen](https://twitter.com/search?q=Josh%20Allen) | — |
+| 🥉 | [Gibbs](https://twitter.com/search?q=Gibbs) | — |
+| 4️⃣ | [Bills](https://twitter.com/search?q=Bills) | — |
+| 5️⃣ | [DJ Moore](https://twitter.com/search?q=DJ%20Moore) | — |
+| 6️⃣ | [Goff](https://twitter.com/search?q=Goff) | — |
+| 7️⃣ | [Dan Campbell](https://twitter.com/search?q=Dan%20Campbell) | — |
+| 8️⃣ | [James Cook](https://twitter.com/search?q=James%20Cook) | — |
+| 9️⃣ | [Brad Holmes](https://twitter.com/search?q=Brad%20Holmes) | — |
+| 🔟 | [#OnePride](https://twitter.com/search?q=%23OnePride) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-09-17 10:21 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-09-18 10:06 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-09-17 10:21 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-09-18 10:06 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 32124 | `Go` | Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture c… |
-| 🥈 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 7424 | `JavaScript` | A coding-agent skill for multi-phase security audits with independently … |
-| 🥉 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 35084 | `C` | Run frontier MoE models on hardware you already own — pure C, zero deps,… |
-| 4️⃣ | [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) | 5642 | `Swift` | Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard h… |
-| 5️⃣ | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 54424 | `TypeScript` | The open-source AI voice studio. Clone, dictate, create. |
-| 6️⃣ | [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) | 13378 | `Swift` | — |
-| 7️⃣ | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 24309 | `Python` | Open source repository of plugins primarily intended for knowledge worke… |
-| 8️⃣ | [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) | 7352 | `TypeScript` | Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - … |
-| 9️⃣ | [ankitects/anki](https://github.com/ankitects/anki) | 30892 | `Rust` | Anki is a smart spaced repetition flashcard program |
-| 🔟 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | 77869 | `Java` | Ghidra is a software reverse engineering (SRE) framework |
+| 🥇 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 34913 | `Go` | Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture c… |
+| 🥈 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 10773 | `JavaScript` | A coding-agent skill for multi-phase security audits with independently … |
+| 🥉 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 95878 | `JavaScript` | Production-grade engineering skills for AI coding agents. |
+| 4️⃣ | [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 4256 | `TypeScript` | Let AI agents use your real, logged-in browser without interrupting your… |
+| 5️⃣ | [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch) | 4979 | `Rust` | Turn your coding agents into research agents |
+| 6️⃣ | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 145896 | `TypeScript` | Claude Code is an agentic coding tool that lives in your terminal, under… |
+| 7️⃣ | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | 78524 | `Java` | Ghidra is a software reverse engineering (SRE) framework |
+| 8️⃣ | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 24587 | `Python` | Open source repository of plugins primarily intended for knowledge worke… |
+| 9️⃣ | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 26303 | `Go` | Open-source LLM knowledge platform: turn raw documents into a queryable … |
+| 🔟 | [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) | 6166 | `Swift` | Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard h… |
 
 </details>
 
-<sub>🕐 更新于 2026-09-17 10:21 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-09-18 10:06 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
