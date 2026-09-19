@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Lions](https://twitter.com/search?q=Lions) | — |
-| 🥈 | [Josh Allen](https://twitter.com/search?q=Josh%20Allen) | — |
-| 🥉 | [Gibbs](https://twitter.com/search?q=Gibbs) | — |
-| 4️⃣ | [Bills](https://twitter.com/search?q=Bills) | — |
-| 5️⃣ | [DJ Moore](https://twitter.com/search?q=DJ%20Moore) | — |
-| 6️⃣ | [Goff](https://twitter.com/search?q=Goff) | — |
-| 7️⃣ | [Dan Campbell](https://twitter.com/search?q=Dan%20Campbell) | — |
-| 8️⃣ | [James Cook](https://twitter.com/search?q=James%20Cook) | — |
-| 9️⃣ | [Brad Holmes](https://twitter.com/search?q=Brad%20Holmes) | — |
-| 🔟 | [#OnePride](https://twitter.com/search?q=%23OnePride) | — |
+| 🥇 | [Greenland](https://twitter.com/search?q=Greenland) | — |
+| 🥈 | [#SmackDown](https://twitter.com/search?q=%23SmackDown) | — |
+| 🥉 | [White House](https://twitter.com/search?q=White%20House) | — |
+| 4️⃣ | [Mensah](https://twitter.com/search?q=Mensah) | — |
+| 5️⃣ | [Texas Tech](https://twitter.com/search?q=Texas%20Tech) | — |
+| 6️⃣ | [#OPLive](https://twitter.com/search?q=%23OPLive) | — |
+| 7️⃣ | [Wake Forest](https://twitter.com/search?q=Wake%20Forest) | — |
+| 8️⃣ | [Hammond](https://twitter.com/search?q=Hammond) | — |
+| 9️⃣ | [Kerkering](https://twitter.com/search?q=Kerkering) | — |
+| 🔟 | [Castellanos](https://twitter.com/search?q=Castellanos) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-09-18 10:06 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-09-19 10:10 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-09-18 10:06 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-09-19 10:10 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 34913 | `Go` | Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture c… |
-| 🥈 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 10773 | `JavaScript` | A coding-agent skill for multi-phase security audits with independently … |
-| 🥉 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 95878 | `JavaScript` | Production-grade engineering skills for AI coding agents. |
-| 4️⃣ | [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 4256 | `TypeScript` | Let AI agents use your real, logged-in browser without interrupting your… |
-| 5️⃣ | [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch) | 4979 | `Rust` | Turn your coding agents into research agents |
-| 6️⃣ | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 145896 | `TypeScript` | Claude Code is an agentic coding tool that lives in your terminal, under… |
-| 7️⃣ | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | 78524 | `Java` | Ghidra is a software reverse engineering (SRE) framework |
-| 8️⃣ | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 24587 | `Python` | Open source repository of plugins primarily intended for knowledge worke… |
-| 9️⃣ | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 26303 | `Go` | Open-source LLM knowledge platform: turn raw documents into a queryable … |
-| 🔟 | [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) | 6166 | `Swift` | Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard h… |
+| 🥇 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 13821 | `JavaScript` | A coding-agent skill for multi-phase security audits with independently … |
+| 🥈 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 146323 | `TypeScript` | Claude Code is an agentic coding tool that lives in your terminal, under… |
+| 🥉 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 36724 | `Go` | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid archit… |
+| 4️⃣ | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 262104 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, me… |
+| 5️⃣ | [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 5340 | `TypeScript` | Let AI agents use your real, logged-in browser without interrupting your… |
+| 6️⃣ | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 96428 | `JavaScript` | Production-grade engineering skills for AI coding agents. |
+| 7️⃣ | [TencentCloud/Octop](https://github.com/TencentCloud/Octop) | 3976 | `Python` | A smarter, self-hosted AI assistant — multi-user, multi-agent. |
+| 8️⃣ | [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | 69376 | `TypeScript` | Spec-driven development (SDD) for AI coding assistants. |
+| 9️⃣ | [ankitects/anki](https://github.com/ankitects/anki) | 31217 | `Rust` | Anki is a smart spaced repetition flashcard program |
+| 🔟 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 24894 | `Python` | Open source repository of plugins primarily intended for knowledge worke… |
 
 </details>
 
-<sub>🕐 更新于 2026-09-18 10:06 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-09-19 10:10 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
