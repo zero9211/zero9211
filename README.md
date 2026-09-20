@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Greenland](https://twitter.com/search?q=Greenland) | — |
-| 🥈 | [#SmackDown](https://twitter.com/search?q=%23SmackDown) | — |
-| 🥉 | [White House](https://twitter.com/search?q=White%20House) | — |
-| 4️⃣ | [Mensah](https://twitter.com/search?q=Mensah) | — |
-| 5️⃣ | [Texas Tech](https://twitter.com/search?q=Texas%20Tech) | — |
-| 6️⃣ | [#OPLive](https://twitter.com/search?q=%23OPLive) | — |
-| 7️⃣ | [Wake Forest](https://twitter.com/search?q=Wake%20Forest) | — |
-| 8️⃣ | [Hammond](https://twitter.com/search?q=Hammond) | — |
-| 9️⃣ | [Kerkering](https://twitter.com/search?q=Kerkering) | — |
-| 🔟 | [Castellanos](https://twitter.com/search?q=Castellanos) | — |
+| 🥇 | [Trinidad Chambliss](https://twitter.com/search?q=Trinidad%20Chambliss) | — |
+| 🥈 | [Ole Miss](https://twitter.com/search?q=Ole%20Miss) | — |
+| 🥉 | [#UFC331](https://twitter.com/search?q=%23UFC331) | — |
+| 4️⃣ | [Sam Leavitt](https://twitter.com/search?q=Sam%20Leavitt) | — |
+| 5️⃣ | [Lane Kiffin](https://twitter.com/search?q=Lane%20Kiffin) | — |
+| 6️⃣ | [Auburn](https://twitter.com/search?q=Auburn) | — |
+| 7️⃣ | [Bama](https://twitter.com/search?q=Bama) | — |
+| 8️⃣ | [Chito](https://twitter.com/search?q=Chito) | — |
+| 9️⃣ | [#AEWCollision](https://twitter.com/search?q=%23AEWCollision) | — |
+| 🔟 | [Kentucky](https://twitter.com/search?q=Kentucky) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-09-19 10:10 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-09-20 10:17 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-09-19 10:10 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-09-20 10:17 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 13821 | `JavaScript` | A coding-agent skill for multi-phase security audits with independently … |
-| 🥈 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 146323 | `TypeScript` | Claude Code is an agentic coding tool that lives in your terminal, under… |
-| 🥉 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 36724 | `Go` | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid archit… |
-| 4️⃣ | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 262104 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, me… |
-| 5️⃣ | [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 5340 | `TypeScript` | Let AI agents use your real, logged-in browser without interrupting your… |
-| 6️⃣ | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 96428 | `JavaScript` | Production-grade engineering skills for AI coding agents. |
-| 7️⃣ | [TencentCloud/Octop](https://github.com/TencentCloud/Octop) | 3976 | `Python` | A smarter, self-hosted AI assistant — multi-user, multi-agent. |
-| 8️⃣ | [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | 69376 | `TypeScript` | Spec-driven development (SDD) for AI coding assistants. |
-| 9️⃣ | [ankitects/anki](https://github.com/ankitects/anki) | 31217 | `Rust` | Anki is a smart spaced repetition flashcard program |
-| 🔟 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 24894 | `Python` | Open source repository of plugins primarily intended for knowledge worke… |
+| 🥇 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 16477 | `JavaScript` | A coding-agent skill for multi-phase security audits with independently … |
+| 🥈 | [trycua/cua](https://github.com/trycua/cua) | 24472 | `HTML` | Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and be… |
+| 🥉 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 97081 | `JavaScript` | Production-grade engineering skills for AI coding agents. |
+| 4️⃣ | [coder/coder](https://github.com/coder/coder) | 15640 | `Go` | Secure environments for developers and their agents |
+| 5️⃣ | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 146740 | `TypeScript` | Claude Code is an agentic coding tool that lives in your terminal, under… |
+| 6️⃣ | [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | 16100 | `TypeScript` | OpenStock is an open-source alternative to expensive market platforms. T… |
+| 7️⃣ | [higgsfield-ai/higgsfield](https://github.com/higgsfield-ai/higgsfield) | 4981 | `Jupyter Notebook` | Fault-tolerant, highly scalable GPU orchestration, and a machine learnin… |
+| 8️⃣ | [docling-project/docling](https://github.com/docling-project/docling) | 67096 | `Python` | Get your documents ready for gen AI |
+| 9️⃣ | [cloudflare/quiche](https://github.com/cloudflare/quiche) | 12032 | `Rust` | 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3 |
+| 🔟 | [asciimoo/hister](https://github.com/asciimoo/hister) | 5252 | `Go` | Your own search engine |
 
 </details>
 
-<sub>🕐 更新于 2026-09-19 10:10 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-09-20 10:17 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
