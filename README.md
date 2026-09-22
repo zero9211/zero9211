@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Chargers](https://twitter.com/search?q=Chargers) | — |
-| 🥈 | [Colts](https://twitter.com/search?q=Colts) | — |
-| 🥉 | [Raiders](https://twitter.com/search?q=Raiders) | — |
-| 4️⃣ | [Herbert](https://twitter.com/search?q=Herbert) | — |
-| 5️⃣ | [Jayden Daniels](https://twitter.com/search?q=Jayden%20Daniels) | — |
-| 6️⃣ | [Daniel Jones](https://twitter.com/search?q=Daniel%20Jones) | — |
-| 7️⃣ | [Kelce](https://twitter.com/search?q=Kelce) | — |
-| 8️⃣ | [Alec Pierce](https://twitter.com/search?q=Alec%20Pierce) | — |
-| 9️⃣ | [Keenan Allen](https://twitter.com/search?q=Keenan%20Allen) | — |
-| 🔟 | [Dan Quinn](https://twitter.com/search?q=Dan%20Quinn) | — |
+| 🥇 | [Giants](https://twitter.com/search?q=Giants) | — |
+| 🥈 | [Jameis](https://twitter.com/search?q=Jameis) | — |
+| 🥉 | [Rams](https://twitter.com/search?q=Rams) | — |
+| 4️⃣ | [Dart](https://twitter.com/search?q=Dart) | — |
+| 5️⃣ | [#WWERaw](https://twitter.com/search?q=%23WWERaw) | — |
+| 6️⃣ | [Stafford](https://twitter.com/search?q=Stafford) | — |
+| 7️⃣ | [Trump TV](https://twitter.com/search?q=Trump%20TV) | — |
+| 8️⃣ | [Davante Adams](https://twitter.com/search?q=Davante%20Adams) | — |
+| 9️⃣ | [Aaron Donald](https://twitter.com/search?q=Aaron%20Donald) | — |
+| 🔟 | [Najee Harris](https://twitter.com/search?q=Najee%20Harris) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-09-21 10:16 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-09-22 10:21 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-09-21 10:16 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-09-22 10:21 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 263813 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, me… |
-| 🥈 | [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | 5259 | `TypeScript` | A framework for building agentic apps |
-| 🥉 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 18109 | `JavaScript` | A coding-agent skill for multi-phase security audits with independently … |
-| 4️⃣ | [trycua/cua](https://github.com/trycua/cua) | 25190 | `HTML` | Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and be… |
-| 5️⃣ | [anthropics/financial-services](https://github.com/anthropics/financial-services) | 35403 | `Python` | — |
-| 6️⃣ | [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | 45599 | `Python` | A community-supported supercharged document management system: scan, ind… |
-| 7️⃣ | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 147168 | `TypeScript` | Claude Code is an agentic coding tool that lives in your terminal, under… |
-| 8️⃣ | [mihail911/modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments) | 4578 | `Python` | Assignments for CS146S: The Modern Software Dev (Stanford University Fal… |
-| 9️⃣ | [higgsfield-ai/higgsfield](https://github.com/higgsfield-ai/higgsfield) | 5406 | `Jupyter Notebook` | Fault-tolerant, highly scalable GPU orchestration, and a machine learnin… |
-| 🔟 | [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | 16886 | `TypeScript` | OpenStock is an open-source alternative to expensive market platforms. T… |
+| 🥇 | [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | 5961 | `TypeScript` | A framework for building agentic apps |
+| 🥈 | [trycua/cua](https://github.com/trycua/cua) | 25733 | `HTML` | Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and be… |
+| 🥉 | [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | 17813 | `TypeScript` | OpenStock is an open-source alternative to expensive market platforms. T… |
+| 4️⃣ | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | 7731 | `Rust` | Solution for long term memory for agent coding CLIs and to facilitate ha… |
+| 5️⃣ | [coder/coder](https://github.com/coder/coder) | 16447 | `Go` | Secure environments for developers and their agents |
+| 6️⃣ | [anthropics/financial-services](https://github.com/anthropics/financial-services) | 35861 | `Python` | — |
+| 7️⃣ | [cloudflare/quiche](https://github.com/cloudflare/quiche) | 12374 | `Rust` | 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3 |
+| 8️⃣ | [mvt-project/mvt](https://github.com/mvt-project/mvt) | 13624 | `Python` | MVT (Mobile Verification Toolkit) helps with conducting forensics of mob… |
+| 9️⃣ | [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) | 8310 | `Python` | AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取… |
+| 🔟 | [ruanyf/weekly](https://github.com/ruanyf/weekly) | 104026 | — | 科技爱好者周刊，每周五发布 |
 
 </details>
 
-<sub>🕐 更新于 2026-09-21 10:16 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-09-22 10:21 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
