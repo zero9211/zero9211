@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Giants](https://twitter.com/search?q=Giants) | — |
-| 🥈 | [Jameis](https://twitter.com/search?q=Jameis) | — |
-| 🥉 | [Rams](https://twitter.com/search?q=Rams) | — |
-| 4️⃣ | [Dart](https://twitter.com/search?q=Dart) | — |
-| 5️⃣ | [#WWERaw](https://twitter.com/search?q=%23WWERaw) | — |
-| 6️⃣ | [Stafford](https://twitter.com/search?q=Stafford) | — |
-| 7️⃣ | [Trump TV](https://twitter.com/search?q=Trump%20TV) | — |
-| 8️⃣ | [Davante Adams](https://twitter.com/search?q=Davante%20Adams) | — |
-| 9️⃣ | [Aaron Donald](https://twitter.com/search?q=Aaron%20Donald) | — |
-| 🔟 | [Najee Harris](https://twitter.com/search?q=Najee%20Harris) | — |
+| 🥇 | [#dwts](https://twitter.com/search?q=%23dwts) | — |
+| 🥈 | [Ezra](https://twitter.com/search?q=Ezra) | — |
+| 🥉 | [Guillermo](https://twitter.com/search?q=Guillermo) | — |
+| 4️⃣ | [#DWCS](https://twitter.com/search?q=%23DWCS) | — |
+| 5️⃣ | [#WWENXT](https://twitter.com/search?q=%23WWENXT) | — |
+| 6️⃣ | [Tatyana](https://twitter.com/search?q=Tatyana) | — |
+| 7️⃣ | [Amber](https://twitter.com/search?q=Amber) | — |
+| 8️⃣ | [Lynx](https://twitter.com/search?q=Lynx) | — |
+| 9️⃣ | [Pasha](https://twitter.com/search?q=Pasha) | — |
+| 🔟 | [Jenna](https://twitter.com/search?q=Jenna) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-09-22 10:21 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-09-23 10:21 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-09-22 10:21 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-09-23 10:21 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,18 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | 5961 | `TypeScript` | A framework for building agentic apps |
-| 🥈 | [trycua/cua](https://github.com/trycua/cua) | 25733 | `HTML` | Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and be… |
-| 🥉 | [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | 17813 | `TypeScript` | OpenStock is an open-source alternative to expensive market platforms. T… |
-| 4️⃣ | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | 7731 | `Rust` | Solution for long term memory for agent coding CLIs and to facilitate ha… |
-| 5️⃣ | [coder/coder](https://github.com/coder/coder) | 16447 | `Go` | Secure environments for developers and their agents |
-| 6️⃣ | [anthropics/financial-services](https://github.com/anthropics/financial-services) | 35861 | `Python` | — |
-| 7️⃣ | [cloudflare/quiche](https://github.com/cloudflare/quiche) | 12374 | `Rust` | 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3 |
-| 8️⃣ | [mvt-project/mvt](https://github.com/mvt-project/mvt) | 13624 | `Python` | MVT (Mobile Verification Toolkit) helps with conducting forensics of mob… |
-| 9️⃣ | [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) | 8310 | `Python` | AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取… |
-| 🔟 | [ruanyf/weekly](https://github.com/ruanyf/weekly) | 104026 | — | 科技爱好者周刊，每周五发布 |
+| 🥇 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | 36392 | `Python` | — |
+| 🥈 | [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | 3007 | `Go` | Agent Substrate: the core system |
+| 🥉 | [dream-num/univer](https://github.com/dream-num/univer) | 15511 | `TypeScript` | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, R… |
+| 4️⃣ | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 31152 | `Python` | CLI tool for configuring and monitoring Claude Code |
+| 5️⃣ | [google/ax](https://github.com/google/ax) | 7700 | `Go` | Google's open agentic orchestration runtime |
+| 6️⃣ | [mvt-project/mvt](https://github.com/mvt-project/mvt) | 14141 | `Python` | MVT (Mobile Verification Toolkit) helps with conducting forensics of mob… |
+| 7️⃣ | [superdesigndev/treg](https://github.com/superdesigndev/treg) | 2260 | `Python` | OpenRouter for agent tools. Join community here: https://discord.gg/6mQY… |
+| 8️⃣ | [browser-use/video-use](https://github.com/browser-use/video-use) | 25887 | `Python` | Edit videos with coding agents |
 
 </details>
 
-<sub>🕐 更新于 2026-09-22 10:21 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-09-23 10:21 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
