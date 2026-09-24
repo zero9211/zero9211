@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#dwts](https://twitter.com/search?q=%23dwts) | — |
-| 🥈 | [Ezra](https://twitter.com/search?q=Ezra) | — |
-| 🥉 | [Guillermo](https://twitter.com/search?q=Guillermo) | — |
-| 4️⃣ | [#DWCS](https://twitter.com/search?q=%23DWCS) | — |
-| 5️⃣ | [#WWENXT](https://twitter.com/search?q=%23WWENXT) | — |
-| 6️⃣ | [Tatyana](https://twitter.com/search?q=Tatyana) | — |
-| 7️⃣ | [Amber](https://twitter.com/search?q=Amber) | — |
-| 8️⃣ | [Lynx](https://twitter.com/search?q=Lynx) | — |
-| 9️⃣ | [Pasha](https://twitter.com/search?q=Pasha) | — |
-| 🔟 | [Jenna](https://twitter.com/search?q=Jenna) | — |
+| 🥇 | [#Survivor51](https://twitter.com/search?q=%23Survivor51) | — |
+| 🥈 | [#AEWDynamite](https://twitter.com/search?q=%23AEWDynamite) | — |
+| 🥉 | [Ben Rice](https://twitter.com/search?q=Ben%20Rice) | — |
+| 4️⃣ | [#OlandriaxOffWhite](https://twitter.com/search?q=%23OlandriaxOffWhite) | — |
+| 5️⃣ | [Chris Sale](https://twitter.com/search?q=Chris%20Sale) | — |
+| 6️⃣ | [Gremlins](https://twitter.com/search?q=Gremlins) | — |
+| 7️⃣ | [Muse Charm](https://twitter.com/search?q=Muse%20Charm) | — |
+| 8️⃣ | [Ace Attorney](https://twitter.com/search?q=Ace%20Attorney) | — |
+| 9️⃣ | [OLANDRIA OFF-WHITE 10x10](https://twitter.com/search?q=OLANDRIA%20OFF-WHITE%2010x10) | — |
+| 🔟 | [Meta VR Glasses](https://twitter.com/search?q=Meta%20VR%20Glasses) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-09-23 10:21 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-09-24 10:09 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-09-23 10:21 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-09-24 10:09 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,18 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | 36392 | `Python` | — |
-| 🥈 | [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | 3007 | `Go` | Agent Substrate: the core system |
-| 🥉 | [dream-num/univer](https://github.com/dream-num/univer) | 15511 | `TypeScript` | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, R… |
-| 4️⃣ | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 31152 | `Python` | CLI tool for configuring and monitoring Claude Code |
-| 5️⃣ | [google/ax](https://github.com/google/ax) | 7700 | `Go` | Google's open agentic orchestration runtime |
-| 6️⃣ | [mvt-project/mvt](https://github.com/mvt-project/mvt) | 14141 | `Python` | MVT (Mobile Verification Toolkit) helps with conducting forensics of mob… |
-| 7️⃣ | [superdesigndev/treg](https://github.com/superdesigndev/treg) | 2260 | `Python` | OpenRouter for agent tools. Join community here: https://discord.gg/6mQY… |
-| 8️⃣ | [browser-use/video-use](https://github.com/browser-use/video-use) | 25887 | `Python` | Edit videos with coding agents |
+| 🥇 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | 36976 | `Python` | — |
+| 🥈 | [google/ax](https://github.com/google/ax) | 9148 | `Go` | Google's open agentic orchestration runtime |
+| 🥉 | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 31517 | `Python` | CLI tool for configuring and monitoring Claude Code |
+| 4️⃣ | [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | 6575 | `TypeScript` | A framework for building agentic apps |
+| 5️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 290709 | `Shell` | An agentic skills framework & software development methodology that work… |
+| 6️⃣ | [dream-num/univer](https://github.com/dream-num/univer) | 16367 | `TypeScript` | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, R… |
+| 7️⃣ | [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | 18863 | `TypeScript` | OpenStock is an open-source alternative to expensive market platforms. T… |
+| 8️⃣ | [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | 3521 | `Go` | Agent Substrate: the core system |
+| 9️⃣ | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 7869 | `Python` | Build an agent harness and control it end-to-end. Open-source SDK for pr… |
+| 🔟 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 49954 | `Python` | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://cli… |
 
 </details>
 
-<sub>🕐 更新于 2026-09-23 10:21 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-09-24 10:09 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
