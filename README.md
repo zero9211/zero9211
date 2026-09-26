@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Packers](https://twitter.com/search?q=Packers) | — |
-| 🥈 | [Falcons](https://twitter.com/search?q=Falcons) | — |
-| 🥉 | [Bijan](https://twitter.com/search?q=Bijan) | — |
-| 4️⃣ | [Penix](https://twitter.com/search?q=Penix) | — |
-| 5️⃣ | [Jordan Love](https://twitter.com/search?q=Jordan%20Love) | — |
-| 6️⃣ | [CJ Henderson](https://twitter.com/search?q=CJ%20Henderson) | — |
-| 7️⃣ | [Mike Hughes](https://twitter.com/search?q=Mike%20Hughes) | — |
-| 8️⃣ | [#AHS13](https://twitter.com/search?q=%23AHS13) | — |
-| 9️⃣ | [Austin Hooper](https://twitter.com/search?q=Austin%20Hooper) | — |
-| 🔟 | [Drake London](https://twitter.com/search?q=Drake%20London) | — |
+| 🥇 | [#SmackDown](https://twitter.com/search?q=%23SmackDown) | — |
+| 🥈 | [Northwestern](https://twitter.com/search?q=Northwestern) | — |
+| 🥉 | [Casey Mize](https://twitter.com/search?q=Casey%20Mize) | — |
+| 4️⃣ | [Phillies](https://twitter.com/search?q=Phillies) | — |
+| 5️⃣ | [Indiana](https://twitter.com/search?q=Indiana) | — |
+| 6️⃣ | [Josh Hoover](https://twitter.com/search?q=Josh%20Hoover) | — |
+| 7️⃣ | [Giulia](https://twitter.com/search?q=Giulia) | — |
+| 8️⃣ | [#OPLive](https://twitter.com/search?q=%23OPLive) | — |
+| 9️⃣ | [DeGrom](https://twitter.com/search?q=DeGrom) | — |
+| 🔟 | [Aidan Chiles](https://twitter.com/search?q=Aidan%20Chiles) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-09-25 10:26 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-09-26 10:29 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-09-25 10:26 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-09-26 10:29 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 56620 | `Python` | Learn it. Build it. Ship it for others. |
-| 🥈 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 27845 | `Python` | Hindsight: Agent Memory That Learns |
-| 🥉 | [dream-num/univer](https://github.com/dream-num/univer) | 17841 | `TypeScript` | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, R… |
-| 4️⃣ | [google/ax](https://github.com/google/ax) | 10525 | `Go` | Google's open agentic orchestration runtime |
-| 5️⃣ | [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer) | 4101 | `Python` | A unified library of SOTA model optimization techniques like quantizatio… |
-| 6️⃣ | [FxEmbed/FxEmbed](https://github.com/FxEmbed/FxEmbed) | 5375 | `TypeScript` | Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, tr… |
-| 7️⃣ | [anthropics/financial-services](https://github.com/anthropics/financial-services) | 37367 | `Python` | — |
-| 8️⃣ | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 50347 | `Python` | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://cli… |
-| 9️⃣ | [mvt-project/mvt](https://github.com/mvt-project/mvt) | 14734 | `Python` | MVT (Mobile Verification Toolkit) helps with conducting forensics of mob… |
-| 🔟 | [obra/superpowers](https://github.com/obra/superpowers) | 291251 | `Shell` | An agentic skills framework & software development methodology that work… |
+| 🥇 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 85066 | `TypeScript` | The open-source app everyone uses to manage agents at work |
+| 🥈 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 36952 | `Python` | Official, Anthropic-managed directory of high quality Claude Code Plugin… |
+| 🥉 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 29863 | `Python` | Hindsight: Agent Memory That Learns |
+| 4️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 291688 | `Shell` | An agentic skills framework & software development methodology that work… |
+| 5️⃣ | [mattpocock/skills](https://github.com/mattpocock/skills) | 269757 | `Shell` | Skills for Real Engineers. Straight from my .agents directory. |
+| 6️⃣ | [dream-num/univer](https://github.com/dream-num/univer) | 18467 | `TypeScript` | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, R… |
+| 7️⃣ | [anthropics/skills](https://github.com/anthropics/skills) | 178339 | `Python` | Public repository for Agent Skills |
+| 8️⃣ | [androoAGI/starnet](https://github.com/androoAGI/starnet) | 498 | `JavaScript` | A living pixel-art station where real AI agents do real work. Local-firs… |
+| 9️⃣ | [derv82/wifit3](https://github.com/derv82/wifit3) | 950 | `Python` | Wifite but USB-only & cross-platform. |
+| 🔟 | [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) | 50130 | — | Bootstrap Kubernetes the hard way. No scripts. |
 
 </details>
 
-<sub>🕐 更新于 2026-09-25 10:26 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-09-26 10:29 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
