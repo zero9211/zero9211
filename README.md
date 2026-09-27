@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#SmackDown](https://twitter.com/search?q=%23SmackDown) | — |
-| 🥈 | [Northwestern](https://twitter.com/search?q=Northwestern) | — |
-| 🥉 | [Casey Mize](https://twitter.com/search?q=Casey%20Mize) | — |
-| 4️⃣ | [Phillies](https://twitter.com/search?q=Phillies) | — |
-| 5️⃣ | [Indiana](https://twitter.com/search?q=Indiana) | — |
-| 6️⃣ | [Josh Hoover](https://twitter.com/search?q=Josh%20Hoover) | — |
-| 7️⃣ | [Giulia](https://twitter.com/search?q=Giulia) | — |
-| 8️⃣ | [#OPLive](https://twitter.com/search?q=%23OPLive) | — |
-| 9️⃣ | [DeGrom](https://twitter.com/search?q=DeGrom) | — |
-| 🔟 | [Aidan Chiles](https://twitter.com/search?q=Aidan%20Chiles) | — |
+| 🥇 | [Dante Moore](https://twitter.com/search?q=Dante%20Moore) | — |
+| 🥈 | [#AEWAllOut](https://twitter.com/search?q=%23AEWAllOut) | — |
+| 🥉 | [Michigan](https://twitter.com/search?q=Michigan) | — |
+| 4️⃣ | [Iowa](https://twitter.com/search?q=Iowa) | — |
+| 5️⃣ | [Penn State](https://twitter.com/search?q=Penn%20State) | — |
+| 6️⃣ | [#UFCVegas121](https://twitter.com/search?q=%23UFCVegas121) | — |
+| 7️⃣ | [Ole Miss](https://twitter.com/search?q=Ole%20Miss) | — |
+| 8️⃣ | [Oregon](https://twitter.com/search?q=Oregon) | — |
+| 9️⃣ | [Steven Borden](https://twitter.com/search?q=Steven%20Borden) | — |
+| 🔟 | [Gators](https://twitter.com/search?q=Gators) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-09-26 10:29 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-09-27 10:26 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-09-26 10:29 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-09-27 10:26 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 85066 | `TypeScript` | The open-source app everyone uses to manage agents at work |
-| 🥈 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 36952 | `Python` | Official, Anthropic-managed directory of high quality Claude Code Plugin… |
-| 🥉 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 29863 | `Python` | Hindsight: Agent Memory That Learns |
-| 4️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 291688 | `Shell` | An agentic skills framework & software development methodology that work… |
-| 5️⃣ | [mattpocock/skills](https://github.com/mattpocock/skills) | 269757 | `Shell` | Skills for Real Engineers. Straight from my .agents directory. |
-| 6️⃣ | [dream-num/univer](https://github.com/dream-num/univer) | 18467 | `TypeScript` | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, R… |
-| 7️⃣ | [anthropics/skills](https://github.com/anthropics/skills) | 178339 | `Python` | Public repository for Agent Skills |
-| 8️⃣ | [androoAGI/starnet](https://github.com/androoAGI/starnet) | 498 | `JavaScript` | A living pixel-art station where real AI agents do real work. Local-firs… |
-| 9️⃣ | [derv82/wifit3](https://github.com/derv82/wifit3) | 950 | `Python` | Wifite but USB-only & cross-platform. |
-| 🔟 | [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) | 50130 | — | Bootstrap Kubernetes the hard way. No scripts. |
+| 🥇 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 87479 | `TypeScript` | The open-source app everyone uses to manage agents at work |
+| 🥈 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 32336 | `Python` | Hindsight: Agent Memory That Learns |
+| 🥉 | [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer) | 4771 | `Python` | A unified library of SOTA model optimization techniques like quantizatio… |
+| 4️⃣ | [dream-num/univer](https://github.com/dream-num/univer) | 19279 | `TypeScript` | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, R… |
+| 5️⃣ | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | 200470 | `C++` | An Open Source Machine Learning Framework for Everyone |
+| 6️⃣ | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 58424 | `Python` | Learn it. Build it. Ship it for others. |
+| 7️⃣ | [openbao/openbao](https://github.com/openbao/openbao) | 8020 | `Go` | OpenBao is a software solution to manage, store, and distribute sensitiv… |
+| 8️⃣ | [block/buzz](https://github.com/block/buzz) | 34843 | `Rust` | A hive mind communication platform |
+| 9️⃣ | [microsoft/vscode](https://github.com/microsoft/vscode) | 193081 | `TypeScript` | Visual Studio Code |
+| 🔟 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 38039 | `PowerShell` | Reverse Engineering / Authorized Penetration Testing / Security Research… |
 
 </details>
 
-<sub>🕐 更新于 2026-09-26 10:29 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-09-27 10:26 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
