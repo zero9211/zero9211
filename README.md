@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Dante Moore](https://twitter.com/search?q=Dante%20Moore) | — |
-| 🥈 | [#AEWAllOut](https://twitter.com/search?q=%23AEWAllOut) | — |
-| 🥉 | [Michigan](https://twitter.com/search?q=Michigan) | — |
-| 4️⃣ | [Iowa](https://twitter.com/search?q=Iowa) | — |
-| 5️⃣ | [Penn State](https://twitter.com/search?q=Penn%20State) | — |
-| 6️⃣ | [#UFCVegas121](https://twitter.com/search?q=%23UFCVegas121) | — |
-| 7️⃣ | [Ole Miss](https://twitter.com/search?q=Ole%20Miss) | — |
-| 8️⃣ | [Oregon](https://twitter.com/search?q=Oregon) | — |
-| 9️⃣ | [Steven Borden](https://twitter.com/search?q=Steven%20Borden) | — |
-| 🔟 | [Gators](https://twitter.com/search?q=Gators) | — |
+| 🥇 | [Madonna](https://twitter.com/search?q=Madonna) | — |
+| 🥈 | [Cowboys](https://twitter.com/search?q=Cowboys) | — |
+| 🥉 | [#VMAs](https://twitter.com/search?q=%23VMAs) | — |
+| 4️⃣ | [RIP PAC](https://twitter.com/search?q=RIP%20PAC) | — |
+| 5️⃣ | [Ravens](https://twitter.com/search?q=Ravens) | — |
+| 6️⃣ | [Broncos](https://twitter.com/search?q=Broncos) | — |
+| 7️⃣ | [Raiders](https://twitter.com/search?q=Raiders) | — |
+| 8️⃣ | [Bo Nix](https://twitter.com/search?q=Bo%20Nix) | — |
+| 9️⃣ | [#PatientZeroMusicVideo](https://twitter.com/search?q=%23PatientZeroMusicVideo) | — |
+| 🔟 | [Neville](https://twitter.com/search?q=Neville) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-09-27 10:26 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-09-28 10:30 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-09-27 10:26 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-09-28 10:30 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,19 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 87479 | `TypeScript` | The open-source app everyone uses to manage agents at work |
-| 🥈 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 32336 | `Python` | Hindsight: Agent Memory That Learns |
-| 🥉 | [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer) | 4771 | `Python` | A unified library of SOTA model optimization techniques like quantizatio… |
-| 4️⃣ | [dream-num/univer](https://github.com/dream-num/univer) | 19279 | `TypeScript` | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, R… |
-| 5️⃣ | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | 200470 | `C++` | An Open Source Machine Learning Framework for Everyone |
-| 6️⃣ | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 58424 | `Python` | Learn it. Build it. Ship it for others. |
-| 7️⃣ | [openbao/openbao](https://github.com/openbao/openbao) | 8020 | `Go` | OpenBao is a software solution to manage, store, and distribute sensitiv… |
-| 8️⃣ | [block/buzz](https://github.com/block/buzz) | 34843 | `Rust` | A hive mind communication platform |
-| 9️⃣ | [microsoft/vscode](https://github.com/microsoft/vscode) | 193081 | `TypeScript` | Visual Studio Code |
-| 🔟 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 38039 | `PowerShell` | Reverse Engineering / Authorized Penetration Testing / Security Research… |
+| 🥇 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 90132 | `TypeScript` | The open-source app everyone uses to manage agents at work |
+| 🥈 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 37536 | `Python` | Hindsight: Agent Memory That Learns |
+| 🥉 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 40350 | `Python` | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voi… |
+| 4️⃣ | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 59407 | `Python` | Learn it. Build it. Ship it for others. |
+| 5️⃣ | [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) | 6616 | `Shell` | An open-source Android app to let you browse YouTube and other services … |
+| 6️⃣ | [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) | 5430 | `TypeScript` | TypeScript-to-Native Compiler |
+| 7️⃣ | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | 1038 | `TypeScript` | Multi-agent harness that runs Claude Code and Codex together as one syst… |
+| 8️⃣ | [dream-num/univer](https://github.com/dream-num/univer) | 20467 | `TypeScript` | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, R… |
+| 9️⃣ | [willfaust/Madeira](https://github.com/willfaust/Madeira) | 840 | `C` | Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT |
 
 </details>
 
-<sub>🕐 更新于 2026-09-27 10:26 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-09-28 10:30 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
