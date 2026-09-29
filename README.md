@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Madonna](https://twitter.com/search?q=Madonna) | — |
-| 🥈 | [Cowboys](https://twitter.com/search?q=Cowboys) | — |
-| 🥉 | [#VMAs](https://twitter.com/search?q=%23VMAs) | — |
-| 4️⃣ | [RIP PAC](https://twitter.com/search?q=RIP%20PAC) | — |
-| 5️⃣ | [Ravens](https://twitter.com/search?q=Ravens) | — |
-| 6️⃣ | [Broncos](https://twitter.com/search?q=Broncos) | — |
-| 7️⃣ | [Raiders](https://twitter.com/search?q=Raiders) | — |
-| 8️⃣ | [Bo Nix](https://twitter.com/search?q=Bo%20Nix) | — |
-| 9️⃣ | [#PatientZeroMusicVideo](https://twitter.com/search?q=%23PatientZeroMusicVideo) | — |
-| 🔟 | [Neville](https://twitter.com/search?q=Neville) | — |
+| 🥇 | [Keenum](https://twitter.com/search?q=Keenum) | — |
+| 🥈 | [Eagles](https://twitter.com/search?q=Eagles) | — |
+| 🥉 | [Jalen](https://twitter.com/search?q=Jalen) | — |
+| 4️⃣ | [Bears](https://twitter.com/search?q=Bears) | — |
+| 5️⃣ | [Ben Johnson](https://twitter.com/search?q=Ben%20Johnson) | — |
+| 6️⃣ | [#WWERaw](https://twitter.com/search?q=%23WWERaw) | — |
+| 7️⃣ | [Sirianni](https://twitter.com/search?q=Sirianni) | — |
+| 8️⃣ | [Lemon](https://twitter.com/search?q=Lemon) | — |
+| 9️⃣ | [Mannion](https://twitter.com/search?q=Mannion) | — |
+| 🔟 | [#PHIvsCHI](https://twitter.com/search?q=%23PHIvsCHI) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-09-28 10:30 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-09-29 11:13 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-09-28 10:30 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-09-29 11:13 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,19 +90,18 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 90132 | `TypeScript` | The open-source app everyone uses to manage agents at work |
-| 🥈 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 37536 | `Python` | Hindsight: Agent Memory That Learns |
-| 🥉 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 40350 | `Python` | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voi… |
-| 4️⃣ | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 59407 | `Python` | Learn it. Build it. Ship it for others. |
-| 5️⃣ | [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) | 6616 | `Shell` | An open-source Android app to let you browse YouTube and other services … |
-| 6️⃣ | [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) | 5430 | `TypeScript` | TypeScript-to-Native Compiler |
-| 7️⃣ | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | 1038 | `TypeScript` | Multi-agent harness that runs Claude Code and Codex together as one syst… |
-| 8️⃣ | [dream-num/univer](https://github.com/dream-num/univer) | 20467 | `TypeScript` | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, R… |
-| 9️⃣ | [willfaust/Madeira](https://github.com/willfaust/Madeira) | 840 | `C` | Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT |
+| 🥇 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 44530 | `Python` | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voi… |
+| 🥈 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 93070 | `TypeScript` | The open-source app everyone uses to manage agents at work |
+| 🥉 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 41202 | `Python` | Hindsight: Agent Memory That Learns |
+| 4️⃣ | [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR) | 25808 | `PLSQL` | Open-source, low-cost 10.5 GHz PLFM phased array RADAR system |
+| 5️⃣ | [cs341-illinois/coursebook](https://github.com/cs341-illinois/coursebook) | 2575 | `TeX` | Open Source Introductory Systems Programming Textbook for the University… |
+| 6️⃣ | [byoungd/up](https://github.com/byoungd/up) | 64829 | `JavaScript` | An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱… |
+| 7️⃣ | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | 1804 | `TypeScript` | Multi-agent harness that runs Claude Code and Codex together as one syst… |
+| 8️⃣ | [dream-num/univer](https://github.com/dream-num/univer) | 21340 | `TypeScript` | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, R… |
 
 </details>
 
-<sub>🕐 更新于 2026-09-28 10:30 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-09-29 11:13 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
