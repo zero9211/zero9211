@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Keenum](https://twitter.com/search?q=Keenum) | — |
-| 🥈 | [Eagles](https://twitter.com/search?q=Eagles) | — |
-| 🥉 | [Jalen](https://twitter.com/search?q=Jalen) | — |
-| 4️⃣ | [Bears](https://twitter.com/search?q=Bears) | — |
-| 5️⃣ | [Ben Johnson](https://twitter.com/search?q=Ben%20Johnson) | — |
-| 6️⃣ | [#WWERaw](https://twitter.com/search?q=%23WWERaw) | — |
-| 7️⃣ | [Sirianni](https://twitter.com/search?q=Sirianni) | — |
-| 8️⃣ | [Lemon](https://twitter.com/search?q=Lemon) | — |
-| 9️⃣ | [Mannion](https://twitter.com/search?q=Mannion) | — |
-| 🔟 | [#PHIvsCHI](https://twitter.com/search?q=%23PHIvsCHI) | — |
+| 🥇 | [#dwts](https://twitter.com/search?q=%23dwts) | — |
+| 🥈 | [Britt](https://twitter.com/search?q=Britt) | — |
+| 🥉 | [Cam Schlittler](https://twitter.com/search?q=Cam%20Schlittler) | — |
+| 4️⃣ | [Ben Rice](https://twitter.com/search?q=Ben%20Rice) | — |
+| 5️⃣ | [Tolle](https://twitter.com/search?q=Tolle) | — |
+| 6️⃣ | [Guillermo](https://twitter.com/search?q=Guillermo) | — |
+| 7️⃣ | [A'ja](https://twitter.com/search?q=A'ja) | — |
+| 8️⃣ | [Jack Smith](https://twitter.com/search?q=Jack%20Smith) | — |
+| 9️⃣ | [Yankees](https://twitter.com/search?q=Yankees) | — |
+| 🔟 | [Red Sox](https://twitter.com/search?q=Red%20Sox) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-09-29 11:13 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-09-30 10:55 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-09-29 11:13 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-09-30 10:55 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,18 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 44530 | `Python` | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voi… |
-| 🥈 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 93070 | `TypeScript` | The open-source app everyone uses to manage agents at work |
-| 🥉 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 41202 | `Python` | Hindsight: Agent Memory That Learns |
-| 4️⃣ | [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR) | 25808 | `PLSQL` | Open-source, low-cost 10.5 GHz PLFM phased array RADAR system |
-| 5️⃣ | [cs341-illinois/coursebook](https://github.com/cs341-illinois/coursebook) | 2575 | `TeX` | Open Source Introductory Systems Programming Textbook for the University… |
-| 6️⃣ | [byoungd/up](https://github.com/byoungd/up) | 64829 | `JavaScript` | An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱… |
-| 7️⃣ | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | 1804 | `TypeScript` | Multi-agent harness that runs Claude Code and Codex together as one syst… |
-| 8️⃣ | [dream-num/univer](https://github.com/dream-num/univer) | 21340 | `TypeScript` | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, R… |
+| 🥇 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 48387 | `Python` | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voi… |
+| 🥈 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 10730 | `Rust` | OpenShell is the safe, private runtime for autonomous AI agents. |
+| 🥉 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 42968 | `Python` | Hindsight: Agent Memory That Learns |
+| 4️⃣ | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 94568 | `TypeScript` | The open-source app everyone uses to manage agents at work |
+| 5️⃣ | [t8y2/dbx](https://github.com/t8y2/dbx) | 22199 | `Rust` | 25 MB lightweight cross-platform database client for 100+ databases, inc… |
+| 6️⃣ | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | 2487 | `TypeScript` | Multi-agent harness that runs Claude Code and Codex together as one syst… |
+| 7️⃣ | [oblien/openship](https://github.com/oblien/openship) | 13893 | `TypeScript` | Self-hosted deployment platform |
+| 8️⃣ | [averygan/reclip](https://github.com/averygan/reclip) | 10202 | `HTML` | Download videos from almost any website. Lightweight, self-hosted media … |
+| 9️⃣ | [cs341-illinois/coursebook](https://github.com/cs341-illinois/coursebook) | 3150 | `TeX` | Open Source Introductory Systems Programming Textbook for the University… |
+| 🔟 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 61515 | `Python` | Learn it. Build it. Ship it for others. |
 
 </details>
 
-<sub>🕐 更新于 2026-09-29 11:13 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-09-30 10:55 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
