@@ -55,22 +55,11 @@
 <details open>
 <summary><h2>🐦 X (Twitter) 今日热议 Top 10</h2></summary>
 
-| # | 热门话题 | 讨论量 |
-|:---:|:---|---:|
-| 🥇 | [#dwts](https://twitter.com/search?q=%23dwts) | — |
-| 🥈 | [Britt](https://twitter.com/search?q=Britt) | — |
-| 🥉 | [Cam Schlittler](https://twitter.com/search?q=Cam%20Schlittler) | — |
-| 4️⃣ | [Ben Rice](https://twitter.com/search?q=Ben%20Rice) | — |
-| 5️⃣ | [Tolle](https://twitter.com/search?q=Tolle) | — |
-| 6️⃣ | [Guillermo](https://twitter.com/search?q=Guillermo) | — |
-| 7️⃣ | [A'ja](https://twitter.com/search?q=A'ja) | — |
-| 8️⃣ | [Jack Smith](https://twitter.com/search?q=Jack%20Smith) | — |
-| 9️⃣ | [Yankees](https://twitter.com/search?q=Yankees) | — |
-| 🔟 | [Red Sox](https://twitter.com/search?q=Red%20Sox) | — |
+> ⚠️ 暂时无法获取 X 热门数据，稍后重试
 
 </details>
 
-<sub>🕐 更新于 2026-09-30 10:55 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-10-01 11:01 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +70,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-09-30 10:55 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-10-01 11:01 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +79,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 48387 | `Python` | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voi… |
-| 🥈 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 10730 | `Rust` | OpenShell is the safe, private runtime for autonomous AI agents. |
-| 🥉 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 42968 | `Python` | Hindsight: Agent Memory That Learns |
-| 4️⃣ | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 94568 | `TypeScript` | The open-source app everyone uses to manage agents at work |
-| 5️⃣ | [t8y2/dbx](https://github.com/t8y2/dbx) | 22199 | `Rust` | 25 MB lightweight cross-platform database client for 100+ databases, inc… |
-| 6️⃣ | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | 2487 | `TypeScript` | Multi-agent harness that runs Claude Code and Codex together as one syst… |
-| 7️⃣ | [oblien/openship](https://github.com/oblien/openship) | 13893 | `TypeScript` | Self-hosted deployment platform |
-| 8️⃣ | [averygan/reclip](https://github.com/averygan/reclip) | 10202 | `HTML` | Download videos from almost any website. Lightweight, self-hosted media … |
-| 9️⃣ | [cs341-illinois/coursebook](https://github.com/cs341-illinois/coursebook) | 3150 | `TeX` | Open Source Introductory Systems Programming Textbook for the University… |
-| 🔟 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 61515 | `Python` | Learn it. Build it. Ship it for others. |
+| 🥇 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 12848 | `Rust` | OpenShell is the safe, private runtime for autonomous AI agents. |
+| 🥈 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 50562 | `Python` | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voi… |
+| 🥉 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | 3071 | `TypeScript` | Multi-agent harness that runs Claude Code and Codex together as one syst… |
+| 4️⃣ | [mksglu/context-mode](https://github.com/mksglu/context-mode) | 24521 | `TypeScript` | Context window optimization for AI coding agents. Sandboxes tool output … |
+| 5️⃣ | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 149269 | `JavaScript` | Makes your AI agent think like the laziest senior dev in the room. The b… |
+| 6️⃣ | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 127614 | `Python` | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic… |
+| 7️⃣ | [openclaw/openclaw](https://github.com/openclaw/openclaw) | 391005 | `TypeScript` | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 |
+| 8️⃣ | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 76171 | `Python` | A curated list of awesome Claude Skills, resources, and tools for custom… |
+| 9️⃣ | [mattpocock/skills](https://github.com/mattpocock/skills) | 273069 | `Shell` | Skills for Real Engineers. Straight from my .agents directory. |
+| 🔟 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 54783 | `TypeScript` | Write HTML. Render video. Built for agents. |
 
 </details>
 
-<sub>🕐 更新于 2026-09-30 10:55 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-10-01 11:01 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
