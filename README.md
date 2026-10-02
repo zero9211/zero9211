@@ -59,7 +59,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-10-01 11:01 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-10-02 11:04 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -70,7 +70,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-10-01 11:01 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-10-02 11:04 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -79,20 +79,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 12848 | `Rust` | OpenShell is the safe, private runtime for autonomous AI agents. |
-| 🥈 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 50562 | `Python` | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voi… |
-| 🥉 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | 3071 | `TypeScript` | Multi-agent harness that runs Claude Code and Codex together as one syst… |
-| 4️⃣ | [mksglu/context-mode](https://github.com/mksglu/context-mode) | 24521 | `TypeScript` | Context window optimization for AI coding agents. Sandboxes tool output … |
-| 5️⃣ | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 149269 | `JavaScript` | Makes your AI agent think like the laziest senior dev in the room. The b… |
-| 6️⃣ | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 127614 | `Python` | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic… |
-| 7️⃣ | [openclaw/openclaw](https://github.com/openclaw/openclaw) | 391005 | `TypeScript` | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 |
-| 8️⃣ | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 76171 | `Python` | A curated list of awesome Claude Skills, resources, and tools for custom… |
-| 9️⃣ | [mattpocock/skills](https://github.com/mattpocock/skills) | 273069 | `Shell` | Skills for Real Engineers. Straight from my .agents directory. |
-| 🔟 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 54783 | `TypeScript` | Write HTML. Render video. Built for agents. |
+| 🥇 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 150623 | `JavaScript` | Makes your AI agent think like the laziest senior dev in the room. The b… |
+| 🥈 | [mattpocock/skills](https://github.com/mattpocock/skills) | 273985 | `Shell` | Skills for Real Engineers. Straight from my .agents directory. |
+| 🥉 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 14062 | `Rust` | OpenShell is the safe, private runtime for autonomous AI agents. |
+| 4️⃣ | [firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) | 6872 | `C++` | Firebase SDK for Apple App Development |
+| 5️⃣ | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | 3774 | `TypeScript` | Build your own network of agents from Claude Code, Codex and Pi: persist… |
+| 6️⃣ | [cursor/plugins](https://github.com/cursor/plugins) | 9334 | `TypeScript` | Cursor plugin specification and official plugins |
+| 7️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 294019 | `Shell` | An agentic skills framework & software development methodology that work… |
+| 8️⃣ | [mksglu/context-mode](https://github.com/mksglu/context-mode) | 24809 | `TypeScript` | Context window optimization for AI coding agents. Sandboxes tool output … |
+| 9️⃣ | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 55396 | `TypeScript` | Write HTML. Render video. Built for agents. |
+| 🔟 | [earendil-works/pi](https://github.com/earendil-works/pi) | 111277 | `TypeScript` | AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI |
 
 </details>
 
-<sub>🕐 更新于 2026-10-01 11:01 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-10-02 11:04 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
