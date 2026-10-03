@@ -59,7 +59,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-10-02 11:04 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-10-03 10:51 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -70,7 +70,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-10-02 11:04 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-10-03 10:51 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -79,20 +79,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 150623 | `JavaScript` | Makes your AI agent think like the laziest senior dev in the room. The b… |
-| 🥈 | [mattpocock/skills](https://github.com/mattpocock/skills) | 273985 | `Shell` | Skills for Real Engineers. Straight from my .agents directory. |
-| 🥉 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 14062 | `Rust` | OpenShell is the safe, private runtime for autonomous AI agents. |
-| 4️⃣ | [firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) | 6872 | `C++` | Firebase SDK for Apple App Development |
-| 5️⃣ | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | 3774 | `TypeScript` | Build your own network of agents from Claude Code, Codex and Pi: persist… |
-| 6️⃣ | [cursor/plugins](https://github.com/cursor/plugins) | 9334 | `TypeScript` | Cursor plugin specification and official plugins |
-| 7️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 294019 | `Shell` | An agentic skills framework & software development methodology that work… |
-| 8️⃣ | [mksglu/context-mode](https://github.com/mksglu/context-mode) | 24809 | `TypeScript` | Context window optimization for AI coding agents. Sandboxes tool output … |
-| 9️⃣ | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 55396 | `TypeScript` | Write HTML. Render video. Built for agents. |
-| 🔟 | [earendil-works/pi](https://github.com/earendil-works/pi) | 111277 | `TypeScript` | AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI |
+| 🥇 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 88755 | `Python` | Give your AI agent eyes to see the entire internet. Read & search Twitte… |
+| 🥈 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 109130 | `Go` | 🪨 why use many token when few token do trick. Viral skill + proxy for co… |
+| 🥉 | [obra/superpowers](https://github.com/obra/superpowers) | 294500 | `Shell` | An agentic skills framework & software development methodology that work… |
+| 4️⃣ | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 151894 | `JavaScript` | Makes your AI agent think like the laziest senior dev in the room. The b… |
+| 5️⃣ | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 74375 | `JavaScript` | The design language that makes your AI harness better at design. |
+| 6️⃣ | [mattpocock/skills](https://github.com/mattpocock/skills) | 274763 | `Shell` | Skills for Real Engineers. Straight from my .agents directory. |
+| 7️⃣ | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 14455 | `Rust` | OpenShell is the safe, private runtime for autonomous AI agents. |
+| 8️⃣ | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 52438 | `JavaScript` | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, a… |
+| 9️⃣ | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 55936 | `TypeScript` | Write HTML. Render video. Built for agents. |
+| 🔟 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | 25057 | `TypeScript` | Context window optimization for AI coding agents. Sandboxes tool output … |
 
 </details>
 
-<sub>🕐 更新于 2026-10-02 11:04 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-10-03 10:51 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
