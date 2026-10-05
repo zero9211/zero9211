@@ -59,7 +59,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-10-04 11:20 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-10-05 10:57 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -70,7 +70,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-10-04 11:20 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-10-05 10:57 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -79,20 +79,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 153550 | `JavaScript` | Makes your AI agent think like the laziest senior dev in the room. The b… |
-| 🥈 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 75403 | `JavaScript` | The design language that makes your AI harness better at design. |
-| 🥉 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 272314 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, me… |
-| 4️⃣ | [Effect-TS/effect](https://github.com/Effect-TS/effect) | 16847 | `TypeScript` | Build production-ready applications in TypeScript |
-| 5️⃣ | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 109563 | `Go` | 🪨 why use many token when few token do trick. Viral skill + proxy for co… |
-| 6️⃣ | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 89914 | `Python` | Give your AI agent eyes to see the entire internet. Read & search Twitte… |
-| 7️⃣ | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 24729 | `TypeScript` | — |
-| 8️⃣ | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 95637 | `TypeScript` | Persistent Context Across Sessions for Every Agent – Captures everything… |
-| 9️⃣ | [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os) | 10597 | `TypeScript` | Agent workspace built on Cloudflare Workers for creating documents, buil… |
-| 🔟 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 100877 | `JavaScript` | Production-grade engineering skills for AI coding agents. |
+| 🥇 | [tester-army/e2e](https://github.com/tester-army/e2e) | 3237 | `TypeScript` | Next generation e2e testing framework for web and mobile apps. |
+| 🥈 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 76370 | `JavaScript` | The design language that makes your AI harness better at design. |
+| 🥉 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 53127 | `JavaScript` | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, a… |
+| 4️⃣ | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 154982 | `JavaScript` | Makes your AI agent think like the laziest senior dev in the room. The b… |
+| 5️⃣ | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | 16906 | `Python` | Give your agent CAD superpowers. |
+| 6️⃣ | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 90986 | `Python` | Give your AI agent eyes to see the entire internet. Read & search Twitte… |
+| 7️⃣ | [getsentry/sentry](https://github.com/getsentry/sentry) | 45404 | `Python` | Developer-first error tracking and performance monitoring |
+| 8️⃣ | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 63274 | `Python` | World's first open-source, agentic video production system. 12 productio… |
+| 9️⃣ | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 25209 | `TypeScript` | — |
+| 🔟 | [caddyserver/caddy](https://github.com/caddyserver/caddy) | 76603 | `Go` | Fast and extensible multi-platform HTTP/1-2-3 web server with automatic … |
 
 </details>
 
-<sub>🕐 更新于 2026-10-04 11:20 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-10-05 10:57 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
