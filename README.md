@@ -59,7 +59,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-10-05 10:57 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-10-06 11:46 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -70,7 +70,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-10-05 10:57 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-10-06 11:46 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -79,20 +79,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [tester-army/e2e](https://github.com/tester-army/e2e) | 3237 | `TypeScript` | Next generation e2e testing framework for web and mobile apps. |
-| 🥈 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 76370 | `JavaScript` | The design language that makes your AI harness better at design. |
-| 🥉 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 53127 | `JavaScript` | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, a… |
-| 4️⃣ | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 154982 | `JavaScript` | Makes your AI agent think like the laziest senior dev in the room. The b… |
-| 5️⃣ | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | 16906 | `Python` | Give your agent CAD superpowers. |
-| 6️⃣ | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 90986 | `Python` | Give your AI agent eyes to see the entire internet. Read & search Twitte… |
-| 7️⃣ | [getsentry/sentry](https://github.com/getsentry/sentry) | 45404 | `Python` | Developer-first error tracking and performance monitoring |
-| 8️⃣ | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 63274 | `Python` | World's first open-source, agentic video production system. 12 productio… |
-| 9️⃣ | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 25209 | `TypeScript` | — |
-| 🔟 | [caddyserver/caddy](https://github.com/caddyserver/caddy) | 76603 | `Go` | Fast and extensible multi-platform HTTP/1-2-3 web server with automatic … |
+| 🥇 | [tester-army/e2e](https://github.com/tester-army/e2e) | 4966 | `TypeScript` | Next generation e2e testing framework for web and mobile apps. |
+| 🥈 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 96682 | `TypeScript` | Persistent Context Across Sessions for Every Agent – Captures everything… |
+| 🥉 | [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) | 1445 | `JavaScript` | Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versi… |
+| 4️⃣ | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | 17499 | `Python` | Give your agent CAD superpowers. |
+| 5️⃣ | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 25657 | `TypeScript` | — |
+| 6️⃣ | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | 5042 | `C++` | Tool for automatic PS5 executables porting to Linux and Windows |
+| 7️⃣ | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 92008 | `Python` | Give your AI agent eyes to see the entire internet. Read & search Twitte… |
+| 8️⃣ | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 64150 | `Python` | World's first open-source, agentic video production system. 12 productio… |
+| 9️⃣ | [caddyserver/caddy](https://github.com/caddyserver/caddy) | 77196 | `Go` | Fast and extensible multi-platform HTTP/1-2-3 web server with automatic … |
+| 🔟 | [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) | 4356 | `JavaScript` | Self-hosted gym & body-weight tracker — plan routines, log workouts (sup… |
 
 </details>
 
-<sub>🕐 更新于 2026-10-05 10:57 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-10-06 11:46 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
