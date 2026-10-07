@@ -59,7 +59,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-10-06 11:46 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-10-07 11:14 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -70,7 +70,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-10-06 11:46 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-10-07 11:14 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -79,20 +79,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [tester-army/e2e](https://github.com/tester-army/e2e) | 4966 | `TypeScript` | Next generation e2e testing framework for web and mobile apps. |
-| 🥈 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 96682 | `TypeScript` | Persistent Context Across Sessions for Every Agent – Captures everything… |
-| 🥉 | [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) | 1445 | `JavaScript` | Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versi… |
-| 4️⃣ | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | 17499 | `Python` | Give your agent CAD superpowers. |
-| 5️⃣ | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 25657 | `TypeScript` | — |
-| 6️⃣ | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | 5042 | `C++` | Tool for automatic PS5 executables porting to Linux and Windows |
-| 7️⃣ | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 92008 | `Python` | Give your AI agent eyes to see the entire internet. Read & search Twitte… |
-| 8️⃣ | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 64150 | `Python` | World's first open-source, agentic video production system. 12 productio… |
-| 9️⃣ | [caddyserver/caddy](https://github.com/caddyserver/caddy) | 77196 | `Go` | Fast and extensible multi-platform HTTP/1-2-3 web server with automatic … |
-| 🔟 | [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) | 4356 | `JavaScript` | Self-hosted gym & body-weight tracker — plan routines, log workouts (sup… |
+| 🥇 | [tester-army/e2e](https://github.com/tester-army/e2e) | 6457 | `TypeScript` | Next generation e2e testing framework for web and mobile apps. |
+| 🥈 | [mattpocock/skills](https://github.com/mattpocock/skills) | 278249 | `Shell` | Skills for Real Engineers. Straight from my .agents directory. |
+| 🥉 | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | 18039 | `Python` | Give your agent CAD superpowers. |
+| 4️⃣ | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | 6751 | `C++` | Tool for automatic PS5 executables porting to Linux and Windows |
+| 5️⃣ | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 77764 | `JavaScript` | The design language that makes your AI harness better at design. |
+| 6️⃣ | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 97231 | `TypeScript` | Persistent Context Across Sessions for Every Agent – Captures everything… |
+| 7️⃣ | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 54474 | `Python` | A skill to stop your coding agent from burying the answer. ADHD-friendly… |
+| 8️⃣ | [morluto/rea](https://github.com/morluto/rea) | 9863 | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native … |
+| 9️⃣ | [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) | 8738 | `Cuda` | DeepGEMM: clean and efficient BLAS kernel library on GPU |
+| 🔟 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 157879 | `Shell` | A complete AI agency at your fingertips - From frontend wizards to Reddi… |
 
 </details>
 
-<sub>🕐 更新于 2026-10-06 11:46 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-10-07 11:14 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
