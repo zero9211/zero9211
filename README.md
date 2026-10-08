@@ -59,7 +59,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-10-07 11:14 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-10-08 11:30 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -70,7 +70,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-10-07 11:14 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-10-08 11:30 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -79,20 +79,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [tester-army/e2e](https://github.com/tester-army/e2e) | 6457 | `TypeScript` | Next generation e2e testing framework for web and mobile apps. |
-| 🥈 | [mattpocock/skills](https://github.com/mattpocock/skills) | 278249 | `Shell` | Skills for Real Engineers. Straight from my .agents directory. |
-| 🥉 | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | 18039 | `Python` | Give your agent CAD superpowers. |
-| 4️⃣ | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | 6751 | `C++` | Tool for automatic PS5 executables porting to Linux and Windows |
-| 5️⃣ | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 77764 | `JavaScript` | The design language that makes your AI harness better at design. |
-| 6️⃣ | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 97231 | `TypeScript` | Persistent Context Across Sessions for Every Agent – Captures everything… |
-| 7️⃣ | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 54474 | `Python` | A skill to stop your coding agent from burying the answer. ADHD-friendly… |
-| 8️⃣ | [morluto/rea](https://github.com/morluto/rea) | 9863 | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native … |
-| 9️⃣ | [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) | 8738 | `Cuda` | DeepGEMM: clean and efficient BLAS kernel library on GPU |
-| 🔟 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 157879 | `Shell` | A complete AI agency at your fingertips - From frontend wizards to Reddi… |
+| 🥇 | [morluto/rea](https://github.com/morluto/rea) | 16210 | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native … |
+| 🥈 | [mattpocock/skills](https://github.com/mattpocock/skills) | 279818 | `Shell` | Skills for Real Engineers. Straight from my .agents directory. |
+| 🥉 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | 10994 | `C++` | Tool for automatic PS5 executables porting to Linux and Windows |
+| 4️⃣ | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 55242 | `Python` | A skill to stop your coding agent from burying the answer. ADHD-friendly… |
+| 5️⃣ | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 45128 | `HTML` | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory… |
+| 6️⃣ | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 102908 | `JavaScript` | Production-grade engineering skills for AI coding agents. |
+| 7️⃣ | [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) | 7901 | `C` | A native, user-mode, multi-process, graphical debugger. |
+| 8️⃣ | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 97826 | `TypeScript` | Persistent Context Across Sessions for Every Agent – Captures everything… |
+| 9️⃣ | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 27891 | `Swift` | Open source Ghostty-based macOS terminal with vertical tabs and notifica… |
+| 🔟 | [trycua/cua](https://github.com/trycua/cua) | 28809 | `Rust` | Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and be… |
 
 </details>
 
-<sub>🕐 更新于 2026-10-07 11:14 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-10-08 11:30 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
