@@ -59,7 +59,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-10-08 11:30 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-10-09 11:35 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -70,7 +70,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-10-08 11:30 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-10-09 11:35 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -79,20 +79,19 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [morluto/rea](https://github.com/morluto/rea) | 16210 | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native … |
-| 🥈 | [mattpocock/skills](https://github.com/mattpocock/skills) | 279818 | `Shell` | Skills for Real Engineers. Straight from my .agents directory. |
-| 🥉 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | 10994 | `C++` | Tool for automatic PS5 executables porting to Linux and Windows |
-| 4️⃣ | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 55242 | `Python` | A skill to stop your coding agent from burying the answer. ADHD-friendly… |
-| 5️⃣ | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 45128 | `HTML` | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory… |
-| 6️⃣ | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 102908 | `JavaScript` | Production-grade engineering skills for AI coding agents. |
-| 7️⃣ | [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) | 7901 | `C` | A native, user-mode, multi-process, graphical debugger. |
-| 8️⃣ | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 97826 | `TypeScript` | Persistent Context Across Sessions for Every Agent – Captures everything… |
-| 9️⃣ | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 27891 | `Swift` | Open source Ghostty-based macOS terminal with vertical tabs and notifica… |
-| 🔟 | [trycua/cua](https://github.com/trycua/cua) | 28809 | `Rust` | Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and be… |
+| 🥇 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | 16313 | `C++` | Tool for automatic PS5 executables porting to Linux and Windows |
+| 🥈 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 46606 | `HTML` | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory… |
+| 🥉 | [morluto/rea](https://github.com/morluto/rea) | 28783 | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native … |
+| 4️⃣ | [mattpocock/skills](https://github.com/mattpocock/skills) | 281290 | `Shell` | Skills for Real Engineers. Straight from my .agents directory. |
+| 5️⃣ | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 98598 | `TypeScript` | Persistent Context Across Sessions for Every Agent – Captures everything… |
+| 6️⃣ | [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) | 8150 | `C` | A native, user-mode, multi-process, graphical debugger. |
+| 7️⃣ | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 27711 | `Python` | Open source repository of plugins primarily intended for knowledge worke… |
+| 8️⃣ | [storytold/artcraft](https://github.com/storytold/artcraft) | 8365 | `Rust` | ArtCraft is an intentional crafting engine for artists, designers, and f… |
+| 9️⃣ | [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) | 24772 | — | Notes of the book System Desgin Interview - An Insider's Guide |
 
 </details>
 
-<sub>🕐 更新于 2026-10-08 11:30 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-10-09 11:35 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
