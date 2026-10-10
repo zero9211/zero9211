@@ -59,7 +59,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-10-09 11:35 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-10-10 11:16 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -70,7 +70,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-10-09 11:35 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-10-10 11:16 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -79,19 +79,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | 16313 | `C++` | Tool for automatic PS5 executables porting to Linux and Windows |
-| 🥈 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 46606 | `HTML` | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory… |
-| 🥉 | [morluto/rea](https://github.com/morluto/rea) | 28783 | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native … |
-| 4️⃣ | [mattpocock/skills](https://github.com/mattpocock/skills) | 281290 | `Shell` | Skills for Real Engineers. Straight from my .agents directory. |
-| 5️⃣ | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 98598 | `TypeScript` | Persistent Context Across Sessions for Every Agent – Captures everything… |
-| 6️⃣ | [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) | 8150 | `C` | A native, user-mode, multi-process, graphical debugger. |
-| 7️⃣ | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 27711 | `Python` | Open source repository of plugins primarily intended for knowledge worke… |
-| 8️⃣ | [storytold/artcraft](https://github.com/storytold/artcraft) | 8365 | `Rust` | ArtCraft is an intentional crafting engine for artists, designers, and f… |
-| 9️⃣ | [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) | 24772 | — | Notes of the book System Desgin Interview - An Insider's Guide |
+| 🥇 | [morluto/rea](https://github.com/morluto/rea) | 49551 | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native … |
+| 🥈 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | 22770 | `C++` | Tool for automatic PS5 executables porting to Linux and Windows |
+| 🥉 | [mattpocock/skills](https://github.com/mattpocock/skills) | 282901 | `Shell` | Skills for Real Engineers. Straight from my .agents directory. |
+| 4️⃣ | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 48032 | `HTML` | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory… |
+| 5️⃣ | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 45355 | `Go` | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid archit… |
+| 6️⃣ | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 28326 | `Python` | Open source repository of plugins primarily intended for knowledge worke… |
+| 7️⃣ | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 60714 | `Python` | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM… |
+| 8️⃣ | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 104070 | `JavaScript` | Production-grade engineering skills for AI coding agents. |
+| 9️⃣ | [storytold/artcraft](https://github.com/storytold/artcraft) | 11804 | `Rust` | ArtCraft is an intentional crafting engine for artists, designers, and f… |
+| 🔟 | [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | 17757 | `Python` | [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Tr… |
 
 </details>
 
-<sub>🕐 更新于 2026-10-09 11:35 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-10-10 11:16 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
