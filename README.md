@@ -59,7 +59,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-10-10 11:16 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-10-11 10:49 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -70,7 +70,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-10-10 11:16 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-10-11 10:49 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -79,20 +79,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [morluto/rea](https://github.com/morluto/rea) | 49551 | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native … |
-| 🥈 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | 22770 | `C++` | Tool for automatic PS5 executables porting to Linux and Windows |
-| 🥉 | [mattpocock/skills](https://github.com/mattpocock/skills) | 282901 | `Shell` | Skills for Real Engineers. Straight from my .agents directory. |
-| 4️⃣ | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 48032 | `HTML` | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory… |
-| 5️⃣ | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 45355 | `Go` | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid archit… |
-| 6️⃣ | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 28326 | `Python` | Open source repository of plugins primarily intended for knowledge worke… |
-| 7️⃣ | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 60714 | `Python` | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM… |
-| 8️⃣ | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 104070 | `JavaScript` | Production-grade engineering skills for AI coding agents. |
-| 9️⃣ | [storytold/artcraft](https://github.com/storytold/artcraft) | 11804 | `Rust` | ArtCraft is an intentional crafting engine for artists, designers, and f… |
-| 🔟 | [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | 17757 | `Python` | [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Tr… |
+| 🥇 | [morluto/rea](https://github.com/morluto/rea) | 74839 | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native … |
+| 🥈 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | 27099 | `C++` | Tool for automatic PS5 executables porting to Linux and Windows |
+| 🥉 | [storytold/artcraft](https://github.com/storytold/artcraft) | 14699 | `Rust` | ArtCraft is an intentional crafting engine for artists, designers, and f… |
+| 4️⃣ | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 49051 | `HTML` | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor,… |
+| 5️⃣ | [mksglu/context-mode](https://github.com/mksglu/context-mode) | 26356 | `TypeScript` | Context window optimization for AI coding agents. Sandboxes tool output … |
+| 6️⃣ | [mattpocock/skills](https://github.com/mattpocock/skills) | 284628 | `Shell` | Skills for Real Engineers. Straight from my .agents directory. |
+| 7️⃣ | [flutter/flutter](https://github.com/flutter/flutter) | 179557 | `Dart` | Flutter makes it easy and fast to build beautiful apps for mobile and be… |
+| 8️⃣ | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | 200744 | `C++` | An Open Source Machine Learning Framework for Everyone |
+| 9️⃣ | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 59557 | `Python` | AI turns documents or topics into real, native PowerPoint decks—with nat… |
+| 🔟 | [pytorch/pytorch](https://github.com/pytorch/pytorch) | 104160 | `Python` | Tensors and Dynamic neural networks in Python with strong GPU accelerati… |
 
 </details>
 
-<sub>🕐 更新于 2026-10-10 11:16 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-10-11 10:49 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
