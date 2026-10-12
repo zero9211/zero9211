@@ -59,7 +59,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-10-11 10:49 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-10-12 11:13 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -70,7 +70,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-10-11 10:49 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-10-12 11:13 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -79,20 +79,18 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [morluto/rea](https://github.com/morluto/rea) | 74839 | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native … |
-| 🥈 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | 27099 | `C++` | Tool for automatic PS5 executables porting to Linux and Windows |
-| 🥉 | [storytold/artcraft](https://github.com/storytold/artcraft) | 14699 | `Rust` | ArtCraft is an intentional crafting engine for artists, designers, and f… |
-| 4️⃣ | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 49051 | `HTML` | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor,… |
-| 5️⃣ | [mksglu/context-mode](https://github.com/mksglu/context-mode) | 26356 | `TypeScript` | Context window optimization for AI coding agents. Sandboxes tool output … |
-| 6️⃣ | [mattpocock/skills](https://github.com/mattpocock/skills) | 284628 | `Shell` | Skills for Real Engineers. Straight from my .agents directory. |
-| 7️⃣ | [flutter/flutter](https://github.com/flutter/flutter) | 179557 | `Dart` | Flutter makes it easy and fast to build beautiful apps for mobile and be… |
-| 8️⃣ | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | 200744 | `C++` | An Open Source Machine Learning Framework for Everyone |
-| 9️⃣ | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 59557 | `Python` | AI turns documents or topics into real, native PowerPoint decks—with nat… |
-| 🔟 | [pytorch/pytorch](https://github.com/pytorch/pytorch) | 104160 | `Python` | Tensors and Dynamic neural networks in Python with strong GPU accelerati… |
+| 🥇 | [morluto/rea](https://github.com/morluto/rea) | 111134 | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native … |
+| 🥈 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | 30421 | `C++` | Tool for automatic PS5 executables porting to Linux and Windows |
+| 🥉 | [storytold/artcraft](https://github.com/storytold/artcraft) | 18357 | `Rust` | ArtCraft is an intentional crafting engine for artists, designers, and f… |
+| 4️⃣ | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 50596 | `HTML` | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor,… |
+| 5️⃣ | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 51882 | `JavaScript` | A spy satellite simulator in your browser, except the data is real. Live… |
+| 6️⃣ | [pytorch/pytorch](https://github.com/pytorch/pytorch) | 104559 | `Python` | Tensors and Dynamic neural networks in Python with strong GPU accelerati… |
+| 7️⃣ | [lyogavin/airllm](https://github.com/lyogavin/airllm) | 36600 | `Jupyter Notebook` | AirLLM 70B inference with single 4GB GPU |
+| 8️⃣ | [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | 74304 | `Assembly` | Original Apollo 11 Guidance Computer (AGC) source code for the command a… |
 
 </details>
 
-<sub>🕐 更新于 2026-10-11 10:49 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-10-12 11:13 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
