@@ -59,7 +59,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-10-12 11:13 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-10-13 12:28 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -70,7 +70,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-10-12 11:13 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-10-13 12:28 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -79,18 +79,19 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [morluto/rea](https://github.com/morluto/rea) | 111134 | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native … |
-| 🥈 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | 30421 | `C++` | Tool for automatic PS5 executables porting to Linux and Windows |
-| 🥉 | [storytold/artcraft](https://github.com/storytold/artcraft) | 18357 | `Rust` | ArtCraft is an intentional crafting engine for artists, designers, and f… |
-| 4️⃣ | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 50596 | `HTML` | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor,… |
-| 5️⃣ | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 51882 | `JavaScript` | A spy satellite simulator in your browser, except the data is real. Live… |
-| 6️⃣ | [pytorch/pytorch](https://github.com/pytorch/pytorch) | 104559 | `Python` | Tensors and Dynamic neural networks in Python with strong GPU accelerati… |
-| 7️⃣ | [lyogavin/airllm](https://github.com/lyogavin/airllm) | 36600 | `Jupyter Notebook` | AirLLM 70B inference with single 4GB GPU |
-| 8️⃣ | [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | 74304 | `Assembly` | Original Apollo 11 Guidance Computer (AGC) source code for the command a… |
+| 🥇 | [morluto/rea](https://github.com/morluto/rea) | 167644 | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native … |
+| 🥈 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 53971 | `JavaScript` | A spy satellite simulator in your browser, except the data is real. Live… |
+| 🥉 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | 27449 | `TypeScript` | Context window optimization for AI coding agents. Sandboxes tool output … |
+| 4️⃣ | [storytold/artcraft](https://github.com/storytold/artcraft) | 22670 | `Rust` | ArtCraft is an intentional crafting engine for artists, designers, and f… |
+| 5️⃣ | [open-webui/open-webui](https://github.com/open-webui/open-webui) | 155203 | `Python` | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
+| 6️⃣ | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 52908 | `HTML` | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor,… |
+| 7️⃣ | [lyogavin/airllm](https://github.com/lyogavin/airllm) | 37671 | `Jupyter Notebook` | AirLLM 2.8T LLM inference with single 4GB GPU |
+| 8️⃣ | [microsoft/BitNet](https://github.com/microsoft/BitNet) | 40968 | `C++` | Official inference framework for 1-bit LLMs |
+| 9️⃣ | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 59354 | `Python` | Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses)… |
 
 </details>
 
-<sub>🕐 更新于 2026-10-12 11:13 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-10-13 12:28 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
