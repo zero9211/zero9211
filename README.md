@@ -59,7 +59,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-10-13 12:28 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-10-14 10:38 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -70,7 +70,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-10-13 12:28 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-10-14 10:38 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -79,19 +79,19 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [morluto/rea](https://github.com/morluto/rea) | 167644 | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native … |
-| 🥈 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 53971 | `JavaScript` | A spy satellite simulator in your browser, except the data is real. Live… |
-| 🥉 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | 27449 | `TypeScript` | Context window optimization for AI coding agents. Sandboxes tool output … |
-| 4️⃣ | [storytold/artcraft](https://github.com/storytold/artcraft) | 22670 | `Rust` | ArtCraft is an intentional crafting engine for artists, designers, and f… |
-| 5️⃣ | [open-webui/open-webui](https://github.com/open-webui/open-webui) | 155203 | `Python` | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
-| 6️⃣ | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 52908 | `HTML` | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor,… |
-| 7️⃣ | [lyogavin/airllm](https://github.com/lyogavin/airllm) | 37671 | `Jupyter Notebook` | AirLLM 2.8T LLM inference with single 4GB GPU |
-| 8️⃣ | [microsoft/BitNet](https://github.com/microsoft/BitNet) | 40968 | `C++` | Official inference framework for 1-bit LLMs |
-| 9️⃣ | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 59354 | `Python` | Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses)… |
+| 🥇 | [morluto/rea](https://github.com/morluto/rea) | 210991 | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native … |
+| 🥈 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 55533 | `JavaScript` | A spy satellite simulator in your browser, except the data is real. Live… |
+| 🥉 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 63583 | `Python` | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voi… |
+| 4️⃣ | [mksglu/context-mode](https://github.com/mksglu/context-mode) | 28324 | `TypeScript` | Context window optimization for AI coding agents. Sandboxes tool output … |
+| 5️⃣ | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 54286 | `HTML` | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor,… |
+| 6️⃣ | [vercel-labs/skills](https://github.com/vercel-labs/skills) | 34576 | `TypeScript` | The open agent skills tool - npx skills |
+| 7️⃣ | [lyogavin/airllm](https://github.com/lyogavin/airllm) | 38387 | `Jupyter Notebook` | AirLLM 2.8T LLM inference with single 4GB GPU |
+| 8️⃣ | [storytold/artcraft](https://github.com/storytold/artcraft) | 25895 | `Rust` | ArtCraft is an intentional crafting engine for artists, designers, and f… |
+| 9️⃣ | [xtool-org/xtool](https://github.com/xtool-org/xtool) | 9500 | `Swift` | Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM… |
 
 </details>
 
-<sub>🕐 更新于 2026-10-13 12:28 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-10-14 10:38 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
