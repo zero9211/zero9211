@@ -59,7 +59,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-10-14 10:38 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-10-15 10:18 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -70,7 +70,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-10-14 10:38 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-10-15 10:18 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -79,19 +79,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [morluto/rea](https://github.com/morluto/rea) | 210991 | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native … |
-| 🥈 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 55533 | `JavaScript` | A spy satellite simulator in your browser, except the data is real. Live… |
-| 🥉 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 63583 | `Python` | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voi… |
-| 4️⃣ | [mksglu/context-mode](https://github.com/mksglu/context-mode) | 28324 | `TypeScript` | Context window optimization for AI coding agents. Sandboxes tool output … |
-| 5️⃣ | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 54286 | `HTML` | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor,… |
-| 6️⃣ | [vercel-labs/skills](https://github.com/vercel-labs/skills) | 34576 | `TypeScript` | The open agent skills tool - npx skills |
-| 7️⃣ | [lyogavin/airllm](https://github.com/lyogavin/airllm) | 38387 | `Jupyter Notebook` | AirLLM 2.8T LLM inference with single 4GB GPU |
-| 8️⃣ | [storytold/artcraft](https://github.com/storytold/artcraft) | 25895 | `Rust` | ArtCraft is an intentional crafting engine for artists, designers, and f… |
-| 9️⃣ | [xtool-org/xtool](https://github.com/xtool-org/xtool) | 9500 | `Swift` | Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM… |
+| 🥇 | [morluto/rea](https://github.com/morluto/rea) | 244558 | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native … |
+| 🥈 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 66556 | `Python` | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voi… |
+| 🥉 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | 29190 | `TypeScript` | Context window optimization for AI coding agents. Sandboxes tool output … |
+| 4️⃣ | [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 95469 | `Shell` | Node Version Manager - POSIX-compliant bash script to manage multiple ac… |
+| 5️⃣ | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 49423 | `Python` | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for … |
+| 6️⃣ | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 52562 | `Python` | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://cli… |
+| 7️⃣ | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | 27520 | `Python` | Independent Auditing of AI Agents. Run by human or the agent itself, to … |
+| 8️⃣ | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 29589 | `Go` | Fully autonomous AI Agents system capable of performing complex penetrat… |
+| 9️⃣ | [rust-lang/rust](https://github.com/rust-lang/rust) | 120072 | `Rust` | Empowering everyone to build reliable and efficient software. |
+| 🔟 | [xtool-org/xtool](https://github.com/xtool-org/xtool) | 10911 | `Swift` | Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM… |
 
 </details>
 
-<sub>🕐 更新于 2026-10-14 10:38 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-10-15 10:18 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
