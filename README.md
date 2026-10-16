@@ -59,7 +59,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-10-15 10:18 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-10-16 10:10 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -70,7 +70,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-10-15 10:18 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-10-16 10:10 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -79,20 +79,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [morluto/rea](https://github.com/morluto/rea) | 244558 | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native … |
-| 🥈 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 66556 | `Python` | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voi… |
-| 🥉 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | 29190 | `TypeScript` | Context window optimization for AI coding agents. Sandboxes tool output … |
-| 4️⃣ | [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 95469 | `Shell` | Node Version Manager - POSIX-compliant bash script to manage multiple ac… |
-| 5️⃣ | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 49423 | `Python` | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for … |
-| 6️⃣ | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 52562 | `Python` | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://cli… |
-| 7️⃣ | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | 27520 | `Python` | Independent Auditing of AI Agents. Run by human or the agent itself, to … |
-| 8️⃣ | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 29589 | `Go` | Fully autonomous AI Agents system capable of performing complex penetrat… |
-| 9️⃣ | [rust-lang/rust](https://github.com/rust-lang/rust) | 120072 | `Rust` | Empowering everyone to build reliable and efficient software. |
-| 🔟 | [xtool-org/xtool](https://github.com/xtool-org/xtool) | 10911 | `Swift` | Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM… |
+| 🥇 | [morluto/rea](https://github.com/morluto/rea) | 272110 | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native … |
+| 🥈 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 39178 | `Python` | Official, Anthropic-managed directory of high quality Claude Code Plugin… |
+| 🥉 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 50545 | `Python` | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for … |
+| 4️⃣ | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 112605 | `Go` | 🪨 why use many token when few token do trick. Viral skill + proxy for co… |
+| 5️⃣ | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 69214 | `Python` | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voi… |
+| 6️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 299947 | `Shell` | An agentic skills framework & software development methodology that work… |
+| 7️⃣ | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 75156 | `TypeScript` | 🌊 The original agent harness. Deploy intelligent multi-player swarms, co… |
+| 8️⃣ | [mksglu/context-mode](https://github.com/mksglu/context-mode) | 29817 | `TypeScript` | Context window optimization for AI coding agents. Sandboxes tool output … |
+| 9️⃣ | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | 88837 | `Java` | Ghidra is a software reverse engineering (SRE) framework |
+| 🔟 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 280453 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, me… |
 
 </details>
 
-<sub>🕐 更新于 2026-10-15 10:18 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-10-16 10:10 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
