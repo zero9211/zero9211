@@ -59,7 +59,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-10-16 10:10 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-10-17 10:03 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -70,7 +70,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-10-16 10:10 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-10-17 10:03 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -79,20 +79,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [morluto/rea](https://github.com/morluto/rea) | 272110 | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native … |
-| 🥈 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 39178 | `Python` | Official, Anthropic-managed directory of high quality Claude Code Plugin… |
-| 🥉 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 50545 | `Python` | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for … |
-| 4️⃣ | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 112605 | `Go` | 🪨 why use many token when few token do trick. Viral skill + proxy for co… |
-| 5️⃣ | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 69214 | `Python` | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voi… |
-| 6️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 299947 | `Shell` | An agentic skills framework & software development methodology that work… |
-| 7️⃣ | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 75156 | `TypeScript` | 🌊 The original agent harness. Deploy intelligent multi-player swarms, co… |
-| 8️⃣ | [mksglu/context-mode](https://github.com/mksglu/context-mode) | 29817 | `TypeScript` | Context window optimization for AI coding agents. Sandboxes tool output … |
-| 9️⃣ | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | 88837 | `Java` | Ghidra is a software reverse engineering (SRE) framework |
-| 🔟 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 280453 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, me… |
+| 🥇 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 40640 | `Python` | Official, Anthropic-managed directory of high quality Claude Code Plugin… |
+| 🥈 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 51546 | `Python` | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for … |
+| 🥉 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 281559 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, me… |
+| 4️⃣ | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 53534 | `Python` | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://cli… |
+| 5️⃣ | [mksglu/context-mode](https://github.com/mksglu/context-mode) | 30253 | `TypeScript` | Context window optimization for AI coding agents. Sandboxes tool output … |
+| 6️⃣ | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 75656 | `TypeScript` | 🌊 The original agent harness. Deploy intelligent multi-player swarms, co… |
+| 7️⃣ | [android/skills](https://github.com/android/skills) | 8094 | `Kotlin` | — |
+| 8️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 300701 | `Shell` | An agentic skills framework & software development methodology that work… |
+| 9️⃣ | [cursor/plugins](https://github.com/cursor/plugins) | 11982 | `TypeScript` | Cursor plugin specification and official plugins |
+| 🔟 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 71307 | `Python` | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voi… |
 
 </details>
 
-<sub>🕐 更新于 2026-10-16 10:10 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-10-17 10:03 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
