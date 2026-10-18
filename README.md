@@ -59,7 +59,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-10-17 10:03 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-10-18 10:03 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -70,7 +70,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-10-17 10:03 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-10-18 10:03 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -79,20 +79,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 40640 | `Python` | Official, Anthropic-managed directory of high quality Claude Code Plugin… |
-| 🥈 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 51546 | `Python` | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for … |
-| 🥉 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 281559 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, me… |
-| 4️⃣ | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 53534 | `Python` | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://cli… |
-| 5️⃣ | [mksglu/context-mode](https://github.com/mksglu/context-mode) | 30253 | `TypeScript` | Context window optimization for AI coding agents. Sandboxes tool output … |
-| 6️⃣ | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 75656 | `TypeScript` | 🌊 The original agent harness. Deploy intelligent multi-player swarms, co… |
-| 7️⃣ | [android/skills](https://github.com/android/skills) | 8094 | `Kotlin` | — |
-| 8️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 300701 | `Shell` | An agentic skills framework & software development methodology that work… |
-| 9️⃣ | [cursor/plugins](https://github.com/cursor/plugins) | 11982 | `TypeScript` | Cursor plugin specification and official plugins |
-| 🔟 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 71307 | `Python` | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voi… |
+| 🥇 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 41814 | `Python` | Official, Anthropic-managed directory of high quality Claude Code Plugin… |
+| 🥈 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 50490 | `Python` | The job search that runs on your machine. AI job application framework b… |
+| 🥉 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 282548 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, me… |
+| 4️⃣ | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 54087 | `Python` | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://cli… |
+| 5️⃣ | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 52277 | `Python` | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for … |
+| 6️⃣ | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | 9940 | `Rust` | Solution for long term memory for agent coding CLIs and to facilitate ha… |
+| 7️⃣ | [android/skills](https://github.com/android/skills) | 8443 | `Kotlin` | — |
+| 8️⃣ | [stablyai/orca](https://github.com/stablyai/orca) | 95465 | `TypeScript` | Orca is the place for working with a fleet of agents (e.g. Grok Bot, Cla… |
+| 9️⃣ | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 151787 | `TypeScript` | Claude Code is an agentic coding tool that lives in your terminal, under… |
+| 🔟 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 73458 | `Python` | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voi… |
 
 </details>
 
-<sub>🕐 更新于 2026-10-17 10:03 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-10-18 10:03 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
