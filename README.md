@@ -59,7 +59,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-10-19 10:20 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-10-20 10:33 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -70,7 +70,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-10-19 10:20 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-10-20 10:33 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -79,20 +79,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 53461 | `Python` | The job search that runs on your machine. AI job application framework b… |
-| 🥈 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 42751 | `Python` | Official, Anthropic-managed directory of high quality Claude Code Plugin… |
-| 🥉 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 216679 | `TypeScript` | The open source coding agent. |
-| 4️⃣ | [cursor/plugins](https://github.com/cursor/plugins) | 12771 | `TypeScript` | Cursor plugin specification and official plugins |
-| 5️⃣ | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 76565 | `TypeScript` | 🌊 The original agent harness. Deploy intelligent multi-player swarms, co… |
-| 6️⃣ | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | 10542 | `Rust` | Solution for long term memory for agent coding CLIs and to facilitate ha… |
-| 7️⃣ | [stablyai/orca](https://github.com/stablyai/orca) | 96774 | `TypeScript` | Orca is the place for working with a fleet of agents (e.g. Grok Bot, Cla… |
-| 8️⃣ | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 54639 | `Python` | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://cli… |
-| 9️⃣ | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 75554 | `Python` | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voi… |
-| 🔟 | [android/skills](https://github.com/android/skills) | 8805 | `Kotlin` | — |
+| 🥇 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 57538 | `Python` | The job search that runs on your machine. AI job application framework b… |
+| 🥈 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 217898 | `TypeScript` | The open source coding agent. |
+| 🥉 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | 11416 | `Rust` | Solution for long term memory for agent coding CLIs and to facilitate ha… |
+| 4️⃣ | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | 139819 | `Python` | The most powerful and modular diffusion model GUI, api and backend with … |
+| 5️⃣ | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 77244 | `TypeScript` | 🌊 The original agent harness. Deploy intelligent multi-player swarms, co… |
+| 6️⃣ | [stablyai/orca](https://github.com/stablyai/orca) | 98385 | `TypeScript` | Orca is the place for working with a fleet of agents (e.g. Grok Bot, Cla… |
+| 7️⃣ | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 76288 | `Python` | Compress tool outputs, logs, files, and RAG chunks before they reach the… |
+| 8️⃣ | [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy) | 6182 | `JavaScript` | — |
+| 9️⃣ | [Kruk2/jasna](https://github.com/Kruk2/jasna) | 2943 | `Python` | Video restoration tool |
+| 🔟 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 55289 | `Python` | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://cli… |
 
 </details>
 
-<sub>🕐 更新于 2026-10-19 10:20 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-10-20 10:33 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
