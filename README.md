@@ -59,7 +59,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-10-20 10:33 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-10-21 10:27 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -70,7 +70,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-10-20 10:33 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-10-21 10:27 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -79,20 +79,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 57538 | `Python` | The job search that runs on your machine. AI job application framework b… |
-| 🥈 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 217898 | `TypeScript` | The open source coding agent. |
-| 🥉 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | 11416 | `Rust` | Solution for long term memory for agent coding CLIs and to facilitate ha… |
-| 4️⃣ | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | 139819 | `Python` | The most powerful and modular diffusion model GUI, api and backend with … |
-| 5️⃣ | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 77244 | `TypeScript` | 🌊 The original agent harness. Deploy intelligent multi-player swarms, co… |
-| 6️⃣ | [stablyai/orca](https://github.com/stablyai/orca) | 98385 | `TypeScript` | Orca is the place for working with a fleet of agents (e.g. Grok Bot, Cla… |
-| 7️⃣ | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 76288 | `Python` | Compress tool outputs, logs, files, and RAG chunks before they reach the… |
-| 8️⃣ | [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy) | 6182 | `JavaScript` | — |
-| 9️⃣ | [Kruk2/jasna](https://github.com/Kruk2/jasna) | 2943 | `Python` | Video restoration tool |
-| 🔟 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 55289 | `Python` | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://cli… |
+| 🥇 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 60815 | `Python` | The job search that runs on your machine. AI job application framework b… |
+| 🥈 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 34373 | `JavaScript` | A coding-agent skill for multi-phase security audits with independently … |
+| 🥉 | [stablyai/orca](https://github.com/stablyai/orca) | 99855 | `TypeScript` | Orca is the place for working with a fleet of agents (e.g. Grok Bot, Cla… |
+| 4️⃣ | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 169849 | `JavaScript` | Makes your AI agent think like the laziest senior dev in the room. The b… |
+| 5️⃣ | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | 140844 | `Python` | The most powerful and modular diffusion model GUI, api and backend with … |
+| 6️⃣ | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 77891 | `TypeScript` | 🌊 The original agent harness. Deploy intelligent multi-player swarms, co… |
+| 7️⃣ | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 130343 | `Python` | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a… |
+| 8️⃣ | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 219008 | `TypeScript` | The open source coding agent. |
+| 9️⃣ | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 162410 | `Shell` | A complete AI agency at your fingertips - From frontend wizards to Reddi… |
+| 🔟 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 76800 | `Python` | Compress tool outputs, logs, files, and RAG chunks before they reach the… |
 
 </details>
 
-<sub>🕐 更新于 2026-10-20 10:33 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-10-21 10:27 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
