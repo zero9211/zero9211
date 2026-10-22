@@ -59,7 +59,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-10-21 10:27 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-10-22 10:23 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -70,7 +70,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-10-21 10:27 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-10-22 10:23 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -79,20 +79,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 60815 | `Python` | The job search that runs on your machine. AI job application framework b… |
-| 🥈 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 34373 | `JavaScript` | A coding-agent skill for multi-phase security audits with independently … |
-| 🥉 | [stablyai/orca](https://github.com/stablyai/orca) | 99855 | `TypeScript` | Orca is the place for working with a fleet of agents (e.g. Grok Bot, Cla… |
-| 4️⃣ | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 169849 | `JavaScript` | Makes your AI agent think like the laziest senior dev in the room. The b… |
-| 5️⃣ | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | 140844 | `Python` | The most powerful and modular diffusion model GUI, api and backend with … |
-| 6️⃣ | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 77891 | `TypeScript` | 🌊 The original agent harness. Deploy intelligent multi-player swarms, co… |
-| 7️⃣ | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 130343 | `Python` | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a… |
-| 8️⃣ | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 219008 | `TypeScript` | The open source coding agent. |
-| 9️⃣ | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 162410 | `Shell` | A complete AI agency at your fingertips - From frontend wizards to Reddi… |
-| 🔟 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 76800 | `Python` | Compress tool outputs, logs, files, and RAG chunks before they reach the… |
+| 🥇 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 36676 | `JavaScript` | A coding-agent skill for multi-phase security audits with independently … |
+| 🥈 | [vllm-project/vllm](https://github.com/vllm-project/vllm) | 94912 | `Python` | A high-throughput and memory-efficient inference and serving engine for … |
+| 🥉 | [stablyai/orca](https://github.com/stablyai/orca) | 101411 | `TypeScript` | Orca is the place for working with a fleet of agents (e.g. Grok Bot, Cla… |
+| 4️⃣ | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 77297 | `Python` | Compress tool outputs, logs, files, and RAG chunks before they reach the… |
+| 5️⃣ | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 171783 | `JavaScript` | Makes your AI agent think like the laziest senior dev in the room. The b… |
+| 6️⃣ | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | 141576 | `Python` | The most powerful and modular diffusion model GUI, api and backend with … |
+| 7️⃣ | [supabase/supabase](https://github.com/supabase/supabase) | 113048 | `TypeScript` | The Postgres development platform. Supabase gives you a dedicated Postgr… |
+| 8️⃣ | [twentyhq/twenty](https://github.com/twentyhq/twenty) | 59217 | `TypeScript` | The open alternative to Salesforce, designed for AI. |
+| 9️⃣ | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 42867 | `Python` | Kronos: A Foundation Model for the Language of Financial Markets |
+| 🔟 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | 12377 | `Rust` | Solution for long term memory for agent coding CLIs and to facilitate ha… |
 
 </details>
 
-<sub>🕐 更新于 2026-10-21 10:27 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-10-22 10:23 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
