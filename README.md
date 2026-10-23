@@ -59,7 +59,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-10-22 10:23 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-10-23 10:29 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -70,7 +70,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-10-22 10:23 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-10-23 10:29 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -79,20 +79,19 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 36676 | `JavaScript` | A coding-agent skill for multi-phase security audits with independently … |
-| 🥈 | [vllm-project/vllm](https://github.com/vllm-project/vllm) | 94912 | `Python` | A high-throughput and memory-efficient inference and serving engine for … |
-| 🥉 | [stablyai/orca](https://github.com/stablyai/orca) | 101411 | `TypeScript` | Orca is the place for working with a fleet of agents (e.g. Grok Bot, Cla… |
-| 4️⃣ | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 77297 | `Python` | Compress tool outputs, logs, files, and RAG chunks before they reach the… |
-| 5️⃣ | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 171783 | `JavaScript` | Makes your AI agent think like the laziest senior dev in the room. The b… |
-| 6️⃣ | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | 141576 | `Python` | The most powerful and modular diffusion model GUI, api and backend with … |
-| 7️⃣ | [supabase/supabase](https://github.com/supabase/supabase) | 113048 | `TypeScript` | The Postgres development platform. Supabase gives you a dedicated Postgr… |
-| 8️⃣ | [twentyhq/twenty](https://github.com/twentyhq/twenty) | 59217 | `TypeScript` | The open alternative to Salesforce, designed for AI. |
-| 9️⃣ | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 42867 | `Python` | Kronos: A Foundation Model for the Language of Financial Markets |
-| 🔟 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | 12377 | `Rust` | Solution for long term memory for agent coding CLIs and to facilitate ha… |
+| 🥇 | [php/php-src](https://github.com/php/php-src) | 41215 | `C` | The PHP Interpreter |
+| 🥈 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 31665 | `Python` | Open source repository of plugins primarily intended for knowledge worke… |
+| 🥉 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 173618 | `JavaScript` | Makes your AI agent think like the laziest senior dev in the room. The b… |
+| 4️⃣ | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 39705 | `JavaScript` | A coding-agent skill for multi-phase security audits with independently … |
+| 5️⃣ | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 133045 | `Python` | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a… |
+| 6️⃣ | [supabase/supabase](https://github.com/supabase/supabase) | 113519 | `TypeScript` | The Postgres development platform. Supabase gives you a dedicated Postgr… |
+| 7️⃣ | [fastapi/fastapi](https://github.com/fastapi/fastapi) | 103798 | `Python` | FastAPI framework, high performance, easy to learn, fast to code, ready … |
+| 8️⃣ | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 43303 | `Python` | A visual, example-driven guide to Claude Code — from basic concepts to a… |
+| 9️⃣ | [Meloong-Git/PCL](https://github.com/Meloong-Git/PCL) | 8725 | `Visual Basic .NET` | Minecraft 启动器 Plain Craft Launcher（PCL）。 |
 
 </details>
 
-<sub>🕐 更新于 2026-10-22 10:23 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-10-23 10:29 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
