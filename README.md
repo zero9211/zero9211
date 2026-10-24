@@ -59,7 +59,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-10-23 10:29 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-10-24 10:27 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -70,7 +70,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-10-23 10:29 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-10-24 10:27 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -79,19 +79,18 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [php/php-src](https://github.com/php/php-src) | 41215 | `C` | The PHP Interpreter |
-| 🥈 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 31665 | `Python` | Open source repository of plugins primarily intended for knowledge worke… |
-| 🥉 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 173618 | `JavaScript` | Makes your AI agent think like the laziest senior dev in the room. The b… |
-| 4️⃣ | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 39705 | `JavaScript` | A coding-agent skill for multi-phase security audits with independently … |
-| 5️⃣ | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 133045 | `Python` | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a… |
-| 6️⃣ | [supabase/supabase](https://github.com/supabase/supabase) | 113519 | `TypeScript` | The Postgres development platform. Supabase gives you a dedicated Postgr… |
-| 7️⃣ | [fastapi/fastapi](https://github.com/fastapi/fastapi) | 103798 | `Python` | FastAPI framework, high performance, easy to learn, fast to code, ready … |
-| 8️⃣ | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 43303 | `Python` | A visual, example-driven guide to Claude Code — from basic concepts to a… |
-| 9️⃣ | [Meloong-Git/PCL](https://github.com/Meloong-Git/PCL) | 8725 | `Visual Basic .NET` | Minecraft 启动器 Plain Craft Launcher（PCL）。 |
+| 🥇 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 42253 | `JavaScript` | A coding-agent skill for multi-phase security audits with independently … |
+| 🥈 | [php/php-src](https://github.com/php/php-src) | 41577 | `C` | The PHP Interpreter |
+| 🥉 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 32254 | `Python` | Open source repository of plugins primarily intended for knowledge worke… |
+| 4️⃣ | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 18845 | `Rust` | OpenShell is the safe, private runtime for autonomous AI agents. |
+| 5️⃣ | [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | 6904 | `TypeScript` | 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 |
+| 6️⃣ | [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) | 8537 | `Python` | claude-red is a curated library of offensive security skills designed fo… |
+| 7️⃣ | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 40293 | `Python` | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative… |
+| 8️⃣ | [nodejs/node](https://github.com/nodejs/node) | 122896 | `JavaScript` | Node.js JavaScript runtime ✨🐢🚀✨ |
 
 </details>
 
-<sub>🕐 更新于 2026-10-23 10:29 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-10-24 10:27 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
