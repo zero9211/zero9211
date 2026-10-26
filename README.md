@@ -59,7 +59,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-10-25 10:14 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-10-26 10:14 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -70,7 +70,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-10-25 10:14 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-10-26 10:14 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -79,20 +79,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 44692 | `JavaScript` | A coding-agent skill for multi-phase security audits with independently … |
-| 🥈 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 19509 | `Rust` | OpenShell is the safe, private runtime for autonomous AI agents. |
-| 🥉 | [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws) | 3148 | `Python` | Official, AWS-supported MCP servers, skills, and plugins to help AI agen… |
-| 4️⃣ | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 32214 | `CSS` | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
-| 5️⃣ | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 44597 | `Python` | A visual, example-driven guide to Claude Code — from basic concepts to a… |
-| 6️⃣ | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 86466 | `Rust` | The design language that makes your AI harness better at design. |
-| 7️⃣ | [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) | 11029 | `Rust` | A Tiny biped duck robot 🦆 |
-| 8️⃣ | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 108093 | `TypeScript` | An open-source AI agent that brings the power of Gemini directly into yo… |
-| 9️⃣ | [jbiaojerry/ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest) | 22664 | `Python` | 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，… |
-| 🔟 | [makecindy/cindy](https://github.com/makecindy/cindy) | 4130 | `TypeScript` | Consider it done. The open-source AI agent that works out of the box · 想… |
+| 🥇 | [makecindy/cindy](https://github.com/makecindy/cindy) | 4966 | `TypeScript` | Consider it done. The open-source AI agent that works out of the box · 想… |
+| 🥈 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 33957 | `CSS` | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
+| 🥉 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 86974 | `Python` | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voi… |
+| 4️⃣ | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 87792 | `Rust` | The design language that makes your AI harness better at design. |
+| 5️⃣ | [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) | 11712 | `Rust` | A Tiny biped duck robot 🦆 |
+| 6️⃣ | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 114694 | `Python` | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| 7️⃣ | [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | 7682 | `TypeScript` | 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 |
+| 8️⃣ | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | 1829 | `TypeScript` | Vibe code with pi in a lightweight, real IDE that customises itself arou… |
+| 9️⃣ | [coollabsio/coolify](https://github.com/coollabsio/coolify) | 64459 | `PHP` | An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netli… |
+| 🔟 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 47033 | `JavaScript` | A coding-agent skill for multi-phase security audits with independently … |
 
 </details>
 
-<sub>🕐 更新于 2026-10-25 10:14 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-10-26 10:14 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
