@@ -59,7 +59,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-10-27 10:51 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-10-28 10:58 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -70,7 +70,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-10-27 10:51 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-10-28 10:58 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -79,20 +79,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 36606 | `CSS` | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
-| 🥈 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 116255 | `Python` | TradingAgents: Multi-Agents LLM Financial Trading Framework |
-| 🥉 | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | 3030 | `TypeScript` | Vibe code with pi in a lightweight, real IDE that customises itself arou… |
-| 4️⃣ | [makecindy/cindy](https://github.com/makecindy/cindy) | 6629 | `TypeScript` | Consider it done. The open-source AI agent that works out of the box · 想… |
-| 5️⃣ | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 289930 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, me… |
-| 6️⃣ | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 89317 | `Rust` | The design language that makes your AI harness better at design. |
-| 7️⃣ | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | 22298 | `Python` | Security scanner for AI agent skills. Detect vulnerabilities, malicious … |
-| 8️⃣ | [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) | 12474 | `Rust` | A Tiny biped duck robot 🦆 |
-| 9️⃣ | [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | 1548 | `TypeScript` | A local-first desktop workspace for persistent AI teammates. Run Codex, … |
-| 🔟 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 103767 | `Python` | Give your AI agent eyes to see the entire internet. Read & search Twitte… |
+| 🥇 | [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) | 9619 | — | — |
+| 🥈 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 39191 | `CSS` | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
+| 🥉 | [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | 2548 | `TypeScript` | A local-first desktop workspace for persistent AI teammates. Run Codex, … |
+| 4️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 306528 | `Shell` | An agentic skills framework & software development methodology that work… |
+| 5️⃣ | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 90720 | `Rust` | The design vocabulary for your coding agent. Steer with polish and bolde… |
+| 6️⃣ | [makecindy/cindy](https://github.com/makecindy/cindy) | 7561 | `TypeScript` | Consider it done. The open-source AI agent that works out of the box · 想… |
+| 7️⃣ | [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | 39470 | `TypeScript` | 📨 The ultimate agentic social media scheduling tool 🤖 |
+| 8️⃣ | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 290980 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, me… |
+| 9️⃣ | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 46136 | `Python` | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. |
+| 🔟 | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | 4146 | `TypeScript` | Vibe code with pi in a lightweight, real IDE that customises itself arou… |
 
 </details>
 
-<sub>🕐 更新于 2026-10-27 10:51 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-10-28 10:58 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
