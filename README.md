@@ -59,7 +59,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-10-30 11:27 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-10-31 11:12 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -70,7 +70,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-10-30 11:27 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-10-31 11:12 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -79,20 +79,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 50392 | `Python` | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. |
-| 🥈 | [obra/superpowers](https://github.com/obra/superpowers) | 308686 | `Shell` | An agentic skills framework & software development methodology that work… |
-| 🥉 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 95609 | `Rust` | The design vocabulary for your coding agent. Steer with polish and bolde… |
-| 4️⃣ | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | 6091 | `TypeScript` | Vibe code with pi in a lightweight, real IDE that customises itself arou… |
-| 5️⃣ | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | 7580 | `TypeScript` | Open-source Grok Bot alternative with a virtual machine that bots can us… |
-| 6️⃣ | [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | 3947 | `TypeScript` | A local-first desktop workspace for persistent AI teammates. Run Codex, … |
-| 7️⃣ | [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) | 12296 | — | — |
-| 8️⃣ | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 104930 | `TypeScript` | Persistent Context Across Sessions for Every Agent – Captures everything… |
-| 9️⃣ | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | 8224 | `TypeScript` | Open-source AI coworkers that each get a computer of their own: a browse… |
-| 🔟 | [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) | 9249 | — | LIST OF ALL MY JAILBREAKS |
+| 🥇 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 106419 | `TypeScript` | Persistent Context Across Sessions for Every Agent – Captures everything… |
+| 🥈 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | 8764 | `TypeScript` | Open-source Grok Bot alternative with a virtual machine that bots can us… |
+| 🥉 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 97187 | `Rust` | The design vocabulary for your coding agent. Steer with polish and bolde… |
+| 4️⃣ | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | 8850 | `TypeScript` | Open-source AI coworkers that each get a computer of their own: a browse… |
+| 5️⃣ | [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | 11343 | `TypeScript` | 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 |
+| 6️⃣ | [expo/skills](https://github.com/expo/skills) | 3913 | `Shell` | A collection of AI agent skills for working with Expo projects and Expo … |
+| 7️⃣ | [macro-inc/macro](https://github.com/macro-inc/macro) | 5896 | `Rust` | Macro is a unified workspace for teams: email, chat, docs, tasks, agents… |
+| 8️⃣ | [mattpocock/skills](https://github.com/mattpocock/skills) | 307550 | `Shell` | Skills for Real Engineers. Straight from my .agents directory. |
+| 9️⃣ | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 32838 | `TypeScript` | — |
+| 🔟 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 51856 | `Python` | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. |
 
 </details>
 
-<sub>🕐 更新于 2026-10-30 11:27 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-10-31 11:12 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
