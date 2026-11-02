@@ -59,7 +59,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-11-01 11:08 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-11-02 11:19 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -70,7 +70,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-11-01 11:08 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-11-02 11:19 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -79,20 +79,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 107976 | `TypeScript` | Persistent Context Across Sessions for Every Agent – Captures everything… |
-| 🥈 | [mattpocock/skills](https://github.com/mattpocock/skills) | 308498 | `Shell` | Skills for Real Engineers. Straight from my .agents directory. |
-| 🥉 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | 31252 | `Shell` | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow… |
-| 4️⃣ | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 35761 | `TypeScript` | — |
-| 5️⃣ | [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | 12352 | `TypeScript` | 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 |
-| 6️⃣ | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | 9729 | `TypeScript` | Open-source Grok Bot alternative with a virtual machine that bots can us… |
-| 7️⃣ | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 98386 | `Rust` | The design vocabulary for your coding agent. Steer with polish and bolde… |
-| 8️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 310115 | `Shell` | An agentic skills framework & software development methodology that work… |
-| 9️⃣ | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | 39306 | `Zig` | Lightpanda: the headless browser designed for AI and automation |
-| 🔟 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 52923 | `Python` | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. |
+| 🥇 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 109512 | `TypeScript` | Persistent Context Across Sessions for Every Agent – Captures everything… |
+| 🥈 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | 40302 | `Zig` | Lightpanda: the headless browser designed for AI and automation |
+| 🥉 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 45479 | `Python` | Kronos: A Foundation Model for the Language of Financial Markets |
+| 4️⃣ | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 38355 | `TypeScript` | — |
+| 5️⃣ | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | 10679 | `TypeScript` | Open-source Grok Bot alternative with a virtual machine that bots can us… |
+| 6️⃣ | [public-apis/public-apis](https://github.com/public-apis/public-apis) | 494763 | `Python` | A collective list of free APIs |
+| 7️⃣ | [cjpais/Handy](https://github.com/cjpais/Handy) | 36673 | `Rust` | A free, open source, and extensible speech-to-text application that work… |
+| 8️⃣ | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | 32457 | `Shell` | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow… |
+| 9️⃣ | [kornia/kornia](https://github.com/kornia/kornia) | 11847 | `Python` | 🐍 Geometric Computer Vision Library for Spatial AI |
+| 🔟 | [beenuar/AiSOC](https://github.com/beenuar/AiSOC) | 6303 | `Python` | Open-source AI Security Operations Center: alert fusion, LLM-agent triag… |
 
 </details>
 
-<sub>🕐 更新于 2026-11-01 11:08 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-11-02 11:19 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
