@@ -59,7 +59,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-11-02 11:19 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-11-03 12:31 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -70,7 +70,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-11-02 11:19 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-11-03 12:31 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -79,20 +79,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 109512 | `TypeScript` | Persistent Context Across Sessions for Every Agent – Captures everything… |
-| 🥈 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | 40302 | `Zig` | Lightpanda: the headless browser designed for AI and automation |
-| 🥉 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 45479 | `Python` | Kronos: A Foundation Model for the Language of Financial Markets |
-| 4️⃣ | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 38355 | `TypeScript` | — |
-| 5️⃣ | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | 10679 | `TypeScript` | Open-source Grok Bot alternative with a virtual machine that bots can us… |
-| 6️⃣ | [public-apis/public-apis](https://github.com/public-apis/public-apis) | 494763 | `Python` | A collective list of free APIs |
-| 7️⃣ | [cjpais/Handy](https://github.com/cjpais/Handy) | 36673 | `Rust` | A free, open source, and extensible speech-to-text application that work… |
-| 8️⃣ | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | 32457 | `Shell` | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow… |
-| 9️⃣ | [kornia/kornia](https://github.com/kornia/kornia) | 11847 | `Python` | 🐍 Geometric Computer Vision Library for Spatial AI |
-| 🔟 | [beenuar/AiSOC](https://github.com/beenuar/AiSOC) | 6303 | `Python` | Open-source AI Security Operations Center: alert fusion, LLM-agent triag… |
+| 🥇 | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | 10389 | `Rust` | Computer use CLI for AI agents |
+| 🥈 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 110937 | `TypeScript` | Persistent Context Across Sessions for Every Agent – Captures everything… |
+| 🥉 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 93183 | `Python` | 🕷️ The BEST Web Scraping framework that handles everything from a single… |
+| 4️⃣ | [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) | 40021 | `C++` | Hyprland is an independent, highly customizable, dynamic tiling Wayland … |
+| 5️⃣ | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | 33766 | `Shell` | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow… |
+| 6️⃣ | [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) | 16206 | `Python` | FreeToken brings datacenter-scale model serving to your desktop. Run mas… |
+| 7️⃣ | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 42327 | `TypeScript` | — |
+| 8️⃣ | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 46070 | `Python` | Kronos: A Foundation Model for the Language of Financial Markets |
+| 9️⃣ | [kornia/kornia](https://github.com/kornia/kornia) | 12183 | `Python` | 🐍 Geometric Computer Vision Library for Spatial AI |
+| 🔟 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 46694 | `C` | Run frontier MoE models on hardware you already own — pure C, zero deps,… |
 
 </details>
 
-<sub>🕐 更新于 2026-11-02 11:19 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-11-03 12:31 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
