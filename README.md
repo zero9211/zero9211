@@ -59,7 +59,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-11-03 12:31 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-11-04 11:51 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -70,7 +70,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-11-03 12:31 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-11-04 11:51 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -79,20 +79,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | 10389 | `Rust` | Computer use CLI for AI agents |
-| 🥈 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 110937 | `TypeScript` | Persistent Context Across Sessions for Every Agent – Captures everything… |
-| 🥉 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 93183 | `Python` | 🕷️ The BEST Web Scraping framework that handles everything from a single… |
-| 4️⃣ | [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) | 40021 | `C++` | Hyprland is an independent, highly customizable, dynamic tiling Wayland … |
-| 5️⃣ | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | 33766 | `Shell` | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow… |
-| 6️⃣ | [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) | 16206 | `Python` | FreeToken brings datacenter-scale model serving to your desktop. Run mas… |
-| 7️⃣ | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 42327 | `TypeScript` | — |
-| 8️⃣ | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 46070 | `Python` | Kronos: A Foundation Model for the Language of Financial Markets |
-| 9️⃣ | [kornia/kornia](https://github.com/kornia/kornia) | 12183 | `Python` | 🐍 Geometric Computer Vision Library for Spatial AI |
-| 🔟 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 46694 | `C` | Run frontier MoE models on hardware you already own — pure C, zero deps,… |
+| 🥇 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 112073 | `TypeScript` | Persistent Context Across Sessions for Every Agent – Captures everything… |
+| 🥈 | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | 13125 | `Rust` | Computer use CLI for AI agents |
+| 🥉 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | 10582 | `Rust` | Worktrunk is a CLI for Git worktree management, designed for parallel AI… |
+| 4️⃣ | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 47328 | `C` | A hierarchical inference engine for frontier MoE models: hot experts on … |
+| 5️⃣ | [mattpocock/skills](https://github.com/mattpocock/skills) | 311631 | `Shell` | Skills for Real Engineers. Straight from my .agents directory. |
+| 6️⃣ | [p-e-w/heretic](https://github.com/p-e-w/heretic) | 38896 | `Python` | Training-free language model modification: Remove censorship, suppress s… |
+| 7️⃣ | [spotify/portal-ai-plugins](https://github.com/spotify/portal-ai-plugins) | 3075 | `TypeScript` | — |
+| 8️⃣ | [floci-io/floci](https://github.com/floci-io/floci) | 28920 | `Java` | Light, fluffy, and always free - The AWS Local Emulator alternative |
+| 9️⃣ | [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) | 16648 | `Python` | 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪… |
+| 🔟 | [anomalyco/hex](https://github.com/anomalyco/hex) | 4679 | `Rust` | Local voice dictation for mac, windows and linux |
 
 </details>
 
-<sub>🕐 更新于 2026-11-03 12:31 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-11-04 11:51 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
