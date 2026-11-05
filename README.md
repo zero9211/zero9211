@@ -59,7 +59,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-11-04 11:51 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-11-05 12:10 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -70,7 +70,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-11-04 11:51 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-11-05 12:10 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -79,20 +79,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 112073 | `TypeScript` | Persistent Context Across Sessions for Every Agent – Captures everything… |
-| 🥈 | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | 13125 | `Rust` | Computer use CLI for AI agents |
-| 🥉 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | 10582 | `Rust` | Worktrunk is a CLI for Git worktree management, designed for parallel AI… |
-| 4️⃣ | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 47328 | `C` | A hierarchical inference engine for frontier MoE models: hot experts on … |
-| 5️⃣ | [mattpocock/skills](https://github.com/mattpocock/skills) | 311631 | `Shell` | Skills for Real Engineers. Straight from my .agents directory. |
-| 6️⃣ | [p-e-w/heretic](https://github.com/p-e-w/heretic) | 38896 | `Python` | Training-free language model modification: Remove censorship, suppress s… |
-| 7️⃣ | [spotify/portal-ai-plugins](https://github.com/spotify/portal-ai-plugins) | 3075 | `TypeScript` | — |
-| 8️⃣ | [floci-io/floci](https://github.com/floci-io/floci) | 28920 | `Java` | Light, fluffy, and always free - The AWS Local Emulator alternative |
-| 9️⃣ | [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) | 16648 | `Python` | 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪… |
-| 🔟 | [anomalyco/hex](https://github.com/anomalyco/hex) | 4679 | `Rust` | Local voice dictation for mac, windows and linux |
+| 🥇 | [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | 5453 | `Python` | Auto Ontology is a Python framework for building semantic, graph-based r… |
+| 🥈 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | 11129 | `Rust` | Worktrunk is a CLI for Git worktree management, designed for parallel AI… |
+| 🥉 | [mattpocock/skills](https://github.com/mattpocock/skills) | 313565 | `Shell` | Skills for Real Engineers. Straight from my .agents directory. |
+| 4️⃣ | [floci-io/floci](https://github.com/floci-io/floci) | 29737 | `Java` | Light, fluffy, and always free - The AWS Local Emulator alternative |
+| 5️⃣ | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 112992 | `TypeScript` | Persistent Context Across Sessions for Every Agent – Captures everything… |
+| 6️⃣ | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | 15464 | `Rust` | Computer use CLI for AI agents |
+| 7️⃣ | [github/spec-kit](https://github.com/github/spec-kit) | 147411 | `Python` | 💫 Toolkit to help you get started with SDD or any other process! |
+| 8️⃣ | [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) | 14850 | `Python` | 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not th… |
+| 9️⃣ | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 139170 | `Python` | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic… |
+| 🔟 | [garrytan/gstack](https://github.com/garrytan/gstack) | 139423 | `TypeScript` | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve… |
 
 </details>
 
-<sub>🕐 更新于 2026-11-04 11:51 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-11-05 12:10 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
