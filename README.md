@@ -59,7 +59,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-11-06 12:07 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-11-07 11:41 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -70,7 +70,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-11-06 12:07 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-11-07 11:41 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -79,20 +79,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | 7634 | `Python` | Auto Ontology is a Python framework for building semantic, graph-based r… |
-| 🥈 | [mattpocock/skills](https://github.com/mattpocock/skills) | 315499 | `Shell` | Skills for Real Engineers. Straight from my .agents directory. |
-| 🥉 | [garrytan/gstack](https://github.com/garrytan/gstack) | 140048 | `TypeScript` | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve… |
-| 4️⃣ | [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) | 17773 | `Python` | 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪… |
-| 5️⃣ | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 98173 | `Python` | 🕷️ The BEST Web Scraping framework that handles everything from a single… |
-| 6️⃣ | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | 17121 | `Rust` | Computer use CLI for AI agents |
-| 7️⃣ | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | 11583 | `Rust` | Worktrunk is a CLI for Git worktree management, designed for parallel AI… |
-| 8️⃣ | [lz4/lz4](https://github.com/lz4/lz4) | 12422 | `C` | Extremely Fast Compression algorithm |
-| 9️⃣ | [google/skills](https://github.com/google/skills) | 22446 | `Python` | Agent Skills for Google products and technologies |
-| 🔟 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 46006 | `Rust` | Browser automation CLI for AI agents |
+| 🥇 | [zed-industries/zed](https://github.com/zed-industries/zed) | 93723 | `Rust` | Code at the speed of thought – Zed is a high-performance, multiplayer co… |
+| 🥈 | [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | 9189 | `Python` | Auto Ontology is a Python framework for building semantic, graph-based r… |
+| 🥉 | [rails/rails](https://github.com/rails/rails) | 59042 | `Ruby` | Ruby on Rails |
+| 4️⃣ | [mpv-player/mpv](https://github.com/mpv-player/mpv) | 37901 | `C` | 🎥 Command line media player |
+| 5️⃣ | [rust-lang/rust](https://github.com/rust-lang/rust) | 121486 | `Rust` | Empowering everyone to build reliable and efficient software. |
+| 6️⃣ | [react/react](https://github.com/react/react) | 252279 | `JavaScript` | The library for web and native user interfaces. |
+| 7️⃣ | [angular/angular](https://github.com/angular/angular) | 101393 | `TypeScript` | Deliver web apps with confidence 🚀 |
+| 8️⃣ | [symfony/symfony](https://github.com/symfony/symfony) | 31449 | `PHP` | The Symfony PHP framework |
+| 9️⃣ | [prometheus/prometheus](https://github.com/prometheus/prometheus) | 67213 | `Go` | The Prometheus monitoring system and time series database. |
+| 🔟 | [google/skills](https://github.com/google/skills) | 22883 | `Python` | Agent Skills for Google products and technologies |
 
 </details>
 
-<sub>🕐 更新于 2026-11-06 12:07 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-11-07 11:41 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
