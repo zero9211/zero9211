@@ -59,7 +59,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-11-07 11:41 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-11-08 11:16 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -70,7 +70,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-11-07 11:41 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-11-08 11:16 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -79,20 +79,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [zed-industries/zed](https://github.com/zed-industries/zed) | 93723 | `Rust` | Code at the speed of thought – Zed is a high-performance, multiplayer co… |
-| 🥈 | [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | 9189 | `Python` | Auto Ontology is a Python framework for building semantic, graph-based r… |
-| 🥉 | [rails/rails](https://github.com/rails/rails) | 59042 | `Ruby` | Ruby on Rails |
-| 4️⃣ | [mpv-player/mpv](https://github.com/mpv-player/mpv) | 37901 | `C` | 🎥 Command line media player |
-| 5️⃣ | [rust-lang/rust](https://github.com/rust-lang/rust) | 121486 | `Rust` | Empowering everyone to build reliable and efficient software. |
-| 6️⃣ | [react/react](https://github.com/react/react) | 252279 | `JavaScript` | The library for web and native user interfaces. |
-| 7️⃣ | [angular/angular](https://github.com/angular/angular) | 101393 | `TypeScript` | Deliver web apps with confidence 🚀 |
-| 8️⃣ | [symfony/symfony](https://github.com/symfony/symfony) | 31449 | `PHP` | The Symfony PHP framework |
-| 9️⃣ | [prometheus/prometheus](https://github.com/prometheus/prometheus) | 67213 | `Go` | The Prometheus monitoring system and time series database. |
-| 🔟 | [google/skills](https://github.com/google/skills) | 22883 | `Python` | Agent Skills for Google products and technologies |
+| 🥇 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 46912 | `Rust` | Browser automation CLI for AI agents |
+| 🥈 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 65864 | `JavaScript` | A coding-agent skill for multi-phase security audits with independently … |
+| 🥉 | [google/skills](https://github.com/google/skills) | 23466 | `Python` | Agent Skills for Google products and technologies |
+| 4️⃣ | [mattpocock/skills](https://github.com/mattpocock/skills) | 317805 | `Shell` | Skills for Real Engineers. Straight from my .agents directory. |
+| 5️⃣ | [anthropics/skills](https://github.com/anthropics/skills) | 188863 | `Python` | Public repository for Agent Skills |
+| 6️⃣ | [meta/astryx](https://github.com/meta/astryx) | 14634 | `TypeScript` | An open source design system that's fully customizable and agent ready |
+| 7️⃣ | [prometheus/prometheus](https://github.com/prometheus/prometheus) | 67468 | `Go` | The Prometheus monitoring system and time series database. |
+| 8️⃣ | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 100716 | `Python` | Hunt down social media accounts by username across social networks |
+| 9️⃣ | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | 17122 | `TypeScript` | Open-source Grok Bot alternative with a virtual machine that bots can us… |
+| 🔟 | [astral-sh/ruff](https://github.com/astral-sh/ruff) | 51000 | `Rust` | An extremely fast Python linter and code formatter, written in Rust. |
 
 </details>
 
-<sub>🕐 更新于 2026-11-07 11:41 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-11-08 11:16 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
