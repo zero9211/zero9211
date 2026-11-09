@@ -59,7 +59,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-11-08 11:16 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-11-09 11:37 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -70,7 +70,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-11-08 11:16 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-11-09 11:37 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -79,20 +79,19 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 46912 | `Rust` | Browser automation CLI for AI agents |
-| 🥈 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 65864 | `JavaScript` | A coding-agent skill for multi-phase security audits with independently … |
-| 🥉 | [google/skills](https://github.com/google/skills) | 23466 | `Python` | Agent Skills for Google products and technologies |
-| 4️⃣ | [mattpocock/skills](https://github.com/mattpocock/skills) | 317805 | `Shell` | Skills for Real Engineers. Straight from my .agents directory. |
-| 5️⃣ | [anthropics/skills](https://github.com/anthropics/skills) | 188863 | `Python` | Public repository for Agent Skills |
-| 6️⃣ | [meta/astryx](https://github.com/meta/astryx) | 14634 | `TypeScript` | An open source design system that's fully customizable and agent ready |
-| 7️⃣ | [prometheus/prometheus](https://github.com/prometheus/prometheus) | 67468 | `Go` | The Prometheus monitoring system and time series database. |
-| 8️⃣ | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 100716 | `Python` | Hunt down social media accounts by username across social networks |
-| 9️⃣ | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | 17122 | `TypeScript` | Open-source Grok Bot alternative with a virtual machine that bots can us… |
-| 🔟 | [astral-sh/ruff](https://github.com/astral-sh/ruff) | 51000 | `Rust` | An extremely fast Python linter and code formatter, written in Rust. |
+| 🥇 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 104189 | `Python` | Hunt down social media accounts by username across social networks |
+| 🥈 | [dsx-ai-factory/nvke](https://github.com/dsx-ai-factory/nvke) | 899 | `Go` | NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes o… |
+| 🥉 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | 18526 | `TypeScript` | Open-source Grok Bot alternative with a virtual machine that bots can us… |
+| 4️⃣ | [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | 19512 | `Python` | A collection of projects designed to help developers quickly get started… |
+| 5️⃣ | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 47761 | `Rust` | Browser automation CLI for AI agents |
+| 6️⃣ | [meta/astryx](https://github.com/meta/astryx) | 17202 | `TypeScript` | An open source design system that's fully customizable and agent ready |
+| 7️⃣ | [anthropics/skills](https://github.com/anthropics/skills) | 189783 | `Python` | Public repository for Agent Skills |
+| 8️⃣ | [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) | 16490 | `C++` | Multi-Joint dynamics with Contact. A general purpose physics simulator. |
+| 9️⃣ | [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context) | 5278 | `TypeScript` | A context-compression plugin for month-long single sessions (billions of… |
 
 </details>
 
-<sub>🕐 更新于 2026-11-08 11:16 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-11-09 11:37 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
