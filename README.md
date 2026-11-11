@@ -59,7 +59,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-11-10 13:09 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-11-11 11:42 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -70,7 +70,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-11-10 13:09 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-11-11 11:42 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -79,20 +79,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [anthropics/skills](https://github.com/anthropics/skills) | 191282 | `Python` | Public repository for Agent Skills |
-| 🥈 | [meta/astryx](https://github.com/meta/astryx) | 20633 | `TypeScript` | An open source design system that's fully customizable and agent ready |
-| 🥉 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 107543 | `Python` | Hunt down social media accounts by username across social networks |
-| 4️⃣ | [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) | 17015 | `C++` | Multi-Joint dynamics with Contact. A general purpose physics simulator. |
-| 5️⃣ | [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | 20123 | `Python` | A collection of projects designed to help developers quickly get started… |
-| 6️⃣ | [garrytan/gbrain](https://github.com/garrytan/gbrain) | 32266 | `TypeScript` | Garry's Opinionated OpenClaw/Hermes Agent Brain |
-| 7️⃣ | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 48642 | `Rust` | Browser automation CLI for AI agents |
-| 8️⃣ | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 103601 | `Rust` | π RuView turns commodity WiFi signals into real-time spatial intelligenc… |
-| 9️⃣ | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 69122 | `Python` | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-mark… |
-| 🔟 | [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | 6118 | `Python` | Configure and automate Home Assistant with Claude, ChatGPT, and other AI… |
+| 🥇 | [meta/astryx](https://github.com/meta/astryx) | 23237 | `TypeScript` | An open source design system that's fully customizable and agent ready |
+| 🥈 | [anthropics/skills](https://github.com/anthropics/skills) | 192463 | `Python` | Public repository for Agent Skills |
+| 🥉 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 115267 | `JavaScript` | Production-grade engineering skills for AI coding agents. |
+| 4️⃣ | [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | 20559 | `Python` | A collection of projects designed to help developers quickly get started… |
+| 5️⃣ | [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) | 17427 | `C++` | Multi-Joint dynamics with Contact. A general purpose physics simulator. |
+| 6️⃣ | [we-promise/sure](https://github.com/we-promise/sure) | 12110 | `Ruby` | The personal finance app for everyone (by everyone) |
+| 7️⃣ | [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | 6753 | `Python` | Configure and automate Home Assistant with Claude, ChatGPT, and other AI… |
+| 8️⃣ | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 49335 | `Rust` | Browser automation CLI for AI agents |
+| 9️⃣ | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 109190 | `Python` | Hunt down social media accounts by username across social networks |
+| 🔟 | [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) | 6894 | `Rust` | A batteries-included framework for building web apps |
 
 </details>
 
-<sub>🕐 更新于 2026-11-10 13:09 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-11-11 11:42 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
