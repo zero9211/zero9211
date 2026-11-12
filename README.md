@@ -55,11 +55,22 @@
 <details open>
 <summary><h2>🐦 X (Twitter) 今日热议 Top 10</h2></summary>
 
-> ⚠️ 暂时无法获取 X 热门数据，稍后重试
+| # | 热门话题 | 讨论量 |
+|:---:|:---|---:|
+| 🥇 | [Jensen](https://twitter.com/search?q=Jensen) | — |
+| 🥈 | [#AEWDynamite](https://twitter.com/search?q=%23AEWDynamite) | — |
+| 🥉 | [#Survivor51](https://twitter.com/search?q=%23Survivor51) | — |
+| 4️⃣ | [Nvidia](https://twitter.com/search?q=Nvidia) | — |
+| 5️⃣ | [Mississippi](https://twitter.com/search?q=Mississippi) | — |
+| 6️⃣ | [#AEWCollision](https://twitter.com/search?q=%23AEWCollision) | — |
+| 7️⃣ | [Steph](https://twitter.com/search?q=Steph) | — |
+| 8️⃣ | [Ciampa](https://twitter.com/search?q=Ciampa) | — |
+| 9️⃣ | [Tomb of the Unknown Soldier](https://twitter.com/search?q=Tomb%20of%20the%20Unknown%20Soldier) | — |
+| 🔟 | [Scott Colom](https://twitter.com/search?q=Scott%20Colom) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-11-11 11:42 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-11-12 12:50 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -70,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-11-11 11:42 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-11-12 12:50 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -79,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [meta/astryx](https://github.com/meta/astryx) | 23237 | `TypeScript` | An open source design system that's fully customizable and agent ready |
-| 🥈 | [anthropics/skills](https://github.com/anthropics/skills) | 192463 | `Python` | Public repository for Agent Skills |
-| 🥉 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 115267 | `JavaScript` | Production-grade engineering skills for AI coding agents. |
-| 4️⃣ | [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | 20559 | `Python` | A collection of projects designed to help developers quickly get started… |
-| 5️⃣ | [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) | 17427 | `C++` | Multi-Joint dynamics with Contact. A general purpose physics simulator. |
-| 6️⃣ | [we-promise/sure](https://github.com/we-promise/sure) | 12110 | `Ruby` | The personal finance app for everyone (by everyone) |
-| 7️⃣ | [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | 6753 | `Python` | Configure and automate Home Assistant with Claude, ChatGPT, and other AI… |
-| 8️⃣ | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 49335 | `Rust` | Browser automation CLI for AI agents |
-| 9️⃣ | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 109190 | `Python` | Hunt down social media accounts by username across social networks |
-| 🔟 | [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) | 6894 | `Rust` | A batteries-included framework for building web apps |
+| 🥇 | [meta/astryx](https://github.com/meta/astryx) | 25339 | `TypeScript` | An open source design system that's fully customizable and agent ready |
+| 🥈 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 70514 | `Python` | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-mark… |
+| 🥉 | [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | 1922 | `TypeScript` | — |
+| 4️⃣ | [shadcn/improve](https://github.com/shadcn/improve) | 11064 | — | Use your most capable model to audit your codebase and write plans for c… |
+| 5️⃣ | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 116074 | `JavaScript` | Production-grade engineering skills for AI coding agents. |
+| 6️⃣ | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 49991 | `Rust` | Browser automation CLI for AI agents |
+| 7️⃣ | [we-promise/sure](https://github.com/we-promise/sure) | 13109 | `Ruby` | The personal finance app for everyone (by everyone) |
+| 8️⃣ | [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | 7472 | `Python` | Configure and automate Home Assistant with Claude, ChatGPT, and other AI… |
+| 9️⃣ | [openai/codex-security](https://github.com/openai/codex-security) | 11865 | `TypeScript` | OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, … |
+| 🔟 | [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) | 67100 | `Java` | All Algorithms implemented in Java |
 
 </details>
 
-<sub>🕐 更新于 2026-11-11 11:42 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-11-12 12:50 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
