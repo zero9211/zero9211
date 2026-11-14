@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Microsoft](https://twitter.com/search?q=Microsoft) | — |
-| 🥈 | [Giants](https://twitter.com/search?q=Giants) | — |
-| 🥉 | [Ben Sinnott](https://twitter.com/search?q=Ben%20Sinnott) | — |
-| 4️⃣ | [#911onABC](https://twitter.com/search?q=%23911onABC) | — |
-| 5️⃣ | [#RaiseHail](https://twitter.com/search?q=%23RaiseHail) | — |
-| 6️⃣ | [Trae Young](https://twitter.com/search?q=Trae%20Young) | — |
-| 7️⃣ | [Cam Skattebo](https://twitter.com/search?q=Cam%20Skattebo) | — |
-| 8️⃣ | [Jayden Daniels](https://twitter.com/search?q=Jayden%20Daniels) | — |
-| 9️⃣ | [Van Hollen](https://twitter.com/search?q=Van%20Hollen) | — |
-| 🔟 | [Cade Cunningham](https://twitter.com/search?q=Cade%20Cunningham) | — |
+| 🥇 | [Duffy](https://twitter.com/search?q=Duffy) | — |
+| 🥈 | [#SmackDown](https://twitter.com/search?q=%23SmackDown) | — |
+| 🥉 | [The FAA](https://twitter.com/search?q=The%20FAA) | — |
+| 4️⃣ | [Knicks](https://twitter.com/search?q=Knicks) | — |
+| 5️⃣ | [Friday the 13th](https://twitter.com/search?q=Friday%20the%2013th) | — |
+| 6️⃣ | [Pacers](https://twitter.com/search?q=Pacers) | — |
+| 7️⃣ | [#faagroundstop](https://twitter.com/search?q=%23faagroundstop) | — |
+| 8️⃣ | [Mark Pope](https://twitter.com/search?q=Mark%20Pope) | — |
+| 9️⃣ | [Workday](https://twitter.com/search?q=Workday) | — |
+| 🔟 | [Amtrak](https://twitter.com/search?q=Amtrak) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-11-13 12:01 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-11-14 11:59 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-11-13 12:01 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-11-14 11:59 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | 3343 | `TypeScript` | Keep your coding agent up to date with the latest web best practices |
-| 🥈 | [openai/codex-security](https://github.com/openai/codex-security) | 12562 | `TypeScript` | OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, … |
-| 🥉 | [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 96037 | `Shell` | Node Version Manager - POSIX-compliant bash script to manage multiple ac… |
-| 4️⃣ | [pookjw/HermesEnabler](https://github.com/pookjw/HermesEnabler) | 1595 | `Objective-C` | Enable Hermès Watch Faces on any Apple Watch devices |
-| 5️⃣ | [we-promise/sure](https://github.com/we-promise/sure) | 14056 | `Ruby` | The personal finance app for everyone (by everyone) |
-| 6️⃣ | [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | 29899 | `TypeScript` | An open-source AI coding agent that lives in your terminal. |
-| 7️⃣ | [ashhart/TensorFold](https://github.com/ashhart/TensorFold) | 1986 | `Zig` | LLM Inference Engine for Metal, CUDA and Vulkan. |
-| 8️⃣ | [nodejs/node](https://github.com/nodejs/node) | 123620 | `JavaScript` | Node.js JavaScript runtime ✨🐢🚀✨ |
-| 9️⃣ | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 116771 | `JavaScript` | Production-grade engineering skills for AI coding agents. |
-| 🔟 | [meta/astryx](https://github.com/meta/astryx) | 26740 | `TypeScript` | An open source design system that's fully customizable and agent ready |
+| 🥇 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 50753 | `Go` | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid archit… |
+| 🥈 | [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | 4988 | `TypeScript` | Keep your coding agent up to date with the latest web best practices |
+| 🥉 | [openai/codex-security](https://github.com/openai/codex-security) | 13203 | `TypeScript` | OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, … |
+| 4️⃣ | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 71750 | `Python` | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-mark… |
+| 5️⃣ | [we-promise/sure](https://github.com/we-promise/sure) | 14822 | `Ruby` | The personal finance app for everyone (by everyone) |
+| 6️⃣ | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | 10519 | `TypeScript` | The workspace to stay in the loop and on top of agents - shape, decide, … |
+| 7️⃣ | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 93913 | `JavaScript` | A fancy self-hosted monitoring tool |
+| 8️⃣ | [block/buzz](https://github.com/block/buzz) | 37327 | `Rust` | A hive mind communication platform |
+| 9️⃣ | [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | 4242 | `Python` | Claude Code skills for equity investors and traders — market analysis, t… |
+| 🔟 | [tailscale/tailcat](https://github.com/tailscale/tailcat) | 9514 | `Go` | like netcat, but over Tailscale's data plane, without Tailscale's contro… |
 
 </details>
 
-<sub>🕐 更新于 2026-11-13 12:01 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-11-14 11:59 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
