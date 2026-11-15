@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Duffy](https://twitter.com/search?q=Duffy) | — |
-| 🥈 | [#SmackDown](https://twitter.com/search?q=%23SmackDown) | — |
-| 🥉 | [The FAA](https://twitter.com/search?q=The%20FAA) | — |
-| 4️⃣ | [Knicks](https://twitter.com/search?q=Knicks) | — |
-| 5️⃣ | [Friday the 13th](https://twitter.com/search?q=Friday%20the%2013th) | — |
-| 6️⃣ | [Pacers](https://twitter.com/search?q=Pacers) | — |
-| 7️⃣ | [#faagroundstop](https://twitter.com/search?q=%23faagroundstop) | — |
-| 8️⃣ | [Mark Pope](https://twitter.com/search?q=Mark%20Pope) | — |
-| 9️⃣ | [Workday](https://twitter.com/search?q=Workday) | — |
-| 🔟 | [Amtrak](https://twitter.com/search?q=Amtrak) | — |
+| 🥇 | [#AEWFullGear](https://twitter.com/search?q=%23AEWFullGear) | — |
+| 🥈 | [#UFC334](https://twitter.com/search?q=%23UFC334) | — |
+| 🥉 | [Sam Leavitt](https://twitter.com/search?q=Sam%20Leavitt) | — |
+| 4️⃣ | [Wonderboy](https://twitter.com/search?q=Wonderboy) | — |
+| 5️⃣ | [#OlandriaxBaby2Baby](https://twitter.com/search?q=%23OlandriaxBaby2Baby) | — |
+| 6️⃣ | [Kofi](https://twitter.com/search?q=Kofi) | — |
+| 7️⃣ | [Texas](https://twitter.com/search?q=Texas) | — |
+| 8️⃣ | [OLANDRIA BABY2BABY GALA](https://twitter.com/search?q=OLANDRIA%20BABY2BABY%20GALA) | — |
+| 9️⃣ | [Gators](https://twitter.com/search?q=Gators) | — |
+| 🔟 | [Kevin Holland](https://twitter.com/search?q=Kevin%20Holland) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-11-14 11:59 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-11-15 11:44 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-11-14 11:59 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-11-15 11:44 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 50753 | `Go` | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid archit… |
-| 🥈 | [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | 4988 | `TypeScript` | Keep your coding agent up to date with the latest web best practices |
-| 🥉 | [openai/codex-security](https://github.com/openai/codex-security) | 13203 | `TypeScript` | OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, … |
-| 4️⃣ | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 71750 | `Python` | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-mark… |
-| 5️⃣ | [we-promise/sure](https://github.com/we-promise/sure) | 14822 | `Ruby` | The personal finance app for everyone (by everyone) |
-| 6️⃣ | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | 10519 | `TypeScript` | The workspace to stay in the loop and on top of agents - shape, decide, … |
-| 7️⃣ | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 93913 | `JavaScript` | A fancy self-hosted monitoring tool |
-| 8️⃣ | [block/buzz](https://github.com/block/buzz) | 37327 | `Rust` | A hive mind communication platform |
-| 9️⃣ | [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | 4242 | `Python` | Claude Code skills for equity investors and traders — market analysis, t… |
-| 🔟 | [tailscale/tailcat](https://github.com/tailscale/tailcat) | 9514 | `Go` | like netcat, but over Tailscale's data plane, without Tailscale's contro… |
+| 🥇 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | 11233 | `TypeScript` | The workspace to stay in the loop and on top of agents - shape, decide, … |
+| 🥈 | [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | 6174 | `TypeScript` | Keep your coding agent up to date with the latest web best practices |
+| 🥉 | [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | 4903 | `Python` | Claude Code skills for equity investors and traders — market analysis, t… |
+| 4️⃣ | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 56367 | `TypeScript` | Chrome DevTools for coding agents |
+| 5️⃣ | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 51497 | `Go` | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid archit… |
+| 6️⃣ | [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | 30386 | `TypeScript` | An open-source AI coding agent that lives in your terminal. |
+| 7️⃣ | [dream-num/univer](https://github.com/dream-num/univer) | 24988 | `TypeScript` | Build your own AI office with Univer Office SDK. Bring editing, calculat… |
+| 8️⃣ | [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | 17412 | `TypeScript` | AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend A… |
+| 9️⃣ | [ashhart/TensorFold](https://github.com/ashhart/TensorFold) | 2180 | `Zig` | LLM Inference Engine for Metal, CUDA and Vulkan. |
+| 🔟 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 120122 | `Go` | 🪨 why use many token when few token do trick. Viral skill + proxy for co… |
 
 </details>
 
-<sub>🕐 更新于 2026-11-14 11:59 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-11-15 11:44 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
