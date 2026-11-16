@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#AEWFullGear](https://twitter.com/search?q=%23AEWFullGear) | — |
-| 🥈 | [#UFC334](https://twitter.com/search?q=%23UFC334) | — |
-| 🥉 | [Sam Leavitt](https://twitter.com/search?q=Sam%20Leavitt) | — |
-| 4️⃣ | [Wonderboy](https://twitter.com/search?q=Wonderboy) | — |
-| 5️⃣ | [#OlandriaxBaby2Baby](https://twitter.com/search?q=%23OlandriaxBaby2Baby) | — |
-| 6️⃣ | [Kofi](https://twitter.com/search?q=Kofi) | — |
-| 7️⃣ | [Texas](https://twitter.com/search?q=Texas) | — |
-| 8️⃣ | [OLANDRIA BABY2BABY GALA](https://twitter.com/search?q=OLANDRIA%20BABY2BABY%20GALA) | — |
-| 9️⃣ | [Gators](https://twitter.com/search?q=Gators) | — |
-| 🔟 | [Kevin Holland](https://twitter.com/search?q=Kevin%20Holland) | — |
+| 🥇 | [Steelers](https://twitter.com/search?q=Steelers) | — |
+| 🥈 | [Bengals](https://twitter.com/search?q=Bengals) | — |
+| 🥉 | [Cowboys](https://twitter.com/search?q=Cowboys) | — |
+| 4️⃣ | [49ers](https://twitter.com/search?q=49ers) | — |
+| 5️⃣ | [Aaron Rodgers](https://twitter.com/search?q=Aaron%20Rodgers) | — |
+| 6️⃣ | [DK Metcalf](https://twitter.com/search?q=DK%20Metcalf) | — |
+| 7️⃣ | [#RHOP](https://twitter.com/search?q=%23RHOP) | — |
+| 8️⃣ | [Jordan Battle](https://twitter.com/search?q=Jordan%20Battle) | — |
+| 9️⃣ | [Niners](https://twitter.com/search?q=Niners) | — |
+| 🔟 | [#HereWeGo](https://twitter.com/search?q=%23HereWeGo) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-11-15 11:44 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-11-16 11:45 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-11-15 11:44 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-11-16 11:45 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | 11233 | `TypeScript` | The workspace to stay in the loop and on top of agents - shape, decide, … |
-| 🥈 | [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | 6174 | `TypeScript` | Keep your coding agent up to date with the latest web best practices |
-| 🥉 | [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | 4903 | `Python` | Claude Code skills for equity investors and traders — market analysis, t… |
-| 4️⃣ | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 56367 | `TypeScript` | Chrome DevTools for coding agents |
-| 5️⃣ | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 51497 | `Go` | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid archit… |
-| 6️⃣ | [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | 30386 | `TypeScript` | An open-source AI coding agent that lives in your terminal. |
-| 7️⃣ | [dream-num/univer](https://github.com/dream-num/univer) | 24988 | `TypeScript` | Build your own AI office with Univer Office SDK. Bring editing, calculat… |
-| 8️⃣ | [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | 17412 | `TypeScript` | AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend A… |
-| 9️⃣ | [ashhart/TensorFold](https://github.com/ashhart/TensorFold) | 2180 | `Zig` | LLM Inference Engine for Metal, CUDA and Vulkan. |
-| 🔟 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 120122 | `Go` | 🪨 why use many token when few token do trick. Viral skill + proxy for co… |
+| 🥇 | [dream-num/univer](https://github.com/dream-num/univer) | 26424 | `TypeScript` | Build your own AI office with Univer Office SDK. Bring editing, calculat… |
+| 🥈 | [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | 18041 | `TypeScript` | AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend A… |
+| 🥉 | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | 9396 | `TypeScript` | A library of Agent Skills designed to work with the Stitch MCP server. E… |
+| 4️⃣ | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | 11968 | `TypeScript` | The workspace to stay in the loop and on top of agents - shape, decide, … |
+| 5️⃣ | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 57105 | `TypeScript` | Chrome DevTools for coding agents |
+| 6️⃣ | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 52264 | `Go` | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid archit… |
+| 7️⃣ | [Tencent/LoopForge](https://github.com/Tencent/LoopForge) | 1700 | `Go` | Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, … |
+| 8️⃣ | [ggml-org/ggml](https://github.com/ggml-org/ggml) | 15959 | `C++` | Tensor library for machine learning |
+| 9️⃣ | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | 6594 | `Python` | A Claude Code skill bundle for bug hunting and external red-team work - … |
+| 🔟 | [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | 7338 | `TypeScript` | Keep your coding agent up to date with the latest web best practices |
 
 </details>
 
-<sub>🕐 更新于 2026-11-15 11:44 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-11-16 11:45 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
