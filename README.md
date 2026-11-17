@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Steelers](https://twitter.com/search?q=Steelers) | — |
-| 🥈 | [Bengals](https://twitter.com/search?q=Bengals) | — |
-| 🥉 | [Cowboys](https://twitter.com/search?q=Cowboys) | — |
-| 4️⃣ | [49ers](https://twitter.com/search?q=49ers) | — |
-| 5️⃣ | [Aaron Rodgers](https://twitter.com/search?q=Aaron%20Rodgers) | — |
-| 6️⃣ | [DK Metcalf](https://twitter.com/search?q=DK%20Metcalf) | — |
-| 7️⃣ | [#RHOP](https://twitter.com/search?q=%23RHOP) | — |
-| 8️⃣ | [Jordan Battle](https://twitter.com/search?q=Jordan%20Battle) | — |
-| 9️⃣ | [Niners](https://twitter.com/search?q=Niners) | — |
-| 🔟 | [#HereWeGo](https://twitter.com/search?q=%23HereWeGo) | — |
+| 🥇 | [Chargers](https://twitter.com/search?q=Chargers) | — |
+| 🥈 | [Ravens](https://twitter.com/search?q=Ravens) | — |
+| 🥉 | [Zay Flowers](https://twitter.com/search?q=Zay%20Flowers) | — |
+| 4️⃣ | [Derrick Henry](https://twitter.com/search?q=Derrick%20Henry) | — |
+| 5️⃣ | [#WWERaw](https://twitter.com/search?q=%23WWERaw) | — |
+| 6️⃣ | [Herbert](https://twitter.com/search?q=Herbert) | — |
+| 7️⃣ | [Brissett](https://twitter.com/search?q=Brissett) | — |
+| 8️⃣ | [Mike McDaniel](https://twitter.com/search?q=Mike%20McDaniel) | — |
+| 9️⃣ | [#BoltUp](https://twitter.com/search?q=%23BoltUp) | — |
+| 🔟 | [Minter](https://twitter.com/search?q=Minter) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-11-16 11:45 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-11-17 13:40 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-11-16 11:45 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-11-17 13:40 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [dream-num/univer](https://github.com/dream-num/univer) | 26424 | `TypeScript` | Build your own AI office with Univer Office SDK. Bring editing, calculat… |
-| 🥈 | [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | 18041 | `TypeScript` | AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend A… |
-| 🥉 | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | 9396 | `TypeScript` | A library of Agent Skills designed to work with the Stitch MCP server. E… |
-| 4️⃣ | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | 11968 | `TypeScript` | The workspace to stay in the loop and on top of agents - shape, decide, … |
-| 5️⃣ | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 57105 | `TypeScript` | Chrome DevTools for coding agents |
-| 6️⃣ | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 52264 | `Go` | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid archit… |
-| 7️⃣ | [Tencent/LoopForge](https://github.com/Tencent/LoopForge) | 1700 | `Go` | Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, … |
-| 8️⃣ | [ggml-org/ggml](https://github.com/ggml-org/ggml) | 15959 | `C++` | Tensor library for machine learning |
-| 9️⃣ | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | 6594 | `Python` | A Claude Code skill bundle for bug hunting and external red-team work - … |
-| 🔟 | [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | 7338 | `TypeScript` | Keep your coding agent up to date with the latest web best practices |
+| 🥇 | [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | 19333 | `TypeScript` | AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend A… |
+| 🥈 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | 12721 | `TypeScript` | The workspace to stay in the loop and on top of agents - shape, decide, … |
+| 🥉 | [dream-num/univer](https://github.com/dream-num/univer) | 27945 | `TypeScript` | Build your own AI office with Univer Office SDK. Bring editing, calculat… |
+| 4️⃣ | [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | 6496 | `Python` | Claude Code skills for equity investors and traders — market analysis, t… |
+| 5️⃣ | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | 7655 | `Python` | A Claude Code skill bundle for bug hunting and external red-team work - … |
+| 6️⃣ | [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) | 8879 | `Go` | Modern Docker Management, Designed for Everyone |
+| 7️⃣ | [DeanChensj/jiangshan-map](https://github.com/DeanChensj/jiangshan-map) | 7132 | `JavaScript` | 江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of… |
+| 8️⃣ | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | 9810 | `TypeScript` | A library of Agent Skills designed to work with the Stitch MCP server. E… |
+| 9️⃣ | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 68300 | `Python` | AI agent skill that researches any topic across Reddit, X, YouTube, HN, … |
+| 🔟 | [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) | 2917 | `Python` | Multi-tier framework for evaluating AI agent skills and plugins with qua… |
 
 </details>
 
-<sub>🕐 更新于 2026-11-16 11:45 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-11-17 13:40 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
