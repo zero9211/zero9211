@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Chargers](https://twitter.com/search?q=Chargers) | — |
-| 🥈 | [Ravens](https://twitter.com/search?q=Ravens) | — |
-| 🥉 | [Zay Flowers](https://twitter.com/search?q=Zay%20Flowers) | — |
-| 4️⃣ | [Derrick Henry](https://twitter.com/search?q=Derrick%20Henry) | — |
-| 5️⃣ | [#WWERaw](https://twitter.com/search?q=%23WWERaw) | — |
-| 6️⃣ | [Herbert](https://twitter.com/search?q=Herbert) | — |
-| 7️⃣ | [Brissett](https://twitter.com/search?q=Brissett) | — |
-| 8️⃣ | [Mike McDaniel](https://twitter.com/search?q=Mike%20McDaniel) | — |
-| 9️⃣ | [#BoltUp](https://twitter.com/search?q=%23BoltUp) | — |
-| 🔟 | [Minter](https://twitter.com/search?q=Minter) | — |
+| 🥇 | [#dwts](https://twitter.com/search?q=%23dwts) | — |
+| 🥈 | [Connor](https://twitter.com/search?q=Connor) | — |
+| 🥉 | [Tatyana](https://twitter.com/search?q=Tatyana) | — |
+| 4️⃣ | [Duke](https://twitter.com/search?q=Duke) | — |
+| 5️⃣ | [Pistons](https://twitter.com/search?q=Pistons) | — |
+| 6️⃣ | [Amber](https://twitter.com/search?q=Amber) | — |
+| 7️⃣ | [Spurs](https://twitter.com/search?q=Spurs) | — |
+| 8️⃣ | [Maura](https://twitter.com/search?q=Maura) | — |
+| 9️⃣ | [Jenna](https://twitter.com/search?q=Jenna) | — |
+| 🔟 | [Ezra](https://twitter.com/search?q=Ezra) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-11-17 13:40 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-11-18 13:03 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-11-17 13:40 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-11-18 13:03 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | 19333 | `TypeScript` | AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend A… |
-| 🥈 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | 12721 | `TypeScript` | The workspace to stay in the loop and on top of agents - shape, decide, … |
-| 🥉 | [dream-num/univer](https://github.com/dream-num/univer) | 27945 | `TypeScript` | Build your own AI office with Univer Office SDK. Bring editing, calculat… |
-| 4️⃣ | [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | 6496 | `Python` | Claude Code skills for equity investors and traders — market analysis, t… |
-| 5️⃣ | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | 7655 | `Python` | A Claude Code skill bundle for bug hunting and external red-team work - … |
-| 6️⃣ | [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) | 8879 | `Go` | Modern Docker Management, Designed for Everyone |
-| 7️⃣ | [DeanChensj/jiangshan-map](https://github.com/DeanChensj/jiangshan-map) | 7132 | `JavaScript` | 江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of… |
-| 8️⃣ | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | 9810 | `TypeScript` | A library of Agent Skills designed to work with the Stitch MCP server. E… |
-| 9️⃣ | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 68300 | `Python` | AI agent skill that researches any topic across Reddit, X, YouTube, HN, … |
-| 🔟 | [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) | 2917 | `Python` | Multi-tier framework for evaluating AI agent skills and plugins with qua… |
+| 🥇 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | 9682 | `Python` | A Claude Code skill bundle for bug hunting and external red-team work - … |
+| 🥈 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 69279 | `Python` | AI agent skill that researches any topic across Reddit, X, YouTube, HN, … |
+| 🥉 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 53877 | `Go` | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid archit… |
+| 4️⃣ | [Tencent/LoopForge](https://github.com/Tencent/LoopForge) | 3423 | `Go` | Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, … |
+| 5️⃣ | [dream-num/univer](https://github.com/dream-num/univer) | 29135 | `TypeScript` | Build your own AI office with Univer Office SDK. Bring editing, calculat… |
+| 6️⃣ | [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) | 9419 | `Go` | Modern Docker Management, Designed for Everyone |
+| 7️⃣ | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | 10175 | `TypeScript` | A library of Agent Skills designed to work with the Stitch MCP server. E… |
+| 8️⃣ | [cursor/plugins](https://github.com/cursor/plugins) | 16962 | `TypeScript` | Cursor plugin specification and official plugins |
+| 9️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 319483 | `Shell` | An agentic skills framework & software development methodology that work… |
+| 🔟 | [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | 20108 | `TypeScript` | AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend A… |
 
 </details>
 
-<sub>🕐 更新于 2026-11-17 13:40 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-11-18 13:03 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
