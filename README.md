@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [#dwts](https://twitter.com/search?q=%23dwts) | — |
-| 🥈 | [Connor](https://twitter.com/search?q=Connor) | — |
-| 🥉 | [Tatyana](https://twitter.com/search?q=Tatyana) | — |
-| 4️⃣ | [Duke](https://twitter.com/search?q=Duke) | — |
-| 5️⃣ | [Pistons](https://twitter.com/search?q=Pistons) | — |
-| 6️⃣ | [Amber](https://twitter.com/search?q=Amber) | — |
-| 7️⃣ | [Spurs](https://twitter.com/search?q=Spurs) | — |
-| 8️⃣ | [Maura](https://twitter.com/search?q=Maura) | — |
-| 9️⃣ | [Jenna](https://twitter.com/search?q=Jenna) | — |
-| 🔟 | [Ezra](https://twitter.com/search?q=Ezra) | — |
+| 🥇 | [#CMAawards](https://twitter.com/search?q=%23CMAawards) | — |
+| 🥈 | [#AEWDynamite](https://twitter.com/search?q=%23AEWDynamite) | — |
+| 🥉 | [#Survivor51](https://twitter.com/search?q=%23Survivor51) | — |
+| 4️⃣ | [Sam Merrill](https://twitter.com/search?q=Sam%20Merrill) | — |
+| 5️⃣ | [Dunn](https://twitter.com/search?q=Dunn) | — |
+| 6️⃣ | [Our Song](https://twitter.com/search?q=Our%20Song) | — |
+| 7️⃣ | [CMAs](https://twitter.com/search?q=CMAs) | — |
+| 8️⃣ | [Giannis](https://twitter.com/search?q=Giannis) | — |
+| 9️⃣ | [Ella Langley](https://twitter.com/search?q=Ella%20Langley) | — |
+| 🔟 | [#CMA2026](https://twitter.com/search?q=%23CMA2026) | — |
 
 </details>
 
-<sub>🕐 更新于 2026-11-18 13:03 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-11-19 12:58 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-11-18 13:03 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-11-19 12:58 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | 9682 | `Python` | A Claude Code skill bundle for bug hunting and external red-team work - … |
-| 🥈 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 69279 | `Python` | AI agent skill that researches any topic across Reddit, X, YouTube, HN, … |
-| 🥉 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 53877 | `Go` | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid archit… |
-| 4️⃣ | [Tencent/LoopForge](https://github.com/Tencent/LoopForge) | 3423 | `Go` | Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, … |
-| 5️⃣ | [dream-num/univer](https://github.com/dream-num/univer) | 29135 | `TypeScript` | Build your own AI office with Univer Office SDK. Bring editing, calculat… |
-| 6️⃣ | [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) | 9419 | `Go` | Modern Docker Management, Designed for Everyone |
-| 7️⃣ | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | 10175 | `TypeScript` | A library of Agent Skills designed to work with the Stitch MCP server. E… |
-| 8️⃣ | [cursor/plugins](https://github.com/cursor/plugins) | 16962 | `TypeScript` | Cursor plugin specification and official plugins |
-| 9️⃣ | [obra/superpowers](https://github.com/obra/superpowers) | 319483 | `Shell` | An agentic skills framework & software development methodology that work… |
-| 🔟 | [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | 20108 | `TypeScript` | AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend A… |
+| 🥇 | [cursor/plugins](https://github.com/cursor/plugins) | 17296 | `TypeScript` | Cursor plugin specification and official plugins |
+| 🥈 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 59929 | `Python` | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://cli… |
+| 🥉 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 70188 | `Python` | AI agent skill that researches any topic across Reddit, X, YouTube, HN, … |
+| 4️⃣ | [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) | 9892 | `Go` | Modern Docker Management, Designed for Everyone |
+| 5️⃣ | [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) | 3825 | `Python` | Multi-tier framework for evaluating AI agent skills and plugins with qua… |
+| 6️⃣ | [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 96174 | `Shell` | Node Version Manager - POSIX-compliant bash script to manage multiple ac… |
+| 7️⃣ | [astral-sh/uv](https://github.com/astral-sh/uv) | 92282 | `Rust` | An extremely fast Python package and project manager, written in Rust. |
+| 8️⃣ | [google-research/paper-orchestra](https://github.com/google-research/paper-orchestra) | 4457 | `Python` | PaperOrchestra is a multi-agent framework for automated AI research pape… |
+| 9️⃣ | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | 10467 | `TypeScript` | A library of Agent Skills designed to work with the Stitch MCP server. E… |
+| 🔟 | [sveltejs/svelte](https://github.com/sveltejs/svelte) | 89660 | `JavaScript` | web development for the rest of us |
 
 </details>
 
-<sub>🕐 更新于 2026-11-18 13:03 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-11-19 12:58 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
