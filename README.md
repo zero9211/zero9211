@@ -57,20 +57,20 @@
 
 | # | 热门话题 | 讨论量 |
 |:---:|:---|---:|
-| 🥇 | [Jordan Love18K](https://twitter.com/search?q=Jordan%20Love) | `18K` |
-| 🥈 | [Thanksgiving706K](https://twitter.com/search?q=Thanksgiving) | `706K` |
-| 🥉 | [Packers92K](https://twitter.com/search?q=Packers) | `92K` |
-| 4️⃣ | [Packers92K](https://twitter.com/search?q=Packers) | `92K` |
-| 5️⃣ | [Blake Corum](https://twitter.com/search?q=Blake%20Corum) | — |
-| 6️⃣ | [Watson36K](https://twitter.com/search?q=Watson) | `36K` |
-| 7️⃣ | [Stafford](https://twitter.com/search?q=Stafford) | — |
-| 8️⃣ | [#GBvsLAR](https://twitter.com/search?q=%23GBvsLAR) | — |
-| 9️⃣ | [#GoPackGo](https://twitter.com/search?q=%23GoPackGo) | — |
-| 🔟 | [LaFleur](https://twitter.com/search?q=LaFleur) | — |
+| 🥇 | [Cowboys161K](https://twitter.com/search?q=Cowboys) | `161K` |
+| 🥈 | [Chiefs75K](https://twitter.com/search?q=Chiefs) | `75K` |
+| 🥉 | [Josh Allen25K](https://twitter.com/search?q=Josh%20Allen) | `25K` |
+| 4️⃣ | [Butker12K](https://twitter.com/search?q=Butker) | `12K` |
+| 5️⃣ | [Joe Milton70K](https://twitter.com/search?q=Joe%20Milton) | `70K` |
+| 6️⃣ | [Eagles146K](https://twitter.com/search?q=Eagles) | `146K` |
+| 7️⃣ | [Tyler Bass](https://twitter.com/search?q=Tyler%20Bass) | — |
+| 8️⃣ | [Jerry80K](https://twitter.com/search?q=Jerry) | `80K` |
+| 9️⃣ | [Goo Goo Dolls](https://twitter.com/search?q=Goo%20Goo%20Dolls) | — |
+| 🔟 | [Mahomes19K](https://twitter.com/search?q=Mahomes) | `19K` |
 
 </details>
 
-<sub>🕐 更新于 2026-11-26 13:54 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
+<sub>🕐 更新于 2026-11-27 13:47 CST &nbsp;·&nbsp; 数据来源: trends24.in</sub>
 <!-- TRENDING-X-END -->
 
 <!-- TRENDING-SUBSTACK-START -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<sub>🕐 更新于 2026-11-26 13:54 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
+<sub>🕐 更新于 2026-11-27 13:47 CST &nbsp;·&nbsp; 数据来源: substack.com</sub>
 <!-- TRENDING-SUBSTACK-END -->
 
 <!-- TRENDING-GITHUB-START -->
@@ -90,20 +90,20 @@
 
 | # | 项目 | ⭐ Stars | 语言 | 简介 |
 |:---:|:---|:---:|:---:|:---|
-| 🥇 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | 23314 | `Python` | A Claude Code skill bundle for bug hunting and external red-team work - … |
-| 🥈 | [obra/superpowers](https://github.com/obra/superpowers) | 326793 | `Shell` | An agentic skills framework & software development methodology that work… |
-| 🥉 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 65840 | `Python` | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://cli… |
-| 4️⃣ | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 71176 | `Python` | 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours. |
-| 5️⃣ | [cursor/plugins](https://github.com/cursor/plugins) | 19597 | `TypeScript` | Cursor plugin specification and official plugins |
-| 6️⃣ | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 210260 | `TypeScript` | Knowledge infrastructure to make your agents smarter. Search, scrape and… |
-| 7️⃣ | [nginx/nginx](https://github.com/nginx/nginx) | 33411 | `C` | The official NGINX Open Source repository. |
-| 8️⃣ | [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) | 12695 | `C++` | OpenVINO™ is an open source toolkit for optimizing and deploying AI infe… |
-| 9️⃣ | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 73250 | `HTML` | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor,… |
-| 🔟 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 75264 | `Python` | AI agent skill that researches any topic across Reddit, X, YouTube, HN, … |
+| 🥇 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | 24924 | `Python` | A Claude Code skill bundle for bug hunting and external red-team work - … |
+| 🥈 | [obra/superpowers](https://github.com/obra/superpowers) | 327655 | `Shell` | An agentic skills framework & software development methodology that work… |
+| 🥉 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 66512 | `Python` | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://cli… |
+| 4️⃣ | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 71818 | `Python` | 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours. |
+| 5️⃣ | [cursor/plugins](https://github.com/cursor/plugins) | 19833 | `TypeScript` | Cursor plugin specification and official plugins |
+| 6️⃣ | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 211114 | `TypeScript` | Knowledge infrastructure to make your agents smarter. Search, scrape and… |
+| 7️⃣ | [nginx/nginx](https://github.com/nginx/nginx) | 33551 | `C` | The official NGINX Open Source repository. |
+| 8️⃣ | [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) | 12846 | `C++` | OpenVINO™ is an open source toolkit for optimizing and deploying AI infe… |
+| 9️⃣ | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 74015 | `HTML` | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor,… |
+| 🔟 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 75907 | `Python` | AI agent skill that researches any topic across Reddit, X, YouTube, HN, … |
 
 </details>
 
-<sub>🕐 更新于 2026-11-26 13:54 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
+<sub>🕐 更新于 2026-11-27 13:47 CST &nbsp;·&nbsp; 数据来源: github.com/trending</sub>
 <!-- TRENDING-GITHUB-END -->
 
 ---
